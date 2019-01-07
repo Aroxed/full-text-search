@@ -1,0 +1,153 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Seven Questions for Silicon Valley Superlawyer
+Gordy Davidson June 10, 2013 at 8:00 am PT Tweet Share Print There aren’t many
+lawyers who’ve been around Silicon Valley as long, nor advised as many of its
+notable companies, as Gordy Davidson. He’s the chairman of the law firm
+Fenwick & West, and his clients read like a history of the Valley: Cisco
+Systems, Oracle, Intuit, Electronic Arts, Macromedia, Facebook, to name but a
+few. He doesn’t ordinarily give interviews, so when I got the chance to sit
+down with him at Fenwick’s headquarters in Mountain View recently, I jumped at
+it. Not long after we spoke, Fenwick announced that Davidson would be stepping
+aside at the end of the year and handing the chairmanship over to Richard
+Dickson. My first question was to ask Davidson to sum up what he does, as he
+sees it. AllThingsD: Gordy, I think I have a pretty good idea what you do all
+day, but tell me, from your perspective, what is it that you do? Davidson: I’m
+a general Silicon Valley lawyer. One day I may be at a Cisco board meeting, as
+I will be tomorrow. The other may be meeting with two kids out of Stanford
+with a business plan. Those literally happened on the same day a few years
+ago, and I said to myself that I find them both equally exhilirating. It’s
+part of the cycle of Silicon Valley. I worked at a startup company before I
+was a lawyer, so I’ve been there. I worked for a company that was started in
+an industrial garage out by the San Jose airport. Everyone was there in the
+big room, and it was fun. We’ve had a great run. About a year after I joined
+Fenwick, Steve Jobs and Steve Wozniak walked in and started Apple Computer.
+And everything has flowed from there. The work has involved startup companies,
+venture capital, intellectual property, technology licensing, IPOs, mergers
+and acquisitions. It runs the gamut, which is what makes it interesting. We’ve
+seen five complete business cycles since then. And given that, where do you
+think the business cycle is now? Well, the stock market is about as high as it
+has ever been, so it’s an up cycle. There’s a lot of activity. As a firm, we
+set revenue records in each of the last three years. I’m not sure why the
+stock market is up. It’s a little mysterious. But you can see other indicators
+of economic activity. You can measure it with traffic on Highway 101, and in
+job creation in Silicon Valley. Real estate prices are up, and foreclosures
+are down. I don’t think it’s a bubble, but then I’ll knock on wood when I say
+that. Nor do I see it as particulary robust. It’s not affecting all
+industries. But certainly technology is strong right now, with notable
+exceptions. Some companies are having trouble. And there have certainly been a
+lot of IPOs in recent memory. Which ones have you been involved in? We did
+Workday and ServiceNow. We did Fusion-io from the underwriting side. We did
+Vocera and Silver Spring Networks. Those are a few. Many, if not all of those,
+if memory serves, took advantage of the JOBS Act when they initially filed to
+go public. Do you think that’s been helpful to companies? The companies
+certainly like it. Companies are vulnerable to competitive sniping when they
+file, if they don’t get out on the fastest possible schedule. Competitors are
+ruthless. They point out to customers that the balance sheet may be running
+down, and start asking why the company in question can’t get out sooner, and
+sowing doubt by asking them if they really want to take a product from a
+company running out of money. And so the JOBS Act has largely solved that
+problem. I don’t think it’s as revolutionary as the authors thought it would
+be. The only useful provision of it has been the confidential submission rules
+for when a company first files to go public. Not many companies that we’ve
+worked with have wanted to take advantage of the provision that allows them to
+file only two years of financial data as opposed to three. If you want to be
+taken seriously, why not be audited for the third year? And the companies that
+are coming public now are companies of substance. They’re not just raising $10
+million or $20 million. They’re raising $75 million or $100 million. At that
+rate, you probably ought to audit three years. I’ve been talking to some
+startup companies at various stages, and they tell me that, in a lot of cases,
+the venture capital firms are coming to them and not the other way around.
+It’s almost like the VCs are shoving checks down founders’ throats a bit. Is
+there perhaps too much money in the system? Well, there’s been a big shakeout
+in firms versus a few years ago, so there’s less money overall. Venture funds
+have been cut in half, and the amount of funds raised is coming down. But the
+hot companies are just getting money thrown at them. There are companies like
+GitHub, which is a client of mine. There’s a startup company that was under
+the radar, and they had a number of venture capitalists chasing them, until
+they finally went with Peter Levine at Andreessen Horowitz. Marc Andreessen
+once said that there are really only 15 VC deals in Silicon Valley every year
+that really matter, and I think directionally speaking that’s true. And there
+is a bipolar distribution among the venture funds. There are probably only 15
+that are successful, and the rest just aren’t as successful. It isn’t like
+1999, when there was too much money chasing too few deals. Now there’s a lot
+of money chasing a lot of really good deals. Do you think there is something
+different with the way that companies are conceived that makes them better now
+than before? Well the Internet has changed everything. The infrastructure has
+changed everything. It doesn’t take much to start a company; with all the open
+source software and cloud services out there, you don’t really have to do all
+that much research and development. The tools are there. You can get to the
+product you are trying to develop quickly. So the time to market is much
+shorter. So companies can get up and running fast, and build up their scale
+fast. Think of Twitter, Facebook, Airbnb, Square, and how fast they’re
+growing. As an attorney, your job is to advise companies on pitfalls they may
+avoid. What’s the classic thing that you tell companies to avoid over and over
+again? There must be a million of them. There are a million of them. One thing
+is to try and rein in their exhuberance. For example, when VC money is being
+thrown at them, it’s not always about the highest bidder that is the best
+source of capital. There’s a story I like to tell about Intuit. Scott Cook
+funded Intuit by kiting his credit cards for a long time, and almost went
+bankrupt twice. Finally, when it started to get traction, they went for
+venture capital, not to fund the company, but to pay off their debt. So they
+got five offers from five funds, and Scott asked me which one to take. He
+wouldn’t tell who made the higher or lower offers, but there was about a 50
+percent difference in the valuation between the lower ones and the higher
+ones. I immediately connected the dots and told him to accept the lower
+offers. He couldn’t believe it, and he asked why. I said that the lower
+bidders brought with them John Doerr of Kleiner Perkins and Burt McMurtry of
+TVI. I said they would make more difference to the ultimate valuation of
+Intuit. He later remembered that advice, and acknowledged that it was right.
+Tagged with: Andreessen Horowitz, Burt McMurtry, Fenwick & West, Gordy
+Davidson, Industry Moves, Intuit, John Doerr, Kleiner Perkins Caufield &
+Byers, lawsuits, lawyers, legal, legal advice, litigation, Marc Andreessen,
+Peter Levine, Seven Questions, TVI, venture capital Apple Denies Working with
+NSA on iPhone Backdoor December 31, 2013 at 8:49 am PT You Won’t Believe All
+the Crazy Hardware the NSA Uses for Spying December 30, 2013 at 12:15 pm PT HP
+Is Negotiating to Settle Bribery Charges December 30, 2013 at 8:45 am PT CIOs
+Brand Enterprise Social Tools as Most Overhyped Technology of the Year
+December 30, 2013 at 3:39 am PT Malware Attacks by Syrian Pro-Government
+Hackers Are on the Rise December 27, 2013 at 1:27 pm PT Latest Video View all
+videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » I think the NSA
+has a job to do and we need the NSA. But as (physicist) Robert Oppenheimer
+said, “When you see something that is technically sweet, you go ahead and do
+it and argue about what to do about it only after you’ve had your technical
+success. That is the way it was with the atomic bomb.”— Phil Zimmerman, PGP
+inventor and Silent Circle co-founder, in an interview with Om Malik
+AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

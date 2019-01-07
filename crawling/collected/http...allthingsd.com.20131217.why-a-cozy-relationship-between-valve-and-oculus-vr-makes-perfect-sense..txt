@@ -1,0 +1,99 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Eric Johnson ethics statement bio e-mail RSS Follow @heyheyesj
+Recent Posts by Eric Johnson Why a Cozy Relationship Between Valve and Oculus
+VR Makes Perfect Sense December 17, 2013 at 1:24 pm PT Tweet Share Print Team
+Fortress 2’s Soldier, Pyro and Heavytry the Oculus Rift.One factoid from
+Oculus VR’s $75 million funding round last week merits a bit more
+contemplation: The virtual reality startup might not have scored that mega
+round if the more established games company Valve had not come to its aid.
+According to Oculus CEO Brendan Iribe, Valve’s R&D; department, led by
+longtime virtual reality proponent Michael Abrash, helped the younger company
+reach a hardware breakthrough that dramatically cut down on its Rift headset’s
+tendency to induce motion sickness. That’s a big deal, since Oculus has enough
+of a competitive uphill slog ahead of it without having to deal with half its
+users losing their lunches. To industry watchers, this may seem a bit odd.
+After all, isn’t Valve supposed to be working on its own virtual reality
+headset, to be unveiled in January? Obvious counterpoint: Valve wants to
+encourage more developer interest in the ecosystem now, since making games
+comfortable in VR can be time-consuming. But the relationship goes much deeper
+than that. Nearly a year ago, Valve became the first major developer to pledge
+that it would port some of its own software to the Rift, starting with its
+popular multiplayer battle game Team Fortress 2. And remember, the Rift still
+isn’t expected for a consumer release until sometime next year; the only units
+in the wild right now are inelegant “kits” intended for developers. Currently,
+the Rift’s nascent games store is a mixed bag — well-known properties like
+Team Fortress 2 and an unofficial modified-for-VR version of Minecraft called
+Minecrift mingle with tech demos and indie experiments. But a different store,
+Valve’s dominant PC games network Steam, today added the ability to search
+specifically for games with “VR Support.” Oculus VR CTO John CarmackStill not
+enough? Fine, then consider the two companies’ histories: Valve burst onto the
+gaming scene in the late ’90s with the groundbreaking first-person shooter
+game Half-Life and the first Team Fortress game, Team Fortress Classic. TFC
+was a throwback to a mod of Id Software’s 1996 shooter Quake, and Half-Life
+was built on top of a licensed version of the Quake engine, granted by Id co-
+founder John Carmack thanks to the lobbying of Id programmer Michael Abrash.
+Hey, that name rings a bell … oh, right, Abrash is the guy now at Valve R&D;
+who helped Oculus with its latest prototype. At Id in the mid-’90s, he and
+Carmack delved deep into virtual reality and built their own headset
+prototype, Iribe said, but found that latency was a big issue. And where’s
+Carmack now? The game pioneer and insta-credibility-creator has exited Id and
+is instead CTO at Oculus. We’ll know better whether this incestuous history
+and chummy diplomacy will lead to anything bigger in 2014 — an acquisition,
+perhaps, or just a more formalized partnership — once Valve lays out the rest
+of its virtual reality cards in January. But with Valve’s own underdog
+experimental consoles, the Linux-based Steam Machines, already in the
+pipeline, the two companies are on the same road: Parlaying new hardware and
+hype/enthusiasm from both gamers and developers to try to shake up gaming in
+the home. Here’s what Valve has: A secure foothold in the gaming community,
+high-quality content, good relationships with hundreds of developers and a
+path to growing a mainstream gamer audience while staying independent. Here’s
+what Oculus needs: All of the above. Tagged with: Brendan Iribe, Gabe Newell,
+games, gaming, Half-Life, id Software, John Carmack, latency, Linux, Michael
+Abrash, Minecraft, Minecrift, Oculus Rift, Oculus VR, Quake, R&D;, Steam,
+Steam Machines, Team Fortress 2, Team Fortress Classic, TF2, Valve,
+videogames, virtual reality, VR QuizUp Creator Plain Vanilla Games Raises
+Another $22 Million December 26, 2013 at 9:40 am PT AllThingsD Week in Review:
+WhatsApp vs. Bullshit Metrics and Apple’s Tearjerker Ad December 22, 2013 at
+5:30 pm PT Atheer and Meta Want You to Touch Your Apps in Midair December 19,
+2013 at 1:52 pm PT Despite Free-to-Play Explosion, Apple Puts Spotlight on
+Paid Games December 18, 2013 at 6:00 am PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » First the NSA
+came for, well, jeez pretty much everybody’s data at this point, and I said
+nothing because wait how does this joke work— Parker Higgins via Twitter
+AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

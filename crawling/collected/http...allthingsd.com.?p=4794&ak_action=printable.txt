@@ -1,0 +1,63 @@
+Mossberg’s Mailbox Remembering Your Password Published on August 4, 2005 by
+Walt Mossberg Here are a few questions about computers I’ve received recently
+from people like you, and my answers. I have edited and restated the questions
+a bit, for readability. This week my mailbox contained questions about keeping
+track of passwords, getting rid of a browser hijacker and spam that harvests
+your address book. If you have a question, send it to me at mossberg@wsj.com,
+and I may select it to be answered here in Mossberg’s Mailbox. In my financial
+and professional life, I use many password-protected sites. Some force a
+particular syntax on me, and I am concerned that even if I could use the same
+password for every situation, it is probably not safe to do so. How do I keep
+track of all this, without leaving a list somewhere for a hacker to find? This
+is a widespread dilemma, and many people cope with it either by using the same
+few passwords for everything or by keeping a list of passwords in a computer
+file, or on a piece of paper. Those methods are insecure. One solution is to
+use a special program that stores all your passwords in an encrypted file.
+This file is itself protected by a password, but if you simply memorize that
+one password, you can refer to all your others whenever you like. There are
+many such programs, and many are free for individual users, or for up to a
+modest number of passwords. Two examples are Any Password, by Roman Lab
+(www.romanlab.com/a pw/) and Password Agent by Moon Software
+(www.moonsoftware.com). I haven’t reviewed these and can’t say if they are
+good. Still, they may be worth a try. Another option is to buy a fingerprint
+reader, or a computer with such a reader built in. These devices typically
+come with software that will store all your passwords in an encrypted file and
+automatically enter any password when you simply swipe your finger over the
+reader. How can I get rid of SearchforFree.info, which has taken over my home
+page, and return to Google as my home page. I have heard that the former is a
+hijack. Is there an easy way to return my home page to where I want it? I’m
+not familiar with SeachforFree.info, but it has been identified as a browser
+hijacker — a spyware program that takes over a person’s home page and/or
+chosen search engine in place of the user’s own choice. The only way I know of
+to permanently get rid of this kind of program is to run a reputable
+antispyware program at all times. That should remove it and prevent it from
+returning. The antispyware program I recommend is Spy Sweeper from Webroot
+Software (www.webroot.com), but other good antispyware programs also may do
+the trick. If you try one of them, and it doesn’t work, try another. I receive
+spam email daily that displays in the “from” line the names of real people
+whom I use regularly in my normal outgoing email. I run an antispyware program
+daily, but the use of these names continues and it’s kind of frightening. Does
+this happen to everyone? It happens to a lot of people. Some spammers use
+malicious software, usually in the form of a virus-laden email, that harvests
+names from an address book and then uses them as the fake “from” address in
+spam. They do this so that antispam filters won’t catch the spam, because most
+filters are set to allow messages from people in your address book or in your
+sent-message folder to pass through. In your case, the malicious software or
+virus may have harvested your own address book, or the address book of one or
+more of your correspondents, which has many similar entries. Because of this
+tactic, some people even get spam that they appear to have sent themselves.
+Your antispyware software isn’t likely to touch this problem. You need a good
+antivirus program that scans email, and a good spam filter. Even with those,
+however, it will be hard or impossible to undo any damage that has been done,
+especially since the infection may have occurred on a friend’s personal
+computer, not your own. The best you can do is to look for some identifying
+characteristic, other than the “from” line, in this troublesome email, and set
+your antispam filter or the rules in your email program to block messages with
+that characteristic, regardless of who the sender seemed to be. * * * Because
+of the volume of e-mail I receive, I can’t routinely answer individual
+questions by e-mail, or consult on individual problems or purchasing
+decisions. I read all questions I receive and select three each week to answer
+in the column. Write to Walter S. Mossberg at mossberg@wsj.com Return to:
+Remembering Your Password URL: http://allthingsd.com/20050804/remembering-
+password/ Brought to you by The Wall Street Journal | © 2005-2019 Dow Jones &
+Company, Inc. All Rights Reserved.

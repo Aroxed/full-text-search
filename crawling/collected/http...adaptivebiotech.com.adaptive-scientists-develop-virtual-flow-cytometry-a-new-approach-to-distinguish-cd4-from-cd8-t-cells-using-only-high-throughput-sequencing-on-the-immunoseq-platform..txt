@@ -1,0 +1,87 @@
+Order Careers Contact Us Sign in Adaptive Biotechnologies Order Careers
+Contact Us Sign in Immune Profiling Platform Platform OverviewPublications
+Products & Services LIFE SCIENCES RESEARCHimmunoSEQ®CLINICAL
+DIAGNOSTICSclonoSEQ®PipelineDRUG DISCOVERYCellular TherapyVaccines
+PARTNERSHIPS Cancer Cellular TherapyAntigen MapBiopharma PartnershipsStrategic
+Collaborators About Us Our StoryCultureCareersNewsroomContact Us Adaptive
+scientists develop “virtual flow cytometry” – a new approach to distinguish
+CD4+ from CD8+ T cells using only high-throughput sequencing on the immunoSEQ
+platform. 02/25/2013 Publication in Press in Journal of Immunological Methods
+– “Estimating the ratio of CD4 + to CD8 + T cells using high-throughput
+sequence data” SEATTLE, WA, February 25, 2013 – Scientists at Adaptive
+Biotechnologies Corporation, a leading provider of next generation sequencing
+assays for the adaptive immune system, have published a paper in the upcoming
+edition of the Journal of Immunological Methods that demonstrates a new method
+for determining the relative proportions of CD4+ and CD8+ T cells. The new
+methodology uses Adaptive’s ImmunoSEQ immune profiling technology and can
+deliver results that have previously required a combination of flow cytometry
+in addition to next generation sequencing. The research by Adaptive scientists
+focuses on T cells, which are an integral component of the adaptive immune
+system and can be sorted into two subpopulations based on the presence of
+either the CD4 or the CD8 protein on the cell surface. Harlan Robins, co-
+founder of Adaptive and leader of the research team, explained, “The
+distinction between CD4+ and CD8+ T cells is important in immunology and can
+be very useful, for example, in developing prognostic indicators for cancers
+that induce a response from the adaptive immune system.” However, determining
+the ratio of CD4+ to CD8+ T cells present in a sample currently requires an
+additional flow cytometry processing step. For some sample types – including
+solid tumor biopsies – flow cytometry can be prohibitively difficult, limiting
+researchers’ and clinicians’ access to important immunological information. In
+the published paper, the researchers demonstrate that the T cell receptor
+(TCR) gene, which is heavily modified at the genomic level as part of T cell
+maturation, tends to differ between CD4+ T cells and CD8+ T cells. The
+scientists use these differences to develop and implement a computational
+method that relies on DNA sequencing of the T cell receptor gene, using
+immunoSEQ, to estimate the relative proportions of CD4+ and CD8+ T cells in a
+biological sample. “We believe our computational method for determining the
+CD4:CD8 ratio in T cell samples from sequence data will provide additional
+useful information for any samples on which high-throughput TCR sequencing is
+performed, including solid tumors,” said Robins. The paper published in the
+February edition of the Journal of Immunological Methods can be found online
+here. Published paper » About Adaptive Biotechnologies Adaptive
+Biotechnologies Corporation (http://www.adaptivebiotech.com), headquartered in
+Seattle, WA, is pioneering the field of genomic immunology. The company’s core
+competency is developing next generation sequencing assays that characterize
+the adaptive immune system, serving as a platform technology to the research
+and clinical communities as well as the biopharmaceutical industry. Adaptive
+operates a state-of-the-art high throughput centralized laboratory in Seattle
+that is CLIA certified and will be accepting clinical samples in 2013. Its
+flagship commercial product, immunoSEQ (http://www.immunoSEQ.com), uses a
+proprietary immune profiling assay to analyze T cells and B cells – critical
+components of the adaptive immune system’s defense against disease – with
+unprecedented depth and specificity. In 2013, the company will introduce
+clonoSEQ (http://www.clonoseq.com),a clinical assay to measure and monitor
+minimal residual disease (MRD) in a range of blood-based cancers that is
+significantly more sensitive than today’s most common tests. All of Adaptive
+Biotechnologies’ assays are coupled with a cloud-computing infrastructure that
+simplifies the interpretation of massive quantities of data in a user-friendly
+interface. About Dr. Harlan Robins Dr. Robins obtained his bachelor’s degree
+at Harvard University (1995) as a physics major with a concentration in
+mathematics. He then obtained his Masters and Ph.D. in theoretical physics
+(string theory) from the University of California Berkeley with a visiting
+appointment to the California Institute of Technology (“Caltech”). Dr. Robins
+obtained a postdoctoral appointment in theoretical physics in the particle
+theory group at the Weizmann Institute of Science in Israel. Interested in the
+mathematics behind genetics and observing the potential utility of high-level
+mathematics to study problems in the biological sciences, Dr. Robins took
+another postdoctoral appointment at the Institute for Advance Study at
+Princeton University in 2002 to study under the famed biologist Dr. Arnold
+Levine. Working with Dr. Levine at Princeton, Dr. Robins concentrated on
+developing bioinformatic algorithms for messenger RNA targets and bacterial
+genome analysis, a precursor to his current faculty appointment (2006) at the
+Fred Hutchinson Cancer Research Center in the Computational Biology Group,
+Public Health Sciences and Human Biology Divisions. In August of 2009, Dr.
+Robins was the recipient of the Ellison Award from the Ellison Medical
+Foundation New Scholars Program to support new investigators of outstanding
+promise in the basic biological sciences. Previous Press Release Adaptive
+welcomes new board member Dr. Robert Hershberg, founder and CEO of VentiRx
+Pharmaceuticals 02/22/2013 Next Press Release Adaptive Announces Young
+Investigator Award Recipients for February 03/04/2013 Corporate/Research (855)
+466-8667 Diagnostics (888) 522-8988 Immune Profiling PlatformPlatform Overview
+Publications Products & ServicesLIFE SCIENCES RESEARCH immunoSEQ® CLINICAL
+DIAGNOSTICS clonoSEQ® Pipeline DRUG DISCOVERY Cellular Therapy Vaccines
+PartnershipsCancer Cellular Therapy Antigen Map Biopharma Partnerships
+Strategic Collaborators About UsOur Story Culture Careers News & Events
+Contact Us © Adaptive Biotechnologies. All Rights Reserved. Terms of Use
+Online Privacy Policy Privacy Shield Policy HIPAA Policy Code of Conduct
+Patents & Trademarks Licenses

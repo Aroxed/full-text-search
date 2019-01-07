@@ -1,0 +1,201 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Seven Questions for Mike Gregoire, CEO of
+Taleo December 7, 2011 at 6:29 am PT Tweet Share Print Suddenly Taleo is the
+company that everyone is talking about. In the wake of Saturday’s acquisition
+of SuccessFactors, the cloud-based maker of human resources software, by the
+business application giant SAP, no fewer than five different financial
+analysts have suggested that Taleo, a SuccessFactors competitor, is likely to
+be the next company to be taken over. The most likely buyer, everyone has been
+saying, is the software giant Oracle. Taleo’s CEO, Mike Gregoire, has been in
+this position before. As executive vice president of Global Services for
+PeopleSoft, he lived through Oracle’s hostile acquisition of that company. In
+an interview with AllThingsD, he didn’t comment directly on the speculation
+that Oracle might make a bid — Oracle hasn’t hasn’t said anything on the
+subject, either — but it was clear that he didn’t exactly seem to relish the
+thought, either. Having run $2.3 billion of PeopleSoft’s $2.7 billion in
+revenue, he was with that company “until the bitter end,” he told me. After a
+stint as an angel investor and sitting on the boards of a few companies,
+Gregoire decided he was “more of an operational guy.” He joined Taleo and took
+it public in 2005, and has been at its helm since then. Taleo was at that time
+the second cloud-based software company to go public after Salesforce.com. It
+was so early for software-as-a-service (SAAS) companies, where customers pay a
+subscription fee to use the application, that when he approached banks for
+some financing, upon hearing the word “subscription” they would initially
+compare it to a magazine. Eventually they understood, and Gregoire got his
+loan. Now some of those banks are his customers. Cloud-based enterprise
+software companies are suddenly hot acquisition targets. Aside from the SAP-
+SuccessFactors deal, Oracle acquired RightNow in October. As a growing cloud-
+based rival to SuccessFactors, with a protein-rich customer base, a solid
+operating model and an affordable market capitalization of about $1.6 billion,
+Taleo’s shares have shot up on speculation that it could be next. On Dec. 2,
+the day before the SuccessFactors deal, Taleo shares closed at $32.96. On Dec.
+5, the first trading day after the deal, Taleo rose almost 20 percent to
+$39.50. The move by SAP — long a vendor of traditional on-premise business
+software — to embrace the cloud-based or SAAS model is an important
+acknowledgement that the business of selling business software is
+fundamentally changing, Gregoire says. Indeed, it’s a fact that SAP’s co-CEO
+Bill McDermott acknowledged even before bidding on SuccessFactors. And it’s
+hard to argue that Taleo (pronounced Ta-LAY-oh) isn’t making an impressive
+showing. The company has been growing its sales at between 17 and 20 percent
+since since 2008, and it’s on track to hit $325 million in sales this year, up
+from $237 million last year. It has 5,000 customers, including 180 of the
+companies on the S&P; 500, and its product is available in 38 languages.
+Naturally, my first question for Gregoire was about his thoughts on the
+SuccessFactors deal. AllThingsD: Mike, it has been a busy few days since the
+SAP-SuccessFactors deal was announced. What did you think of the deal? And
+what, if anything, does it mean for Taleo? Gregoire: I think it started a few
+weeks earlier, with the Oracle RightNow deal. It’s a confirmation that the on-
+demand model is moving into the next phase of its adoption. We’ve got 5,000
+customers. We’ve been the No. 1 on-demand player in the enterprise. No one has
+as many Fortune 100 customers as we do. We drive the second-largest number of
+transactions volume of any on-demand player. It kind of felt like we had been
+pushing this rope, trying to get people ready for that next phase of adoption.
+So Oracle and SAP are acknowledging that the on-premise solution is running
+out of gas, and they need to augment that solution with some off-premise cloud
+solutions. Second, it’s important that SAP has recognized that talent
+management is extraordinarily important, and it complements a back-end
+Enterprise Resource Planning (ERP) system. Taking care of people helps your
+company grow, and without it, your company is at a competitive disadvantage. A
+lot of people look at the the phrase “talent management” and think it’s kind
+of specious — or even boring — software that only the human resources office
+needs. What does it mean? If you want to talk about an application that moves
+the needle for business performance, there’s nothing better. The No. 1 expense
+in businesses is people. We see the news about the unemployment rates, and
+then we see that companies can’t hit their productivity goals because they
+don’t have the right people in the right jobs. Its absolutely crazy. That’s
+the problem we solve. Talent management is about getting the right people into
+your company, having them work on the right things, because you’ve got
+performance goals, measuring those goals, tying that to pay-for-performance
+and compensation. And, by the way, the chances that person has the right
+skills at the right time is about zero, so you want to tie those goals to a
+learning management system, and making that happen in real time, and then
+providing intelligence about the whole ecosystem of employees. That moves the
+needle with respect to business performance. What’s a classic example of this
+software in action? I’ll talk about SunGard, which is a customer of ours. They
+use an Oracle ERP system, and they use our learning management systems. Let’s
+say you’re a SunGard sales rep and you just got promoted. The day that your
+promotion goes through in the ERP system, it kicks off a transaction in our
+learning system that checks your history to see what courses you’ve taken and
+whether you’ve got all the certifications you need. And then it automatically
+builds out the courses you need to take to be successful in your new job. We
+also do succession planning. And the days when you’re only going to consider
+people inside your company are over. You’ve got to think broader than that.
+United Airlines, which is a customer, when they think of succession planning,
+they’re not only thinking about the 200 high-potential individuals within the
+company. They’re talking to people in the industry so they can take a look at
+the people inside and outside the company and consider different scenarios.
+Our application is graphical, so you can drag people around in a visual tree
+and see what each scenario looks like. And then you can save them for later,
+so that if someone gets promoted, fired, or leaves the company for another
+job, you’ll know what to do, should any of those three things happen. Most
+people do this sort of thing in their heads. How do you think Taleo stands up
+against SuccessFactors competitively? Going forward, we’ll have to see how
+that works out. [With] due respect to what I’ve read about the deal in the
+press, I don’t think the integration with SAP is going to be a walk in the
+park. There’s at least seven platforms in SuccessFactors. And in this deal,
+you have two companies who have struggled to do SAAS at scale. SAP doesn’t
+have a very good track record executing on SAAS. They spent a lot of money
+building Business ByDesign. Rumor has it that SAP spent as much as $500
+million building it. Their track record has been very marginal. The same is
+true with SuccessFactors. They’ve done a good job with one product that’s on
+an old platform for between 5,000 and 10,000 employees. They don’t have a good
+track record in the upper end of the enterprise, and they haven’t been able to
+get revenue from outside of their core, which is performance management. They
+went and bought a company in learning management. We’re dominant in
+recruiting; they’ve been trying to build a recruiting engine for five years. I
+don’t know that they have any significant reference customers on that yet, but
+they should have some soon, because they’ve been at it for so long. So why did
+SAP buy SuccessFactors, then? Was it for the customer base? SuccessFactors has
+a pretty small customer base. We’ll know more after they publish the 10-Ks and
+10-Qs, so we’ll see more of where the synergies really are. But the synergies
+that have been reported is they want to be able to take the SAP technology and
+repurpose it into the SuccessFactors stack, which sounds expensive and time-
+consuming, and then take that stack and combine it with Business ByDesign and
+compete with Workday. We work pretty closely with Workday, and often go in
+with them shoulder to shoulder on deals when a customer needs recruiting and
+learning. And they use our recruiting products. So, let’s handle this one
+piece of business. I’ve seen no fewer than five analyst reports saying you’re
+going to get taken out by Oracle. Have you been contacted by Oracle, or anyone
+else, about a possible acquisition? We don’t comment on that kind of
+speculation. But a first-year MBA student could connect those dots. We’re
+positioned to be the only independent full-suite SAAS player in the market
+right now, and that’s a good place to be. How everyone reacts to that, I can’t
+control. But we’re on track to do $325 million in revenue this year, and we’re
+growing at about 20 percent per year. We have 12 percent operating margins.
+Who else has that? We’ve not only figured out how to do SAAS at scale, but
+we’ve done it profitably. And we continue to innovate. That’s where we want to
+be. What are your priorities for 2012? Three things. Selling back into our
+customer base. Most of them came to us for our recruiting heritage. If you
+take a look at last quarter alone, 36 percent of our net new bookings were in
+products other than recruiting; we’ve been reporting that number every
+quarter. So there’s a big push to sell our other products into our existing
+customer base. Second is geographical expansion. We bought a company in France
+that effectively doubled the size of our European salesforce. Despite what you
+hear going on Europe, they are not going to spend as much on technology in
+2012 and 2013. If they are going to spend any money, it’s not going to be on
+upgrades of perpetual software licenses. I think they will spend it on SAAS,
+and I think Europe is generally way behind on SAAS. If I were to tell you our
+biggest deal last quarter was going to be a seven-figure deal with a Swiss
+bank, you would have said I was crazy, and that it would never happen. But it
+did. The reason it happened is that SAAS is orders of magnitude cheaper than
+paying maintenance fees on perpetual software licenses. The same thing
+happened with Société Générale, the French bank, which stopped an upgrade of
+either Oracle or SAP midstream, and they went with us. There is definitely
+room for SAAS in Europe, and there will be more room for SAAS in Europe in
+2012; I think we’ll be a net beneficiary of that. Third is innovation, both
+organic and inorganic. We’ve been acquisitive, and every transaction we’ve
+done has been accretive and has worked out well. We’re good at either buying
+technology or customer bases and integrating them very quickly. Organically,
+we’ll be doing a lot of work on mobile and social features. Tagged with:
+Business ByDesign, cloud, cloud computing, enterprise software, human capital
+management, human resources, Mike Gregoire, Oracle, SAAS, Salesforce.com, SAP,
+Seven Questions, SuccessFactors, talent-management, Taleo, Workday Apple
+Denies Working with NSA on iPhone Backdoor December 31, 2013 at 8:49 am PT You
+Won’t Believe All the Crazy Hardware the NSA Uses for Spying December 30, 2013
+at 12:15 pm PT HP Is Negotiating to Settle Bribery Charges December 30, 2013
+at 8:45 am PT CIOs Brand Enterprise Social Tools as Most Overhyped Technology
+of the Year December 30, 2013 at 3:39 am PT Malware Attacks by Syrian Pro-
+Government Hackers Are on the Rise December 27, 2013 at 1:27 pm PT Latest
+Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » When AllThingsD
+began, we told readers we were aiming to present a fusion of new-media
+timeliness and energy with old-media standards for quality and ethics. And we
+hope you agree that we’ve done that.— Kara Swisher and Walt Mossberg, in their
+farewell D post AllThingsD by Writer Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site
+devoted to news, analysis and opinion on technology, the Internet and media.
+But it is different from other sites in this space. It is a fusion of
+different media styles, different topics, different formats and different
+sources. Read more » About Us » Contact Us » Comments Policy » Cookies Policy
+» Privacy Policy » FAQ » Terms of Service » Your Ad Choices » Advertise With
+Us » Send a Tip » Daily Headlines Email » Follow AllThingsD Your Way »
+Featuring the most influential figures in technology, unscriptedand upfront.
+More » Conferences: D: All Things Digital. » D: Dive Into Media » D: Dive Into
+Mobile » Follow us on Twitter: Select Account @allthingsd (All Things Digital)
+@ATDapple (Apple) @ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile)
+@ATDreviews (Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara
+Swisher) @JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret)
+@pkafka (Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247
+(Arik Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac)
+@BonnieSCha (Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All
+Feeds News Reviews Mobile Media Social Enterprise Commerce Voices Personal
+Technology Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher
+John Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik
+Hesseldahl Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow
+Jones & Company Inc. All Rights Reserved. Mobile Version

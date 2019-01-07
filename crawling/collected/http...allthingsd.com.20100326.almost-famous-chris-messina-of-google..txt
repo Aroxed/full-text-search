@@ -1,0 +1,154 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Drake Martinet, Intern, All Things Digital Almost Famous: Chris
+Messina of Google March 26, 2010 at 1:09 pm PT Tweet Share Print In a feature
+of “Almost Famous” we’ve dubbed “Need to Know,” All Things Digital talks with
+top players inside tech companies–much as we talk to emerging and innovative
+entrepreneurs–who are perhaps not as prominent as their influence suggests,
+but who should be. This week: We took a trip to a little company called Google
+(GOOG) to talk with Chris Messina, Google’s open Web advocate. Openness?
+Google? We couldn’t pass this up. Who: Chris Messina What: Open Web advocate
+Why: Chris has been in early on all kinds of pioneering open Web projects. He
+helped run Spread Firefox–Mozilla’s community marketing effort–co-founded the
+BarCamp user-generated un-conferences, and single-handedly invented the
+Twitter hashtag: #. No joke. He just made the move to the search giant. Where:
+Factory Joe (blog); @chrismessina (Twitter); Googleplex (analog place) Who
+Else: Open standards are Messina’s forte, but he’s been preaching the gospel
+of openness to many Google teams. Five Stats You Won’t Find in His Facebook
+Profile: Worst Job: You know, I’ve led a pretty padded life, but I guess my
+worst one was when I was a janitor in a print shop while living in
+Switzerland. I was living in an attic in this tiny town to attend this Swiss
+design school–which I didn’t like at all–and this is how I made my meager
+living while there. Has a Geek Crush on: I first started learning Web design
+by reading Jeffrey Zeldman’s book. There are lots, though. More related to the
+stuff I’m doing now, I think John Panzer is a big unsung hero, he’s the one
+pushing the Salmon stuff (Google’s open comment project) forward. Gadget of
+the Moment: I still love my first-generation Apple (AAPL) iPhone. It doesn’t
+have 3G and it’s slow as molasses, but I really like the form factor, the
+metallic finish, everything. It also allows you to take screenshots, which is
+the one thing really missing from Android. Biggest Difference Being at Google:
+Even more email, if you can believe it. Design Geekiness: My favorite font
+ever is Pennsylvania by Christian Schwartz. I also like Bello, Flama and
+Tungsten. Bio in 140 Characters Born in New Hampshire, he trained as a
+communication designer at Carnegie Mellon. He left for California and has been
+into the open Web ever since. The Five Questions What does being an open Web
+advocate at Google mean? Does it feel like you are working for “The Man”?
+Generally what I’m doing here is a lot like what I used to do, actually. I
+have contact with a lot of different developer teams, and I talk to them about
+how they can use open standards in their work. Right now though, mostly I’m
+working on Google Buzz, doing developer relations and helping design the Buzz
+APIs. We’re trying to create these technologies based on stuff from the
+grassroots communities where these things already exist, as opposed to
+inventing our own standards. We document everything on the Google code site
+and then we just talk about it. It’s a little bit of an evangelism role, in
+the sense that we have to go out and be a part of the community and be a
+router for information back into Google. Big companies seem to have their own
+agendas and needs to be met, and what I’m realizing now is that a lot of
+times, they also don’t have time or a way to go out and find the places where
+these needs are and these tools are already being developed. There are a lot
+of people who are really hungry for this information, but maybe just didn’t
+know where to go. So how do you see Google Buzz as a part of the social Web
+landscape, now that you’ve been on the inside? We approached it from a “pieces
+that are loosely joined” perspective so that we can spit out smaller
+communities that are self-sufficient, rather than one big monolithic project
+like Facebook Connect. We built Buzz so that Google can be one place that
+hosts the underlying technologies, but the capabilities can be spread and used
+by anyone who wants that social functionality. The goal is to create a much
+larger social Web that is dispersed, as opposed to another monolithic silo
+that sort of sucks in a lot of activity and doesn’t let anything out. Facebook
+is just the most recent silo, there have been lots in the past. AOL (AOL).
+Prodigy. A lot of times they don’t mean to be that, but it just happens. How
+do you see the competing philosophies of openness and proprietary technology
+and information at play on the social Web? I think the way that I look at it
+is that facilitating choice is actually a good way to ensure you remain
+competitive. Also, right now, the social Web is in such infancy that competing
+on what is available now seems so premature. I’d rather see us spend the next
+five or 10 years building out the social Web so that we have good standards
+for identity, good standards for authentication and open ways to bring your
+friends with you to any site on the Web. Because we’ve never had this social
+data before, there’s this mentality that it’s solid gold, and we should be
+hoarding it keeping it from everyone and only letting out little bits. In
+reality, I think markets work best when there is a flow of data. If I can’t
+take my data out of one network and move it into another, like I can move
+credit card balances from one to the other, then I think we are inhibiting the
+types of things we should be building, which will be much richer. I already
+sign into 10 Google products a day with the same account. Is my Google account
+going to become more like Facebook Connect? Well, the technology is there, but
+it’s more a question of motivation. It’s actually a problem I’ve been working
+on for the last two or three years. The first question is, how do you provide
+choice to people when they want to log in (what do you ask for)? The other
+question is, why would they use any one service or other, given the choice?
+Facebook has solved that problem by just eliminating the choice. You just
+choose Facebook Connect, click a button, and it will be fine. And it works
+pretty well. A barrier for us is that our tools are built on standards like
+openID and OAuth that were designed by people who cared a lot more about
+privacy. As a result of that, a technology based on openID doesn’t
+automatically come with all the social data that make modern applications
+work. We are actually working with Facebook on this problem, because it turns
+out the hardest thing to figure out is just what to put on the user
+interface–how do you quickly ask people what they’d like to share? We want to
+avoid making Web sites look like the side of a Nascar. Google’s push into
+mobile is based on open standards. How do you see that proliferating?? You
+know, even the iPhone is actually just a platform that interacts with a bunch
+of open standards and accepted systems. It relies on 3G, sends email, SMS,
+takes pictures that are compressed and connects to other devices via
+Bluetooth–they are all open standards and protocols that have enabled these
+great tools. I think people are going to want more. I’m intrigued by Android,
+and it, plus the devices it runs on, are really getting there. The In Living
+Color Interview Tagged with: 3G, Almost Famous, Android, AOL, Apple, barcamp,
+Bello, Bluetooth, Chris Messina, Christan Schwartz, design, device, digital,
+Drake Martinet, email, Facebook Connect, Factory Joe, Firefox, Flama,
+frontpage, Google, Google Buzz, Googleplex, hashtag, innovation, Internet,
+interview, iPhone, Jeffrey Zeldman, John Panzer, Linux, Nascar, Need to Know,
+OAuth, open source, OpenID, Pennsylvania, Prodigy, Salmom, search, SMS, social
+networking, Spread Firefox, Switzerland, Tungsten, Twitter, video Must-Reads
+from other Websites Why Apple Should Buy China’s Xiaomi Panos Mourdoukoutas,
+Contributor, Forbes What I Didn’t Say Paul Graham, Founder, ViaWeb We Need to
+Talk About TED Benjamin Bratton, Journalist, The Guardian I, Glasshole: My
+Year With Google Glass Mat Honan, Senior Writer, Wired All Together Now Chris
+Ware, Writer, The New Yorker The Sculpture on the Moon Corey S. Powell and
+Laurie Gwen Shapiro, Contributors, Slate About Must-Reads » More Inside »
+About Voices Along with original content and posts from across the Dow Jones
+network, this section of AllThingsD includes Must-Reads From Other Websites —
+pieces we’ve read, discussions we’ve followed, stuff we like. Six posts from
+external sites are included here each weekday, but we only run the headlines.
+We link to the original sites for the rest. These posts are explicitly
+labeled, so it’s clear that the content comes from other websites, and for
+clarity’s sake, all outside posts run against a pink background. We also
+solicit original full-length posts and accept some unsolicited submissions.
+Read more » Featured Posts Featured Reviews You Say Goodbye and We Say Hello
+Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon
+Valley Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the
+NSA Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering
+a More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

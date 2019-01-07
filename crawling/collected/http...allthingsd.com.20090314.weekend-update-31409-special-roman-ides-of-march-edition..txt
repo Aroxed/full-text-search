@@ -1,0 +1,109 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Beth Callaghan bio e-mail RSS Recent Posts by Beth Callaghan Weekend
+Update, 3.14.09–Special Roman "Ides of March" Edition March 14, 2009 at 11:54
+am PT Tweet Share Print In Silicon Valley, it’s hard to believe that not
+everyone follows each shiny new thing on the Web, tracks OS versions as
+intently as the storyline of “Battlestar Galactica” and remains jacked-in
+pretty much 24/7. But it’s been known to happen. For instance, BoomTown was in
+Rome earlier this week attending a conference on business, brand and
+innovation that happens only once every seven years–and one of the biggest
+takeaways? Hardly any Italians have heard of Twitter, and those who have don’t
+really use it. Well, that, and conversations with Arianna Huffington, Reid
+Hoffman, and several Italian business leaders. Mark Zuckerberg, though, is
+most definitely plugged into the white-hot microblogging service. This week,
+he used his Twitter account, plus an appearance on “Oprah,” as a platform to
+herald the launch of Facebook’s own Twitteresque homepage redesign. In other
+news, Time Warner (TWX) CEO Jeff Bewkes laid off AOL President and COO Ron
+Grant and Chairman and CEO Randy Falco. BoomTown interviewed Falco’s
+replacement, Google (GOOG) ad sales exec Tim Armstrong, who’ll start at AOL as
+Chairman and CEO on April 7. MediaMemo had the full memo from Time Warner on
+the Falco/Grant-Armstrong transition and also spoke with Boxee CEO Avner Ronen
+this week. Boxee is the start-up that lets you watch Web video on your TV,
+basically bypassing your cable box. Which is probably why it’s caught up in a
+cat-and-mouse game with Hulu, the joint venture between GE’s (GE) NBC and News
+Corp.’s (NWS) Fox that would much rather have you watch TV on the Internet
+instead. Guess who’s the mouse? Still, Hulu is down two networks, ABC and CBS
+(CBS)–though presumably, the aim is to offer all three. (News Corp. is the
+owner of Dow Jones, which owns this Web site.) MediaMemo also noted that
+Google rolled out its behavioral targeting functionality this week and points
+out that we all might be hearing a lot more from a man named Rick Boucher in
+the near future as a result. Behavioral targeting wasn’t the only thing that
+Google rolled out this week–it also launched Google Voice, the initiative
+based on the company’s acquisition of voice communications start-up
+GrandCentral. Digital Daily covered the story. Elsewhere in the telecom world,
+major Palm (PALM) investor Roger McNamee made some bold (read: crazy)
+assertions about iPhone users switching en masse to the Pre, which later
+needed to be clarified (read: backed away from) by Palm itself. RBC analyst
+Mike Abramsky is also bullish on the Pre and its WebOS, but in a less crazy
+way. He gave it a glowing write-up on Friday. For a product that hasn’t yet
+been given a price or a launch date, it’s certainly building itself some high
+expectations. Of course, it’ll need to fulfill them to compete with the ever-
+evolving iPhone, which for which Apple (AAPL) is having a press event Tuesday
+to announce version 3.0 of the device’s OS. Walt Mossberg reviewed the new
+version of Apple’s ever-evolving iPod Shuffle this week, which has the
+distinction of being the first mp3 player to “speak.” His verdict was in
+Wednesday’s Personal Technology column. In Mossberg’s Mailbox, Walt answered
+questions about using a stylus with the iPhone and offered an explanation on
+how to change Apple’s Safari 4 beta so that it looks and works more like the
+previous version. And in this week’s Mossberg Solution, Katie Boehret took a
+look at iSkoot’s Notifier, an app designed to endow basic cellphones with
+smartphone-like capabilities. More next week. And beware the Ides of March. Or
+not. Tagged with: Apple, Arianna Huffington, Avner Ronen, Battlestar
+Galactica, behavioral targeting, beta, Beth Callaghan, BoomTown, Boxee, cell
+phon, digital, Digital Daily, entertainment, Facebook, Google, Google Voice,
+GrandCentral, Hulu, Ides of March, Internet, iPhone, iPod Shuffle, iSkoot,
+iSkoot Notifier, Jeff Bewkes, John Paczkowski, Kara Swisher, Katie Boehret,
+Mark Zuckerberg, MediaMemo, microblogging, Mike Abramsky, MP3, NBC, networks,
+News Corp., Notifier, Oprah, Palm, Palm Pre, Personal Technology, Peter Kafka,
+politics, Pre, Randy Falco, RBC, Reid Hoffman, Rick Boucher, Roger McNamee,
+Rome, Ron Grant, Safari, Silicon Valley, smart phone, stylus, telecom,
+television, Tim Armstrong, Time Warner, TV, Twitter, webOS Managing Platforms
+Is a Human Art October 21, 2013 at 2:56 pm PT The FCC Must Stay on Course on
+Mobile Competition September 24, 2013 at 12:43 pm PT WeChat Parent Tencent
+Makes Search Investment September 16, 2013 at 3:07 pm PT Apple’s New Chance
+Against Google in Patent Fight? September 11, 2013 at 1:21 pm PT Appeals Court
+Says Ex-College Stars Can Sue Videogame Maker Electronic Arts July 31, 2013 at
+11:59 pm PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » I think the NSA
+has a job to do and we need the NSA. But as (physicist) Robert Oppenheimer
+said, “When you see something that is technically sweet, you go ahead and do
+it and argue about what to do about it only after you’ve had your technical
+success. That is the way it was with the atomic bomb.”— Phil Zimmerman, PGP
+inventor and Silent Circle co-founder, in an interview with Om Malik
+AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

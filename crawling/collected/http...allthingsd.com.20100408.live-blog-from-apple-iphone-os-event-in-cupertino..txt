@@ -1,0 +1,219 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Drake Martinet Liveblog From Apple iPhone OS Event in Cupertino
+April 8, 2010 at 8:30 am PT Tweet Share Print What do you do when you’ve just
+stepped out on a limb and released a new class of computer that you’re calling
+both magical and amazing but that runs on software designed over three years
+ago for entirely different hardware? If you are Apple (AAPL), you sound the
+trumpets and assemble the techie press at your Cupertino HQ as soon as
+possible to preview the new operating system you hope will bring even more
+powerful magic to your latest creation. As soon as possible was this morning,
+and AllThingsD‘s Drake Martinet was there to liveblog the event, which
+announced, among other things, iPad sales of more than 450,000, a new app-
+based mobile advertising platform, and long-awaited multitasking functionality
+for the iPhone operating system. The liveblog is below. 9:11 am: We’ve arrived
+at Apple’s Town Hall at Cupertino HQ. The electricity John Paczkowski
+described in his liveblog from the iPad event is missing today. 9:57 am: Just
+walked in. Room is pretty full. Empty stage, with the standard Apple setup:
+Apple logo backdrop for the slideshow. Music a la an iPod commercial playing
+in the auditorium. 10:00 am: Voice on the loudspeakers: “Please turn your
+electronic devices to silent, we are about to begin.” 10:03 am: Steve Jobs
+takes the stage and gets down to it. “The next generation of the most advanced
+mobile operating system in the world.” 10:04 am: Jobs opens with a quote from
+Walt Mossberg’s review. Says he will get to OS 4, but first, shares some iPad
+numbers. As of today, he says, Apple has sold 450,000 iPads, 300,000 on the
+first day. Over 600,000 iBooks downloaded as of today. And I Pad apps? Jobs
+says that 3.5 million have been downloaded so far. 10:06 am: Jobs says, “When
+you create something, you really have butterflies when you create things and
+put them out into the world. We are feeling really good about this.” He then
+moves on to the App Store. Users have downloaded 4.5 billion apps as of today.
+Jobs is now showcasing some screenshots of apps. 10:09 am: Jobs is running
+through media apps. Now, he’s getting to the iPhone. 10:10 am: Says Apple has
+just won its third J.D. Power award for the iphone. “What is the real measure
+of usage? iPhone has a 64 percent browser share; everyone else together is
+half of the iPhone,” says Jobs. 85 million iPhones and iPod touches sold to
+date. 10:12 am: Now the subject is iPhone OS 4. Developers can now access the
+calender, photo library, SMS, full map overlays. In total, they will have
+access to 1500 APIs. There are over 100 new user features. 10:13 am: Users
+will be able to change home screen wallpaper, use a spell checker, tap to
+focus video, create playlists. 10:14 am: Jobs says there will be multitasking.
+“We weren’t the first to this party, but we will be the best,” he says, with a
+nod to Google’s (GOOG) Android. 10:15 am: Jobs demos multitasking. No exposed
+interface. The active window lifts vertically and a slider of all the apps
+running appears. 10:17 am: Jobs shows that multitasking takes you back to the
+exact place in the app where you were when you left, including games. “That,
+is our multitasking UI. We’ve been using it a lot and it really changes the
+way you use the iPhone.” 10:19 am: Jobs leaves and Scott Forstall, Senior VP
+of Software, takes the stage. He’s here to talk about the nitty-gritty. Seven
+mutlitasking services will be available to developers. First: Background
+audio. 10:21 am: Forstall introduces Tim Westergren, founder of Pandora, who
+is talking about how his streaming radio service will make use of background
+audio. Basically, users will now be able to use Pandora or other background
+audio apps just as they can use the iPod function. He showcases how users will
+be able to buy songs from iTunes while Pandora is still playing the song.
+10:24 am: Forstall retakes the stage. “Next service is VoIP,” he says. “Now,
+when you’re on the iPhone, you can run Skype in the background.” 10:26 am:
+David Ponsford of Skype comes onstage. Skype now can run in the background and
+receive calls when you are using other apps. He switches to Yelp while still
+in Skype call. 10:28 am: Forstall back now; he says the next major change is
+background location data. He uses TomTom as an example. TomTom can be getting
+location data while you are listening music. “There’s another class of
+application that wants to use your location all the time, but isn’t used while
+you are plugged in.” The new OS will use less accurate cell towers (which uses
+less power) when doing background location features in social networking apps.
+There will be a new icon on the taskbar showing that there are background apps
+currently using their locations. 10:32 am: Next feature up: Push
+notifications. Now there will be “local notifications.” These will come from
+the apps themselves, rather than from outside servers. 10:33 am: Now talking
+about task completion. Forstall says task completion will allow apps to
+complete tasks, like photo uploads, in the background. He finishes with “fast
+app switching.” “The app moves into a quiescent state in the background and
+uses no CPU power.” 10:34 am: Jobs retakes the stage to talk about the next
+major push. Says there will be App folders. 10:35 am: “We came up with a
+really beautiful implementation of folders.” The process of creating folders
+seems pretty easy. Just drag apps on top of each other and a folder is
+created. Folders can then be dragged around like apps. 10:37 am: Jobs now
+shows us what the wallpaper selection function looks like. Feels like a mix of
+iPad and OS X. His wallpaper now matches his pants. Now, with folders, uses
+could store over 5,000 apps on their phones. 10:39 am: Jobs moves on to the
+next new feature, the unified inbox. Multiple accounts feeding to one mail
+inbox. “We’ve also added the ability to organize by thread, so you can follow
+conversations much easier.” “And, open attachments. Now you can download an
+attachment and open it with an app from the App Store.” 10:41 am: Number four
+is iBooks. Jobs says Apple is adding iBooks to the iPhone, just like the iPad.
+“Its a delightful e-book reader, and you can buy the books once and read them
+anywhere.” They will wirelessly synch your current page between devices. Also,
+free Winnie the Pooh, just as on the iPad. 10:43 am: Forstall retakes the
+stage to talk about enterprise. 10:43 am: The new OS allows encryption of
+email and data inside apps. OS 4 will allow for mobile device management. Also
+big for enterprise: Wireless app distribution. “A company can wirelessly
+distribute apps from its own servers to iPhones anywhere in the world. Also
+adding SSL VPN from both Cisco (CSCO) and Juniper Networks (JNPR). 10:45 am:
+Now talking about something called, “Game Center.” This is the gaming push
+analysts were predicting. OS 4 will have a social gaming portal that allows
+friends to invite you to play games, or will match make you with opponents.
+10:47 am: Jobs retakes the stage. “It’s called iAd.” 10:47 am: “There are lots
+of apps in the App Store for free.” “Developers are starting to put ads into
+apps, but we think most of these really suck.” Jobs says, “On desktops, search
+is where its at. That hasn’t happened on mobile. On mobile, apps are where
+it’s at.” 10:49 am: “This is a pretty serious opportunity, says Jobs. He says
+this could open over one billion impressions per day. “What we want to do with
+iAds, we want to deliver interactivity and emotion.” The ads keep you in your
+app, versus getting “yanked out of your app” like before. “Because iAd is in
+the OS itself, we have figured out how to deliver that ad.” Apple will sell
+and distribute the ads. Apple will give developers 60 percent of iAd revenue.
+10:53 am: Jobs demos ads, starts with a “Toy Story 3” ad. Says he’s seen the
+movie, which comes out in June. Crowd laughs. He adds that, “it’s all done in
+HTML5, by the way.” More laughter at his point because the audience is well
+aware that Jobs is not a fan of Adobe’s (ADBE) Flash. 10:55 am: The ad Jobs is
+showing is really more like a mini app, with streaming video, interactivity, a
+game, posters, background wallpapers and ability to buy app right from the
+iAd. “Users like free stuff.” “Have you ever seen an ad like this? Anything
+even close?” 10:57 am: Next up, Jobs shows an ad for Nike, reiterating that
+these ads were created by Apple “just because we really like these brands.” He
+showcases how iAds have access to location and the accelerometer. No word on
+whether that location data the iAd gets is user-selectable. 11:00 am: “iAd is
+built into the OS, and the developer will get the majority of the revenue.”
+Jobs goes into review mode. 11:01 am: A developer preview will be released
+today. Jobs says Apple will release the new OS in summer. OS 4 will be for 3GS
+and third-gen iPod touch. Older devices will get some upgrades, but hardware
+won’t allow all features like multitasking. OS 4 wont make it to the iPad till
+the fall. 11:04 am: Jobs thanks everyone, and leaves the stage. Lights up,
+music back on, press starts milling. 11:06 am: Takeaways: There are obvious
+concerns about what multitasking will do to battery life, though Jobs
+emphasized that Apple has figured out a way to offer multitasking without
+using too much more battery. Job’s didn’t get into specifics on how. Forstall
+emphasized that implementing the new features was easy for developers, saying
+things like, “they added this [feature] in a single afternoon.” 11:09 am: Now
+Jobs, Forstall and Phil Schiller take the stage for a Q&A.; There’s a question
+about multitasking using more AT&T; (T) data. Jobs says that it won’t be a big
+deal, adding that multitasking doesn’t up the amount of use. He emphasizes
+that video is the big data draw, and you don’t use more than one video at a
+time. 11:11 am: Question about whether there will be an approval process for
+iAds as there is for the App Store? Jobs pauses, “I’m not sure its going to be
+any more than a light touch.” 11:13 am: Question about development of iAds.
+Job: “No development environment for iAds, just HTML5.” 11:14 am: Jobs says,
+“So far the ads haven’t been rich enough to warrant a world class ad agency.
+For the first time, they can bring their storytelling skills. I think this can
+be a whole new avenue for the advertising industry, because for the first time
+you can take advantage of the skills of an add agency in the digital world.”
+11:16 am: Schiller has yet to take a question. 11:17 am: Question about
+widgets and glance-able information. Jobs says, “Anything’s possible.” 11:18
+am: Of OS 4’s way to switch apps, called “fast-app switching,” Jobs says, “Our
+competitors are tripping all over themselves to copy it.” 11:20 am: Jobs on
+iAd: “iPhone customers are among the most desirable demographics in all of
+advertising. Schiller gets a word in edgewise: “On the phone, you have apps
+that help you do things. That becomes the customer’s way into information. Ads
+attached to those are potentially more interesting than ads just attached to
+search. “ Jobs: “This is the first time in history that this has ever existed.
+We have all these apps and a friction-free way to deliver them right to the
+phone. This has never existed before on PCs, still doesn’t.” Jobs: “We tried
+to buy a company named AdMob, but Google came in and snatched them from us. So
+we bought Quattro, and they are teaching us we are making ads that are
+different than anything I’ve ever seen.” 11:24 am: Jobs: “This is not a get-
+rich-quick scheme for Apple. This is to help our developers survive.” 11:29
+am: Question about running unsigned apps. Jobs shuts it down saying that there
+is a porn app store for Android, and Apple doesn’t want to go there. 11:30 am:
+Jobs brings up Walt Mossberg again, saying how impressed he is with how fast
+people are “getting it” with the iPad. Schiller reiterates that the speed of
+adoption of the iPad, especially with the developers, has been incredible.
+11:32 am: Jobs, continuing on the iPad: “If our competitors ever release a
+device like the iPad, they will be hoping for 3,500 apps in a year. We have
+that in the first week.” 11:34 am: Jobs, on the App Store: “I’m now seeing an
+infrastructure being developed through other mediums (blogs, etc.) that help
+with app discoverability.” This is in response to a question about the app
+store getting crowded and dense. 11:36 am: This question comes up: “How do you
+close an app?” 11:39 am: Jobs: “on the iPad, if you saw a stylus, they blew
+it. On this, if you see a task manager, they blew it.” He doesn’t really
+answer, saying you never really have to close an app. Doesn’t elaborate. 11:41
+am: Packing up, Q&A; over. More iPad Coverage » Tagged with: AdMob, Adobe,
+advertising, Android, API, app, App Store, Apple, Apple Tablet Feature, AT&T;,
+audio, browser, Cisco, computer, CPU, Cupertino, David Ponsford, developer,
+digital, Drake Martinet, E-Reader Feature, entertainment, Flash, Game Center,
+games, Google, hardware, HTML 5, iAd, iBooks, innovation, interface, Internet,
+iPad, iPhone, iPod, iPod touch, J.D. Power, Juniper, liveblog, miltitasking,
+operating system, OS, OS 4, OS X, Pandora, Phil Schiller, platform, Quattro,
+revenue, review, Scott Forstall, search, Skype, SMS, software, SSL VPN, Steve
+Jobs, synch, telecom, Tim Westergren, TomTom, Toy Story 3, UI, video, VOIP,
+wireless, Yelp Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Voices Search » Featured Posts Featured Reviews You Say Goodbye
+and We Say Hello Walt Mossberg and Kara Swisher in Media The NSA and the
+Corrosion of Silicon Valley Michael Dearing in Voices You Won’t Believe All
+the Crazy Hardware the NSA Uses for Spying Arik Hesseldahl in News View all
+today’s news » Uncovering a More Useful Android Lock Screen Bonnie Cha in
+Product Reviews Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren
+Goode in Product Reviews Space Monkey Peer-to-Peer Digital Storage System
+Offers Better Backup Katherine Boehret in The Digital Solution Diabetes Data
+Beamed to Your Phone Walt Mossberg in Personal Technology Nokia Lumia 2520: A
+Solid Windows Tablet in Need of Apps Bonnie Cha in Product Reviews View all
+reviews » Another gadget you don’t really need. Will not work once you get it
+home. New model out in 4 weeks. Battery life is too short to be of any use.—
+From the fact sheet for a fake product entitled Useless Plasticbox 1.2 (an
+actual empty plastic box) placed in L.A.-area Best Buy stores by an artist
+called Plastic Jesus AllThingsD by Writer Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site
+devoted to news, analysis and opinion on technology, the Internet and media.
+But it is different from other sites in this space. It is a fusion of
+different media styles, different topics, different formats and different
+sources. Read more » About Us » Contact Us » Comments Policy » Cookies Policy
+» Privacy Policy » FAQ » Terms of Service » Your Ad Choices » Advertise With
+Us » Send a Tip » Daily Headlines Email » Follow AllThingsD Your Way »
+Featuring the most influential figures in technology, unscriptedand upfront.
+More » Conferences: D: All Things Digital. » D: Dive Into Media » D: Dive Into
+Mobile » Follow us on Twitter: Select Account @allthingsd (All Things Digital)
+@ATDapple (Apple) @ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile)
+@ATDreviews (Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara
+Swisher) @JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret)
+@pkafka (Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247
+(Arik Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac)
+@BonnieSCha (Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All
+Feeds News Reviews Mobile Media Social Enterprise Commerce Voices Personal
+Technology Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher
+John Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik
+Hesseldahl Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow
+Jones & Company Inc. All Rights Reserved. Mobile Version

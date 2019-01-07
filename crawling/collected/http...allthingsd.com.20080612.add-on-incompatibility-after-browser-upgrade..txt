@@ -1,0 +1,99 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Recent Columns by Walt Mossberg Mossberg’s Mailbox Add-On Incompatibility
+After Browser Upgrade June 12, 2008 at 12:01 am PT Tweet Share Print Here are
+a few questions I’ve received recently from people like you, and my answers. I
+have edited and restated the questions a bit, for readability. After reading
+your positive review, I downloaded Firefox 3.0, only to discover that some of
+my favorite add-ons, including a search toolbar, are incompatible. What can I
+do about this? Wait. As I noted in the review, when major new versions of
+Firefox come out, it takes a while for some of the many add-ons for the
+browser to be updated so they are compatible with the new version. Because
+these are written by a very large number of different companies and
+individuals, the process will be gradual, and some will be updated more
+quickly than others. As for search toolbars, like those from Google (GOOG) and
+Yahoo (YHOO), I doubt that most people still need them. When they first came
+out, these toolbars provided things the top browsers lacked: a permanent
+search box, pop-up blocking and a few other useful features. But all the major
+browsers now provide these things without requiring the installation of any
+external toolbar. The companies that make the toolbars can use them to sell
+advertising or attract you to their search engines. But, for many users today,
+they are redundant. I don’t want to run antivirus software constantly, but I
+would like to periodically run a program that could scan my computer and
+remove viruses and the like. Does such a program exist? Yes. Here’s one
+example. Microsoft (MSFT) makes a small, free program called the Malicious
+Software Removal Tool that looks for, and tries to remove, a limited number of
+the worst examples of malicious software. It can be downloaded at
+www.microsoft.com/security/malwareremove. However, this isn’t a comprehensive
+antivirus program. Microsoft says it detects and removes only “specific,
+prevalent malicious software,” and advises that “You should also use up-to-
+date antivirus software to help protect your computer from other malicious
+software.” I am in the market for a laptop. I was considering a Dell (DELL) or
+an H-P (HPQ) but have learned that Apples now run Windows. I have financial
+(Quicken) and other business files (Excel, Word and PowerPoint) that would
+need to be transferred to the new computer. Would this be possible on an Apple
+(AAPL)? Yes, in the same ways you could transfer files from one Windows PC to
+another. For example, you could burn them to a CD or DVD, copy them to an
+external USB drive, or transfer them over a network or via the Internet. In
+fact, if you buy your Mac at an Apple retail store, the store’s staff will
+move your files over free, or for a modest fee, depending on which folders,
+and how many, you want transferred. Once the files are on the Mac, you can
+either use native Mac programs to read and/or modify them, or you can install
+Windows and run your usual Windows programs to handle the files. For instance,
+even if you never installed Windows on an Apple, your Excel, Word and
+PowerPoint files could be used in the Mac version of Microsoft Office.
+However, the Mac version of Quicken isn’t as compatible with the Windows
+version’s files. So, for Quicken, I suggest installing Windows on the Mac and
+running the Windows version of Quicken. You can find Mossberg’s Mailbox, and
+my other columns, online for free at the new All Things Digital web site,
+http://walt.allthingsd.com. Tagged with add-on, advertising, antivirus, Apple,
+browser, computer, Dell, Excel, Firefox, Google, H-P, incompatibility, laptop,
+malicious, PC, PowerPoint, program, search, search engine, software, toolbar,
+Windows, word, Yahoo Top Products in Two Decades of Tech Reviews December 17,
+2013 at 6:04 pm PT Diabetes Data Beamed to Your Phone December 10, 2013 at
+6:16 pm PT Two Houses, One Cable TV Bill December 10, 2013 at 6:14 pm PT
+Calling Overseas on Wi-Fi December 03, 2013 at 6:18 pm PT Dell Tablets at
+Bargain Prices December 03, 2013 at 6:12 pm PT Search the Mossberg Archives
+AllThingsD contains an archive of columns by Walt Mossberg and Katherine
+Boehret from The Wall Street Journal dating back to 2005. Latest Video View
+all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

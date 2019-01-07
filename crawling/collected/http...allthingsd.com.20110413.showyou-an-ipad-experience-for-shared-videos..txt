@@ -1,0 +1,76 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Liz Gannes ethics statement bio e-mail RSS Follow @LizGannes Recent
+Posts by Liz Gannes Showyou: An iPad Experience for Shared Videos April 13,
+2011 at 7:00 am PT Tweet Share Print Watching videos your friends recommend on
+Facebook and Twitter can be awkward. You often lose your place on the page, or
+have to grab headphones, or want to come back to something when you have more
+time later. Or all of the above. Showyou is a new iOS app with an imaginative
+interface built for social video consumption. It’s meant for spurts of time
+dedicated to watching videos. The main Showyou view is a never-ending tiled
+video wall intended primarily for use on the iPad. Scroll horizontally or
+vertically and you’ll find videos shared by your friends (the organization
+seems somewhat random, but more recent videos are generally up and to the
+left, and popular older videos are down and to the right). Click on a video
+and it pops out from the wall and plays immediately. Videos keep loading on
+one page as you move, giving the (somewhat overwhelming!) sensation that there
+are infinite options to watch. It might be disconcerting not to have a
+playlist function or a way to filter videos by any sort of topic, but Showyou
+does also offer a more traditional feed view that shows just the activity of
+other Showyou users you follow. The app comes from San Francisco-based
+Remixation, a True Ventures-backed start-up which for the last four years has
+been working on a video curation tool called Vodpod. Vodpod still exists, but
+the Remixation team has in the last six months shifted almost entirely to work
+on Showyou, in part inspired by iPad consumption experiences like Flipboard.
+At launch, Showyou only supports YouTube, Vimeo and TED videos (in part
+because they are available in HTML5 for display on iOS). There are also a
+smattering of social tools in the app, so you can click to share a video,
+“thank” your friends or comment on videos within Showyou. And Showyou is
+living-room-ready at launch–that is, if you have Apple TV 2.0 with Airplay.
+Tagged with: Flipboard, iOS, iPad, NetworkEffect, Remixation, Showyou, TED,
+True Ventures, Vimeo, Vodpod, YouTube Startups Scrape Your Financial Data for
+Good. (No, Really!) December 31, 2013 at 10:56 am PT Quantified Elf: Tracking
+the Santa Trackers December 24, 2013 at 9:32 am PT Venture Capitalist Tries to
+Drum Up Support for Splitting California Into Six States December 23, 2013 at
+3:14 pm PT General Catalyst Raises $675M Seventh Fund December 23, 2013 at
+8:00 am PT Knewton Raises $51M for Personalized Learning December 20, 2013 at
+10:03 am PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Network+Effect Search » Featured Posts Featured Reviews You Say
+Goodbye and We Say Hello Walt Mossberg and Kara Swisher in Media The NSA and
+the Corrosion of Silicon Valley Michael Dearing in Voices You Won’t Believe
+All the Crazy Hardware the NSA Uses for Spying Arik Hesseldahl in News View
+all today’s news » Uncovering a More Useful Android Lock Screen Bonnie Cha in
+Product Reviews Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren
+Goode in Product Reviews Space Monkey Peer-to-Peer Digital Storage System
+Offers Better Backup Katherine Boehret in The Digital Solution Diabetes Data
+Beamed to Your Phone Walt Mossberg in Personal Technology Nokia Lumia 2520: A
+Solid Windows Tablet in Need of Apps Bonnie Cha in Product Reviews View all
+reviews » First the NSA came for, well, jeez pretty much everybody’s data at
+this point, and I said nothing because wait how does this joke work— Parker
+Higgins via Twitter AllThingsD by Writer Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site
+devoted to news, analysis and opinion on technology, the Internet and media.
+But it is different from other sites in this space. It is a fusion of
+different media styles, different topics, different formats and different
+sources. Read more » About Us » Contact Us » Comments Policy » Cookies Policy
+» Privacy Policy » FAQ » Terms of Service » Your Ad Choices » Advertise With
+Us » Send a Tip » Daily Headlines Email » Follow AllThingsD Your Way »
+Featuring the most influential figures in technology, unscriptedand upfront.
+More » Conferences: D: All Things Digital. » D: Dive Into Media » D: Dive Into
+Mobile » Follow us on Twitter: Select Account @allthingsd (All Things Digital)
+@ATDapple (Apple) @ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile)
+@ATDreviews (Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara
+Swisher) @JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret)
+@pkafka (Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247
+(Arik Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac)
+@BonnieSCha (Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All
+Feeds News Reviews Mobile Media Social Enterprise Commerce Voices Personal
+Technology Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher
+John Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik
+Hesseldahl Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow
+Jones & Company Inc. All Rights Reserved. Mobile Version

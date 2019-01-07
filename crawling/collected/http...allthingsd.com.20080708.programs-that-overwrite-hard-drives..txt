@@ -1,0 +1,88 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Recent Columns by Walt Mossberg Mossberg’s Mailbox Programs That Overwrite
+Hard Drives July 8, 2008 at 6:08 pm PT Tweet Share Print Here are a few
+questions I’ve received recently from people like you, and my answers. I have
+edited and restated the questions a bit, for readability. Do you know of a
+free or inexpensive program that will overwrite hard drives? My husband and I
+have updated to new computers, leaving us with two hard drives that have
+sensitive data that we would like to erase before disposing of them. There’s a
+$20 program for Windows called Window Washer from Webroot that will wipe an
+entire hard disk so that its data is unrecoverable. Its maker calls this
+process “bleaching.” In cases where you don’t want to completely wipe a hard
+disk, the program can also securely erase individual files and folders, and
+can remove all traces of browser activity. I have tested it, and I can
+recommend it. You can get it at Webroot.com. There are numerous other Windows
+file wipers, some of which may be free, though I haven’t tested them. To find
+these others, go to download.com and enter “file wiper” in the search box.
+Since downloading the new Firefox browser, the panel at the top that shows the
+Web address and the back and forward buttons has disappeared. How do I get it
+back? That panel is called the Navigation Bar and it can be turned on and off.
+It sounds like it somehow got turned off on your computer. To switch it on
+again, go to the “View” menu, select “Toolbars” and then click on “Navigation
+Bar.” The missing panel should reappear, and the next time you view that menu
+option, you will notice a check mark next to “Navigation Bar,” indicating it
+is on. You can also use the same technique to switch the Bookmarks Toolbar on
+and off. I have switched to Mac recently and never want to use Windows again.
+But the program I miss using on Windows the most is Microsoft Money. Do you
+know any way to make this program run on my Mac? Microsoft (MSFT) doesn’t make
+a Mac version of Money. However, all current Macs can run Windows and Windows
+programs. I suggest you pick up a copy of one of two programs — Parallels
+Desktop or VMWare Fusion. Both allow you to run Windows programs right
+alongside your Mac programs, even without displaying the Windows desktop.
+Microsoft Money would just appear in its own window, as if it were another Mac
+program. This method works well, but it carries a price. Fusion and Parallels
+cost around $60-$70 each, plus you will have to buy and install a full, fresh,
+boxed copy of Windows. You can find Mossberg’s Mailbox, and my other columns,
+online for free at the new All Things Digital Web site,
+http://walt.allthingsd.com. Tagged with bleaching, bookmark, browser,
+computer, file wiper, Firefox, hard drive, Mac, Microsoft Money, navigation
+bar, Parallels Desktop, sensitive data, toolbar, VMWare Fusion, Webroot,
+Windows, Windows Washer Top Products in Two Decades of Tech Reviews December
+17, 2013 at 6:04 pm PT Diabetes Data Beamed to Your Phone December 10, 2013 at
+6:16 pm PT Two Houses, One Cable TV Bill December 10, 2013 at 6:14 pm PT
+Calling Overseas on Wi-Fi December 03, 2013 at 6:18 pm PT Dell Tablets at
+Bargain Prices December 03, 2013 at 6:12 pm PT Search the Mossberg Archives
+AllThingsD contains an archive of columns by Walt Mossberg and Katherine
+Boehret from The Wall Street Journal dating back to 2005. Latest Video View
+all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

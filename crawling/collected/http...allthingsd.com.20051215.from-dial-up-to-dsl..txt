@@ -1,0 +1,109 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Recent Columns by Walt Mossberg Mossberg’s Mailbox Switching From Dial-Up to
+DSL December 15, 2005 at 12:01 am PT Tweet Share Print There’s no other major
+item most of us own that is as confusing, unpredictable and unreliable as our
+personal computers. Everybody has questions about them, and we aim to help.
+Here are a few questions about computers I’ve received recently from people
+like you, and my answers. I have edited and restated the questions a bit, for
+readability. This week my mailbox contained questions about switching to DSL
+from dial-up, browser hijacking and whether to wait for Windows Vista. If you
+have a question, send it to me at mossberg@wsj.com, and I may select it to be
+answered here in Mossberg’s Mailbox. We are satisfied users of dial-up
+Internet access. Our only complaint is the very slow transfer rate of four
+kilobits per second when we download updates for our security software. Would
+a 768 kbps DSL line really download these files almost 200 times faster than
+dial-up? It costs only slightly more than we pay for dial-up. Most Internet
+services don’t actually function at the advertised speed, due to network
+congestion and other factors. So, DSL isn’t going to operate at 768 kbps. But
+it will probably run at 600 kbps or more, which is still vastly faster than
+dial-up. And, since file transfers tend to be the speediest online activity on
+DSL or cable modem services, you should see a dramatic reduction in the time
+it takes to update your security software. With DSL now starting at around $15
+a month, the same or less than dial-up typically costs, I can’t see any reason
+why anyone who uses the Internet regularly should stick with dial-up access.
+When I click on my browser in Windows XP, I get a page saying spyware is
+detected, and my computer is under the control of a remote computer. This
+screen tells me that I can solve this issue by downloading various security
+programs I’ve never heard of. I’ve tried to get rid of this page by deleting
+temporary files, cookies, files, programs — anything else I can think of — but
+it keeps appearing. Neither Norton anti-virus nor Spybot gets rid of it.
+Sounds like you have a nasty case of browser hijacking, a type of spyware that
+seizes control of a browser to try and peddle dubious products that may
+themselves install more spyware, even though they are posing as security
+software. The people who invade computers and browsers in this manner deserve
+to be locked up. You can’t get rid of pernicious spyware like this by madly
+deleting files or changing browser settings. Only a strong anti-spyware
+program can kill it and prevent it from reappearing. But sometimes you have to
+try multiple anti-spyware programs to get the job done. You’ve already tried
+one good one, Spybot, which failed. I suggest you go to Webroot.com and
+download my favorite anti-spyware program, Spy Sweeper. If that doesn’t work,
+try Ad-Aware or Counterspy. I am considering buying a PC with the Windows
+Media Center operating system. But I am wondering if Media Center will be
+updated when the new Windows Vista comes out. Should I buy now or wait? The
+Media Center flavor of Windows is scheduled to be retired in the fall of 2006,
+when the new Windows Vista is set to be released. Instead, the key functions
+of Media Center — including the across-the-room remote control of music, TV,
+photos and videos — will be folded into some versions of Vista. If you buy
+now, and your new machine is hefty enough to run Vista, you should be able to
+upgrade to the appropriate version of Vista and retain all your Media Center
+functionality, with some improvements. But you’ll have to pay for the new
+software. If you wait 10 months or so, you can buy a new PC pre-loaded with a
+version of Vista that includes these functions. But you’ll have lost nearly a
+year of use of the very good Media Center functionality available today. My
+advice is: If you really need a new PC now, and really want the Media Center
+functionality now, buy now, and plan to upgrade to Vista later. But, just be
+sure you get hardware capable of running Vista. For my column on Vista-capable
+hardware, see: ptech.wsj.com/guide-pc.html. * * * Because of the volume of
+e-mail I receive, I can’t routinely answer individual questions by e-mail, or
+consult on individual problems or purchasing decisions. I read all questions I
+receive and select three each week to answer in the column. Write to Walter S.
+Mossberg at mossberg@wsj.com Tagged with browser, cable, DSL, Internet, media
+center, modem, PC, Spybot, spyware, Vista, Webroot, XP Top Products in Two
+Decades of Tech Reviews December 17, 2013 at 6:04 pm PT Diabetes Data Beamed
+to Your Phone December 10, 2013 at 6:16 pm PT Two Houses, One Cable TV Bill
+December 10, 2013 at 6:14 pm PT Calling Overseas on Wi-Fi December 03, 2013 at
+6:18 pm PT Dell Tablets at Bargain Prices December 03, 2013 at 6:12 pm PT
+Search the Mossberg Archives AllThingsD contains an archive of columns by Walt
+Mossberg and Katherine Boehret from The Wall Street Journal dating back to
+2005. Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

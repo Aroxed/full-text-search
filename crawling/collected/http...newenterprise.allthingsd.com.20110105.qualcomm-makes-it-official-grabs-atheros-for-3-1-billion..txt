@@ -1,0 +1,101 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Qualcomm Makes It Official, Grabs Atheros for
+$3.1 Billion January 5, 2011 at 8:42 am PT Tweet Share Print Qualcomm, the
+chipmaker devoted to the wireless handset business, announced today the first
+major tech acquisition of the year, and the biggest deal in its history,
+saying it will pay $3.1 billion in cash for Atheros, a chipmaker whose
+business is in wireless networking. As I noted yesterday, there are lots of
+reasons for Qualcomm to want Atheros, not the least of which is its extensive
+customer list. Qualcomm’s specialty has always been in CDMA technology, the
+flavor of mobile phone technology favored by Verizon Wireless and Sprint, and
+it collects considerable royalties around its patent portfolio there. It has
+struggled to penetrate other markets, and last year shuttered its FloTV
+operation amid minimal demand. The good news was that it sold its FloTV
+spectrum to AT&T; for $1.93 billion, which is no doubt offsetting the cost of
+this deal. Add that to the $10.3 billion in cash and short-term investments on
+its balance sheet as of Sept. 26 and this is an easy deal to do. It’s also the
+biggest deal in Qualcomm’s history and the first significant one under CEO
+Paul Jacobs, who is the son of founder Irwin Jacobs. Atheros shareholders have
+plenty of reasons to smile today as well. The company’s stock price surged by
+19 percent yesterday. At $45 a share, Qualcomm is paying more than Atheros has
+ever been worth in its entire history as a publicly held company. As Shira
+Ovide over at Deal Journal notes, its highest price before yesterday was
+$43.90. Happy New Year, indeed. I caught up with Qualcomm Executive Vice
+President Steve Mollenkopf and Atheros CEO Craig Barratt to talk about the
+deal. NewEnterprise: Steve, let’s start with you. What got Qualcomm interested
+in Atheros? Mollenkopf: Historically Qualcomm has been focused on the cellular
+phone, though recently we’ve done much more than that. We had some integration
+relationships with some companies that allow us to deliver a platform to our
+customers. They’re essentially technical relationships, and one of those
+companies was Atheros. So we were familiar with them. But the real reason, the
+why Atheros and why now question comes down to this. We think the industry is
+moving to a place where a lot of the technology and use cases that are being
+created as part of the shift to smartphones will be used outside of just
+phones, and will move into many adjacent spaces. The requirement of technology
+and different customers overlap a lot with Atheros. They’re a leader in their
+space, we’re a leader in ours and we want to go into markets that will require
+the expertise from both of us. It seemed natural, actually. Craig, the idea
+for the acquisition seems to have grown out of an existing partnership. When
+did the talk turn from being Qualcomm’s partner to becoming part of Qualcomm?
+Barratt: The partnership has gone on for about five years, where we’ve
+cooperated on joint reference and designs and software and feature
+integration. Over the years we’ve broadened out from Wi-Fi, Bluetooth, GPS,
+powerline and optical networking. We do have a much more horizontal business.
+Qualcomm has a very strong vertical business. Through our partnership we saw
+the teams had a good cultural fit, the engineering teams really respect each
+other. When we looked at our own strategic imperatives over the long term, we
+saw that cellular technologies are going to be applied in a much broader
+markets over time, beyond just smartphones and tablets. There’s an
+intersection between the Qualcomm technology and our technology, and that’s
+only going to increase. You’ve probably heard that set-top boxes and things
+like that are going to start to run Android. So a lot of these mobile
+technologies are going to start showing up in things like the connected home.
+Strategically it all started to make sense. And what will your new job be at
+Qualcomm? Barratt: After the acquisition closes, which should be in the first
+half of 2011, my role will be president of Qualcomm Networking and
+Connectivity, reporting to Steve. Steve, if I’m not mistaken, this is the
+biggest deal that Qualcomm has ever done. Mollenkopf: You’re correct. For us
+on the Qualcomm side this is a big step toward expanding our business beyond
+our traditional platform business and we’re doing it in a way that is in line
+with how the industry is changing. A lot of the things we’ve been doing with
+Atheros are things we’ve already been doing as part of our relationship, so
+this is a natural next step. Tagged with: acquisitions, Arik Hesseldahl,
+Atheros, Bluetooth, CDMA, cellular, chipmaker, cost, Craig Barratt, customer,
+deal, Deal Journal, engineering, FloTV, GPS, handset, handsets, integration,
+investments, Irwin Jacobs, list, networking, NewEnterprise, partnership,
+patent, Paul Jacobs, phone, portfolio, powerline, Qualcomm, royalties,
+shareholders, Shira Ovide, smartphones, software, sprint, Steve Mollenkopf,
+stock, tablets, Verizon Wireless, Wi-Fi, wireless Marc Benioff on
+Salesforce.com’s “Monster Quarter” and the Road Ahead May 20, 2011 at 5:00 am
+PT Cisco Still Totally Hearts Linksys and WebEx May 19, 2011 at 5:17 pm PT
+Investors Still Like the Taste of Salesforce’s Kool-Aid May 19, 2011 at 4:02
+pm PT Read Léo Apotheker’s “Tough Quarter” Memo in Full May 19, 2011 at 12:28
+pm PT Cisco May Next Rid Itself of Linksys and WebEx May 19, 2011 at 7:30 am
+PT AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

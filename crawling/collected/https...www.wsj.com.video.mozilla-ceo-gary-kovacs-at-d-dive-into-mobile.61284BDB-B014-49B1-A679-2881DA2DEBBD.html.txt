@@ -1,0 +1,544 @@
+Home Browse Topics Series Events From Sponsors WSJ.com Search Now Playing
+4/24/2013 10:00AM Mozilla CEO Gary Kovacs at D: Dive Into Mobile Mozilla CEO
+Gary Kovacs joined AllThingsDs Walt Mossberg and Ina Fried onstage at D: Dive
+Into Mobileto talk about Firefox OS, a mobile system software initiative
+similar to what Google is doing with the Chrome OS for the desktop. Transcript
+This transcript has been automatically generated and may not be 100%
+accurate.... the ... no Carrie Ron's Mozilla ... which ... makes Firefox ...
+and I'm sure you all ... use Firefox ... says Barry ... but the ... the
+interesting that they're there to be peace the big news when is the your
+resigning which will get to ... and the other is ... that Firefox is making
+its own mobile operating system ... so ... what the ... the White Isle of ...
+Why auto making your own mobile ... operating system those not on the Midwest
+... is really a concrete ledge and as those that you know ... her words ... um
+... no good ... Sears the no one's been able to get any traction at all ...
+against ... in Jordan I alas ... is this that a smart thing to do why he doing
+... so well ... with that interaction think you ... could be here ... well
+welcome to do your paper here ... um ... the was so the web ... is fragmented
+on mobile ... is no question about that and desktop we started with Firefox
+when credit standards by which to build the web a lot of people help a lot
+people in this room or other organizations ... and today it Isa Khan ten runs
+on a desktop browser of a need for ransom Cromme Explorer and Firefox ... in
+the users for ... the same needs to happen mobile ... so ... five or so years
+ago or seven years ago Steve Jobs famously said ... though mobile devices
+audited by the way but the web was ready ... so ... out came the app ecosystem
+unneeded piece ... and here we are with the law to work and the Web page five
+is come up JavaScript performance is gonna order of magnitude or two ...
+greater there was even a couple years ago we've invested a ton of energy and
+web BP eyes ... so the web is ready now to create that same level playing
+field for everybody to participate ... has not been the other thing is bad ...
+but the web with the ten million developers ... needs to be on walk immobile
+and that that's our mission what is most people may or may not know ...
+actually ... um we're a non for profit ... and what we do is create ... the
+Web standards and show the way such those can follow and the goal ... is to
+open up the ecosystem so ... is the smartest needed ... I we've got incredible
+initial traction ... and we're a resilient so Korea ... but it doesn't need to
+be in either war thing I mean you guys have been so far in front Firefox
+reinflated ... Goebbels bringing Chrome enjoyed why does the browser need to
+be the operating system on a phone ... it's a great question and it's so
+there's a there's a new once there the browser doesn't need to be purchased
+from the operating system needs to incorporate the well meaning you can create
+... an application or an experience in standard languages with Standard API
+center but is access to ... such a piece of content worked on one device works
+across the US is ... such that Discovery's easy such that multiple payment
+mechanisms can be incorporated such that multiple storage ... can be accessed
+... from the device ... were were not walk in or ... generally encouraged to
+be in one ecosystem ... and that's that's the goal of this so ... it's not
+about a browser actually ... why why is ... are any of the things you said
+important individuals individuals don't care about ... the way and versus apps
+I know that the big theological discussion ... in the tech ... community ...
+it's absolutely meaningless to normal to people ... in any country ... not
+just a Nenad states been anywhere doesn't matter to them and in fact it's been
+proven ... that is like at every Sunoco I've seen as someone in the day showed
+... that's preference is for using apps apps are a brilliant idea ... Steve
+Jobs did not have them ... in my morning started ... with the I phone but ...
+he soon took off ... whether they are written in HTML five wants across all
+platforms or in ... some language that global prefers or Apple prefers who
+cares there ... well so we're we're now into the new one seven outbursts is a
+browser ... and most apps today frankly you however they're written ... access
+was content to just present it in a much more ... context specific ...
+container so here's the challenge though is ... I gave this example in
+Barcelona where I'd ... download an app to book a restaurant might download a
+map to look for restaurant download a map to ... check out the reviews of a
+restaurant ... I had three or four options to book a dear ... I now have up I
+phone in an Android device ... that the first pages most unstoppable use the
+next five pages folded her in ... I never get to ... so the Abloy your
+bookmarks on my blog book Firefox browser I knew ... that that that ... well
+well well ... well played not mine because ... by Jen Leo book our search for
+most things but ... but um ... so it's not the apps are bad or good it's the
+it's the ups and the Web need to live and the Web was ... unnecessarily
+blocked out generally speaking when even have I mean look we even have an API
+... for ... them ... forecast ... two years ago ... so ... you know that that
+a wet develop an electoral pressure look at some point you've someone them ...
+was not a developer Mike in this audience ... they'll have a browser War more
+than one browser on their phones even ... supposedly super controlled by bombs
+have multiple browsers available on them ... I'd I'd ... been my I phone has
+... sparring am from I can do it ... whichever one ... I wanna meet from
+accessing the way and when I need access the web ... on my I phone and I don't
+know lol ... exactly what the language is that Apple uses ... for the app some
+at borrowing know is ... I actually can get an epic is read the reviews ...
+the location ... the menu and coax me into the restaurant one app not buybacks
+that's a little bit of a ... straw man ... that Bill are apps the two last
+things here ... so ... Lululemon mummy have money taken up a level comp ...
+there are apps that do lots of different things and everything there are two
+billion people connected with it ... for twenty two years to get here ... the
+next two billion are coming on line somewhere between four and seven ...
+depending on whose record you're reading ... and and what your assumptions are
+... sort of double the size of the connected world ... most of those next two
+billion are coming from the developing world not the developed world ... and
+half of them at least are below the poverty line they don't look at talk and
+feel and think the same way ... ever in this room to us ... so ... what's
+important of them it's your earlier question what matters choice matters what
+they want choice and although we think there's a lot of apps today ... there
+is nowhere near as many experiences as if we gone walk the ecosystem which
+proved proven this on the desktop web with proven this ... on other piece of
+technology one to standardize on the underlying framework ... innovation
+happens but it happens in a local level ... there are people living in Brazil
+will developer Brizo ... it's unlikely ... as or maybe some in this room can I
+get to be convinced that for five six billion people will all get all other
+online experiences for mobiles experiences from one company or to ... the
+matter how delicious those companies are ... so we've got to unlock that
+innovation in this gets to the heart of your pee on this was very clear in
+Barcelona ... the carrier's the global carriers ... desperate for something
+that would weaken the power of Apple and Google they love ... most ... third
+challengers in the perfectly love you guys because you're open and they can
+build on top of their debt load whatever they want on it ... aam ... but we've
+been talking bout why someone would want this in the context of the
+smartphones that we have ... the high-end Android with the I phone that's not
+what the market you're targeting but even if the market segment you're
+targeting ... in general you guys run on similar hardware slowing the Android
+why is someone going to choose your device over a low in the Android ... that
+they've heard about that they've seen that looks like the high-end Android
+they can afford why are they gonna via Firefox OS well this to answer to that
+and it's been sometime in the early days you know this is a version one
+product we are with our whole mission is to stimulate ... the ecosystem just
+as we did with the desktop I mean it was ninety eight percent share and
+explore that ... one Mozilla was first are so there's a group of people fall
+to reach a better way ... than if we credited openly created standards created
+the system to build a bell for ... innovation what happened what we saw I was
+one to standardize ... the Number web sites the number of experiences number
+people connected exploded ... almost a vertical line ... you know the same
+will happen in mobile ... and we see the world to clean Silicon Valley in the
+other tech pockets like New York and ... in which see the world through ... in
+a really high end device today but that doesn't exist in most of the world so
+... this could be priced effectively were oblivious to things technically to
+get it down the price point on a hard worker protection very meaningful ... um
+but there will be others that are there to sue in the short term it's going to
+be a brand appeal ... for launching areas for Firefox has a pretty strong
+brand and weak and ... others to leverage off that ... over the long term it's
+going to be entirely dependent on the number of core and core apps ... that I
+use a little bit differently than the top is we understand today ... and and
+the explosion of innovation comes as result of that ... so when will we see
+these in your talk probably later this year and midyear that kind of timeframe
+the news talk about the types of countries we might see it ... but where will
+we see it first and land ... yet were to see it in the next to billing of the
+developing world so there's out for an effective five watched countries by ...
+summer June the ash conference ... and in the eleven more in the remainder of
+the year ... those are all ... we showed Walter Dach of devices all the colors
+backstage ... um they're all in testing preview now so what are the five ...
+large country ... it's an idea to test Venezuela ... in Poland ... Brazil ...
+will pull in Brazil ... aam ... Portugal ... and Spain ... as one half to
+which cabinet departments to eliminate yet exactly ... um ... hit that target
+... um ... it seems to me this is a big ... as is even a mention ... this is a
+big ... plus for carriers that ... and ... forgive me but I think ... carriers
+have actually been ... I'm not a surly the most ... progressive part of the
+ecosystem of mobile that we have a mean ... that that ... that carriers ... it
+does take and read for example ... carriers are part of the problem whereby
+... it's difficult to get ... the latest version of the Android on your device
+... they have ... internal procedures they have other ... but you know
+incentives are disincentives that for some reason ... don't result in getting
+the latest version of Android ... they love to put below where and what's on
+your phone ... advertising their various services even if their inferior it
+cares to me ... I don't really care ... I don't care that I've said we've
+we've had carriers on stage said the same thing so ... the ... point ... the
+point is ... up aren't you just being kind of ... the enabler of this country
+... one of the cousins not want to smile Auxerre terrier I mean that's what is
+it me or code is open source so anybody can take undue everyone with ... where
+we have that if you will control ... to make sure that stays open to make sure
+that security profiling is as it set to make the privacy settings from an ...
+animation it's consistent with what you'd expect a Firefox ... is for the
+brand ... if you want the Firefox owe us label unbranded to some that's
+meaningful to others is not ... you it has to be open so ... the carrier can't
+lock it down to control it so the updates will happen via the web ... the the
+changes will happen via the website do have some ... one of your policies ...
+that they can't put ... a bunch of where on ... what would be pretty
+impossible for me to sit here and say that were open project and allow others
+to put stuff on and ... they can pull whatever they want user can move around
+depending on what they what their preferences ... um but it can be locked down
+the back carrier House to remain open and consistent with all the other
+patients taking a step back from Firefox to last and in the broader after the
+U S and I mean it my sense is ... that Firefox AWS's one import mobile project
+that you'd be almost as happy if the open web happened ... without Firefox
+you've still building ... Firefox three Android it's um how well is the
+industry doing at getting ... better browsers with Chrome now for mobile ...
+um ... how well is that effort going he told toward having a real web on these
+mobile devices is starting I mean you know I am representing ... principally
+historical browser company and I can say comparably that we've got that job
+... you know if you think of but just the premise of it we've developed a
+browser ... a place to go explore the web ... that over time is optimized for
+growing screen ... to screen on my desk at home sleep ... in the size of Pluto
+... and and the browser I open it up right into a hundred things in it and are
+best innovation all the brilliance that we have what is industry ... is to
+take that intricate ... and put him out of the rights ... and we just haven't
+ship classes to actually see which are doing so ... so it's um ... it we
+haven't done a great job frankly ... no were working on and I know Google's
+working on and others are working on a new browsing experience but frankly ...
+I'm expecting and I'm pretty certain will happen at some point some will do an
+awful ... on the wall browsing experts to change the paradigm entirely for how
+to explore contest it doesn't look like a browser and all ... that might be
+elements of that there might be some some micro model mean in the in the Iran
+or Chrome frame of the browser ... some navigation components but it'll be ...
+that of the entirely different variants and we follow fairly closely a lot of
+innovation is happening there ... and there's lots of different ways to look
+at some I actually ... if I pick it up there's a couple of pickup ... while
+this is really different side in use in your your mobile your Intrade version
+of ... Firefox ... more heavily than usual last couple weeks this ... and then
+... work testing Facebook Home and in preparation for my review and ... aam
+... I downloaded it ... onto that foreign embassies in quite a lot ... was
+tested ... import well ... on that particular thought I was I actually was
+faster than ... Chrome ... I thought ... it was good ... but it is race a
+couple question to my mom one is aam ... why isn't there a Firefox prior
+what's ... an ETF be because they don't allow other browsers ... as they do
+allow other browsers they have Chrome ... they have a bunch of lesser ...
+known ones on there ... why don't you make of Primus well ... yes so ... I O s
+has a policy generally speaking without getting into specifics were you have
+to use their weapons ... and our web engine is very different ... and we feel
+that that web engine is really tight experienced Firefox ... the security
+model the we employ a of the other things that make a unique experience ...
+and frankly early on it's really in my tenure we just said we believe ...
+Android in the yen is going to be the ... mass ... market device to work for
+energy behind because we don't approve of policies ... and ... new Mozilla has
+had a history of making those decisions and it's the right decision ... I love
+the I phone I ... pledge when ten percent home income allegiance topple every
+year ... and aam ... though I don't ever ask I just say it still another ten
+percent cap ... but you know I would love to see for more innovation on the I
+phone ... ah but on the Android device it's much more open so were able to get
+that on there we just refuse to make the policy switched to rethink to a
+compromise that and then my second question was ... if the browser is gonna
+have this ... radical transformation and you showed me backstage and I guess I
+don't know we have it here but ... that the browser or that the with the
+Beastie experiences on your ... your new alas ... aam looked like gaps in ...
+in in the sense the user might not ... be a ... think of it is on now on in a
+browser ... why is your Android browser still look like a ... browser ... well
+up because people will want a browser I knew a general way to look at content
+on the web ... worse on the allin pics we saw the reports recently a couple
+weeks ago that the percentage of time and ... content that people are looking
+for three general Webster for school ... browser ... ISI's is growing ... up
+after also growing so ... aam ... though the whole last the idea behind us is
+you can create an action on JavaScript ... and the icon new house ... is just
+... the Standard icon that you'd load on your homepage when you click it your
+web experience the work top line of local data stored in a caption The kept a
+wary of the of that I don't have an internet connection Mike Tyler apathy to
+give me a forum know I hope not ... thus far the prototype style just fine ...
+and then by the way the same as a as a map if you if you're doing a reader out
+or if you're doing some of the other apps that come ... stock on the device
+itself they'll work offline ... so there's that guy ... Denmark's second
+Burgundy heard him and know ... well he runs is come to call things but ...
+and he called he actually codes of self and ... he ... employs lots of people
+that Cody condos I think we stopped at on this ... and he has said publicly
+and I've talked to middling privately and that it ... that Pierre they've lost
+in his opinion the year to year and a half ... of time on mobile book as they
+were so in ten I'm doing exactly what you are and to a ... building it in HTML
+five ... so they didn't have to build a separate Android one separate Iowa
+swung a separate BlackBerry and ... Windows Phone and ... whatever other
+platforms that were they reached a bill that wants ... to be out there for
+everything and it ... wasn't very good ... and he said that was a mistake and
+it's not ready yet ... that rules are in theory at experiences in theory at
+... we had to backtrack ... and build needed Lee on everybody's platform ...
+now force ... on Android he's building the set to Wade through takes the fun
+over here ... but it still ... bill ... T Android's ... SDK ... he I Wes was
+built to theirs ... how can he be in ... such a different place than you on
+this question will you is using the right fiscal years ago as I said earlier
+the web wasn't ready ... so ... the content was there ... aam but the
+performance on the device the API is more standard in work performance ... you
+couldn't run off from Weisel Marquez just blown this he's he's ... he's ...
+just up with it and he'd be okay ... well that that different business drivers
+I don't purport to know ... yet um ... where Facebook's business travelers are
+... but over time the web will be ready the web is much better today than it
+was two years ago ... now ... what he was commenting on and you are
+organizations in fact ... a lot of people of what was going down to Facebook
+including St Redfern Mike shaver and others ... and that they're doing great
+work over there ... and then still firmly believe in the web so over time this
+isn't to which one wins everthing else loses ... this will live this over time
+is gonna be something that ... grows and ... so today the web isn't a much
+better place that was two years ago ... much better place with much better
+performance to the GP is on the device with much better promise for
+performance ... with BP eyes are actually approachable one standardized
+generally ... have been an amended yet were approved in the Derby three C but
+... aam ... they're coming and so ... you know you're good to from now it's
+can be very different story again so no I mean he's he's got it up to the to
+do what they have to do for their ... user base but this first the web is
+concerned ... he's even come out with common top of that that ... might take a
+majority of their traffic still comes from ... a while ... so the webs the
+webs getting there it's not there yet but it's improving its getting to a
+better place next couple years going in to get better ... next to billion or
+coming online ... the Web is getting better the mobile Web is getting better
+sounds like an exciting time to be a browser company ... what why and what
+really happened ... well ... you know human is a ... I learned in college
+nearly zero honest if the party for too long ... you make your interest again
+and I was cars changes in three years ago Sen Reid Hoffman agreements that ...
+despite two three year time ... we got some fun no change to make me ...
+Mozilo was a couple hundred people in a browser ... you were in version three
+... so ... now we re architect and remove every six weeks we've grown were
+well over a thousand people significantly in revenue ... going to the heart of
+it to mobile ... now it's about growth as a community the same since the
+muzzle is packed sandwiches ... this is time for me to move on other things a
+little ... back to my roots so ... incredibly proud is no magic that I mean
+we've been having this discussion for quite some time ... since the dad
+started frankly ... so rather than going here for another cycle where things
+actually ... we rev up and get deep in the operation curve I committed to the
+partners in ... an all of the organization I would stay through the land the
+first devices and then reassess ... and it's ... it's where does now ... now
+one thing unique about Mozilla is ... it's all very disingenuous to do any of
+this discussion on the back ... row Crutcher ... so instead just as we did
+when the previous he left Mexico which aired on the open ... so that's what
+the statement of intent is ... and it's on ... it's exactly that its statement
+of at some point later in the year to clean up was launched the devices were
+to make a leadership transition ... what how that exactly functions and who
+actually comes in to replace the were just starting on my now you ... can ask
+you a question about openness and encourage ... openness warning these words
+... that ... people use for their own ... he picked the wrong destination ...
+aam ... and as I said before I think he gets into ... what I like to call
+computer theology to some extent ... because ... BP of a platform and it has a
+parrot thousand apps in it ... that's pretty open to most people ... even its
+large and if that well so ... I'm when we could make a nap ... I probably
+couldn't that you can really make a nap or ... we did actually there's a Dive
+Into Mobile hours dive Into Mobile App weekend having to take the problem
+doing that you know we ... are summoned to do it but ... it added up there and
+... most apps to sail right through ... so ... aam ... isn't it my question
+really is ... any Rubin you say ... and still would stay ... as said on our
+stage ... many times that this is Intrade is completely help ... is an Android
+to be open ... well ... there isn't a standard tools of her creation framework
+... so ... I mean does that mean it's not open ... the door so it's open and
+that definition but it's not a span of this and agreed to ... a piece of
+content can run their import on other devices ... he's the content doesn't
+represent the user represents them ... and it's it's it's not impossible but
+it's hard to do on a the other platforms multiple payment comes to me can be
+done but it's ... it's not not trivial ... and app stores in all the rest of
+things are blossoming of now ... aam and ... do we have to build an ecosystem
+for a the ... platforms that our ... city got a few hundred thousand five six
+... you know growing ... developer ecosystem ... there's a hundred for a ten
+million ... web developers to bed that can be unlocked ... so you know I think
+it struck an interesting point it's not about Oprah not opening when we say
+this is rather like you and you've been using the word open so ... that I
+called Android open for the app ecosystem Cerny much more than Apple's system
+... so I'm the one taking questions from the audience if you have a question
+... we have a public phone to believe him when to ... start lining up but um I
+did a good one ask you know obviously the US is not the target market for
+Firefox alas ... that said ... inversely you talk about it so watch market by
+... two thousand fourteen year track to bring in here ... there was one name
+that you guys drop to the event we haven't heard he ... can find out anymore
+there and we haven't heard a peep since spread was listed as a partner in out
+what is their role in in Firefox alas so Sprint is a partner they have
+indicated a desire to launch when the first devices that come to the U S ...
+to make sense for us to launch around the world to play ... the other is the
+high end mobile device that's ... rather large ... penetration in the state so
+... putting in a version one relative to that didn't think anybody would ...
+win at that point ... so we have to ... get a version to version three Sprint
+will be like car for us in twenty fourteen is time for ... well you know as
+the Fed make your way to the microphone get questions like these somebody's
+gotta have a family raising their hands that they ... had a good question
+Getty ... seven years ago and human and Steve Jobs ... found awarded ... in
+the mobile user experience and to the violence in Android ... and and uses
+jumped on it because they found that in the week if they found it helpful ...
+and in the used it because at that point ... right ... aam seven years from
+now means today you are into using aam was the lowest full mobile ...
+contending that the bed ... it is ready to explode ... but I believe that war
+it has been Pharaohs ... The and uses happy ... is there that big ... the
+reason for people to jump onto your of bad boy yes I mean we are ... most of
+the boy yes ... because that boy that she has been felt ... while the boy as
+we see it as you portend has been felt ... there's always an important
+technology moves ... but but it'll all be dependent on the explosion of
+content at me what I love about this is what we see is a lot of content ...
+but it is a fraction of the content that needs to be consuming five doing
+people come on line ... I get back to my regional ... assertion ... it's
+impossible for me to believe that five billion people are gonna get apps from
+one store or one ecosystem I can get there ... we may be wrong it would lower
+the one we of we do these four five okay ... so here's another of his others
+to question the dive of the mall was faced with witches ... the apple into
+both an amazing job of building easy to suspend great ... useful products ...
+using both ... I can't decide but ... I'm conflicted ... but the ... everybody
+else trying to build an ecosystem ... and scale against these two incredible
+companies with ... deep pockets and this head start ... but you don't
+understand how all that is going and how that's can a Bloomberg and five six
+seven ecosystems ... all tearing at the developers to create unique
+experiences for their devices ... it just doesn't pencil to me ... so we've
+got a couple EU forces doesn't derail should go way but ... but I've that part
+of the ecosystem I don't get it all so to me doesn't it isn't in our
+collective benefit ... but everybody pulling it to developers insane unity
+wanna shop here here here here for the same app ... this may Census not with
+the is in the year's best and so over time that will be a calm denominator ...
+by the way I believe you know not that ... Wilson who was terribly approval
+would cap their ... very quickly an inner web companies below the web and a
+lot of good things for the web ... um so this isn't the case for Mozilla
+passed away and others lose ... the web is what we are about this isn't a
+market share it ... I Gary Johnson is here on the question on how ... the
+strategy difference for ... what Home did for five years ago and their
+centering on web technologies in their lives ... I think they know well the
+last and they said they were building in around standard web technologies and
+... it didn't didn't like the guys that I mean it just a ... follow up ... I'd
+say that ... those folks what how Aeon get developers toward ... who are
+focused on I lesson and redeveloping in they said ... they're different
+developers whether the leaves the Web developer summit companies ... is this
+is a Women ... face than ... that ... except for the fact that it wasn't worth
+it ... Anita westmall to have dinner there is that it was an open there were
+proprietary API as it was close ... to their faces the same counter just
+outlined ... he was kind of sorta maybe a little bit but ... not enough ...
+and so that they eat this for the dip to tell him that in Japan ... because
+the lower at the time of walk in his last ... economically ... so they didn't
+do it ... and therefore they didn't get the result ... and ... um ... that's
+unfortunate because it was a very useful I find very useful unless but ...
+again the conflicting at ... that developers without putting the money behind
+it actually when he was ... a ... lot of websites love the way it is fairly
+static in ... so I'm trying to steal hundreds of people boxer ... in time and
+so it's the popular apps to run ... on Android and we need for leave deep
+level access thinks the less to do the ... audio processing network via do ...
+which is this the would you be fighting that have is access for apps ... and
+... secondly your thoughts more broadly about any apps that have to do more
+than just for ... show because of a webpage ... yet it's a great question and
+it is a reason why when I said earlier the what was already that's the essence
+that was a mini a pianist or just not develop ... in me still today we've got
+a little bit of it but it's much further on its wouldn't have access to love
+the low-level API is ... that you mention ... and and or ulu to ... today
+that's very different and and Firefox so last ... we have built in stand
+around our process to standardize and twenty five twenty seven different yes
+... so things like taking a picture camera rotation yet that's what always
+should explain ... cases something or doesn't allow ... an API is quite how
+would you say the BBC programming interfaces just the way you write ... to the
+device so that you can access other software control something a member
+hardware or Hitler or in the morning ... for ... the plug here is an API
+electrical system soon if the hardware and ... okay so ... here for the of the
+stand the more standard we have a more efficient they are ... the the battle
+the wind is not all ... all done with those API is and I know ... that you
+know this new realizing has already it's not all quite there yet ... the web
+is there the device will be there ... we have built in the eyes but they're
+not the extent he needs to get deep into the ... sound while the sound
+capabilities of hardware ... it is big enough to work with you directly or is
+it all hours or on public depends on what he wants to do but know there are
+deep sound API is that that we can point to the vertigo ... and they were ...
+two years and one two years ... and am liking this had the camera on the ...
+accelerometer a latte blood of the basic functions ... we're just not built as
+a web API so Web developer can access that function easily ... they could do
+magic and ... heavy lifting and get there but it was painful ... okay ... I
+tougher here um ... I'm all bought in on the way in fact it out and then sold
+the company with eighteen months ago ... the Liesel final last ... and one of
+things I think it's come a long way in the last year ... and one other things
+or if you comment on is ... how the desktop and the browsers on the desktop
+... the week as it in the servo eating with them skip the man ... and that and
+will not coming out and receive for their own ... the advantage of the last
+... year seeing this now lot of developers is a million developers that
+developing ... know whether developing may be needed applications from
+immobile for desktop the developing apps that people can feel like a ... a
+native application of losing the browser in the war theaters are doing ... to
+really push the browser forward ... unknown I hear you saying you know within
+two times of native importing in religion ... and how the movement on the
+desktop which we think of you is the sub dad ... about that is in a gives life
+to the immobile Browse ecosystem and I know because ... I know that's a good
+question but there was a lot of ... piano in ... the article ... gave more
+important ... than all up I mean what what is he talking about and yes yes so
+... that I think we ... are the essence of it is ... every browser is built on
+an engine a web mention actually renders a content as a bunch of things ...
+are engine is called Getco ... and ... and servo the thing that he is talking
+about is a ... next generation browser engine that we are detecting renders
+the page it actually makes yet among other things but we are building that in
+for the future of computing ... because we they'll be for performance ... it's
+very experimental ... so you know that's effectively respond about ... mobile
+... awful much that they do these projects all time ... so we publish recently
+that our initiative though what is really saying is ... is that applications
+that you download on the desktop they can run ... and look and feel like a
+native application ... the solat for user the thing the reason the character
+not controlled by the browser Chrome the navigation ... we can actually build
+the web experience New York Times doesn't ... where your actual navigation is
+decided by whoever builds the page to all the controls are in the page ... the
+browser frame if you will just goes away ... so the line between application
+and ... web pages ... gone ... and and people don't even ... need to be
+concerned about it they can just write what we don't see an almond desktop as
+well as on the desktop that they can right click on that experience and do
+something called thinness out of ... that stays up including notifications if
+they get ... but didn't e-mails a good example you competitive map app
+notifications will go to the paddock to get in the metals sector ... so it's
+there ... in the user should know but it shouldn't care but it should just be
+usable ... and that's the mobile experience it's also being developed and
+launched the Firefox O s ... the line between a browser and a web page and now
+... that she should just go with the user doesn't need to care about that and
+when will it ... effectively go when the lives of ... the people Misra ...
+bottle start in June when the devices are on ... the June in those countries
+in a and and and two thousand fourteen in the last two dozen Fortune the red
+... Up Next Editor Picks 1:42 Fed Chairman Powell Won't Resign if Asked
+1/4/2019 2:15 Is the December Job Report Good News for President Trump?
+1/4/2019 2:23 The Main Reasons for Apple’s Revenue Shortfall 1/3/2019 3:35
+China Makes Historic Moon Landing, Boosting Rivalry With U.S. 1/3/2019 More →
+Editor Picks 1:28 Nancy Pelosi Is Elected Speaker of the House of
+Representatives 1/3/2019 The new Democratic-controlled House elected Nancy
+Pelosi as speaker of the House on Thursday amid a battle with President Trump
+over border-wall funding. Photo: Getty 2:56 Businesses Prepare for Prospect of
+'No-Deal' Brexit 1/3/2019 6:00AM 3:19 What Did We Learn From Kim Jong Un's New
+Year Address? 1/3/2019 5:30AM 1:43 Trump Sticks to Border Wall Demands as
+Shutdown Continues 1/2/2019 6:03PM 24:45 Safe Haven: One Family's Journey
+After Hurricane Florence 12/31/2018 3:24PM More → More → Moving Upstream 9:56
+Electric Scooters: Israel’s Two-Wheeled Solution to Traffic and Sabbath
+12/20/2018 Electric-scooter rental companies are hitting speed bumps in the
+U.S. over safety and other concerns. But in Tel Aviv, one in 10 residents has
+rented a Bird e-scooter, and the city appears to be embracing them. WSJ’s
+Jason Bellini takes a look at the challenges and potential lessons of the
+e-scooter craze. 0:54 Tasting the World’s First Test-Tube Steak 12/11/2018
+5:30AM 9:58 High Insulin Prices Drive Diabetics to Take Extreme Measures
+12/3/2018 5:30AM 9:57 Facial Recognition Tech Aims to Identify Good and Evil
+11/19/2018 5:30AM 9:54 The Future of Flight: AI in the Cockpit 11/12/2018
+5:30AM More → Recommended for you 2:15 Is the December Job Report Good News
+For President Trump? 1/4/2019 The government released a blockbuster jobs
+report despite a trade war with China and a partial government shutdown. WSJ's
+Gerald F. Seib explains what this report means for President Trump. Photo:
+Getty 2:23 The Main Reasons for Apple’s Revenue Shortfall 1/3/2019 8:53PM 1:42
+Holtz-Eakin: The Fed Has Not Overdone It 1/4/2019 10:00PM 1:41 The Opposite
+Sides of the Shutdown Talks 1/4/2019 5:49PM 3:35 China Makes Historic Moon
+Landing, Boosting Rivalry With U.S. 1/3/2019 9:08AM 1:42 Fed Chairman Powell
+Won't Resign if Asked 1/4/2019 11:52AM 1:28 Nancy Pelosi Is Elected Speaker of
+the House of Representatives 1/3/2019 4:40PM 2:56 Businesses Prepare for
+Prospect of 'No-Deal' Brexit 1/3/2019 6:00AM 3:19 What Did We Learn From Kim
+Jong Un's New Year Address? 1/3/2019 5:30AM 1:04 Trump Slams Mattis Over
+Afghanistan 1/2/2019 5:07PM 4:43 Didn't Get the Job? The Robots May Not Have
+Liked Your Social Media Activity 12/30/2018 7:00AM More → Featured Content
+11:59 Violence Made Her Flee. Now She’s at the Border 12/28/2018 Fleeing
+violence from her hometown in Honduras, Gabriela Rodriguez traveled thousands
+of miles with her daughter to the Mexico - U.S. border in Tijuana. The Wall
+Street Journal followed her as she weighed her options to cross into the U.S.,
+hoping to leave behind her past. Photo/Video: Jake Nicol/WSJ 6:30 The Struggle
+to Keep a Son's Promise 12/31/2018 7:00AM 9:35 What Trump Did to Silence
+Stormy Daniels and Karen McDougal 11/9/2018 12:33PM 8:53 How Scammers in China
+Manipulate Amazon 12/17/2018 5:55AM 9:18 Chefs Speak Out on Mental Health in
+the Restaurant Industry 11/12/2018 12:28PM More → More → Tech 4:43 Didn't Get
+the Job? The Robots May Not Have Liked Your Social Media Activity 12/30/2018
+DeepSense, based in San Francisco and New Delhi, uses artificial intelligence
+to assess job candidates’ personalities based on their social media accounts.
+WSJ’s Jason Bellini tested the tool. 9:39 Cold Pursuits: A Scientist's Quest
+to Uncover Antarctica's Secrets 12/29/2018 12:00PM 3:26 Facial Recognition
+Spurs Privacy Concerns, Even Among Its Creators 12/24/2018 10:59AM 2:40 Easy
+Upgrades for Your Family's TV 12/23/2018 8:30AM 4:59 Where Amazon Reviews
+Really Come From 12/20/2018 8:50AM More → More → Life & Culture 2:21 The
+Secret to World Famous Carrot Cake (Hint: Jail) 12/25/2018 This Christmas at
+the Rikers Island jail complex, inmates and the staff are looking forward to a
+special treat from the jails’ bakery. We went inside. Photo: Natalia V.
+Osipova/The Wall Street Journal 4:21 Three Boys Explain Why They Play Fortnite
+Every Chance They Get 12/21/2018 8:00AM 4:03 Your Home Needs a Robot Vacuum
+12/16/2018 8:30AM 3:43 Lab-Grown Meat Prompts Rabbis to Consider the
+Impossible: Kosher Bacon 12/14/2018 3:36PM 4:32 'Beam Me Up, Scotty:' A 'Star
+Trek' Home in Silicon Valley 12/6/2018 10:00AM More → More → Sponsored 2:21
+Sponsored Am I Doing What I Love? 9/22/2016 11:59PM 1:00 Sponsored Golf's Data
+Revolution 9/9/2016 2:16PM 1:30 Sponsored How Worldly Experiences Can Shape
+One's Success 1/24/2018 27:34 Sponsored Creating the Future Workforce
+1/17/2017 3:39PM More → More → Marketwatch, Moneyish and Barron's 2:30 How
+automated digital payroll will change the way employees get paid 1/3/2019
+Here's how the 'consumerization' of payroll could affect when and how you
+receive your paycheck. 3:56 When a couple with opposite attitudes about money
+buys a house 1/3/2019 7:00AM 3:18 AI could transform the world. Here's what's
+holding it back 1/2/2019 7:03AM 1:06 A personality test expert assesses
+Hillary Clinton and Warren Buffett 1/2/2019 7:00AM 3:09 Why the banking
+industry will spend $100bn in cloud services by 2019 12/28/2018 7:10AM More →
+The Wall Street Journal Digital Network WSJ.com WSJ Video MarketWatch.com
+Barrons.com BigCharts.com Virtual Stock Exchange About About Content
+Partnerships Advertising Advertise Locally Privacy Policy Cookie Policy Data
+Policy Your Ad Choices Copyright Policy Tools Tablet Edition Podcasts RSS
+Feeds WSJ on Twitter WSJ on Facebook Help Help Customer Service Contact Us
+Global Support WSJ Podcasts ViewWSJ Videoon WSJ Video Home Topics Browse
+Videos Programs Events Content from Sponsors View WSJ Video On

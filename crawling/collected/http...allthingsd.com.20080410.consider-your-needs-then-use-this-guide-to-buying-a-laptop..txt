@@ -1,0 +1,125 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Personal Technology > Laptops Consider Your Needs, Then Use This Guide to
+Buying a Laptop April 10, 2008 at 12:01 am PT Tweet Share Print See More
+Reviews » For years, I have focused my twice-a-year computer buyer’s guides on
+desktop PCs, with less-frequent columns focusing on laptops. Now that the
+latter are outselling the former, though, I am going to center my main buying
+guides on laptops. Many of the specs I recommend will also apply to desktops.
+As always, this is a general guide aimed at mainstream, nontechnical consumers
+who dwell on common tasks such as email, instant messaging and surfing the
+Web; managing and lightly editing photos, videos and music; and using basic
+office applications. It is not intended for heavy gamers, video producers or
+corporate buyers. There’s a vast variety of laptop models, but this guide is
+meant to cover the most common types of laptops, those with screens from about
+12 inches to 17 inches, and weights ranging from around 2.5 pounds to 7
+pounds. For this column, I’m not including the category of tiny machines now
+called netbooks, with screens under 10 inches. I am also ignoring the huge,
+heavy laptops with screens larger than 17 inches that are primarily aimed at
+gamers. Even the remaining mainstream machines range wildly in price, from
+bargain-basement models at $350 to high-end ones that can top $3,000. In my
+experience, the top brands for technology and reliability are Apple and
+Lenovo‘s ThinkPad line, but various models from Sony, Hewlett-Packard, Toshiba
+and Dell are also worth investigating. So, here is a quick guide to the key
+factors you should consider when buying a laptop. Size: If you are a constant
+traveler, think about the subnotebook models, which generally weigh 3 pounds
+or less. There are two types of these. The classic subnotebook has a small
+screen, 12 inches or less, and a cramped keyboard. This year, a new type
+emerged, with a full keyboard and a normal 13.3-inch screen packed into a
+thin, light body. There are two of these: the MacBook Air from Apple and the
+Lenovo ThinkPad X300. All subnotebooks are relatively costly, typically
+ranging from $1,500 to over $3,000. If your laptop will mostly stay at home,
+the office, or in class, a 5-7 pound machine with a screen of either 13.3
+inches or 15.4 inches is the best bet. A well-equipped model in this class is
+likely to run you between $800 and $1,200. Typical models in this class are
+the Dell Inspiron 1525, the HP dv6700 and the Apple MacBook. Windows vs. Mac:
+This is the eternal question. In my view, Apple’s Leopard operating system is
+faster, better and far less prone to malicious software than Microsoft’s Vista
+operating system. And the Mac laptops also come with better built-in software.
+The $1,099 MacBook is a solid, fairly priced machine, and the $1,999 MacBook
+Pro is even better. Both also can run Windows. But Windows laptops are often
+less expensive, tend to have a greater variety of ports and slots, and come in
+more styles and sizes. Apple’s MacBook Operating system: If you are buying a
+Windows laptop, be aware that Vista is slower than Windows XP, in my
+experience, and still has compatibility issues with add-on hardware and
+software. If you’d prefer to stick with XP, you will find that many fewer
+models are available with it. And Microsoft has decreed that after June 30,
+mainstream, name-brand laptops will no longer come pre-equipped with XP.
+Video: I recommend getting an LED-powered screen, which is brighter and saves
+power. Also, if you are choosing Vista, or if you do a lot of converting video
+for use on portable devices, consider getting a laptop with a separate video
+card inside that has its own memory. Memory: If you’re buying an Apple laptop,
+two gigabytes of memory is plenty. If you’re using Vista Home Premium, I’d
+consider three gigabytes for best performance. Processor: Any dual-core
+processor will be fine. Don’t pay a penny extra for faster processor speed.
+Storage: In a mainstream laptop that will be your main computer, look for a
+160-gigabyte hard disk or larger. A new kind of storage, called SSD, or solid
+state disk, is now available. But it is still way too costly for most users,
+and at the moment is available only in smaller capacities. Battery life: Many
+laptops today rarely spend time away from an electrical outlet. But if yours
+will, look for a battery life of at least three hours between charges.
+Wireless: Make sure your new laptop has the new, faster “N” version of Wi-Fi
+built in. Many cheaper laptops don’t. You can also get a cellphone modem built
+in, but they are costly and carry a monthly fee. You can always add an
+external cellphone modem later. Other features: A built-in camera and
+microphone can be quite useful, and so can a feature on some Windows machines
+that allows you to play music and videos without fully booting up the
+computer. Don’t let yourself be swayed by sales pitches, or by fanaticism for
+or against Windows or the Mac. Think hard about how you use your computer and
+what your budget will allow, and stick to those priorities. Email me at
+mossberg@wsj.com. Find all my columns and videos online, free, at the new All
+Things Digital Web site, http://walt.allthingsd.com. Tagged with Apple,
+application, battery life, camera, cellphone, Dell, desktop, dual core, email,
+gamer, gigabyte, hard disk, hardware, Hewlett-Packard, Home Premium, HP,
+Inspiron, instant messaging, keyboard, laptop, LED, Lenovo, Leopard, MacBook,
+MacBook Air, MacBook Pro, mainstream, memory, microphone, Microsoft, modem,
+music, operating system, PC, photos, port, processor, screen, software, Sony,
+SSD, storage, subnotebook, ThinkPad, Toshiba, video, Vista, Web, Wi-Fi,
+Windows, wireless, XP Top Products in Two Decades of Tech Reviews December 17,
+2013 at 6:04 pm PT Diabetes Data Beamed to Your Phone December 10, 2013 at
+6:16 pm PT Two Houses, One Cable TV Bill December 10, 2013 at 6:14 pm PT
+Calling Overseas on Wi-Fi December 03, 2013 at 6:18 pm PT Dell Tablets at
+Bargain Prices December 03, 2013 at 6:12 pm PT Search the Mossberg Archives
+AllThingsD contains an archive of columns by Walt Mossberg and Katherine
+Boehret from The Wall Street Journal dating back to 2005. Latest Video View
+all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

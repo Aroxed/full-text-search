@@ -1,0 +1,121 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Tilera’s Server Chip Challenges Intel, Sort Of
+January 30, 2012 at 6:44 am PT Tweet Share Print It’s been awhile since there
+was a new chip on the scene to get excited about; one that didn’t come from
+Intel, and wasn’t aimed at a mobile phone. It’s been even longer since there
+was a chip aimed at servers. Today is one of those days. A start-up called
+Tilera today unveiled a chip it calls the TILE-Gx. Essentially, it’s a super-
+chip with 36 cores which — so the company claims — beats a traditional Intel
+server chip on the key metric of performance per watt. For those who don’t
+keep score in the arcane world of semiconductors, I’ll revisit some of the
+basics of the above paragraph. We all know that Intel and its one main rival,
+Advanced Micro Devices, sell chips for servers. Those chips, and those that go
+into PCs, are generally known as x86 chips, a name derived from the
+instruction set they share. On the other hand, there are ARM chips, which are
+a different breed, and exist in a very different ecosystem. Scores of
+companies make ARM-based chips for all kinds of different uses, and they
+license the basics of the designs from ARM, the company, which last year did
+$636 million in revenue. ARM chips show up in phones and tablets from the
+likes of Broadcom, Qualcomm, Texas Instruments and Nvidia, but not so much in
+PCs and servers. ARM is even the basis for Apple’s A4 and A5 chips. At CES
+last year, Microsoft said it would create a version of Windows 8 that will
+support ARM chips. And a company called Calxeda (which I initially got mixed
+up with Tilera) is aiming to bring ARM cores to chips running in servers.
+Tilera, based in San Jose, Calif., is backed by investments from Bessemer
+Venture Partners, Walden International, Columbia Capital and VentureTech
+Alliance; plus a trio of strategic investors, Quanta Computer, NTT Finance and
+Broadcom. Its new chip is based around an entirely new architecture developed
+by Tilera’s CTO Anant Agarwal, a professor at the Massachusetts Institute of
+Technology. It forgoes both the traditional x86 and ARM architectures. Aimed
+squarely at servers, its intention is to get the same work done that a
+traditional Intel server chip does, while using less power to do it. That’s
+not a trivial benefit, especially in data center environments where servers
+are bunched together and pushed to the performance limit. The biggest
+operational expense in running them is going to be power. So it’s on this
+point that server vendors and chip vendors obsess over saving a watt here and
+there — over the machine’s useful lifetime, the costs will add up
+considerably. How it does this is what makes it interesting. Essentially, the
+cores on the chip do something that an Intel chip can’t do: They communicate
+among themselves. The way I understand it — and I admit I’m simplifying it
+greatly — the cores on an x86 chip rely on a single communications channel,
+called the Bus, to communicate. The Tilera architecture allows each core to
+communicate directly with the other cores, thus eliminating the need for the
+Bus and cutting back on the need for power. The top-end chip — there are two
+versions — has 36 cores. A core is essentially the main computing engine on a
+chip. If you’re reading this on a PC, chances are the chip inside it has two
+cores, maybe four. It used to be that chips had only one core, until it became
+logical to put two or more on a single chip. I’ve always compared multicore
+chips to roommates folding laundry together. When there’s a big pile of
+laundry to be folded, one person can certainly do it, but two or four get it
+done faster and with less effort. Multicore chips basically prove the old
+adage that many hands make for fast work. There’s an obvious appeal to a chip
+like this, but there are a lot of strikes against it. First, much of the
+server ecosystem is pretty well entrenched. Companies run what applications
+they already have, and are usually loath to mess with their computing
+environments much. Changing the architecture of the CPU chip inside the
+servers is about as major a decision as a CIO may ever make, and one they
+don’t make lightly. First they’ll have to test it and run it for awhile, and
+then see how it interacts with other systems. It’s not the sort of decision
+that happens just overnight. Also, a new architecture brings with it a lot of
+software compatibility questions that will give many IT departments pause.
+Meanwhile, Intel, which sells chips that go into most of the world’s
+mainstream servers, will continue to push its power consumption down. At the
+same time, it’s been trying like crazy to use its Atom line of chips to mount
+an attack on ARM’s territory and win business from phone and tablet vendors.
+That effort is just now seeing its first early successes. If there’s a great
+long-term story in chips that bears watching, the grappling between Intel and
+the ever-expanding universe of ARM vendors is certainly it. Correction: I
+initially thought the Tilera chip was based on the ARM architecture. I’ve
+revised the story to correct that. Tagged with: A5, Advanced Micro Devices,
+Apple, ARM, Broadcom, chips, enterprise hardware, instruction set, Intel,
+iPad, iPhone, mobiles phones, Nvidia, Qualcomm, semiconductors, servers,
+tablets, Texas Instruments, Tilera, X86 Apple Denies Working with NSA on
+iPhone Backdoor December 31, 2013 at 8:49 am PT You Won’t Believe All the
+Crazy Hardware the NSA Uses for Spying December 30, 2013 at 12:15 pm PT HP Is
+Negotiating to Settle Bribery Charges December 30, 2013 at 8:45 am PT CIOs
+Brand Enterprise Social Tools as Most Overhyped Technology of the Year
+December 30, 2013 at 3:39 am PT Malware Attacks by Syrian Pro-Government
+Hackers Are on the Rise December 27, 2013 at 1:27 pm PT Latest Video View all
+videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » When AllThingsD
+began, we told readers we were aiming to present a fusion of new-media
+timeliness and energy with old-media standards for quality and ethics. And we
+hope you agree that we’ve done that.— Kara Swisher and Walt Mossberg, in their
+farewell D post AllThingsD by Writer Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site
+devoted to news, analysis and opinion on technology, the Internet and media.
+But it is different from other sites in this space. It is a fusion of
+different media styles, different topics, different formats and different
+sources. Read more » About Us » Contact Us » Comments Policy » Cookies Policy
+» Privacy Policy » FAQ » Terms of Service » Your Ad Choices » Advertise With
+Us » Send a Tip » Daily Headlines Email » Follow AllThingsD Your Way »
+Featuring the most influential figures in technology, unscriptedand upfront.
+More » Conferences: D: All Things Digital. » D: Dive Into Media » D: Dive Into
+Mobile » Follow us on Twitter: Select Account @allthingsd (All Things Digital)
+@ATDapple (Apple) @ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile)
+@ATDreviews (Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara
+Swisher) @JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret)
+@pkafka (Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247
+(Arik Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac)
+@BonnieSCha (Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All
+Feeds News Reviews Mobile Media Social Enterprise Commerce Voices Personal
+Technology Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher
+John Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik
+Hesseldahl Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow
+Jones & Company Inc. All Rights Reserved. Mobile Version

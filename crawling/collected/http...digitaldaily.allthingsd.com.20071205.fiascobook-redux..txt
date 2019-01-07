@@ -1,0 +1,66 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello John Paczkowski ethics statement bio e-mail RSS Follow
+@JohnPaczkowski Recent Posts by John Paczkowski Fiascobook, Redux December 5,
+2007 at 11:32 am PT Tweet Share Print What Facebook CEO Mark Zuckerberg lacks
+in foresight, he certainly makes up for in disingenuous hair-shirt remorse.
+After two weeks of hue and cry over Facebook’s month-old Beacon advertising
+system and its disregard for member privacy, Zuckerberg today apologized for
+the company’s misstep and announced some of the fundamental changes to Beacon
+that users have been calling for. “Once every 100 years, the way that media
+works fundamentally changes,” Zuckerberg stated … (kidding ….) “We simply did
+a bad job with this release, and I apologize for it,” he wrote. “…When we
+first thought of Beacon, our goal was to build a simple product to let people
+share information across sites with their friends. … At first we tried to make
+it very lightweight so people wouldn’t have to touch it for it to work. The
+problem with our initial approach of making it an opt-out system instead of
+opt-in was that if someone forgot to decline to share something, Beacon still
+went ahead and shared it with their friends. … It took us too long after
+people started contacting us to change the product so that users had to
+explicitly approve what they wanted to share. … Instead of acting quickly, we
+took too long to decide on the right solution. I’m not proud of the way we’ve
+handled this situation and I know we can do better.” And the company is
+trying. Today it released a privacy control to turn off Beacon completely.
+Said Zuckerberg, “If you select that you don’t want to share some Beacon
+actions or if you turn off Beacon, then Facebook won’t store those actions
+even when partners send them to Facebook.” That’s a pleasant assurance, but
+one that some say doesn’t go nearly far enough. “So essentially he’s saying
+the information transmitted won’t be stored but will perhaps be interpreted,”
+writes Om Malik. “Will this happen in real time? If that is the case, then the
+advertising ‘optimization’ that results from ‘transmissions’ is going to
+continue. Right! If they were making massive changes, one would have seen
+options like ‘Don’t allow any Web sites to send stories to Facebook’ or ‘Don’t
+track my actions outside of Facebook.’ ” Tagged with: advertising, Beacon,
+Facebook, Fiascobook, John Paczkowski, Mark Zuckerberg, opt in, opt out,
+privacy, Web HP Unveils Non-Computer For Those Who Don’t Need A Computer May
+20, 2011 at 9:25 am PT Apple: Amazon’s Appstore Isn’t An “App Store” May 20,
+2011 at 7:36 am PT Welcome to 1997: Nokia’s Market Share at Its Lowest in 14
+Years May 20, 2011 at 4:00 am PT Apple’s Data Center Buildup Goes Bicoastal
+May 19, 2011 at 1:20 pm PT China Mobile’s Four Million iPhone Users Still
+Waiting for Official Apple Deal May 19, 2011 at 9:35 am PT AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

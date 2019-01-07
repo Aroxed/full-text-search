@@ -1,0 +1,129 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Exclusive: Aneel Bhusri’s Workday Raises $85
+Million at a Whopping $2 Billion Valuation October 24, 2011 at 5:58 am PT
+Tweet Share Print Aneel BhusriIt’s beginning to look like this whole
+enterprise software-in-the-cloud thing might just go somewhere. For the latest
+evidence, look no further than Workday, the fast-growing provider of human
+resources software as a service. Today, Workday will announce that it has just
+raised $85 million in new financing, bringing its total amount of capital
+raised to $250 million. Sources familiar with the terms of the deal tell me
+that the investments value Workday at $2 billion. The funding round isn’t
+coming from traditional venture capital players, but from institutional
+investors who will want to be shareholders of Workday when it goes public in
+the second half of next year. The round, which is being described as a Series
+F, includes T. Rowe Price, Morgan Stanley Investment Management, Janus, and
+Bezos Expeditions, the personal investment entity of Amazon CEO and founder
+Jeff Bezos. I’m also told, by sources familiar with the deal, that William
+Danoff, the manager of Fidelity’s $80 billion Contrafund, the mutual fund
+giant’s largest stock-based fund, has participated in this funding round. This
+would be the Contrafund’s third recent investment in a privately held Internet
+company, the other two being Facebook and Zynga. In fact, it’s the same group
+of funds that took part in a huge round with social gaming force Zynga in
+February; in Groupon in January; and which earlier this year bought nearly
+three million shares of Facebook for $25 each. Previous investors include Dave
+Duffield and Greylock Partners, who are in for $90 million across four rounds;
+and New Enterprise Associates, which joined a $75 million Series E round in
+2009. Why raise from institutionals and not VCs? “Because Workday is going to
+go public, and probably before the end of next year,” Bhusri told me. “Rather
+than do a round that adds an overhang to the existing capital structure, this
+is a group of investors who will likely buy more in the IPO,” he said. “In
+some ways, it’s an early debut of an IPO.” And while there’s no S-1 filing
+from Workday to peruse just yet, Bhusri told me that Workday is growing plenty
+fast. Having disclosed $160 million in billings in 2010, Workday, he says, is
+on track to do twice that — or about $320 million in 2011 — and that it’s
+close to breaking even. So this round of capital is insurance. With the world
+economy so out of joint, if no logical window for an IPO emerges in 2012 — a
+reasonable worry — then Workday won’t be forced, should the need arise, to
+raise more capital in a difficult market. So what is Workday, exactly? For the
+answer, you have to turn the clock back to 2004, when the software giant
+Oracle made its initial hostile bid to take over PeopleSoft. Bhusri was a
+senior executive and co-chairman of PeopleSoft’s board. After losing the
+battle to resist Oracle, he and co-founder Dave Duffield decided that the next
+battle for enterprise software would be in the cloud. Workday was born within
+months of their departure from PeopleSoft. The plan, Bhusri says, was to
+create the next generation of PeopleSoft’s software, or the next generation of
+SAP’s Human Resources and Enterprise Resource planning software — essentially,
+software that businesses need to run day to day. But rather than deliver it in
+the traditional manner — run it on machines at the customer’s location — it’s
+all delivered via the cloud. “It’s as if you were going to start over with a
+clean sheet of paper and design this kind of software all over again,” Bhusri
+says. And Workday’s customers aren’t exactly small players. Its average
+customer has between 10,000 and 15,000 employees. Among its 250-odd customers,
+the biggest is Flextronics, the huge electronics manufacturing company, which
+has 200,000 employees. Other customers include Time Warner, Thomson Reuters,
+Chiquita Brands, and perhaps unsurprisingly, Salesforce.com. There are some
+two million employees on the system. All that after only four years of
+actively selling the product. And what Workday sells is a system that tends
+not to get replaced very often in large companies — perhaps once a decade.
+That gives the company an advantage when it asks for contract commitments that
+last three years; most cloud companies offer their services on a pay-as-you-go
+basis. Workday’s targets are Bhusri’s old customers who bought PeopleSoft
+software to run their businesses one product generation back, and also those
+who run SAP software. So when a new customer signs on it’s usually one or the
+other being displaced. Other rivals include Lawson, Infor and, occasionally,
+the payroll giant ADP. The typical new customer, Bhusri said, is using one of
+those other platforms and is ready to upgrade. “To upgrade to the newest
+version, they get a price quote that’s so high they start looking for a better
+way,” he says. “That’s when they find us.” And Workday isn’t sitting still
+with HR software. Its next battle will be in financial planning software that
+companies rely on to handle money — accounting, expenses, procurement. Workday
+already has 50 customers running the financial stuff. Once they try Workday’s
+HR, they like what they see, making for an easy upsell. Others just swap out
+both the HR and financial parts in one go, Bhusri said. And the competitive
+targets are the same as well: Oracle and SAP. One wonders if they aren’t just
+a little worried. Tagged with: Aneel Bhusri, Bezos Expeditions, cloud
+computing, Contrafund, Dave Duffield, enterprise software, ERP, Facebook,
+Fidelity, Financial planning, financing, human capital management, human
+resources, institutional investors, Janus, Jeff Bezos, Marc Benioff, Morgan
+Stanley, Oracle, PeopleSoft, Salesforce.com, T. Rowe Price, venture capital,
+William Danoff, Workds, Zynga Apple Denies Working with NSA on iPhone Backdoor
+December 31, 2013 at 8:49 am PT You Won’t Believe All the Crazy Hardware the
+NSA Uses for Spying December 30, 2013 at 12:15 pm PT HP Is Negotiating to
+Settle Bribery Charges December 30, 2013 at 8:45 am PT CIOs Brand Enterprise
+Social Tools as Most Overhyped Technology of the Year December 30, 2013 at
+3:39 am PT Malware Attacks by Syrian Pro-Government Hackers Are on the Rise
+December 27, 2013 at 1:27 pm PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » Just as the atom
+bomb was the weapon that was supposed to render war obsolete, the Internet
+seems like capitalism’s ultimate feat of self-destructive genius, an economic
+doomsday device rendering it impossible for anyone to ever make a profit off
+anything again. It’s especially hopeless for those whose work is easily
+digitized and accessed free of charge.— Author Tim Kreider on not getting paid
+for one’s work AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski
+Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren
+Goode Mike Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted
+to news, analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

@@ -1,0 +1,108 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Eric Johnson ethics statement bio e-mail RSS Follow @heyheyesj
+Recent Posts by Eric Johnson Four Years Later, How Does the Xbox’s Kinect
+Stack Up to Its Original Vision? December 2, 2013 at 8:00 am PT Tweet Share
+Print “Product vision: actual features and functionality may vary” —
+Disclaimer on Project Natal E3 announcement video. How’s this for a blast from
+the recent past? It’s the original video that Microsoft used to introduce
+Project Natal, its console-connected camera, later renamed Kinect: With a new,
+no-longer-optional version of the Kinect at the core of how Microsoft is
+positioning the Xbox One, now seems like a good time to sort out what features
+from this dorky video have made it into the real world, and what got left
+behind in ProductVisionLand. Here’s my scorecard, based on three demos of the
+new Kinect’s hardware that I sat through with Microsoft representatives this
+year: Camera recognizes players: This one works as advertised, except that the
+effect is much subtler. In the demos I’ve seen, games didn’t “speak” when new
+people entered the room, but the console’s menus changed to acknowledge the
+number of registered users whose faces it could “see.” | Ruling: Yep.
+Characters turn to look at players as they walk: Outside of this video, I’ve
+never seen anyone pace back and forth like Patton rallying the troops while
+gaming, so it’s neither surprising nor especially off-putting that this is
+missing. But, as Katie Boehret noted in her review of the Xbox One’s non-
+gaming features, “As I moved around the living room and talked to my mom [via
+Skype] from six different places, the Kinect camera panned to follow me, and
+even zoomed in on my face for the best possible picture.” So this is
+technologically feasible, though maybe not a high enough priority for games
+developers. | Ruling: Sort of. Second-player-specific motion controls: Man,
+that pit-crew simulator game looks exciting, huh? Kidding aside, this one’s
+also MIA. The only Xbox One launch title with Kinect motion-tracking baked in
+is Zumba Fitness: World Party, a dancing game that lets two players dance at
+the same time. However, Microsoft said the new Kinect is more accurate than
+its predecessor, so it’s not impossible that we’ll see secondary motion
+controls in some game down the line. | Ruling: Not yet. Full-body motion
+controls: This has been in the Kinect since the beginning, though if the new
+hardware is as improved as advertised, we should see fewer reports of fuzzy
+controls. | Ruling: Yep. Scan in real-world objects, turn them into virtual
+objects in game: Nothing like this is anywhere to be found on the Kinect at
+present. Hence that disclaimer. | Ruling: Nope. Speak to make video calls:
+This is one of the much-touted non-gaming features of the Xbox One. So long as
+the person is already in your Skype favorites list, saying “Xbox, call [name]”
+starts a Skype video call with that person. | Ruling: Yep. Share outside
+content in video calls: The closest thing to this in the Xbox One’s current
+features is Snap, which lets console owners use two apps on the same screen.
+However, the Xbox version of Skype doesn’t yet support Snapping, and the
+handful of apps that do are for watching or playing content, not for sharing
+it with others. But sharing data between two simultaneously open apps seems
+like a “someday” feature. | Ruling: Not yet. Voice recognition: This one is
+there, but it doesn’t work the way the video suggests. Rather than keying in
+on the differences among people’s voices, the Kinect figures out who’s talking
+because it knows at what angles and how far away people are seated from the
+camera. A voice coming from one end of the couch indicates that the person
+seated closest to that end is talking. | Ruling: Yep. “Controller-free
+entertainment”: The Xbox One boasts a range of motion and voice controls —
+here’s a full list in PDF form compiled by Microsoft. But in my demos of the
+Kinect, a company rep covertly used a normal TV remote to adjust the volume
+since, as Katie pointed out in her review, “saying ‘Volume down’ over and
+over” can be frustrating. | Ruling: Sort of. That video does leave one
+important question dangling: How many pushups can Chuck Norris do? Maybe the
+Xbox Two (or whatever) will tell us. (Hat tip to Redditor fp0013 for digging
+this up yesterday.) Tagged with: ATD Facebook, camera, facial recognition,
+Kinect, Microsoft, motion controls, Project Natal, Skype, voice recognition,
+XBox, Xbox One QuizUp Creator Plain Vanilla Games Raises Another $22 Million
+December 26, 2013 at 9:40 am PT AllThingsD Week in Review: WhatsApp vs.
+Bullshit Metrics and Apple’s Tearjerker Ad December 22, 2013 at 5:30 pm PT
+Atheer and Meta Want You to Touch Your Apps in Midair December 19, 2013 at
+1:52 pm PT Despite Free-to-Play Explosion, Apple Puts Spotlight on Paid Games
+December 18, 2013 at 6:00 am PT Why a Cozy Relationship Between Valve and
+Oculus VR Makes Perfect Sense December 17, 2013 at 1:24 pm PT Latest Video
+View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » First the NSA
+came for, well, jeez pretty much everybody’s data at this point, and I said
+nothing because wait how does this joke work— Parker Higgins via Twitter
+AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

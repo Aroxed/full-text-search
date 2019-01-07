@@ -1,0 +1,118 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Personal Technology > Cellphones Nokia’s Smart Phone Offers a Bargain Price
+For High-End Utility August 24, 2006 at 12:01 am PT Tweet Share Print See More
+Reviews » After years of sitting on the sidelines as a minor player in the
+U.S. market for high-end smart phones, Nokia is about to enter the fray in a
+bigger way than it has in the past. The Finnish cellphone giant is introducing
+a phone called the E62 that resembles, and is aimed at, the Palm Treo, the
+latest BlackBerry phones from Research In Motion and the Motorola Q. Nokia’s
+E62 Like those other smart phones, the E62 has a full keyboard and is actually
+a little computer that is meant to be a serious email device as well as a
+phone. Like the Q and the Treo, it can play music and videos, surf the Web,
+and display photos. Unlike the Treo and the Q, however, the Nokia E62 can run
+a service licensed by RIM that allows it to behave like a BlackBerry. It can
+send and receive email using either a corporate BlackBerry server or a
+consumer BlackBerry service offered by a cellphone carrier. I’ve been testing
+the E62 and I like it. It’s fairly utilitarian-looking and won’t likely become
+an object of desire like the Q and the Treo. But it gets the job done and may
+well be the best bargain in its category. In the past, Nokia has relied on a
+smart-phone design that was a thick, long device that flipped open to reveal a
+wide, horizontally aligned keyboard and screen. That design sold OK in Europe
+but flopped in the U.S. Now, with the E62, Nokia is adopting the American-type
+design pioneered by the BlackBerry and used by the Treo and the Q. Nokia is
+being coy about the timing, pricing and wireless carrier for the E62. But I
+expect it to be available late next month from Cingular Wireless. And I expect
+it to cost even less than the Q, which at $199 is the least expensive product
+in this group. The latest Treo models, the 700p and 700w, are being sold by
+Verizon Wireless for $299 right now, after rebates. The E62 works on the so-
+called GSM cellphone standard that’s universal in Europe, and used by Cingular
+and T-Mobile in the U.S. This means it can be used in both America and Europe,
+as well as in some other countries. The Treo 700 models, sold by Verizon and
+Sprint, and the Q, sold only by Verizon, use an American technology called
+CDMA that doesn’t work in Europe or in most places outside the U.S. However,
+that GSM technology also saddles the E62 with its biggest drawback: It is much
+slower at receiving data such as email and Web pages than the Q or the Treo
+700, or even certain BlackBerry models. That’s because it uses EDGE, a GSM
+variant that has been blown away by a technology called EVDO used by the Treo
+700 and the Q. In my tests, EVDO has been up to seven times as fast as EDGE.
+The E62 also lacks a camera, unlike the Q and the Treo 700. But, like them, it
+has Bluetooth wireless technology. Nokia has built in a sharp, vivid screen
+with a resolution of 320 by 240. That’s better than the resolution on the Treo
+700w and identical to the Q’s screen resolution — but inferior to the
+resolution on the Treo 700p. The new Nokia is a bit larger than the Q — wider,
+thicker, longer and heavier. But it’s thinner and lighter than the Treo 700,
+albeit a bit wider and longer. In my tests, the voice quality of the E62 was
+very good. Battery life was decent, with a talk time of between four and 5.5
+hours. The phone accepts memory cards for storage of files and applications.
+The BlackBerry Connect service and software, likely to cost around $45 a
+month, worked well. After I installed the BlackBerry software on the new Nokia
+and configured the service on the E62 and on an accompanying Web site, the
+service “pushed” all emails from my regular account to the E62 reliably.
+There’s no limit to how much email you can receive, though the carrier may
+intervene if it believes you are abusing the service. The only downside of the
+BlackBerry Connect feature is that there’s a noticeable latency when you open
+an email before it displays on the screen. In my tests, the N62 could open
+most major email attachment types, including Word documents, Excel
+spreadsheets and Adobe PDF files. It’s also supposed to work with PowerPoint
+presentations, but in my tests, this function failed. The user interface on
+the E62 isn’t nearly as fast or slick as on the Palm operating system used by
+the Treo 700p. But I preferred it slightly over the Windows Mobile operating
+system used on the Treo 700w and some other smart phones. There were still too
+many menus and extra steps compared with the Palm system, but at least you can
+delete an email with one click. Turning on the speaker phone was also quick
+and easy. I was able to synchronize the E62 with Microsoft Outlook, and bring
+over my contacts and calendar, using the separate Windows software that comes
+with the phone. And I was able to load up the memory card with pictures and
+songs from my computer and use them successfully on the E62. All in all, the
+E62 is a solid and inexpensive smart phone. Email me at mossberg@wsj.com.
+Tagged with Adobe, BlackBerry, CDMA, cellphone, Cingular, EDGE, email, EVDO,
+GSM, keyboard, Nokia, Outlook, Palm, PowerPoint, Research In Motion, server,
+Sprint, T-Mobile, Treo, Verizon, Windows, word Top Products in Two Decades of
+Tech Reviews December 17, 2013 at 6:04 pm PT Diabetes Data Beamed to Your
+Phone December 10, 2013 at 6:16 pm PT Two Houses, One Cable TV Bill December
+10, 2013 at 6:14 pm PT Calling Overseas on Wi-Fi December 03, 2013 at 6:18 pm
+PT Dell Tablets at Bargain Prices December 03, 2013 at 6:12 pm PT Search the
+Mossberg Archives AllThingsD contains an archive of columns by Walt Mossberg
+and Katherine Boehret from The Wall Street Journal dating back to 2005. Latest
+Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

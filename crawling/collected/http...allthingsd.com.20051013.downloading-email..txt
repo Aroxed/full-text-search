@@ -1,0 +1,105 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Recent Columns by Walt Mossberg Mossberg’s Mailbox Downloading Email at Work
+and Home October 13, 2005 at 12:01 am PT Tweet Share Print There’s no other
+major item most of us own that is as confusing, unpredictable and unreliable
+as our personal computers. Everybody has questions about them, and we aim to
+help. Here are a few questions about computers I’ve received recently from
+people like you, and my answers. I have edited and restated the questions a
+bit, for readability. This week my mailbox contained questions about
+downloading email to both home and work computers, the differences in Treo
+models and transferring files between Windows systems. If you have a question,
+send it to me at mossberg@wsj.com, and I may select it to be answered here in
+Mossberg’s Mailbox. I want to download all my daily emails to both my home and
+office computers, which are both Dells. I am told that, in order to achieve
+this, I have to instruct my email program to keep my email on the server. How
+do I do that? With most corporate email systems, and with a type of consumer
+email called “IMAP,” email is synchronized among your computers. But many home
+users have a type of email called “POP,” which isn’t synchronized. To get the
+same email messages on multiple machines, POP users have to instruct the email
+software on each computer not to delete messages from the remote server when
+they’re downloaded to one of the PCs. That way, they remain available for
+downloading onto your other PCs. This is generally accomplished by turning on
+an option in the settings for your email account, which can be a convoluted
+process. In Microsoft Outlook 2003, go to the Tools menu, select Email
+Accounts, then pick “View or Change Existing E-mail Accounts.” Select the
+account you want, click Change, then, in the next window, click More Settings.
+In the next window, select the Advanced tab and click in the checkbox called
+“Leave a copy of messages on the server.” Then click OK, then Next, and
+Finish, in the windows that follow. Whew. In Outlook Express 6, it’s a little
+easier, but not much. On the Tools menu, select Accounts, then Mail, then the
+account name you want. Click on Properties, then select the Advanced tab.
+Check the box next to “Leave a copy of messages on server.” Then click OK, OK
+and Close. Both programs allow you to set a number of days for the messages to
+stay on the server. I recommend setting that to 1 or 2, which is long enough
+so they’ll be downloaded to all your PCs, but short enough so your mailbox on
+the server won’t exceed its limits. I also suggest clicking an option that
+does delete from the server any messages you actually delete on any of your
+PCs. You’re not likely to want to see those everywhere. Since the Treo 600 is
+much cheaper than the newer Treo 650, I am considering getting a 600 instead
+of a 650. What will I be missing if I do so? The two models are very similar
+in their look and feel and their core functionality. The key differences are
+that the 650 has a much better screen, a removable battery, a slightly better
+keyboard and a better (but still not great) built-in camera. It also has
+Bluetooth wireless networking, and it is built much better, because Palm is
+using a different contractor to assemble the 650 than the one it used for the
+600, which was plagued by quality complaints. I am about to buy a new computer
+running XP Pro. I want to selectively transfer some, but not all, files from
+my old Windows 98SE computer over a cable. What is the best program for the
+job? I generally recommend IntelliMover by Detto, at www.detto.com. Note,
+however, that IntelliMover won’t move application programs — only files, like
+Microsoft Office documents, pictures, songs, etc. If you want to move
+programs, try Alohabob PC Relocator, at www.alohabob.com. * * * Because of the
+volume of e-mail I receive, I can’t routinely answer individual questions by
+e-mail, or consult on individual problems or purchasing decisions. I read all
+questions I receive and select three each week to answer in the column. Write
+to Walter S. Mossberg at mossberg@wsj.com Tagged with Alohabob PC Relocator,
+Bluetooth, Dell, download, email, IMAP, IntelliMover, Microsoft, Outlook,
+Palm, PC, POP, server, synchronizing, Treo, Windows, XP Top Products in Two
+Decades of Tech Reviews December 17, 2013 at 6:04 pm PT Diabetes Data Beamed
+to Your Phone December 10, 2013 at 6:16 pm PT Two Houses, One Cable TV Bill
+December 10, 2013 at 6:14 pm PT Calling Overseas on Wi-Fi December 03, 2013 at
+6:18 pm PT Dell Tablets at Bargain Prices December 03, 2013 at 6:12 pm PT
+Search the Mossberg Archives AllThingsD contains an archive of columns by Walt
+Mossberg and Katherine Boehret from The Wall Street Journal dating back to
+2005. Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

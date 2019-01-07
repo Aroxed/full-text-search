@@ -1,0 +1,11 @@
+Media Mozilla to Block Third-Party Cookies in Firefox Published on February
+24, 2013 by Mike Isaac The Mozilla Foundation, makers of the popular Firefox
+Web browser, will begin to block third-party advertising cookies by default, a
+move sure to upset online advertisers who rely on behavioral audience tracking
+to better serve online ads. The move is in line with that of Apple’s Safari,
+which has blocked third-party cookies for a long time, yet diverges from
+Google’s Chrome browser, which allows cookies of all types. Return to: Mozilla
+to Block Third-Party Cookies in Firefox URL:
+http://allthingsd.com/20130224/mozilla-to-block-third-party-cookies-in-
+firefox/ Brought to you by The Wall Street Journal | © 2005-2019 Dow Jones &
+Company, Inc. All Rights Reserved.

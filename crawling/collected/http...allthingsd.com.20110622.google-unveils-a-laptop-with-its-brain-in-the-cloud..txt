@@ -1,0 +1,144 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Personal Technology > Laptops Google Unveils a Laptop With Its Brain in the
+Cloud June 22, 2011 at 6:05 pm PT Tweet Share Print See More Reviews » Would
+you buy a laptop that comes with only one major program—a Web browser—and
+doesn’t allow you to install widely used software such as Microsoft Office,
+Apple’s iTunes, Adobe Reader, or, in fact, any other locally installed
+program? Are you ready for a laptop that has almost no storage space to hold
+your personal files, photos and videos, and is designed around the idea that
+you’ll keep all that precious personal stuff on remote servers? How about a
+laptop that can do almost nothing unless it has an active Internet connection;
+for instance, one that wouldn’t let you read and write email, or check your
+calendar, offline? Would you buy that? Google is hoping you will. This month
+it introduced a line of just such radical machines, in partnership with two
+laptop makers, Samsung and Acer. They are called Chromebooks, after Google’s
+Chrome Web browser, which is the gateway for everything they do. And they are
+meant to challenge the two dominant computer platforms, Microsoft’s Windows
+and Apple’s Mac OS X. These laptops are “cloud” computers—essentially full-
+screen Web browsers designed to do everything via the Internet. Instead of
+using traditional programs, you will rely on “Web apps” accessed through the
+browser—email programs, word processors or photo editors, for example. Series
+5 Chromebook by Samsung, one of Google’s partners on the new laptop. I’ve been
+testing one of the Chromebooks, the Samsung Series 5, a handsome, relatively
+light machine with a 12-inch screen. It costs $430 for a Wi-Fi version and
+$500 for a model that also includes a built-in modem for cellular Internet
+connectivity, which requires a monthly fee if you exceed the modest amount of
+free data Google gives you. My verdict is that, while the Chromebook is a bold
+idea that may be a harbinger of the future of computing, it’s too limited and
+buggy today to be the main computer relied upon by mainstream users. I can’t
+recommend it over a standard laptop, except perhaps as a secondary machine for
+techies or early adopters. The Chromebook does have some advantages over
+Windows and Mac laptops. But Google concedes these traditional laptops can run
+all the same Web apps as a Chromebook, in addition to running local programs,
+storing all your files and operating offline. Even tablets, like Apple’s iPad
+and competitors based on Google’s Android operating system can run hundreds of
+thousands of locally installed apps and Web apps as well. And they can run
+offline and store files locally. The Chromebook offers only about 5,000 Web
+apps today. Plus, tablets weigh less than half the 3.3 pounds of the Samsung
+Series 5, and are much slimmer, though they have smaller screens and lack the
+Chromebook’s physical keyboard. As for price, there are numerous Windows
+laptops that cost the same or less. You can buy a Toshiba Satellite with a
+15-inch screen, three gigabytes of memory, and a 320 gigabyte hard disk for
+$400. And it’s powered by one of Intel’s latest and most powerful processors,
+while the Samsung Chromebook uses the wimpy Intel Atom processor, primarily
+found on inexpensive netbooks. But Google is a smart, forward-looking company
+and there’s a logic to the Chromebook, which it sees as the first laptop
+designed for the Internet era. And it does have some attractive advantages
+over PCs and Macs: Cloud computing is here to stay and many people already
+rely daily on Internet-based software, like Web mail programs or streaming
+video services. So a cloud-centric computer isn’t a crazy idea. To help find
+useful Web-based apps, the Chromebook has a Web app store, similar to the app
+stores on tablets and smartphones. (The same store is built into the Chrome
+browser on PCs and Macs.) The Chromebook starts up almost instantly—in 10 to
+15 seconds in my tests—much more quickly than most Windows machines. This is
+partly because it’s really just a big Web browser. In my tests, Apple’s
+MacBook Air started just about as quickly, but it costs twice as much. The
+Chromebook claims very long battery life—a whopping 8.5 hours for the model I
+tested. I didn’t do a formal battery test, but I was able to go for several
+days of intermittent use without charging it. Because all your apps, settings
+and files are stored in the cloud, if you lose your Chromebook, or wish to use
+someone else’s Chromebook, you can just log into your Google account and all
+your stuff will appear on the new machine. Google automatically updates the
+operating system, so you don’t have to deal with manual updates. Google claims
+that, because every app runs in a tab in the browser, and those tabs are
+walled off from the rest of the system, the Chromebook is much more secure
+than other computers and doesn’t require security software. The system even
+checks to see if it has been tampered with every time it starts. As for the
+offline problem, Google provides a small amount of memory to which you can
+save some files. You can insert a flash memory card or USB flash drive
+containing files. Some of these files, like images and PDFs, can be viewed
+offline in the browser, but not edited. And the machine contains crude built-
+in music and video players, and a simple note-taking function, which work
+offline. Google says a handful of Web apps today work offline as well, and it
+is planning this summer to bring the same offline functionality to its own
+Gmail, Google Docs and calendar apps. Top left, you can log into someone
+else’s Chromebook and find all your stuff there; while the keyboard is nice,
+the touch pad was clumsy to use. But there are problems. For instance, I found
+watching a live baseball game to be a jerky, halting experience. Google blames
+this on the weak processor it’s using. And Netflix doesn’t work at all. Google
+says it’s working on this. Also, while the keyboard is nice, and even includes
+special keys for switching between Web pages and browser windows, I found the
+touch pad on the Samsung to be imprecise and clumsy to use. The Chromebook
+also crashed on me four times, mostly because of a “memory leak” problem
+Google says it will fix. Printing, which only works over Google’s “cloud
+print” service and can’t be done via a cable, worked only some of the time for
+me. And common files don’t automatically open in Web apps, though Google says
+it is also working on that. It’s important to note that when you use a
+Chromebook you are trusting Google with the privacy and security of your data,
+and the company has run into occasional issues on both counts. The bottom
+line: The best and most numerous programs are still designed for Windows and
+the Mac, and we still live in a world without ubiquitous, speedy, low-cost,
+unlimited wireless connectivity. So typical laptop users are better off with
+computers designed for the current hybrid world, where both robust offline and
+online functions are needed. Find all of Walt Mossberg’s columns and videos at
+the All Things Digital website, walt.allthingsd.com. Write to him at
+mossberg@wsj.com. Tagged with browser, Chrome, Chromebook, computer, Google,
+laptop, netbook, Samsung, Web Apps, Web browser Top Products in Two Decades of
+Tech Reviews December 17, 2013 at 6:04 pm PT Diabetes Data Beamed to Your
+Phone December 10, 2013 at 6:16 pm PT Two Houses, One Cable TV Bill December
+10, 2013 at 6:14 pm PT Calling Overseas on Wi-Fi December 03, 2013 at 6:18 pm
+PT Dell Tablets at Bargain Prices December 03, 2013 at 6:12 pm PT Search the
+Mossberg Archives AllThingsD contains an archive of columns by Walt Mossberg
+and Katherine Boehret from The Wall Street Journal dating back to 2005. Latest
+Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

@@ -1,0 +1,101 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Peter Kafka ethics statement bio e-mail RSS Follow @pkafka Recent
+Posts by Peter Kafka What Eight Million Livestreams Really Means October 15,
+2012 at 3:00 am PT Tweet Share Print That crazy leap that Felix Baumgartner
+made was astonishing. And if you’re interested in the future of Web video,
+YouTube’s ability to serve up eight million livestreams at the same time is a
+really big deal, too. As I noted yesterday, that number blows away YouTube’s
+previous peak of 500,000 concurrent streams, which it hit this summer during
+the Olympics, as well as last year during the royal wedding of Prince William
+and Kate Middleton. So it doesn’t take much imagination to envision YouTube
+doing this kind of stuff, at this scale, on a regular basis. Which would mean
+the Web finally has a chance to rival TV when it comes to serving up live
+events with huge audiences — one of TV’s last remaining advantages over the
+Internet. That won’t happen anytime soon, though. Death-defying jumps from
+outer space aside, there are only a few live events that millions of people
+want to watch at the same time. Basically, a handful of award shows like the
+Oscars, and big-time sports. Even if YouTube wanted to pay up to get its hands
+on that programming, it’s going to have to wait, because the TV guys have the
+rights locked up for a long time. The next set of NFL deals, for instance,
+won’t be available for a decade. But YouTube is still going to be an important
+platform for live stuff. It’s just that you probably won’t see most of it,
+unless you’re in a very particular niche. Here’s some of the stuff YouTube has
+streamed live in the last year or so: A concert from Psy, the “Gangnam style”
+guy A concert from AKB48, a Japanese girl group A bunch of EDM shows (that’s
+“DJs playing music for big crowds,” for the rest of us) A concert by Jay-Z at
+the new Barclays Center in Brooklyn A World of Warcraft launch event, which
+featured gamers playing Mists of Pandaria around the world A bunch of solar
+and lunar eclipses None of these shows drew more than a couple-hundred-
+thousand concurrent viewers, which would make them the equivalent of a poorly
+rated cable TV show. And that makes sense: Since the Internet has trained us
+to watch anything we want, whenever we want to, why do we have to watch when
+everyone else does? (A semi-secret about the live video streaming that news
+sites like the New York Times, The Wall Street Journal* and the Huffington
+Post do, for instance: Almost all the viewing comes after the fact, via on-
+demand clips.) On the other hand, as YouTube proved conclusively yesterday, it
+can now mount this stuff without breaking a sweat. Now it’s basically a plug-
+and-play option for any grown-up company that wants to do business with
+Google. And YouTube is going to make it increasingly available to the rest of
+us, too. That’s the result of a year of around-the-clock work by a couple-
+dozen YouTube engineers, to prep the video site for the Olympics in July.
+YouTube software engineering director Jason Gaedtke,who oversaw that effort,
+says the livestreams the company put out during the Olympics were seven times
+better than the standard video-on-demand stuff YouTube puts out everyday. His
+team is now applying the lessons it learned from that effort, and using it to
+upgrade YouTube’s video more broadly. So, yes. If someone else wants to grab
+the world’s attention by breaking the sound barrier aided only by gravity,
+you’ll be able to watch it alongside a global audience of millions. But the
+future of live video on YouTube is probably going to look like something else:
+You and several thousand other people, watching something most of the world
+doesn’t care about. And that can be thrilling in its own way. *The Journal is
+owned by News Corp., which also owns this Web site. Tagged with: AKB48, Felix
+Baumgartner, gangnam style, Google, Huffington Post, Jay-Z, live Web video,
+lunar eclipse, New York Times, News Corp., Olympics, PSY, Red Bull Stratos,
+Royal Wedding, solar eclipse, Stratos, streaming video, Wall Street Journal,
+Web video, World of Warcraft, YouTube Twitter Asks You How You Use Twitter
+While You Watch TV, While You’re Watching TV and Using Twitter December 24,
+2013 at 3:00 am PT (Almost) No One Is Reading Your Tweets December 23, 2013 at
+11:00 am PT Happy Holidays! Facebook Stuffs More Ads in Its Stockings.
+December 23, 2013 at 6:00 am PT Music-Discovery Service ExFM Pulls the Plug
+December 20, 2013 at 6:10 pm PT Netflix Doesn’t Have the Market Cornered on
+Binge TV: Zombies + Walter White Help AMC Win the Fall VOD War December 20,
+2013 at 8:00 am PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » I’m a giant vat
+of creative juices.— David Pogue on why he’s joining Yahoo AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

@@ -1,0 +1,108 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Intel Will Pay Nvidia $1.5 Billion to
+"Maintain Patent Peace" January 10, 2011 at 1:36 pm PT Tweet Share Print Intel
+has agreed to pay Nvidia $1.5 billion to settle their long-simmering legal
+dispute that had been set to go before a Delaware Chancery Court in December.
+Intel will pay Nvidia in five annual installments beginning Jan. 18, and in
+return will receive full access to Nvidia’s full range of patents, which had
+been part of the dispute. Nvidia will retain use of certain Intel patents that
+had also been in dispute. “This agreement ends the legal dispute between the
+companies, preserves patent peace and provides protections that allow for
+continued freedom in product design,” said Doug Melamed, Intel senior vice
+president and general counsel, in a statement. The fight had been over the
+terms of a 2004 agreement under which Intel granted Nvidia access to some of
+Intel’s technology for use in its chipsets, the chips that sit between the
+microprocessor and the graphics chip like connecting tissue. The cross-
+licensing agreement allowed Nvidia to make chipsets that were compatible with
+Intel microprocessors. The trouble began in 2008, when Intel released its
+Nehalem generation of PC chips. The two companies disagreed over whether the
+2004 agreement allowed Nvidia to make chipsets that would work with Nehalem
+chips and generations of chips that would follow. They filed dueling lawsuits
+in the Delaware Court of Chancery in early 2009. Intel asked a judge to rule
+that the agreement didn’t cover Nehalem and future generations of chips, while
+Nvidia sued for breach of contract, and sought to terminate Intel’s right to
+use some Nvidia patents that had been part of the agreement. As I reported
+last December for Businessweek, the dispute caught the attention of the
+Federal Trade Commission, which added it to an antitrust complaint that was
+later settled. The larger backdrop here is the growing threat Nvidia’s chips,
+known as graphics processing units (or GPUs), pose to Intel’s chips in servers
+and supercomputers. Engineers often refer to this as the CPU-GPU debate, where
+Intel’s chips are referred to as CPUs. GPUs are common in most PCs, and
+usually handle the processing required to make games look good and run
+smoothly, working in concert with the CPU. Since GPU chips do certain kind of
+math known as a floating point operation a lot faster than a CPU, they’re
+increasingly being used in systems that Intel has traditionally considered its
+primary domain: Heavy-duty financial modeling (oil and gas exploration is a
+good example). They’re also making a huge splash in the rarefied world of
+supercomputing: Nvidia GPU chips are being used in three of the top five
+systems on the elite Top 500 list of the world’s most powerful supercomputers.
+And as we all saw at CES last week, they’re starting to show up in tablet and
+other PC-like devices running Windows with the full support of Microsoft. The
+dispute between them, which effectively put Nvidia out of the business of
+making chipsets that were compatible with Intel chips, certainly hurt. Though
+for Intel’s part, losing the Nvidia patents in question could have conceivably
+hurt its new Sandy Bridge chips, which combine a GPU and a CPU into one single
+component. Intel formally launched Sandy Bridge at CES last week. And as
+recently as last week, sources familiar with the matter were saying that a new
+trial date was scheduled for February. Nvidia CEO Jen-Hsun Huang was careful
+not to directly answer a question about that from Mobilized’s Ina Fried in an
+interview at our D@CES event last week: Intel and Nvidia had mysteriously
+withdrawn the case from the court’s calendar days before opening arguments
+were set to get underway on Dec. 6. Bloomberg News then reported that
+settlement talks were underway, though by mid-December there were signs that
+those talks had stalled, and sources said that a new trial date had been
+agreed to. That was until today, when sources at both companies started to
+drop hints that news was imminent. Tagged with: agreement, antitrust, Arik
+Hesseldahl, case, CES, Chancery Court, chips, chipsets, complaint, court, CPU,
+Delaware, dispute, Doug Melamed, Douglas Melamed, Federal Trade Commission,
+financial, GPU, graphics processing units, Ina Fried, installments, Intel,
+interview, Jen Hsun Huang, launch, lawsuits, legal, litigation,
+microprocessors, Mobilized, NewEnterprise, Nvidia, patents, pay, payment,
+Sandy Bridge, settlements, statement, supercomputers, Top 500 list Apple
+Denies Working with NSA on iPhone Backdoor December 31, 2013 at 8:49 am PT You
+Won’t Believe All the Crazy Hardware the NSA Uses for Spying December 30, 2013
+at 12:15 pm PT HP Is Negotiating to Settle Bribery Charges December 30, 2013
+at 8:45 am PT CIOs Brand Enterprise Social Tools as Most Overhyped Technology
+of the Year December 30, 2013 at 3:39 am PT Malware Attacks by Syrian Pro-
+Government Hackers Are on the Rise December 27, 2013 at 1:27 pm PT Latest
+Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » I’m a giant vat
+of creative juices.— David Pogue on why he’s joining Yahoo AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

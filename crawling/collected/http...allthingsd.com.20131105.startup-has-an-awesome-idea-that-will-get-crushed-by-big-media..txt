@@ -1,0 +1,92 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Peter Kafka ethics statement bio e-mail RSS Follow @pkafka Recent
+Posts by Peter Kafka Startup Has an Awesome Idea That Will Get Crushed by Big
+Media November 5, 2013 at 1:21 pm PT Tweet Share Print Here’s a great idea
+that’s long overdue: If you own a digital copy of a movie or TV show, you
+should be able to lend it your friends. Just like you can do with a DVD. And
+that’s what Streamnation, which launched today, said it is going to offer: A
+free locker service that lets people stream their pals’ videos. Of course, the
+reason that idea is long overdue is that Hollywood hates that idea: If you can
+stream your friends’ copy of “Monsters University,” why would you buy it
+yourself? Instead, when Hollywood does address digital storage and playback,
+it does it in ways that don’t make sense to regular humans — try explaining to
+your kids why they can only watch the copy of “Peter Pan” you bought from
+iTunes on your iPad, and not your wife’s iPhone, and gauge their reaction.
+It’s telling that UltraViolet, the industry’s own attempt to create a locker
+system that works across multiple devices, has been a dud. So if Streamnation
+CEO Jonathan Benassaya gets any traction at all, he can look forward to
+spending a lot of time with lawyers. Perhaps that’s already begun today.
+Streamnation, by the way, used to be Plizy, a now-defunct “video discovery
+engine;” the old company raised $5.3M, and Benassaya said he has raised
+another $1.2 million since pivoting. Benassaya, whose resume includes a stop
+at Deezer, the French streaming music service he co-founded, has certainly
+built Streamnation with a lawsuit in mind. It’s constructed using the same
+“private performance” legal architecture that supports Cablevision’s virtual
+DVR, which survived a Supreme Court challenge, and which Aereo is also trying
+to use in its court battle. The idea in a nutshell: A customer uploads a video
+— either one they made themselves, or ripped from a DVD, or got… however … to
+Streamnation’s servers. Then they can stream it back anytime they want.
+Streamnation doesn’t technically know what it’s holding on its servers.
+Instead, it asks users to label the videos they’ve stored — but with a nudge
+and a wink, it supplies artwork and metadata that go with well-known movies
+and TV shows. All of which might fly if Streamnation stopped there, and kept
+the playback limited to the person who uploaded the file. After all, Amazon
+and Google launched music lockers that worked the same way, and initially did
+so without the permission of the music industry. But Streamnation also allows
+users to designate a list of friends and family that can “check out” their
+library of videos, and stream those themselves, one at a time. The big idea
+here is that there’s only one version of a given video in use at any time: No
+copying, no downloads. See? No problem! That sounds great to me, the person
+who is happy to pay for media but also happy to borrow stuff other people have
+paid for, with their permission. But there’s no way Hollywood lets this go.
+Tagged with: Aereo, ATD Facebook, Cablevision, Deezer, DRM, DVR, Hollywood,
+Jonathan Benassaya, legal, movies, TV shows Twitter Asks You How You Use
+Twitter While You Watch TV, While You’re Watching TV and Using Twitter
+December 24, 2013 at 3:00 am PT (Almost) No One Is Reading Your Tweets
+December 23, 2013 at 11:00 am PT Happy Holidays! Facebook Stuffs More Ads in
+Its Stockings. December 23, 2013 at 6:00 am PT Music-Discovery Service ExFM
+Pulls the Plug December 20, 2013 at 6:10 pm PT Netflix Doesn’t Have the Market
+Cornered on Binge TV: Zombies + Walter White Help AMC Win the Fall VOD War
+December 20, 2013 at 8:00 am PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » Another gadget
+you don’t really need. Will not work once you get it home. New model out in 4
+weeks. Battery life is too short to be of any use.— From the fact sheet for a
+fake product entitled Useless Plasticbox 1.2 (an actual empty plastic box)
+placed in L.A.-area Best Buy stores by an artist called Plastic Jesus
+AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

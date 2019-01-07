@@ -1,0 +1,181 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Dell Wins $2.4 Billion Bidding War for Quest
+Software July 2, 2012 at 5:48 am PT Tweet Share Print After more than a month
+of back-and-forth negotiations, Dell today announced that it had landed the
+reluctant fish called Quest Software. Dell will pay $28 a share for Quest —
+about $5 a share more than Quest was valued at back in May, when all this
+started — for a total of $2.4 billion. It all began when Quest agreed to go
+private after a bid of $23 a share from Insight Venture Partners, the private
+equity firm that had helped Quest go public several years back. Dell stepped
+into the mix during a go-shop period meant to entice a superior offer for the
+benefit of Quest shareholders. The talks were said to have broken off at the
+start of June. Except that they really didn’t. Reports emerged that talks for
+Quest were back on, with an unnamed “strategic bidder” offering $25 a share,
+which Quest mentioned in a mysterious press release on June 14. Not to be
+outdone, Insight set about raising more money, and found a partner in private
+equity firm Vector Capital. Together, they offered $2.2 billion for Quest.
+Dell — still playing the role of the masked “strategic bidder,” came back and
+offered $2.32 billion on June 25. Unless I missed it, I didn’t see a
+counteroffer from team Insight, so, for some reason, the offer price rose by
+another $300 million and change from what had last been reported. Why all the
+fuss over a company no one has ever heard of? Well, Quest has been around for
+a long time. It’s a 25-year-old company that last year reported $857 million
+in sales, and a $44 million net profit. Its specialty is creating management
+systems for enterprise software. One of its main products is Toad, which
+automates a lot of maintenance tasks and is widely sold against Oracle
+databases. There are other versions of it that work with Sybase and SQL
+Servers. Its size and specialty put Quest right in the wheelhouse of the sort
+of things that Dell is trying to build and buy as it seeks to transform itself
+into an enterprise hardware, software and services concern, with a smaller
+strategic emphasis on its older PC business. By at least one metric, that
+strategy is working — a little. Dell’s consumer PC business, for which it is
+best known, amounts to about one-fifth of its revenue, while its enterprise-
+oriented businesses amount to about 50 percent. The wrinkle is that the
+enterprise part is mostly PCs. Quest is, by far, Dell’s biggest acquisition in
+recent memory. In March, Dell spent $1.2 billion for SonicWall, a privately
+held security gear concern. In April, it went on a bit of an M&A; bender,
+taking out three companies in as many days. First was privately held Wyse
+Technology, a maker of thin clients — now fashionably called “virtual
+desktops” — in a deal estimated to have been worth about $400 million. Dell
+followed that with deals for Make Technology and Clerity Solutions. Dell
+shareholders, who initially seemed not to like the company’s acquisitive
+stance regarding Quest, aren’t bolting yet. With about 20 minutes remaining
+before the markets open for trading, Dell shares are up by about four cents,
+or about one-third of 1 percent. Not exactly a ringing endorsement. Update:
+Perhaps I spoke too soon. It’s 9:33 am in New York and the markets are open;
+Dell shares have opened down 15 cents, or more than 1 percent, and are trading
+at $12.36. I guess shareholders didn’t like this deal, after all. Dell can
+certainly afford Quest. It has $13.7 billion in combined cash and short-term
+investments on the balance sheet. The problem is that Dell has also started
+paying a dividend amounting to 8 cents a share, and some analysts have worried
+that will put too much demand on the cash reserves it needs to continue buying
+companies. The announcement is below: Dell to Acquire Quest Software Award-
+winning Quest bolsters Dell competitive position in delivering end-to-end IT
+solutions. Strong strategic fit with Dell’s software group; extends existing
+capabilities in systems management, security, data protection and workspace
+management. ROUND ROCK, Texas & ALISO VIEJO, Calif.–(BUSINESS WIRE)– Dell and
+Quest Software today announced they have entered into a definitive agreement
+for Dell to acquire Quest, an award-winning IT management software provider
+offering a broad selection of solutions that solve the most common and most
+challenging IT problems. Dell recently announced the formation of its Software
+Group to build upon its existing software expertise. The Dell Software Group
+will add to Dell’s enterprise solutions capability, accelerate strategic
+growth and further differentiate the company from competitors by increasing
+its solutions portfolio with Dell-owned intellectual property. Quest’s family
+of software solutions and key technologies are strongly aligned with Dell’s
+software strategy. The acquisition provides critical components to expand
+Dell’s software capabilities in systems management, security, data protection
+and workspace management. In addition, Quest’s software portfolio is highly
+complementary to Dell’s scalable design approach to develop solutions that
+scale with customer needs. Some examples include: The Quest One Identity and
+Access Management solution family adds to Dell’s very strong set of security
+assets with SonicWALL and Secureworks, creating a comprehensive set of
+security solutions to address important customer needs. Quest’s Performance
+Monitoring solutions for applications, networks and databases address a
+rapidly growing need for our customers. Industry analysts have consistently
+ranked Quest Foglight as a leading application performance monitoring
+solution. Businesses of all sizes are looking to reduce their IT complexity
+and automate workloads for their IT departments. Customers worldwide leverage
+Foglight to continually monitor their IT environments, proactively identifying
+and remedying performance issues before they become bigger problems. Quest’s
+Windows Server Management solutions complement Dell Services’ rapidly growing
+application modernization practice with recently acquired Clerity Solutions
+and Make Technologies. Effective database management is critical to the
+successful operation of most organizations. Quest’s Database Management
+capabilities offer a strong complement to Dell’s enterprise offering. Today,
+millions of DBAs, developers, and analysts around the world rely on Quest’s
+database management tools to simplify their work. Quest has a diversified
+software portfolio and generated $857 million in global revenue based on its
+fiscal year 2011 results at gross margins of 86 percent and operating margins
+of 11 percent. Quest supports heterogeneous and next-generation virtualized
+environments across leading platform vendors. The addition of Quest, including
+its 1,500 software sales experts and 1,300 software developers, to Dell’s
+existing software expertise in systems management, security and cloud
+integration, is the foundation of a $1.2 billion software business, based on
+annual revenue. Quest, established in 1987, is headquartered in Aliso Viejo,
+Calif. and serves more than 100,000 customers worldwide, including 87 percent
+of the Fortune 500. The company has approximately 3,850 employees and operates
+60 offices in 23 countries. Quotes “The addition of Quest will enable Dell to
+deliver more competitive server, storage, networking and end user computing
+solutions and services to customers,” said John Swainson, president, Dell
+Software Group. “Quest’s suite of industry-leading software products, highly-
+talented team members and unique intellectual property will position us well
+in the largest and fastest growing areas of the software industry. We intend
+to build upon the strong momentum Quest brings to Dell.” “Clearly, Dell’s
+distribution, reach and brand are well recognized in the industry. Combine
+that with Quest’s software expertise and award-winning systems management
+products and you have a very powerful combination for our customers and
+partners,” said Vinny Smith, chairman and chief executive officer of Quest
+Software. “With this transaction, Quest’s products and employees become the
+foundation for Dell’s critical software business.” A financial analyst call
+with Dave Johnson, senior vice president, Dell Corporate Strategy; John
+Swainson, president, Dell Software Group; Brian Gladden, chief financial
+officer, Dell; and Vinny Smith, chairman and chief executive officer, Quest
+Software; will be webcast live today at 8:45 a.m. Central Time and archived at
+www.dell.com/investor Terms and Closing Under terms of the agreement, approved
+by the boards of directors of both companies, Dell will pay $28.00 per share
+in cash for each share of Quest for an aggregate purchase price of
+approximately $2.4 billion, net of Quest’s cash and debt. The transaction is
+expected to close in Dell’s third fiscal quarter, subject to approval by
+Quest’s shareholders and customary conditions. About Quest Established in
+1987, Quest Software (QSFT) provides simple and innovative IT management
+solutions that enable more than 100,000 global customers to save time and
+money across physical and virtual environments. Quest products solve complex
+IT challenges ranging from database management, data protection, identity and
+access management, monitoring, user workspace management to Windows
+management. About Dell Dell Inc. (DELL) listens to customers and delivers
+worldwide innovative technology, business solutions and services they trust
+and value. For more information, visit www.Dell.com. Tagged with: Dell,
+enterprise, enterprise software, Insight Venture Partners, mergers and
+acquistions, quest, Quest Software, software Apple Denies Working with NSA on
+iPhone Backdoor December 31, 2013 at 8:49 am PT You Won’t Believe All the
+Crazy Hardware the NSA Uses for Spying December 30, 2013 at 12:15 pm PT HP Is
+Negotiating to Settle Bribery Charges December 30, 2013 at 8:45 am PT CIOs
+Brand Enterprise Social Tools as Most Overhyped Technology of the Year
+December 30, 2013 at 3:39 am PT Malware Attacks by Syrian Pro-Government
+Hackers Are on the Rise December 27, 2013 at 1:27 pm PT Latest Video View all
+videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » I think the NSA
+has a job to do and we need the NSA. But as (physicist) Robert Oppenheimer
+said, “When you see something that is technically sweet, you go ahead and do
+it and argue about what to do about it only after you’ve had your technical
+success. That is the way it was with the atomic bomb.”— Phil Zimmerman, PGP
+inventor and Silent Circle co-founder, in an interview with Om Malik
+AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

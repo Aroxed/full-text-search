@@ -1,0 +1,119 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Recent Columns by Walt Mossberg Mossberg’s Mailbox The Practical Case Against
+File Sharing October 20, 2005 at 12:01 am PT Tweet Share Print There’s no
+other major item most of us own that is as confusing, unpredictable and
+unreliable as our personal computers. Everybody has questions about them, and
+we aim to help. Here are a few questions about computers I’ve received
+recently from people like you, and my answers. I have edited and restated the
+questions a bit, for readability. This week my mailbox contained questions
+about getting viruses from file-swapping services, other options beyond dial-
+up Internet access, and buying a Mac desktop computer. If you have a question,
+send it to me at mossberg@wsj.com, and I may select it to be answered here in
+Mossberg’s Mailbox. Are there problems with using file-swapping sites like
+Kazaa, as long as you have a good antivirus protection program? I don’t mind
+paying for individual songs, but other sites like iTunes or Rhapsody often
+don’t have the songs I want. Yes, there are problems. The first are the
+ethical and legal issues arising from obtaining somebody else’s copyrighted
+intellectual property without paying for it, from a person who isn’t licensed
+or authorized to distribute it. The other sites you mention, iTunes and
+Rhapsody, are legally licensed to distribute music. Kazaa and its ilk aren’t,
+nor are the people who make music available through them. Your argument is
+like rationalizing buying stolen TVs because your local Best Buy didn’t have
+the model you wanted. If your conscience can get past that, there are
+practical issues. These sites are major transmitters not only of viruses, but
+of spyware, which your antivirus program can’t stop. Even if your PC has a
+full, up-to-date security suite, with antispyware software, you are asking for
+trouble by downloading from “file swapping” sites. Many of the people I hear
+from who have had to take drastic, costly steps to save heavily infected PCs
+attribute their problems to the fact that their kids were frequenting file-
+sharing sites. I currently have dial-up access to the Internet, which is slow.
+I pay a total of $35-$40 a month for the Internet service itself, plus a
+dedicated phone line. I see ads that claim I can give up this dial-up service
+and the extra phone line and somehow get higher-speed Internet access for
+less. Is this true? I do not have a cellphone or wireless service into my
+house, though I do have cable TV. You can definitely save a lot of money on
+your Internet service, and drastically increase speed at the same time. And
+you don’t need cellphone or wireless service at all. They are irrelevant. Your
+choices are DSL from your phone company, or cable-modem service from your
+cable TV provider. Either will give you a high-speed broadband connection that
+is much, much faster than your current dial-up service — without tying up your
+phone line. You can go down to a single phone line for making voice calls. DSL
+tends to be a lot cheaper, so I recommend DSL if you want to save money. And,
+while the low-priced DSL service is a lot slower than a cable modem, it is
+much cheaper and still is roughly 15 times as fast as your current connection.
+Verizon offers a low-end DSL service for $14.95 a month, with the first month
+free. It’s much faster than what you have now, and you wouldn’t need the
+second phone line. Other companies may have similar offers. But you should go
+to your phone company’s DSL Web site first to see if your house qualifies for
+DSL. Not all homes do; it depends on how far you live from the nearest phone
+company facility. I am a Windows user who wants to switch to Mac, and I have
+found two options suitable for me. The first option is to buy the $1,299 iMac
+G5. And the second option is to buy the Mac mini with the 1.42 GHz processor,
+1 GB of memory and a 100 GB hard drive. It all depends on what you do on your
+computer and on what your plans are. The mini, configured as you specify, will
+cost you $500 less than the iMac. But it is less powerful and less full-
+featured than the iMac. And it lacks a monitor, keyboard, mouse and speakers,
+all of which come with the iMac. If you have all of these on your Windows PC,
+and like them, and don’t plan to keep the Windows PC, you can switch them over
+to the mini. But you’ll still have to buy a peripheral called a USB hub,
+because the mini has too few ports. If you want to preserve your Windows
+machine, you’ll have to buy new peripherals, or a gadget called a KVM that
+allows the mini and your Windows machine to share the peripherals. The iMac
+G5, in my view, is the best consumer desktop on the market, and the $1,299
+model has just been upgraded, without a price increase. So, if your computing
+needs are modest, your budget is limited and you’re ready and willing to
+switch over your Windows peripherals, the mini would be a better bargain. But
+the iMac is the better computer. * * * Because of the volume of e-mail I
+receive, I can’t routinely answer individual questions by e-mail, or consult
+on individual problems or purchasing decisions. I read all questions I receive
+and select three each week to answer in the column. Write to Walter S.
+Mossberg at mossberg@wsj.com Tagged with cellphone, dial-up, DSL, file-
+swapping, iMac, Internet, iTunes, Kazaa, Mac, PC, Rhapsody, Verizon, virus,
+Windows Top Products in Two Decades of Tech Reviews December 17, 2013 at 6:04
+pm PT Diabetes Data Beamed to Your Phone December 10, 2013 at 6:16 pm PT Two
+Houses, One Cable TV Bill December 10, 2013 at 6:14 pm PT Calling Overseas on
+Wi-Fi December 03, 2013 at 6:18 pm PT Dell Tablets at Bargain Prices December
+03, 2013 at 6:12 pm PT Search the Mossberg Archives AllThingsD contains an
+archive of columns by Walt Mossberg and Katherine Boehret from The Wall Street
+Journal dating back to 2005. Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

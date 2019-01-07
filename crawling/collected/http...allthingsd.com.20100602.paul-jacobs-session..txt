@@ -1,0 +1,153 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello John Paczkowski ethics statement bio e-mail RSS Follow
+@JohnPaczkowski Recent Posts by John Paczkowski Qualcomm CEO Paul Jacobs Live
+at D8 June 2, 2010 at 3:25 pm PT Tweet Share Print Qualcomm may not be a
+household name, but it probably should be. The company commercialized the CDMA
+mobile standard and its chips can be found in many of today’s smartphones. If
+things play out as CEO Paul Jacobs would like, Qualcomm (QCOM) chips will soon
+be showing up in a wide variety of consumer electronics devices as well. As
+Jacobs said at the Consumer Electronics Show earlier this year, “consumer
+electronics devices will essentially be phones inside–different shapes,
+different software, but fundamentally, inside they’ll be phones.” With its
+latest chips, which ably bridge the performance gap between smartphones and
+larger devices like netbooks and tablets, Qualcomm is delivering on Jacobs’s
+prediction. And that is increasingly putting the company at odds with some
+formidable rivals in the ultramobile computing market–Intel (INTC), for
+example. Liveblog 3:28 pm: Off to a bit of a late start here. The interview
+should begin momentarily. 3:31 pm: A few quick words of introduction from
+Walt, who notes that most of the folks in the audience have likely used
+Qualcomm products at one time or another, and Jacobs takes the stage. 3:32 pm:
+Walt–You make chips, right? Jacobs: We ship 36 chips every second for
+cellphones around the world. These chips handle radio communications,
+Bluetooth, Wi-Fi, all sorts of things. They essentially run mobile phones.
+3:33 pm: Jacobs–Does anyone in this room have a simple GSMA phone? [No one
+does.] Then you’re all using our intellectual property. 3:35 pm: Some
+discussion of licensees. Jacobs notes that Foxconn is among them. 3:35 pm:
+Walt: Typically, your technology is buried in these devices, but now you’re
+introducing something that will be out front. Jacobs says the company is
+working on a new display technology that uses the same thing a butterfly’s
+wing uses to make color. Because it’s reflective in that way, you can see it
+outside and in bright light. It does color and it does video. This isn’t a lab
+project. We’ve got a fab [fabrication], and it’s being developed. Walt wonders
+when we’ll see it. Jacobs says Qualcomm hopes to get it to its partners next
+year. 3:37 pm: The display is called Mirasol, and it employs a bunch of tiny
+mirrors to display images. Jacobs has brought a demo with him, and the display
+does seem impressive, certainly a big improvement over today’s e-ink. 3:39 pm:
+Walt–Unlike a Kindle, this thing has color, plays video and better battery
+life. Jacobs: If we’re using a still image outdoors, the battery will last for
+a very long time–it uses very little power. If we’re running stuff, animations
+for example, it won’t run quite as long. But it will still be a significant
+improvement over what we see in devices like the Kindle and iPad today. 3:41
+pm: Walt–What about downsizing these screens? Will they work on cellphones?
+Jacobs says they will. In fact, Qualcomm is working with someone to develop a
+watch that uses it. Walt: And this can support multitouch? Jacobs: Yes. The
+display, because its MEMS technology, there are other things we can integrate
+into it–antennas and whatnot. 3:43 pm: Walt–So will this be a Qualcomm reader
+or will you build it for someone else? Jacobs: We’ll be developing this for
+partners 3:44 pm: So why did you get out of the device business, asks Walt.
+Jacobs: Because we sucked at it. I just said, you know this is not our core
+competency. So today we’re focused on chips. Technology is moving so quickly
+these days that if you’re not focused, you just end up doing things badly.
+We’re very focused on the chip business. 3:45 pm: Walt–You’ve jumped into the
+brains of the phone business, yes? Jacobs: Yes we have. It’s called Snapdragon
+and its a microprocessor that uses ARM. These are very lower-power chipsets.
+3:47 pm: Walt–But these chips are going into high-power devices. They can’t
+have wimpy processors. Jacobs agrees and notes that Qualcomm is developing
+multicore processors for smartphones. “You think about the phone, why do you
+need the phone to turn on to do stuff? You don’t need to turn on the entire
+user interface to do something like email. So we’re managing power very
+carefully to extend usage time.” 3:49 pm: Walt–Is Intel (INTC) your biggest
+competitor? Jacobs: That depends. Intel is on the high end. There are other
+smaller companies though that are low-end threats. Walt: Do you power
+BlackBerrys? Jacobs: The Verizon (VZ) Blackberrys run our chips. 3:50 pm: Walt
+asks for Jacobs’s thoughts on Intel’s “Intel Inside” campaign, which made the
+company a known brand. Has Qualcomm considered doing something similar?
+Jacobs: You know we have Qualcomm Stadium, says Jacobs. And sometimes people
+think we make beer, not chips. The truth of the matter is, I sell to the
+manufacturers and the operators, but we don’t sell directly to the consumer,
+so a big branding campaign like that isn’t a big concern. 3:53 pm:
+Conversation moves on to Qualcomm’s FlowTV service. Walt notes that it hasn’t
+really been successful, and Jacobs agrees. But he adds that it has great
+potential for the future, particularly in terms of broadcasting information to
+smartphones, a la PointCast. 3:56 pm: Jacobs: Today when you think about
+FlowTV, you think about cable TV on your phone. Tomorrow, it will be more of a
+data service. 3:57 pm: Walt–Obviously, we’re heading toward a bandwidth
+congestion problem. Is there a solution? Jacobs: Fixing the backhaul problem
+already helps. We’re now going to more and wider spectrum, and that helps as
+well. Fourth generation will feel like you’re getting a better experience as a
+user. The big issue, though, is getting more access to spectrum, moving people
+off of it. Adding additional Wi-Fi access points that are integrated into the
+cellular network will help as well. Walt: Is it a good trade-off in our
+country to reallocate the broadcast spectrum? Jacobs: That’s a tough question
+because there are people who still use it. Q & A Q: Qualcomm seems to be
+involved in a lot of sensor work. Can you talk about that? A: One of the
+things we’re involved in is the development of sensors, sensors that can be
+stuck onto your body and can talk to your phone. Glucose monitors, for
+example. But battery life is very important here. So we’re spending a lot of
+effort developing these technologies for health care with that in mind. Q: Can
+you compare SnapDragon to Apple’s A4? A: I don’t know a lot about that because
+we haven’t done a tear-down of Apple’s (AAPL) processor. Q: Can you talk about
+your BREW [binary runtime environment for wireless] OS and where it might be
+heading? A: We actually have a lot of demand for it now. In addition to
+Verizon, it’s going into AT&T; (T) and into Chinese operators. HTC actually
+just built a phone that’s BREW-based. If you had asked me a couple of years
+ago, I would have said BREW was headed to emerging markets. Now I think it’s
+headed to the low-end of the high-end market. Q: Do you think there are other
+areas in which your technology might be used, education, for example? A:
+Jacobs notes an experiment in education where one classroom was given
+cellphones running Qualcomm tech and others weren’t, and the group with the
+phones showed a marked improvement in its grades. “The cellphone is humanity’s
+biggest platform. If we can’t use it to change education or health care, then
+shame on us.” A note about our coverage: This liveblog is not an official
+transcript of the conversation that occurred onstage. Rather, it is a
+compilation of quotes, paraphrased statements and ad-lib observations written
+and posted to the Web as quickly as possible. It is not intended as a
+transcript and should not be interpreted as one. Tagged with: A4, Apple, ARM,
+AT&T;, battery, binary runtime environment for wireless, BlackBerry,
+Bluetooth, brand, BREW, broadcast, CDMA, cellphone, chip, chips, chipset,
+consumer electronics, Consumer Electronics Show, digital, display, e-ink,
+FlowTV, Foxconn, GSMA, hardware, health care, HTC, innovation, Intel,
+Internet, interview, iPad, John Paczkowski, Kindle, MEMS, microprocessor,
+Mirasol, multicore, multitouch, netbook, OS, Paul Jacobs, Paul Jacobs D8,
+performance, phone, platform, PointCast, processor, Qualcomm, sensor,
+smartphone, Snapdragon, software, spectrum, standard, tablet, telecom,
+Verizon, video, Walt Mossberg, Wi-Fi Late Start May Be Tempering China
+Mobile’s iPhone Preorders December 30, 2013 at 10:17 am PT Twitter’s Tanking
+December 30, 2013 at 6:49 am PT 2013 Was a Good Year for Chromebooks December
+29, 2013 at 2:12 pm PT BlackBerry Pulls Latest Twitter for BB10 Update
+December 29, 2013 at 5:58 am PT Apple CEO Tim Cook Made $4.25 Million This
+Year December 28, 2013 at 12:05 pm PT D8 Conference All D Conferences Coverage
+Location Media Photo Gallery Schedule Speakers Videos Latest Video View all
+videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » D: All Things Digital Conferences The D Conference D11 D10 D9 D8 D7
+D6 D5 D4 D3 D2 D1 Dive Into Mobile Dive Into Mobile 2013 Dive Into Mobile 2010
+Dive Into Media Dive Into Media 2013 Dive Into Media 2012 AsiaD D Conference
+Mailing List Sign up for News about D Conferences Subscribe AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

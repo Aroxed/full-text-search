@@ -1,0 +1,83 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello virtualization 70 posts and columns on virtualization All Writers
+Kara Swisher Walt Mossberg John Paczkowski Katherine Boehret Peter Kafka Ina
+Fried Liz Gannes Tricia Duryee Arik Hesseldahl Lauren Goode Mike Isaac Bonnie
+Cha Jason Del Rey Enterprise Storage Startup Coho Data Lands $25 Million
+Series B Arik Hesseldahl in News on November 5, 2013 at 9:51 am PT Storage as
+easy to manage as the cloud. News Byte Big Fish and BlueStacks Partner to Let
+PC and Mac Gamers Download Android Titles Eric Johnson in News on October 23,
+2013 at 12:01 am PT Big Fish, the casual-games studio that runs a
+downloadable-games store, is adding mobile Android titles to that store by way
+of a new deal with app-virtualization company BlueStacks. The companies are
+pitching the partnership, announced at Casual Connect Kiev, as a new potential
+revenue stream for mobile-focused developers. Big Fish reports that it has
+served two billion game downloads since 2002. Controlling a PC or Mac, iPad-
+Style Walt Mossberg in Personal Technology on August 27, 2013 at 6:04 pm PT
+Parallels Access, a new iPad app, treats the computer programs it accesses as
+if they were iPad apps, without sacrificing functionality. Former Nicira VP
+Alan Cohen Joins Stealthy Security Startup Illumio Arik Hesseldahl in News on
+July 29, 2013 at 7:42 am PT A new super-stealthy security company. BlueStacks
+Announces Second Android Gaming Console, Free Forever (With a Software
+Subscription) Eric Johnson in Product News on June 28, 2013 at 7:30 am PT And
+the first console isn’t even out yet. Oracle and Microsoft Team Up on Cloud
+Computing Arik Hesseldahl in News on June 24, 2013 at 1:07 pm PT Once-bitter
+rivals find friendship in the cloud. Voices The Future of the Data Center
+Kieran Harty, CEO and Co-Founder, Tintri in Voices on May 2, 2013 at 8:00 am
+PT It’s software-defined. EMC Earnings Come in Below Expectations, While
+VMware Lowers Outlook Arik Hesseldahl in General on April 24, 2013 at 5:52 am
+PT More red flags. Intel Capital Joins Big Switch Funding Round Arik
+Hesseldahl in News on February 7, 2013 at 9:00 pm PT Intel likes the idea of
+software-defined networks. Voices The Storage Games Mark Davis, CEO, Virsto
+Software in Voices on November 21, 2012 at 12:03 pm PT Even in an anemic
+economy, demand for data storage grows more than 50 percent per year. In a
+Parallels World, Mac and Windows Coexist App-ily Walt Mossberg in Personal
+Technology, September 4, 2012 at 6:02 pm PT VMware Acquires Once-Secretive
+Start-Up Nicira for $1.26 Billion Arik Hesseldahl in News, July 23, 2012 at
+1:25 pm PT Eight Questions for Dell the Man About Dell the Company Arik
+Hesseldahl in News, July 17, 2012 at 4:32 pm PT Former Apple VP Bertrand
+Serlet Joins Board of Parallels Arik Hesseldahl in News, July 16, 2012 at
+10:59 pm PT For Valley Engineers, Big Data and Networking Start-Ups Are Still
+Sexy IBM’s Latest Hardware Aims to Make Less Work for IT Shops Arik Hesseldahl
+in Enterprise, April 11, 2012 at 11:50 am PT Intel’s Romley Chip Is Good News
+for Storage Players EMC and NetApp Arik Hesseldahl in News, April 3, 2012 at
+7:38 am PT Dell to Acquire Virtual Desktop Player Wyse Technology Arik
+Hesseldahl in News, April 2, 2012 at 5:52 am PT Flash Start-Up Violin Poaches
+VP From VMware Arik Hesseldahl in News, March 27, 2012 at 4:10 pm PT
+BlueStacks’ Android-on-Windows App Hits Beta Ina Fried in Mobile, March 27,
+2012 at 5:00 am PT When Office Is in the Cloud and on a Tablet, Is It Really
+Office? Arik Hesseldahl in News, March 8, 2012 at 3:12 pm PT Networking Start-
+Up Nicira Wants to Mess Up Cisco and Juniper’s Business Arik Hesseldahl in
+News, February 5, 2012 at 8:59 pm PT VMware Q3 Profit More Than Doubled on
+Wide Growth in Demand Joan E. Solsman, Reporter, The Wall Street Journal in
+Enterprise, October 17, 2011 at 4:00 pm PT BlueStacks Ready to Test Its
+Android-on-Windows Software Ina Fried in Mobile, October 10, 2011 at 11:50 pm
+PT A Parallels World Where Windows Zips on Macs Walt Mossberg in Personal
+Technology, August 31, 2011 at 6:03 pm PT Page 1 of 3123Next Related Videos
+View all videos » Mossberg Reviews Parallels Desktop 8 Search » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

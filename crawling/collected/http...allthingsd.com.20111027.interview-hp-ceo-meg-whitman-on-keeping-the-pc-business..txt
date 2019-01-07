@@ -1,0 +1,175 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Interview: HP CEO Meg Whitman on Keeping the
+PC Business October 27, 2011 at 5:08 pm PT Tweet Share Print I just got off
+the phone with Hewlett-Packard CEO Meg Whitman and HP’s executive vice
+president Todd Bradley: We talked about HP’s decision to keep its PC-making
+Personal Systems Group, which Bradley runs, inside HP, rather than spin it off
+into a separate company. The decision amounts to the first — and it may turn
+out to be the only — repudiation so far of the strategic steps taken by HP’s
+prior CEO, Léo Apotheker. HP rolled out the decision to “study strategic
+alternatives” for the PC unit in a messy, multipronged announcement on Aug.
+18. The spinoff scenario made little sense in light of two key factors: HP is
+the biggest PC maker in the world, and while its profit margins are slim, its
+market lead over rivals Dell and Acer continues to widen. Second, by staying
+in the PC business, HP continues as the world’s largest consumer of chips and
+hard drives and other key components that are used across its other lines of
+products, like enterprise servers and even printers. Cutting off its PC
+business would have weakened HP from a negotiating standpoint with suppliers
+like Intel, Seagate and others, and would thus cut into HP’s more profitable
+lines of business. So when Whitman says of the PC business that “together we
+are stronger,” she’s not kidding. It’s a fundamental truth of HP’s business.
+That Aug. 18 announcement also included the end of HP’s webOS hardware
+business; the $11.7 billion acquisition of the British software firm Autonomy;
+and, last but not least, a reduction in its revenue outlook for the fiscal
+year. Apotheker lost his job 35 days later. During a 30-minute conference call
+with analysts today, Whitman said to expect to hear her speak more about cloud
+computing in the near future. HP’s cloud-based initiative was announced by
+Apotheker in March, at a major HP event in San Francisco. Also during today’s
+call, Whitman said that she wants to make sure that HP isn’t spreading itself
+too thin. “I’m a big believer in doing a small set of things really, really
+well,” she said. Still outstanding, and apparently undecided, is the fate of
+the webOS business. HP killed the hardware aspect of that business following
+ridiculously poor sales of its TouchPad tablet. Since then, the message has
+been on again, off again as HP has variously cut the prices on its existing
+inventory of TouchPads, then committed to making a few more, as consumers
+swooped in to buy them at a discount. There were no decisions about that
+today. But given that Whitman, as an HP director, first signed off on the plan
+to explore the spinoff of the PC business, and has now decided against it as
+HP’s CEO, my first question for her was essentially this: What changed?
+AllThingsD: So, Meg and Todd, let’s start at the top. Meg, in August, when you
+were a member of HP’s board of directors, you signed off on the decision to
+explore a spinoff, and now you’re going in the other direction. What changed
+your mind? Whitman: As a board member, I supported the idea of exploring
+strategic options. This was an idea that had been floated for quite some time.
+We didn’t wake up this summer and decide to do it, so it wasn’t a new idea. We
+were looking at this from a real position of strength. This is a fabulous
+business. It’s No. 1 in its business, and profitable, which is quite different
+from the IBM-Lenovo decision a few years ago. So I was supportive. As a board
+member, I thought that if it’s better for customers and better for
+shareholders, we should look at it. I mean, that’s your fiduciary obligation
+as a board member. And then when I came on as CEO, I asked for a really data-
+driven analysis, line by line, cost center by cost center, of what the real
+cost synergies would be, or what the increased costs would be, and what the
+revenue losses or synergies might be. We had 18 different work streams with
+more than 100 people involved in this, and it was a real tour de force,
+because it’s something that HP does really well. And the math was very
+compelling on this. The costs to separate were far greater than the costs to
+remain together. That was the first thing we did. The second thing was that we
+talked to customers and channel partners, and the feedback was, by and large,
+that “you are stronger together.” They appreciate the full line of products.
+They appreciate the supply-chain synergies and cost reductions you get by
+being one company. So after we went through the analysis, it was compelling. I
+keep coming back to the idea that you buy more parts than anyone else, and so
+being the biggest PC maker would necessarily weaken your ability to negotiate
+with suppliers like, say, Intel. You get a better price on chips for servers
+by also being the biggest maker of PCs, for which Intel also supplies a lot of
+chips. Is it really that simple, or is it more complicated? Whitman: That’s
+one element of it. We are the largest buyer of components, we have the best
+supply chain. And we’re stronger and bigger in server storage and networking
+because we have PCs. Bradley: Over the past six years, myself, VJ Joshi [HP’s
+head of printing and imaging] and Dave Donatelli worked very closely to see
+where we can consolidate and coordinate our supply-chain efforts, whether
+that’s buying things from Intel or logistics providers or manufacturing
+facilities. So there’s a breadth of integration that takes place. We all want
+to get what leverage we can out of commonality, without destroying the ability
+to innovate within each one of our very different businesses. To give credit
+where it’s due, a lot of Mark Hurd’s leadership was around getting a lot of
+efficiency out of our supply chain … Whitman: Absolutely. Bradley: … and it
+clearly has been a big driver to the profitability in PSG. Whitman: The other
+thing that Mark did was, he centralized IT and human resources and real estate
+and finance, and he saved a lot of money. And he leveraged that infrastructure
+for the benefit of all these operating divisions. And when you think about
+spinning off a division after the successful integration of all these costs,
+its really hard, because you have to create a whole new subset of IT, or a
+whole new finance system, and that’s not inexpensive. The fact then remains
+that PCs are a difficult business. The profit margins are thin, the
+competitive environment is tough — though you’re certainly on top of it now.
+There are challenges and difficulties — and Meg, you even conceded on the
+conference call that keeping PCs will weigh a bit on the overall profit
+margin. But I guess what I’m asking is: What’s going right about PCs, and
+what’s going wrong about it that you intend to fix? Bradley: First off, I
+think we all at HP — not just in the PC — we focus on continual improvement.
+Our service to customers will never be good enough, the quality of our
+products will never be superior enough. It’s a quest for us, every day, to
+continually improve. From a margin perspective, we make a host of products,
+from calculators to Superdome computers. And the blending of those margins is
+something that Meg and Cathie [CFO Cathie Lesjak] take into account as they
+provide guidance both externally and internally. Our role in our big
+businesses is to optimize performance from a growth and profit perspective,
+and I think we do that pretty well. Everyone always says the PC business is
+really hard. I’m anxious to find a business that’s easy, because I’m ready to
+sign up. (Laughs.) Well, since you bring it up, there’s been an awful lot of
+speculation as to your career plans, Todd. Can you say what they are now?
+Bradley: I’m still planning to continue to drive PSG the way we have. We have
+a great team of people, and I think Meg — and I’ll say this as politely as I
+can — Meg has filled the leadership void that I think the company needed
+pretty broadly. So we’re done speculating what your next step may be? Whitman:
+We are. Bradley: I am. I have no plans, other than to focus on how we drive
+PSG and HP. There are great people here to work with. It’s fair to say we
+learned things. This process has shown us some areas that we’re going to
+improve on pretty quickly. Clearly, we have some challenges, but I think I’m
+working with the best team of executives in the industry. Whitman: I’d add one
+thing — that while the operating margin of this business is not as high as
+some of the other businesses at HP, the return on investment capital is really
+terrific. And that’s because of the business model that Todd has set up. And
+when you run a big company like HP, you have to look at the return on invested
+capital almost as much as you do your operating margin. So that is another
+thing to consider. We’re going to continue to be the best at managing our
+supply chain and manufacturing excellence. We’re going to play to win in China
+and Brazil and other top emerging markets. We’re going to refine the product
+strategy and continue to make great, trendsetting products. I’m excited about
+this business. I actually really like it. Meg, we’re talking two days after
+Virginia Rometty was named CEO of IBM. And obviously there’s some significance
+that the two biggest technology companies are now run by women. Any thoughts
+on that? Do you know her? Whitman: How great is that? It’s fabulous. It may be
+a milestone, and I’m proud to be part of it, and I’m sure Ginni is, too. I’ve
+only met her once. Tagged with: Acer, Apple, Dell, Hewlett-Packard, HP, Meg
+Whitman, Ouchpad, PCs, personal computers, PSG, tablets, Todd Bradley, webOS,
+Windows Apple Denies Working with NSA on iPhone Backdoor December 31, 2013 at
+8:49 am PT You Won’t Believe All the Crazy Hardware the NSA Uses for Spying
+December 30, 2013 at 12:15 pm PT HP Is Negotiating to Settle Bribery Charges
+December 30, 2013 at 8:45 am PT CIOs Brand Enterprise Social Tools as Most
+Overhyped Technology of the Year December 30, 2013 at 3:39 am PT Malware
+Attacks by Syrian Pro-Government Hackers Are on the Rise December 27, 2013 at
+1:27 pm PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » First the NSA
+came for, well, jeez pretty much everybody’s data at this point, and I said
+nothing because wait how does this joke work— Parker Higgins via Twitter
+AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

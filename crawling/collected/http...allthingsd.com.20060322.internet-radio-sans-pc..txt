@@ -1,0 +1,159 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walter S. Mossberg and Katherine Boehret ethics statement bio e-mail
+RSS Follow @kabster728 The Digital Solution > Music Tuning In to Internet
+Radio Without a Computer March 22, 2006 at 12:01 am PT Tweet Share Print See
+More Reviews » Internet radio is very cool. It allows you to listen to both
+traditional radio stations from all over the globe, as streamed through Web
+sites, and to stations that exist only on the Net. The variety of music and
+talk these stations offer is staggering, but there’s a problem: To listen to
+them, you have to be sitting in front of a computer. Many folks would rather
+listen to Internet radio in rooms where their computers don’t live, or where
+they’d rather not lug a laptop. To do so today, you have to buy a device that
+transmits music from a computer to remote speakers. These include the
+Squeezebox from Slim Devices Inc., Netgear’s MP101 Wireless Digital Music
+Player and Roku’s SoundBridge M1000. None of these devices includes its own
+built-in speakers. You have to attach them to your audio system, and some
+require you to manage software on the computer that allows them to work over
+your network, a tricky process. But, this week, we tested a new Internet radio
+product that’s totally self-contained and requires almost no setup. It doesn’t
+depend on a computer to bring in Internet radio, but does the job itself,
+wirelessly connecting to your broadband service, just like a computer does.
+And it doesn’t require an external audio system. It has its own built-in
+subwoofer and speakers, just like a traditional radio. It even looks like a
+traditional radio, but it does much more. This new product is called the
+SoundBridge Radio, and comes from Roku LLC. It’s due to hit store shelves in a
+few weeks at around $400, which includes a remote control. By including
+speakers, Roku eliminates the intimidating extra step of fiddling with wires
+to attach the device to a separate sound system. With its own sound system,
+the SoundBridge Radio can also function as an alarm clock, and it can receive
+your local AM and FM stations over the air, in addition to Internet radio.
+Roku’s SoundBridge Radio, priced at $400, includes a remote, built-in speakers
+and a subwoofer. And, even though it doesn’t require a computer for radio, the
+SoundBridge can pull music off your computers wirelessly and play it. It can
+even play music stored on a SecureDigital memory card. We rocked out all week,
+listening to all different types of radio stations, and concluded that the
+SoundBridge Radio is a decent product, but its user interface could stand some
+improvement. In addition to playing roughly 100 preprogrammed Internet radio
+stations, the SoundBridge Radio also detects and plays music from all
+libraries within range of your wireless network — without having to install
+any special software on your Windows or Mac computer. These libraries can
+include content running on Apple’s iTunes, Real Networks’ Rhapsody, Windows
+Media Connect and Windows Media 10, as well as services like MusicMatch,
+Napster, MSN Music and Walmart.com. To add your own Internet radio stations
+onto the SoundBridge Radio, you must use a convoluted method involving iTunes.
+This summer, Roku plans to upgrade its software so as to include many more
+preprogrammed stations on each device. The SoundBridge Radio is black and
+measures 11 inches wide, 6 inches high and 6½ inches deep. Two speakers are
+built into its front panel, and a subwoofer is built into its rear. A
+horizontal display with blue-green lettering runs across the front panel, and
+13 buttons are built into the top ledge, including a hard-to-miss sleep button
+and six numbered preset buttons. A headphone jack and SD card slot are
+positioned on the player’s right side. We had no trouble setting up the
+SoundBridge Radio. We plugged it in, and its display screen immediately came
+to life, asking us a few simple questions, which we answered by pressing the
+Select button on an included remote. After a few seconds of waiting, we were
+on our way. This text in the display screen can be adjusted to one of six
+different fonts; we chose the average-size type. While the smallest enabled us
+to see more text, it was impossible to see across the room, and the largest
+font had to constantly scroll to display song information. Unlike on some
+other devices, the remote has no built-in little screen of its own. Navigating
+through the SoundBridge Radio was confusing at times. A Source menu listed the
+six sections of the player, including each of our share-enabled iTunes music
+collections, and read: Play Walt’s iMac, Play Katie’s Music, Play AM Radio,
+Play FM Radio, Play Internet Radio and System Configuration. The radio itself
+had a Source button on it that, when pressed, easily retrieved this menu, but
+the remote had no such button. The remote does have a Home button (represented
+by a house icon), but this goes only to the main menu within the current
+source, not to the useful Source menu itself. After selecting each of our
+music libraries, options for how to play the music appeared on the screen,
+such as by selecting premade playlists or by browsing through and choosing a
+specific artist. We played a few songs from each of our iTunes libraries,
+including Billy Joel and Coldplay, and were impressed by the sound. Music
+bought on Apple’s iTunes Music Store will not play on the SoundBridge Radio
+because of Apple’s refusal to license its digital rights management software.
+Instead, the title of that purchased tune shows up in the display line with a
+tiny padlock icon next to it; playable music is distinguished with a music
+note. But backing out of a song while it played wasn’t as easy as we had hoped
+— pressing the Back button didn’t do anything. We pressed the Home button,
+which took us two steps further back than we wanted to navigate. AM, FM and
+Internet radio each had its own list of stations. We attached two separate
+antennas to the SoundBridge so the AM and FM radios could be received, then
+used seek buttons on the remote and radio itself to find stations. About 100
+Internet stations were preloaded on the SoundBridge Radio, but these could be
+sorted by various categories like name, genre or language. We listened to
+various Internet radio stations, including Beatles Radio, Swiss Radio, Smooth
+Beats, Southern California Public Radio and CNN Radio. But we had trouble with
+a few stations — like ESPN and Pacifica Radio — that failed to stream content
+to our radio after five tries. Roku said that this might have been because the
+stations’ servers were busy. Without the remote, the Roku SoundBridge Radio
+functions — but not completely. The six numbered preset buttons are
+categorized into A, B and C, so there are really 18 places to save a station
+from AM, FM or Internet radio. You can also use the preset buttons to save
+specific playlists, as well as lists of search results, by holding down a
+preset while listening to a song or station in that category. For example,
+while listening to music from Walt’s iMac, we held down the number six button,
+and a new label was placed on that button, smartly titled “All songs on Walt’s
+iMac.” If the Radio is in standby mode, the time, or the time and full date,
+can be displayed. Pressing any of the preset buttons will turn on the device
+and start playing music saved under that preset. Another button brings the
+Source menu to the screen, but Roku didn’t think to add a select button to the
+Radio, so we couldn’t navigate far enough to listen to music from the Katie’s
+Music or Walt’s iMac libraries. Overall, the Roku SoundBridge Radio is a smart
+device that needs a little tweaking. If the company really wants to market it
+as an alarm, it has to understand that users will want to play all of its
+available music, including computer libraries, without a remote. And
+navigating with the remote itself needs to be improved so that users don’t
+feel like they can’t back up out of a menu. But by designing this receiver
+with built-in speakers, Roku made it less confusing for average users — a move
+that might encourage more people to step away from their computers, while
+still enjoying great music. Email: MossbergSolution@wsj.com Tagged with AM,
+Apple, iMac, Internet, iTunes, music, Napster, Netgear, RealNetworks,
+Rhapsody, Roku, Slim Devices Inc., Soundbridge, Squeezebox, Web, Windows
+You’ve Come a Long Way, Silicon Valley December 17, 2013 at 3:47 pm PT Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup December 10,
+2013 at 3:15 pm PT Oh, the Places Your Phone Will Find December 03, 2013 at
+3:14 pm PT Xbox One: Digital Home Base for the Living Room November 26, 2013
+at 3:25 pm PT An iPad That’s Mini in Screen Size Only November 19, 2013 at
+3:06 pm PT Search the Mossberg Archives AllThingsD contains an archive of
+columns by Walt Mossberg and Katherine Boehret from The Wall Street Journal
+dating back to 2005. Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+subsection&query;=Mossberg+Solution Search » Walt Mossberg’s Product Guides
+Desktop PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras
+Improve Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and
+We Say Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion
+of Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

@@ -1,0 +1,124 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Personal Technology > Laptops The Laptops to Buy October 22, 2013 at 6:04 pm
+PT Tweet Share Print See More Reviews » There’s good news for laptop buyers in
+my fall guide this time: The confusing changes in the sagging laptop industry
+have settled down enough that if you need one, now may be the time to buy one.
+Microsoft and Apple are launching tweaked versions of their operating systems,
+but they aren’t radical changes this time that require a lot of new learning.
+And Intel has introduced new processors, which greatly enhance laptop battery
+life on both Windows and Mac models. While prices of touchscreen Windows 8
+laptops can still surge above $1,000, especially for the thinnest models, they
+seem to have eased a bit and you can find plenty of choices between $600 and
+$900. The stores have stopped pushing most of the clumsier tablet-laptop
+hybrids. Let me be clear: If you found Windows 8 with its dual user interfaces
+confusing, you still will. The new, modified version called Windows 8.1 is
+built on the same fundamental design. And Microsoft is still putting most of
+its emphasis on the tabletlike Start screen, which works best with a
+touchscreen and much better on a tablet than on a laptop. But in a concession
+to rebellious users, the company has made it possible to bypass the Start
+screen at startup and go right to the familiar Windows desktop — provided you
+can find the buried setting that permits this. So here are some tips on what
+to look for in a laptop this fall. As always, this guide is meant for average
+users doing typical tasks, not corporate IT staffs, or people doing heavy-duty
+work like video production. With Intel’s new processors, Apple’s MacBook Air
+lasted more than 10 hours in one test. Processors If you care about battery
+life in a laptop, look for what Intel calls its 4th Generation Core
+processors. Back in June, when I tested one of the first laptops to adopt this
+chip—Apple’s MacBook Air—it racked up a 65% gain in battery life and lasted
+over 10 hours on a single charge in my harsh battery test. A paper-thin Sony
+running Windows 8 lasted nearly six hours. It can be hard to tell which
+laptops have these new processors since they are still named Core i3, i5 and
+i7, just like the last generation. Look for a redesigned “Intel Inside”
+sticker on the laptop. Sony’s Sony Vaio Pro 13 ultrabook lasted nearly six
+hours in a test. Models with the new, battery-boosting chips have a more
+vertical blue sticker with a gold band across the top edge, as opposed to the
+older horizontal sticker with a gold band in the middle. Typical users should
+choose an i5 version. Windows vs. Mac Unlike Windows vendors, Apple has stuck
+with standard screens and built its many touch gestures into the large,
+smooth-running touch pads on its MacBooks. Laptops that contort into a tablet
+using special hinges and slide mechanisms tend to make for thick and heavy
+tablets. As always, Macs aren’t the cheapest laptops, starting at $999. And
+they only come in two lines, the thinner, lighter MacBook Air and the beefier
+MacBook Pro. If you prefer Windows 8, are looking for variety, or are on a
+budget, you want a Windows laptop. But the Macs are excellent, reliable,
+versatile products and far less susceptible to viruses than Windows PCs. Apple
+is using the new 4th Generation Intel processors. The company has a new
+version of its operating system, called Mavericks, which claims greater speed,
+improvements to the built-in apps and Mac versions of two iPhone and iPad
+apps: iBooks and Maps. Touchscreens You no longer need to buy a touchscreen
+laptop to get the most out of a Windows 8 laptop. Windows 8.1 allows you to
+boot directly into the familiar desktop, which is best used with a keyboard
+and mouse. And the mouse and keyboard will work for the touch-centric parts of
+Windows. If you expect to spend a lot of time in the Start screen and the
+tabletlike apps that live there, I advise using a touchscreen. Tablets vs.
+Laptops Tablets are taking over many of the tasks, including word processing,
+that were formerly commonly done on laptops. If your laptop is doing fine and
+you want a new device, it’s worth considering a quality tablet like an iPad or
+a name-brand Android model. Apple brought out new, faster iPad models Tuesday.
+Convertibles These combo laptops, which attempt to contort into a tablet using
+special hinges and slide mechanisms, seem to be fading. I don’t recommend them
+because they tend to make for thick, heavy tablets. The Asus Transformer Book
+T100 is a 10-inch tablet running full Windows 8.1 that snaps into a laptop
+keyboard. Detachables On the other hand, I do like the idea of Windows 8
+laptops in which the screen can be removed and used as a tablet. These
+machines, called detachables, are getting better and less expensive. One
+interesting model I tried briefly — but did not thoroughly test — is the Asus
+Transformer Book T100, which starts at $349. It’s a 10-inch tablet running
+full Windows 8.1 that snaps into a laptop keyboard. Machines with Intel’s 4th
+Generation Core processors have a sticker with a gold band at the top, not the
+middle. Price You can still buy Windows laptops for as little as $250 or $300,
+but I don’t recommend it because they tend to use old or lower-quality
+components. A good midrange price is around $500 to $700. Touchscreen models
+and those with the latest processors, or the thinnest and lightest bodies, run
+highest. Bottom Line It’s safe to buy a laptop again. Just pay attention to
+those Intel stickers. Email Walt at mossberg@wsj.com. Tagged with Apple, ATD
+Facebook, featured review, holiday 2013, laptop guide, MacBook, MacBook Air,
+MacBook Pro, Microsoft, OS X, Windows, Windows 8 Top Products in Two Decades
+of Tech Reviews December 17, 2013 at 6:04 pm PT Diabetes Data Beamed to Your
+Phone December 10, 2013 at 6:16 pm PT Two Houses, One Cable TV Bill December
+10, 2013 at 6:14 pm PT Calling Overseas on Wi-Fi December 03, 2013 at 6:18 pm
+PT Dell Tablets at Bargain Prices December 03, 2013 at 6:12 pm PT Search the
+Mossberg Archives AllThingsD contains an archive of columns by Walt Mossberg
+and Katherine Boehret from The Wall Street Journal dating back to 2005. Latest
+Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

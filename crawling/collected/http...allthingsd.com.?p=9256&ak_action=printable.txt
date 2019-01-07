@@ -1,0 +1,55 @@
+Media The Twitterhack Is Cloud Computing’s Wake-Up Call: Time for Security
+That Works Published on July 15, 2009 by Peter Kafka One downside of being the
+world’s most talked-about start-up: You become an irresistible target for
+hackers. Now Twitter, which has suffered multiple security breaches in the
+past, has been punctured again. Someone has gotten into the personal Web
+services accounts of co-founder Evan Williams, his wife and at least one other
+Twitter employee, and used that access to make off with a pile of confidential
+company documents. He’s now distributing them on the Web, and TechCrunch
+promises to publish many of them. The media ethics colloquy is well underway
+and will go on for a while (Boomtown’s Kara Swisher is holding her session,
+appropriately enough, via Twitter). Beyond that, I’m pretty sure Twitter isÂ
+going to be okay when this dies down. Based on Williams’s description of the
+attack (see the bottom of this post), as well as both TechCrunch’s and the
+hacker’s descriptions of what got pilfered, this looks roughly akin to having
+your underwear drawer rifled: Embarrassing, but no one’s really going to be
+surprised about what’s in there. The hack certainly will be worrisome for
+people who are using, or thinking about using, any kind of “cloud computing,”
+whereby work data/documents are stored on servers accessed via the Web. Google
+(GOOG) in particular is going to get some scrutiny, both because it’s Google
+and because it appears that a lot of this stuff was stolen after the hacker
+used Google’s “password recovery” system to root around. UPDATE: Twitter is
+now going out of its way to say that the attack isn’t Google’s fault, but
+Twitter’s fault for using passwords that are easy to guess. Albert Wenger, a
+partner at Twitter investor Union Square Ventures, says in a post that his
+shop is currently considering moving its systems to Gmail and Google Docs, but
+notes the big problem: “The threat of access by a third party increases
+exponentially with the move to the cloud, because the machines that now
+contain the documents and the links to those documents (as sent by email) are
+accessible to the Internet at large.” But cloud computing isn’t going away, so
+someone’s going to need to figure out how to make security better, yet still
+practical. There’s a reason no one follows the standard advice about having a
+different, impossible-to-remember password for every account you have. Wenger
+takes a stab at it in post–he suggests something tethered to a mobile phone.
+But whoever figures it out is going to have a lot of fans. Williams’s
+description of the hack, via TechCrunch: Yes, we did suffer an attack a few
+weeks ago and are familiar with this list of stuff. This is unrelated to the
+hack of twitter where someone gained access to userâs accounts. This had
+nothing to do with the security of twitter.com, and there were no user
+accounts compromised here. Some notes: – He did not actually gain access to my
+@ev Twitter account (or any Twitter accounts) nor any administrative functions
+of the site. – There is also no evidence that he gained access to my email.
+There was one administrative employee whoâs email was compromised, as was my
+wifeâs Gmail account, which is where he got access to some of my credit
+cards and other information. – He also successfully targeted a couple other
+employees personal accounts (Amazon, AT&T;, Paypalâ¦) In general, most of the
+sensitive information was personal rather than company-related. Obviously,
+this was highly distressing to myself, my wife, and other Twitter employees
+who were attacked. It was a good lesson for us that we are being targeted
+because we work for Twitter. We have taken extra steps to increase our
+security, but we know we can never be entirely comfortable with what we share
+via email. [Image credit: Wikimedia Commons] Return to: The Twitterhack Is
+Cloud Computing’s Wake-Up Call: Time for Security That Works URL:
+http://allthingsd.com/20090715/the-twitterhack-is-cloud-computings-wakeup-
+call-time-for-security-that-works/ Brought to you by The Wall Street Journal |
+© 2005-2019 Dow Jones & Company, Inc. All Rights Reserved.

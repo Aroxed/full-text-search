@@ -1,0 +1,95 @@
+Adaptly Adaptly Facebook Facebook Twitter Twitter Instagram Instagram Linkedin
+Linkedin Pinterest Pinterest Email Previous Next Search Clock Company
+Solutions Insights News Careers Contact Us Login Facebook Messenger Playbook:
+How to Make the Most of Advertising on Messaging Apps Reading Time: 4 Minutes
+It’s been four years since Facebook acquired WhatsApp and launched a
+standalone messaging app, Messenger. With $16 billion spent on the WhatsApp
+acquisition, 1.5 billion users on the platform, and 1.3 billion monthly active
+users on Messenger, Facebook is finally beginning to monetize their messaging
+apps. A smart move considering messaging apps have more monthly active users
+than social networks and almost half of consumers would rather message a brand
+than call or email them. Advertising was introduced on Messenger in 2017, and
+in early 2018, WhatsApp debuted a paid offering that allowed businesses to
+contact users for a small fee. The advertising capabilities on WhatsApp are
+still limited, however on Messenger the offerings have continued to grow. More
+than half of US internet users have used chatbots, and 53% of consumers are
+more likely to shop with a business they can message. It’s a place that brands
+and advertisers need to be, so we’ve created a three-step guide to help you
+navigate the complexities of advertising on Messenger. 1\. Make Sure Your
+Brand Is Prepared to Handle Inbound Messages Conversations between consumers
+and businesses on Messenger should feel organic. Gaps in conversation can kill
+the authentic feeling and frustrate consumers. Staffing a community management
+team equipped to deliver prompt responses around the clock can get extremely
+expensive. Instead, use a Facebook bot developer to develop an automated
+Messenger experience. Bots can do everything from providing users information
+about certain products and services to addressing customer complaints. When
+Kia launched their Niro model last year, they developed a Messenger bot that
+used artificial intelligence to understand user questions and perform a wide
+range of tasks. People could use the Niro bot to easily learn more about the
+car’s specs, inquire about warranty and service support, conduct an inventory
+search at dealerships, and request a test drive or quote. Facebook also allows
+users to buy products directly in Messenger using their payment integration.
+Advertisers can even offer videos, mobile games, quizzes, the option to set up
+reminders, and more, all within the app. Messenger is truly a blank canvas for
+brands to develop a personal relationship with users. AI-powered bots are
+becoming more and more powerful, however it’s always a smart idea to give
+users the option to switch over and speak with a human at any point. 2\. Use a
+Mix of Paid Media and Discoverability to Cultivate an Audience Unfortunately,
+it’s not enough to launch a Messenger bot and expect a massive audience
+overnight. To help cultivate an audience, brands can employ two main
+strategies: discoverability and click-to-Messenger ads. Discoverability To
+drive engagement, Facebook recommends adding plugins to your website that
+direct people to Messenger, including visual codes for people to scan at
+retail locations, and updating the call-to-action button on your business’
+Facebook Page. McDonald’s got creative in a recent Brazilian campaign and
+placed a Messenger QR code on their tray liner allowing customers to play a
+game and receive a coupon. It’s ingenuity like this that helps cultivate an
+audience on Messenger without relying solely on paid user acquisition. Click-
+to-Messenger Ads Click-to-Messenger ads are Facebook, Instagram, or Messenger
+ads that send people into a Messenger conversation with your business. We
+recommend using a combination of Custom Audiences, personalized creative, and
+customized greeting messages to most efficiently engage users. The first step
+is creating Custom Audiences based on certain action users have taken in app
+(viewing a video, for example) or on site (landed on your home page, looked at
+a certain set of products). Then target the audience with a relevant, creative
+message. An apparel brand, for example, might want to show different creative
+to users who looked at men’s sneakers and users who looked at women’s
+leggings. Then, when those different user groups click to enter a Messenger
+experience with your brand, they can be sent a specific greeting message based
+on their recent activity. Using the same example, users who looked at men’s
+shoes can be greeted with a custom, relevant message, not just a generic
+“hello.” Mastering this process requires creating numerous Custom Audiences,
+creating an increased number of ads, and constantly A/B testing. But when it’s
+done correctly, this strategy can pay dividends and unlock an entirely new,
+effective marketing channel for your brand. 3\. Re-Engage Users Who Interacted
+With Your Brand on Messenger A real benefit of engaging users with your
+business’ Messenger experience is unlocking the ability to send Sponsored
+Messages. Facebook’s Sponsored Messages product allows businesses to send
+recently engaged users a message directly in their Messenger inbox. Love Your
+Melon recently took advantage of Sponsored Messages to impressive results. In
+a 3-day blitz, the company targeted users who previously engaged with them on
+Messenger and were able to accomplish a 14x return on ad spend (ROAS), a 19%
+click-through rate (CTR) from Messenger to their website, and a $0.15 cost per
+link click (CPLC). The monetization of messaging apps is still in its infancy
+compared to traditional social media apps, but that’s all the more reason for
+brands to lean in. Not too long ago, mobile advertising was in a similar place
+to where messaging is today. Businesses who sat idly by as the transition from
+desktop to mobile occurred paid the price. Users are 3.5 times more likely to
+open a Facebook message from a brand than to open a marketing email. Moving
+just 20% of your email budget to messaging platforms next year will pay
+dividends. It’s a small investment in testing and education that will prepare
+your brand for the day messaging is the main channel of communication between
+brands and consumers. Michael LaFond Senior Partnerships Manager Michael
+LaFond is a Senior Partnerships Manager at Adaptly, where he works closely
+with platform and data partners to bring cutting edge advertising solutions to
+market. Growing up in Maine, Michael enjoys surfing, skiing, and the outdoors.
+Office New York Share Categories Blog Back To Blog > Fill out form to access
+download Submit Let's Start Something Remarkable Today Contact Us Keep up with
+the latest advertising trends and insights. No spam, we promise. Comments
+Subscribe Be Remarkable General Inquiries contactus@adaptly.com 212-300-8599,
+ext. 417 Media Information pr@adaptly.com New York 386 Park Ave South Floor 17
+New York, NY 10016 London 20 Midtown 20 Procter Street London, WC1V 6NX
+Chicago 747 N LaSalle Drive Suite 500 Chicago, IL 60654 Los Angeles 1411 5th
+Street Suite 405 Santa Monica, CA 90401 San Francisco 981 Mission Street San
+Francisco, CA 94103 Detroit 1449 Woodward Avenue Detroit, MI 48226 Careers
+News Partners Our Vision Privacy Policy Contact

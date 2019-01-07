@@ -1,0 +1,407 @@
+Home Browse Topics Series Events From Sponsors WSJ.com Search Now Playing
+5/21/2013 4:00AM Omar Khan Talks Security At Dive Into Mobile Omar Khan of
+China's NQ Mobile talked about mobile security onstage at the D: Dive Into
+Mobile conference. Transcript This transcript has been automatically generated
+and may not be 100% accurate.... the ... more on you ... aam ... I invented
+for budget reasons one is doing a really interesting thing at the moment is
+CEO ... of the NQ mobile which is a security company that's expanding into a
+bunch of other areas but also before that ... Omar worked at Motorola and
+Samsung and city and has had a really good understanding of the mobile market
+is awful ... sell out looking for this for the for the deal Omar Khan ... the
+... we have we have all sorts of things I think it's here spotted by playlist
+doesn't appear to its Republican on ... the line to get permission I did the
+stock has signed a somewhat for where ... they got ... ALM so ... you know
+you've been in a lot of interesting rules a mobile company and then uttered
+about a year ago was that ... aam you went to a company that I think most of
+the people in the room and guessing you've not heard of ... um ... but some
+tiny company so what is in. Q mobile and what made you wanna join them ...
+five minutes to you when you ... get that kid that like to joke is there a PR
+... its ... largest mobile security company in the world ... and no one's
+heard of the study was one of things work ... out from the DNA perspective
+from a technology perspective ... and from African perspective was a was
+amazing ... and that and that ... the culture is outstanding the founders were
+... folks and view the sauna I with and so was an opportunity I couldn't pass
+up but from that ... from a company perspective it was founded eight years ago
+... are focused on mobile security before Android before I O s ... I read the
+Group of the Symbian platform and cut its teeth on the Symbian platform ...
+built a set of technologies ... from an IP perspective that were unique ... so
+today we've got to a core set of IP rights ... are crawling engine I called in
+to crawl and two cents which is art ... on turf ... mesh network of users
+around the world as well as ... on our wrist make out with images of ... a
+comprehensive purest attention in the cloud ... I then allows us to do real-
+time analysis ... of files without manual intervention ... and so that the
+core DNA and security that attracted me because that ... knowing what ... I
+believe is going to happen or what we believe this to happen in mobile the
+next five to ten years ... up to pee for security given the money either ...
+the amount of personal information and content we have on our devices is going
+to get even more important over time ... but its payments health care et-
+cetera ... and he was a great DNA for for us to start a company to grow the
+company from figurative is fairly large roster we did ... about ninety two
+million in revenue this year we had we not look bad ... I hundred AEDT of plus
+or minus a chunk of that is in China where most of the company is correct now
+but in our consumer business about forty six percent is in China which is one
+of the smartphone market in the world ... um and so we do what headquartered
+in engaging in Dallas that saw half of our tickets that in Beijing have to
+Dallas now ... and I knew I we decorated diversify so ... now consumer
+security and privacy is one ... of our business units up with the second
+business unit now focused ... on enterprise mobility which is helping
+enterprises as they ... undergo the challenges of mobilizing the power of
+their workforce with its BYOD or whether it's our enterprise some liable
+devices that they issue that ... I've to their employees ... the number one
+concern that most CEOs were share with you secured ... and so we thought we
+were not in a great spot to provide security framework within our enterprise
+mobility solutions ... alongside mobile device management ... arm to
+differentiate the offering and in the final one is ... a mobile gaming
+advertising business which we've just entered into the fourth quarter of last
+year ... so I wanna focus on scaredy cats it's an important hub and we haven't
+spent that much time talking about a yet aam what it's been a little bit of
+time intercession in others ... aam you this is due to report I've read a
+bunch of reports from thirty countries ... here we get we should probably go
+that battle is here but it seems like it I read these words ninety four
+percent of mobile vulnerabilities radiant right ... aam this intolerance that
+has not not everything is the these are all flaws in the operating system
+sometimes it's ... euro gaps in you know ... an ... alternative path markets
+... is Intrade fundamentally less secure or is it the usual thing when hackers
+are just going with the opportunity has won the hackers are definitely going
+with the opportunity is but I'm in Android ... that actually does a pretty
+good job of of course security and it's not that ... I'm yet it's a full
+octave the philosophical issue ... read philosophical issue and and for us
+luckily ... they have niche was to be very open ... exposed to both natives
+... BP eyes as well as a ... time ... took no comfort and sustain deep so they
+can to allow developers ... like us to do ... very innovative applications and
+that I know Facebook Home has come up a lot ... and at the helm market others
+were you were pretty forthcoming ... time during the interviews about it that
+they couldn't of done that ... if you want for the openness of Android ... and
+I think it speaks volumes that that developers are allowed to use Android to
+wait between you ... but whenever you have that this situation where does that
+open ... up your invariably to have bad actors in the system would leverage
+that openness ... to do ... you fit to do malicious behavior condition
+malicious behavior ... and and the only reason one of the primary reasons that
+they're focusing ... on mobile is the type ... of relationship that we have
+with other devices ... you're never sure and beckoned him back in it and the
+green room ... of the pictures of our kids ... as an example of the types of
+information that would carry we know whether it's pictures of her kids the geo
+location can't be that our contact list of Yum credit cards and encrypted ...
+of guitar notes files of our device or passwords without a password enter the
+type of information we keep on the device with us at all times is quite
+valuable is it fair to say that it's it's a typical security tons of the
+future could pull people say they care about security but if you actually look
+at their behaviors they are not doing very much ... in it's not a feature that
+people tend to pay for ... not that the Wallabies for the software but they
+tend not to buy a particular ... piece of hardware pieces offer because it's
+more secure than another ... and that that that is true even if you think
+about I believe we asked a question last March in a survey that we did ... I
+which is you have type ... of security ... enabled on your device to an
+application and I think of is that fifty three percent Consumer said ... that
+yes they did and we know it's not true ... so they construe the things like
+... the upcoming have a password manager on my divisor enable a four digit to
+... Pascoe the interest rate oh it is very natural kind of one director to fly
+but one two three four of the euro is safe but nobody can deny that the
+guidance of the devices he would cut its target ... so so and the consumers
+misinterpret that as as foolproof security ... and ... so there is indeed a
+lot of it has to do with ... engaging smart P Richard Tobias whether it's
+locking whether it's ... we drop in the PC and then we were trained ... um
+yeah I remember from my earliest days of using the PC we're trying ... to not
+click on an extension on attachment that we do not recognize that I love the
+what is ... now ... at the peak and created a show him that in your inbox can
+get infested or whatever might be ... I think the same of all the education
+and pollution from consumer awareness perspective they happen on all the
+buttons ... so that's that piece of you know well with the industry needs to
+go where consumers need to go in terms of where it's ... from a business or
+for how how the business to secure the menu doesn't moving into other things
+is that ... because ... security is the big enough business or just ... you
+know you wanna be bigger than the security market wire like you more when
+there was a Corker is a decision on our part to contain a diversified company
+... of based on core assets record DNA that we had security itself is a very
+fast on the stock or security business organically who ... are over ninety
+percent you will for you ... I'm monetization continues to ... to do well
+we've been house a very large deals over the last year ... and continue to
+grow that business now we've had over ... him but two thousand retell point
+presence of relationships within us about still a high growth business ... but
+if we think about the platform that we have built over the last two years ...
+for application distribution ... I'm engagement monetization ... the question
+we ask ourselves Mr. was what other additional content and can we run through
+that ... that platform ... and it ... when you when you look at it gaming and
+mobile games continues to be a very large market from the yet ... to get from
+security to in app advertising mobile game because ... I'm not necessarily
+seeing a direct correlation between the IP there yet so it's really about the
+platform ... the fact that we built the platform or weaken our users in over a
+hundred fifty countries for have building ... integrated in local currencies
+of over sixty countries are going to do that and economical fashion today we
+kept our users of between ... about seven cents per registered Mr. ... on land
+the basis that the very advantageous ... economic scenario ... so the question
+them we ask ourselves and what additional content types can we run through the
+tension ... it's a similar evolution ... and if it twelve years ago whenever
+it was the head Geoff be on stage at one of the conference is that an Amazon
+in the said okay ... you how you can align your business wonton a revolution
+... yesterday I knew what we're doing more than a bookstore that and in it I'm
+assured that he does it on to revolutionize the book industry ... you know
+over time they built the platform that at ten am pretty darn good at ... third
+party logistics I have gotten amazing back and that I can run AWS off of ...
+I'm gonna get a Commerce management system ... that that I can start to
+leverage its a fixed cost and got one anyway why not let other people pay for
+it ... right so so it's one of those things were we realize the engine that
+we've had for consumer monetization and different perspectives and you think
+of it sells as the security company year from now do you wanna be ... a bigger
+security company or do you wanna be just a mobile technology company or ...
+the biggest bookstore either no one would think of ourselves as a mobile
+internet services come so and and we think ... we believe that security is the
+Creek War DNA database of ... soap but that enterprise mobility business ...
+of where security isn't Hitler for enterprises the field ... of ... him ...
+feel that the adoption of mobile devices does not ... sacrifice enterprise
+Toder security ... where there's a application distribution or advertising
+were you ... aware we engage consumers and secure fashion whether to commerce
+transaction ... whether it's making you knew that we we engage them and even
+with our beginning it's it's it's quite differentiated ... how we do ... we
+gauge your sister will recall interest this community ... I which is not
+unique but the way we do it is not to contest or search for social games photo
+based recommendation what were doing as we run multiple gaming communities
+we're on ... our health care communities rerun I'm confused his community's
+... as during gauging what this has appeared in front of your game ... so
+let's take down the street and I let's pretend you're December ... answer you
+go and you try to learn something insurer sure secrets about again ... were
+developing interest profiling obviously with ... that with your permission ...
+that allows us to understand what you might even have a higher propensity to
+consume ... and in app offer and had an advertisement ... and that's how we're
+working with publishers who use our pop one ... out that to engage with their
+consumers ... and and we've done here on any given point in time we probably
+operate ... either five or six of the top grossing apps on ... top hundred
+grossing apps on it I'd I'd I was platform as an example ... so there's a lot
+of interesting things going on in a few mildly off in the audience will have
+some questions about that but ... I'd I also wanted your kids ages you have so
+much experience they the kind of you know I think a view this ... as a good
+reality check them out of the things we've heard on stage some are a few
+things by in ... a one again your senses you know ... this this out ... the
+market are toxic is so ... Samsung and Google news hit Samsung ... they they
+they really getting along so well or ... are they you know doing a lot of
+business together but each worried about were the others going ... I'm that
+that that that ... I think it's a healthy relationship but again I ... haven't
+been there for a couple of years ... I'm a constituent both as a consumer and
+a ... and with the sector got ... hit ... in any situation I think you're
+always can have no not not just posturing that people can maintain ... some
+type of ... it's a chance ... that that to say the least in terms of ... both
+a power struggle ... and data ... in ... an ... effort to make sure that we
+keep each other in check ... and I think that there are not mutually
+beneficial relationship I mean Samsung distribution at number ... in the early
+days of Motorola we use to do all sorts of benchmarking on Nokia ... I'm you
+know the best part ... everything about Nokia ... to how the fact that you can
+show up into ... in central Africa ... um and walk into any ... marketplace
+and on a broad anywhere you to Nokia devices ... you could get in service
+anywhere in Africa ... Samsung has done an amazing job building distribution
+network ... um all over the world ... that I think you know rivals if not by
+surpasses what Nokia had it at that speed and a huge surprise like that now
+when you walk into a Best Buy idiocy Samsung store in the pre end of the
+building are you helped ... upstart that effort but ASIC gone further than
+even you thought ... was possible though I'm that that that that will one I'm
+I'm ... I'm very impressed with what they've done that it doesn't surprise me
+all ... time ... yet I was always amazed by the power of Samsung the
+technology perspective ... even as companies that were in the U S and abroad
+... word you invest in the last function Samsung was doubling down ... and
+increasing the number peach he's a retired increasing the amount of IP there
+were generating ... for thinking of last year the year before there on the
+second tied the imminent birth ... happens that were issued ... on the U S as
+an example he missed a few bucks on Africa not to mention a few bucks yet but
+they've done something ... that arguably I think it's only been done ... three
+times that in the mobile industry where ... you can ... you can drive the
+consumer into the store and switch and change the equation rather than the
+Verizon salesperson or eighteen T cells person ... selling you want to walk
+into a store based on what was on promotion ... here drive consumers into the
+store asking for delicate device ... in my opinion that's point and on which
+start at ... point and on with ... with with reserved ... and with the I phone
+... and then add the Galaxy is is play the fourth time I mean good if you
+could argue if the BlackBerry probably with a similar situation are considered
+... an iconic brand from a device perspective so public with it said love your
+thoughts on ... is Facebook Home is that something Google's really happy about
+their services are still there they probably pretty worried ... about where
+that's going from here ... you know it had at ... it depends I'm ... just my
+opinion I think it depends on what it needs to in terms of ... um ... yet both
+the device consumption and cancer impeachment from ... monetization
+perspective and in in the end ... of the Android is an open source operating
+system and there is a revenue model associated with how Global makes the
+unemployed ... and on their own services for its from their own services ...
+and to the extent where their services are still part of the equation in the
+can continue monetization ... and ... hear from the platform perspective to
+the fragmentation doesn't affect the consumer experience ... of ... him that's
+can it be what they in my opinion but that ... is are we sacrificing the
+customer experience or as were upgrading from Jellybean ... told him to the
+tothe next per cent ... of consumers toward a better than the devices and and
+start these Facebook Home ... as being a good user experience if you well ...
+I'm more ... operating system I think somebody term debt last week that when
+that when I read ... um ... but if it doesn't impact Cantore experience on the
+upgrade path if it doesn't ... I'm ... not hinder their their ability to Mana
+ties their services ... then I think the worry will be less if it starts to
+truly fragment ... and an impact or service generation revenue generation
+kibbutz or worse yet it hurts the user experience ... I'm from an app ...
+platform migration perspective ... then I think you'll see some some
+additional conservation but those are ... the marketing factors that are
+probably looking at ... again I'm not sitting on the inside but that's what
+I've that I would look at another ... way worried it deftly paying attention
+definitely paying attention I would be surprised if they are paying attention
+so ... aam and then you know the other thing we've heard a lot about my talk
+all the time really is their number three in the market in all everyone
+spending most of the resources on ... Intrade nihilistic for from a couple
+folks that clearly want ... to be a stronger Number three ... then they are
+today we heard from yet Terry Myerson a Micra soft ... we heard from gate
+Elekta Mozilla ... is there anyone that Scott a credible argument right now
+that their number three very when you think ... they've got the inside track
+or is it still kind of ... a two horse race with a bunch of other courses
+running around ... to all answer question ... with them ... with the best
+answer I can give you which is where we're someone ... write and if you'd
+asked me were were putting resources we've got a monotonous and retain more
+and more mobile we can see approach on the third arrest ... now ... having
+said that ... um ... you know ... I have always been ... a fan of the Windows
+operating system I think that they have done a ... great job on the user
+experience to you why ... I'm ... and I'm I'm looking for was open to the
+distribution perspective from an economic perspective ... you both for Dennis
+trouble in the near term to achieve anything but Yes with ... him mid single
+digits from Reacher perspective but ... but there there's a lot of players in
+the system cares one-third operating system so they will do what it takes ...
+to to support ... the ... big ecosystem tend to generate competition ... I
+think there's another player in the next year between that between Samsung and
+... and and and you ... know I've ever ties in that they're working on ... I
+think a proven despite the fact you know what you can say about the
+limitations about a has ... been ... no had pretty decent distribution just
+based on ... the footprint but they can distribute it to one count and hung
+out especially ... across ... the device of a west ... of ... the dead that
+you know that they're looking that he could deploy interior with their assets
+... I would count them out either ... so I think there's a lot of players but
+I think there's ... it's can be a tough ... tough go to get a single digits
+ten year ... U K it's too early for you guys to say this is a widower can
+invest in for ... one last ... random in what will we can see ... and at this
+point that's I think the best answer I can get in on tree gets an answer from
+all top developers out there ... their absence from the audience ... the ... I
+am sad Heartland drippy Technology Company ... actually ask question earlier
+this morning ... of ballots ... devices that are not for personally is there
+actually being used ... on line merchants ... on in ways to you and to
+business writes his cake he meant to connect with customers ... the device is
+not really a Pursell device in that respect ... but were seen a lot of use of
+mobile technology ... trends and consumer to buy nice ... sitting on top of it
+... and it's not really ... still not ... that great ... EC in Q maybe even
+getting down to doing like a purpose built by its just for those types of
+commercial situations ... so ... the midst of a workout in and in the devices
+business minutes that mess with the top part of the ... of the Charter of the
+DNA of the company to be a device oriented company with offer solutions
+provider for mobile space ... but I am seeing that this thing is you I'm
+excited about how people are using these devices whether I pass ... or Android
+tablet over to hindered by the IRS any iOS device ... to appoint a still
+solutions to some ten thousand city ... I've read a lot work to understand
+what was happening in that space and went ... on to what he thinks payment
+solutions providers ... of Nestle's hardware providers could do to help enable
+... the infrastructure cost of ... wind ... and ... the cash register such an
+archaic Technology who'd sit there ... and we look at the fact that yes there
+have been much in addition the cash register for ... your two or three decades
+I'm sure there's some businesses out there that literally have cash cows MTR
+when someone else than ... the rest of them have eye pads in a surprise that
+we've gone from the cafe sister to the I pad I mean Apple ... has this huge
+enterprise business around ... phones and tablets without ... devoting much in
+the way of resources to a new you guys are getting into ... enterprise
+mobility are you surprised ... that no one you know ... BlackBerry ten o one a
+wakes up reliable device is Khona won away the surprise that ... aam you know
+it's just been avoided in and Apple's consumer friendliness means ... you know
+the taxi driver has wary surprise there isn't a stronger ... enterprise first
+player ... I mean it doesn't surprise me and I think it require ... it always
+requires the silicon solutions are another time ... aam ... and ... and ...
+and ... it's up to say that the solutions didn't exist to go to a completely
+... no cashless society ... I think were were at a time point in time where we
+are becoming worth it if not dare we are very close becoming a cashless
+society and that some of those are what ... I mean in terms of Commerce NT
+minute it came in at the point of sale ... and I think some of that is what is
+required of many of these points the sales whether it's ... that whether it's
+a taxi or whether it's at the ... time ... now ... at a winery or whatever
+might be to help the enabler for these for these mobile solutions but I think
+... just to get your point of purpose built devices and those are very
+specific question I think ... what what happens is that it in this entire
+ecosystem of accessories and purpose built excess trees around the devices and
+interfaces ... using both connectors an API is is is is Guinea continue to be
+a very strong ecosystem to help ... optimize or customize those devices ...
+for specific environments whether to rugged eyes and brown because its appeal
+for supplication ... whether it's a point of snow environment ... where I need
+to be overturned at the bison turn towards the consumer allow them to sign
+which is what our local coffee shop as literally did turn around the turns and
+eyesight and they turned back around and thats an accessory that someone built
+for that specific situations but the excess free environment ... will enable
+some of these more purpose ... I'm on call purpose been purpose built
+applications from a hardware perspective cripple think you so much for my it's
+always good to hear ... what you have to say in a future will be hearing more
+Oakley year from now I'm at vehicles ... and two mobile will be the ...
+biggest company we haven't heard of ... them and that that that that that is
+Argo were looking for to continue grow the company and become a household name
+... excellent ... think you so much and the kids ... Up Next Editor Picks 1:42
+Fed Chairman Powell Won't Resign if Asked 1/4/2019 2:15 Is the December Job
+Report Good News for President Trump? 1/4/2019 2:23 The Main Reasons for
+Apple’s Revenue Shortfall 1/3/2019 3:35 China Makes Historic Moon Landing,
+Boosting Rivalry With U.S. 1/3/2019 More → Editor Picks 1:28 Nancy Pelosi Is
+Elected Speaker of the House of Representatives 1/3/2019 The new Democratic-
+controlled House elected Nancy Pelosi as speaker of the House on Thursday amid
+a battle with President Trump over border-wall funding. Photo: Getty 2:56
+Businesses Prepare for Prospect of 'No-Deal' Brexit 1/3/2019 6:00AM 3:19 What
+Did We Learn From Kim Jong Un's New Year Address? 1/3/2019 5:30AM 1:43 Trump
+Sticks to Border Wall Demands as Shutdown Continues 1/2/2019 6:03PM 24:45 Safe
+Haven: One Family's Journey After Hurricane Florence 12/31/2018 3:24PM More →
+More → Moving Upstream 9:56 Electric Scooters: Israel’s Two-Wheeled Solution
+to Traffic and Sabbath 12/20/2018 Electric-scooter rental companies are
+hitting speed bumps in the U.S. over safety and other concerns. But in Tel
+Aviv, one in 10 residents has rented a Bird e-scooter, and the city appears to
+be embracing them. WSJ’s Jason Bellini takes a look at the challenges and
+potential lessons of the e-scooter craze. 0:54 Tasting the World’s First Test-
+Tube Steak 12/11/2018 5:30AM 9:58 High Insulin Prices Drive Diabetics to Take
+Extreme Measures 12/3/2018 5:30AM 9:57 Facial Recognition Tech Aims to
+Identify Good and Evil 11/19/2018 5:30AM 9:54 The Future of Flight: AI in the
+Cockpit 11/12/2018 5:30AM More → Recommended for you 2:15 Is the December Job
+Report Good News For President Trump? 1/4/2019 The government released a
+blockbuster jobs report despite a trade war with China and a partial
+government shutdown. WSJ's Gerald F. Seib explains what this report means for
+President Trump. Photo: Getty 2:23 The Main Reasons for Apple’s Revenue
+Shortfall 1/3/2019 8:53PM 1:42 Holtz-Eakin: The Fed Has Not Overdone It
+1/4/2019 10:00PM 1:41 The Opposite Sides of the Shutdown Talks 1/4/2019 5:49PM
+3:35 China Makes Historic Moon Landing, Boosting Rivalry With U.S. 1/3/2019
+9:08AM 1:42 Fed Chairman Powell Won't Resign if Asked 1/4/2019 11:52AM 1:28
+Nancy Pelosi Is Elected Speaker of the House of Representatives 1/3/2019
+4:40PM 2:56 Businesses Prepare for Prospect of 'No-Deal' Brexit 1/3/2019
+6:00AM 3:19 What Did We Learn From Kim Jong Un's New Year Address? 1/3/2019
+5:30AM 1:04 Trump Slams Mattis Over Afghanistan 1/2/2019 5:07PM 4:43 Didn't
+Get the Job? The Robots May Not Have Liked Your Social Media Activity
+12/30/2018 7:00AM More → Featured Content 11:59 Violence Made Her Flee. Now
+She’s at the Border 12/28/2018 Fleeing violence from her hometown in Honduras,
+Gabriela Rodriguez traveled thousands of miles with her daughter to the Mexico
+- U.S. border in Tijuana. The Wall Street Journal followed her as she weighed
+her options to cross into the U.S., hoping to leave behind her past.
+Photo/Video: Jake Nicol/WSJ 6:30 The Struggle to Keep a Son's Promise
+12/31/2018 7:00AM 9:35 What Trump Did to Silence Stormy Daniels and Karen
+McDougal 11/9/2018 12:33PM 8:53 How Scammers in China Manipulate Amazon
+12/17/2018 5:55AM 9:18 Chefs Speak Out on Mental Health in the Restaurant
+Industry 11/12/2018 12:28PM More → More → Tech 4:43 Didn't Get the Job? The
+Robots May Not Have Liked Your Social Media Activity 12/30/2018 DeepSense,
+based in San Francisco and New Delhi, uses artificial intelligence to assess
+job candidates’ personalities based on their social media accounts. WSJ’s
+Jason Bellini tested the tool. 9:39 Cold Pursuits: A Scientist's Quest to
+Uncover Antarctica's Secrets 12/29/2018 12:00PM 3:26 Facial Recognition Spurs
+Privacy Concerns, Even Among Its Creators 12/24/2018 10:59AM 2:40 Easy
+Upgrades for Your Family's TV 12/23/2018 8:30AM 4:59 Where Amazon Reviews
+Really Come From 12/20/2018 8:50AM More → More → Life & Culture 2:21 The
+Secret to World Famous Carrot Cake (Hint: Jail) 12/25/2018 This Christmas at
+the Rikers Island jail complex, inmates and the staff are looking forward to a
+special treat from the jails’ bakery. We went inside. Photo: Natalia V.
+Osipova/The Wall Street Journal 4:21 Three Boys Explain Why They Play Fortnite
+Every Chance They Get 12/21/2018 8:00AM 4:03 Your Home Needs a Robot Vacuum
+12/16/2018 8:30AM 3:43 Lab-Grown Meat Prompts Rabbis to Consider the
+Impossible: Kosher Bacon 12/14/2018 3:36PM 4:32 'Beam Me Up, Scotty:' A 'Star
+Trek' Home in Silicon Valley 12/6/2018 10:00AM More → More → Sponsored 27:34
+Sponsored Creating the Future Workforce 1/17/2017 3:39PM 1:00 Sponsored Golf's
+Data Revolution 9/9/2016 2:16PM 1:30 Sponsored How Worldly Experiences Can
+Shape One's Success 1/24/2018 2:21 Sponsored Am I Doing What I Love? 9/22/2016
+11:59PM More → More → Marketwatch, Moneyish and Barron's 2:30 How automated
+digital payroll will change the way employees get paid 1/3/2019 Here's how the
+'consumerization' of payroll could affect when and how you receive your
+paycheck. 3:56 When a couple with opposite attitudes about money buys a house
+1/3/2019 7:00AM 3:18 AI could transform the world. Here's what's holding it
+back 1/2/2019 7:03AM 1:06 A personality test expert assesses Hillary Clinton
+and Warren Buffett 1/2/2019 7:00AM 3:09 Why the banking industry will spend
+$100bn in cloud services by 2019 12/28/2018 7:10AM More → The Wall Street
+Journal Digital Network WSJ.com WSJ Video MarketWatch.com Barrons.com
+BigCharts.com Virtual Stock Exchange About About Content Partnerships
+Advertising Advertise Locally Privacy Policy Cookie Policy Data Policy Your Ad
+Choices Copyright Policy Tools Tablet Edition Podcasts RSS Feeds WSJ on
+Twitter WSJ on Facebook Help Help Customer Service Contact Us Global Support
+WSJ Podcasts ViewWSJ Videoon WSJ Video Home Topics Browse Videos Programs
+Events Content from Sponsors View WSJ Video On

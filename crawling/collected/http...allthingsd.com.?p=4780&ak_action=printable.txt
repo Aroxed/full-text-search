@@ -1,0 +1,51 @@
+Mossberg’s Mailbox Windows XP: Home v. Professional Published on April 14,
+2005 by Walt Mossberg There’s no other major item most of us own that is as
+confusing, unpredictable and unreliable as our personal computers. Everybody
+has questions about them, and we aim to help. Here are a few questions about
+computers I’ve received recently from people like you, and my answers. I have
+edited and restated the questions a bit, for readability. This week my mailbox
+contained questions about Windows XP and security patches for the Apple
+operating system. If you have a question, send it to me at mossberg@wsj.com,
+and I may select it to be answered here in Mossberg’s Mailbox. Because of the
+volume of e-mail I receive, I can’t routinely answer individual questions by
+e-mail, or consult on individual problems or purchasing decisions. I read all
+questions I receive and select three each week to answer in the column. I am
+going to order a new computer using Windows XP. Would it improve the
+computer’s security if I chose XP Professional over the Home version? Probably
+not. Windows XP Professional does add some features that the Home version
+lacks. But they are mainly related to configuring the computer for certain
+kinds of corporate networks and for enabling remote access. They don’t include
+any significant additional security measures that would protect a home user
+with a typical setup. A home user might want to choose the Pro version if he
+or she regularly connects to a large corporate or college network from home.
+Some of these networks use a security system that works only with XP Pro, not
+XP Home. You wrote that installing the Service Pack 2 on Windows XP has caused
+problems for some users, but that you still recommend installing it. Do you
+continue to recommend it? It’s not a black-and-white issue. There’s no doubt
+that SP2 closes a multitude of security holes that digital criminals have used
+to attack or invade Windows computers. But, like any major update to an
+operating system, it can cause problems — sometimes serious problems — for
+some users. Also, SP2 isn’t a security panacea. It hasn’t eliminated the virus
+or spyware problems on Windows PCs, and SP2 users still need a bunch of extra
+security software. However, the security mess on the Windows platform is so
+severe that, on balance, I do recommend SP2. Just make sure to back up all of
+your important files, including e-mail, before installing SP2 — or any other
+major upgrade to an operating system, on any platform. If the Macintosh is
+invulnerable to viruses, as you often say, why does Apple issue security
+patches for its operating system, just like Microsoft? First of all, the
+Macintosh isn’t invulnerable to viruses, and I have never said so. In fact, I
+have written the opposite. What I have said repeatedly is that, so far, there
+haven’t been any reports of successful viruses for Apple’s current operating
+system, Mac OS X. By successful, I mean a virus that infects, and spreads
+among, the computers of real users — not just machines in a test lab.
+Nevertheless, Apple does issue security patches for OS X, because the company,
+and outside experts, periodically discover theoretical vulnerabilities that
+might be exploited by virus writers and other digital criminals. Microsoft
+does the same thing, but it also has to act on occasion to patch Windows to
+stop actual successful viruses. * * * Because of the volume of e-mail I
+receive, I can’t routinely answer individual questions by e-mail, or consult
+on individual problems or purchasing decisions. I read all questions I receive
+and select three each week to answer in the column. Write to Walter S.
+Mossberg at mossberg@wsj.com Return to: Windows XP: Home v. Professional URL:
+http://allthingsd.com/20050414/xp-home-vs-pro/ Brought to you by The Wall
+Street Journal | © 2005-2019 Dow Jones & Company, Inc. All Rights Reserved.

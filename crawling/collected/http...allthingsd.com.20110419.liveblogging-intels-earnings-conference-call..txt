@@ -1,0 +1,240 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Otellini: PC Makers Are Buying Plenty of Our
+Chips, Thanks April 19, 2011 at 2:38 pm PT Tweet Share Print Intel proved its
+mettle in its quarterly results, easily outdistancing the muted expectations
+of the market, then took a bit of a victory lap during its conference call
+with analysts. Intel CEO Paul Otellini criticized third party research
+firms–he didn’t mention any names, but he was talking about Gartner and
+IDC–for giving the idea that the PC industry is on the wane, when their
+information isn’t as complete as Intel’s is, especially in emerging markets.
+While they’re forecasting the market to grow in the single-digit range this
+year, Intel sees the PC market growing in the low double-digit range, Otellini
+said, and he expects it to continue into 2012. “I want to be clear that our
+views differ from some of theirs,” he said. The PC market is getting more
+complex, and at nearly 400 million units sold per year, it’s bigger than it’s
+ever been. The research firms don’t see as much data as Intel sees. “While
+some channels–like PCs sold through consumer retail outlets in mature
+markets–have deep visibility, other channels, especially in emerging markets,
+are not well-reflected” in the forecasts from the research firms. I wonder
+what Gartner and IDC are going to say in response to that? It seems Otellini
+has just called their research methods worthless. Otellini also talked about a
+forthcoming announcement in May around manufacturing process technology.
+Having sold its first 32-nanometer processors at the start of last year, it’s
+time to start thinking seriously about the move to the next manufacturing
+node, and also the one beyond that. The next is 22 nanometers, and the one
+beyond that is 14, which should hit the market about 2013 or so. Intel says
+its going to spend between $9.8 billion and $10.6 billion in fiscal 2011 on
+capital expenditures as part of bringing up the new technology, and another
+$15.7 billion in combined research and development plus management and general
+costs. Otellini and CFO Stacy Smith both talked about the implications of that
+shift, and both talked about some big announcements around process technology
+coming in May. “What we’re realizing is that competitive advantage is becoming
+very important,” CFO Stacy Smith said. “We’re getting paid both for
+differentiating, and in terms of pricing.” Pressing the manufacturing nodes
+forward–which is something Intel does better than anyone else in the
+world–will indeed give it an advantage not only over its distant rival
+Advanced Micro Devices in the PC world, but also give it a better chance of
+combating the persistent competitive threat from ARM chips that not only rule
+the world so far in smart phones and tablet, but which are starting to show up
+in mobile PC roadmaps. Otellini said while demand for PCs among consumers in
+the US and Western Europe remained soft, demand was strong in emerging
+markets. Demand for servers–the big surprise of the day–and PCs at business
+were also strong. He also said that Intel recovered quickly from the design
+flaw discovered last month in the Sandy Bridge family of chips. He also said
+that Intel sustained some damage to sales and marketing offices in Japan, but
+“nothing major that would hinder our ability to service our customers.” Intel
+is seeing no disruptions in its supply chain as a result of the earthquake
+there. He talked at length about Intel’s sales to cloud providers, calling it
+a “major driver” of the company’s growth. Sales in the Data Center Group grew
+32 percent year on year and were led, Otellini said, by sales in China. Sales
+of Intel chips into storage systems were also strong, up 45 percent over last
+quarter and 65 percent year over year. My liveblog from the conference
+call–joined just a few minutes late–is below. 2:40 pm: Joining a tad late
+after a technical glitch. Intel CEO Paul Otellini is talking. Our views differ
+from the views of the analysts. The PC business is a global industry, it is
+400 million units a year. Some channels, especially those in emerging markets,
+aren’t very visible to research firms. Basically he’s slamming IDC and Gartner
+for their pessimistic views. “Our projection for 2011 remain in the low
+double-digit range.” “We see no reason for 2012 to be materially different
+from what we see in 2011.” He says to expect an increase in Capex around the
+22- and 14-nanometer manufacturing technology. “We see a need for more
+features [on chips],” he says. CFO Stacy Smith is now talking. The company
+fixed the Cougar Point problem–referring to the “design errors” found on a
+chipset accompanying the Sandy Bridge processor–and completely mitigated the
+revenue impact that was expected. 2:44 pm: First quarter significantly better
+than our expectations. Sandy Bridge boosted average selling prices.
+Acqusitions of McAfee and Infineon wireless business added about $500 million
+of the $2.5 billion in new revenue seen year over year. The Cougar Point
+impact to gross margin was about 3 percentage points. That explains the 1
+percent quarter on quarter drop on that important figure. First quarter puts
+us on track to exceed financial goals for the year. Expect another year of
+double-digit revenue and earnings growth. We are making some critical
+investments in process technology that will have a very rapid ROI or return on
+investment. Q&A; is getting started. 2:48 pm: Glenn Yeung from Citi: Help us
+understand the emerging markets and growth seen there. Smith: Emerging markets
+are well over 50 percent of business. The dynamic is one of economics.
+Desirability of the technology is high and affordability is high. The price
+point of a PC is within 1-2 months of income. Penetration rates are so far
+pretty low. Otellini: My comment on the channel strength for Sandy Bridge is
+emerging markets. Most of the machines sold with Sandy Bridge are white boxes
+in emerging markets. Those markets are still surging in terms of notebooks.
+2:50 pm: Yeung with a follow-up. He’s asking about the investment in process
+technology. Otellini used the word “revolutionary” to describe the
+22-nanometer leap that’s coming. He’s asking him to shed some light on what he
+means by that. Smith: The Capex number is driven by a few things. Unit growth
+and ability to meet demand at 22-nanometer and 14-nanometer technology. It
+give us performance cost and power efficiency advantages. The biggest single
+chunk of the Capex is with the development fab for 14 nanometer, we’re going
+to make that fab bigger. That will allow us to bring more products to
+14-nanometer technology and ramp it faster. Otellini: On the process
+technology, only a teaser today. We’ll be disclosing that technology in early
+May. When you hear that announcement you’ll understand why that phrase is
+appropriate. 2:52 pm: Question about how we should think about seasonal trends
+in the second half of the year. Smith: We closed McAfee and Infineon, and they
+added half a billion in Q1 and should add another half a billion in Q2. The
+second quarter is usually kind of flat compared to the first, which is in line
+with the pattern we’ve seen over the last five years. We’re not seeing
+anything that would cause it to be any different than before. Second half
+tends to be about 2-3 points higher than the first in terms of revenue.
+Otellini says to expect to see a lot of tablets with Intel chips demonstrated
+at Computex. Google’s Android Honeycomb source code will ramp over the course
+of the year for a number of customers. Losing Nokia, Otellini says, “took a
+lot of wind out of our sails” around landing Intel chips in smart phones.
+Intel has redeployed resources from that. “I would be very disappointed if you
+didn’t see Intel based phones 12 months from now.” 2:56 pm: Question from BMO.
+For the total PC market, what is the percent the third parties companies are
+missing? Otellini: They are all over the map. Gartner is at 6 and IDC at 7
+percent growth for the year, and we’re seeing low double-digit growth. Q: What
+about Medfield, the phone processor. What are the metrics that are getting
+customers interested in it? Is it the fact that you’ve been able to make it
+competitive with ARM chips? Otellini: Its both. The product is very good in
+terms of performance, especially in media processing. And the power envelope
+is right where you want it to be. 2:58 pm: Question from UBS: You called out
+storage as up 45 percent within the Data Center Group. We’ve seen this group
+grow faster than we thought. What’s the longer term growth? Otellini: We
+recognize that this group has had phenomenal growth. Expect a deep dive on
+that at the analyst meeting and on the market for Xeon class chips today and
+tomorrow. (No mention of Itanium-based servers, by the way. -ed.) Traditional
+servers, we’re out-growing the market by a factor of 2-3x. We think a big
+piece of the market is high performance and cloud, and the conversion of other
+parts of the data center from proprietary to Intel-based designs, you see
+growth that is representative of all the growth of the Internet. We’re
+benefiting quite well. UBS asks about the transition from 22 nanometers to 14
+nanometers. Is there anything that is driving the speed now in terms of moving
+to 14 nanometers and what can you do at 14 versus 22 nanometers? Smith: I’m
+going to punt for another few weeks. More to say around 22 nanometer and the
+secret sauce there, and it will carry into the 14 nanometer node. What we’re
+realizing is that competitive advantage is becoming very important. We’re
+getting paid both for differentiating and in pricing. As we get out to 22 and
+14, we’re going to bring capabilities to process technology more quickly than
+we have before. 22 nanometer will intercept with smart phones and notebooks
+more quickly, and we’ll get paid for performance and cost over the long term.
+3:03 pm: Chris Danely of J.P. Morgan asking about factory utilization rates.
+He wonders if there may be shortages coming. Smith: We’re running not too hot,
+and not too cold. Not anticipating shortages. We have responsibility to
+respond if demand is hotter, and if demand is less, we now have the tools to
+respond to both circumstances. Danely: It seems as though perhaps some of the
+OEM customers have a more tempered forecast. What’s the difference? Otellini:
+We won’t characterize specific customers. I think those who are more
+enterprise centric than those who are focused on consumer markets in the U.S.
+and Europe are seeing numbers closer to ours. Smith: The elephant looks very
+different depending on what part you’re looking at. Mature markets look tough.
+Emerging markets look pretty good. 3:06 pm: Question about how much Sandy
+Bridge accounted as a percentage of sales. Otellini: Doesn’t want to get into
+that level of granualarity. He calls it the fastest manufacturing ramp. Smith:
+More than 50 percent of my CPU inventory is Sandy Bridge. That’s a good
+indication of the next few quarters. 3:07 pm: Smith says he’s seeing a little
+upward tick in component costs, including some impact from Japan. Average
+selling prices have a very rich mix. Sandy Bridge ramped at a higher end of
+the price range, and the mix is going to come down a little. 3:09 pm: CLSA
+Securities with a question: What’s driving the demand? Is it Windows 7 on
+corporate PC? Otellini: In the middle of last year we saw the market recover.
+The most recent data we have is that 75 percent of enterprise PCs are running
+WIn XP. If you think about a 3-4 year refresh cycle, we’re not even halfway
+through it. The combination of the Win 7 machines look good. Question from
+Goldman Sachs: If I think about this third-party data issue. Is the Gartner
+and IDC data really off by 20 percent? Smith: That misses how much inventory
+levels came down in the fourth quarter. We were worse off than seasonal. There
+was a significant bleeding off of inventory ahead of Sandy Bridge release.
+When we go off and do our looks across the channel we see inventory levels
+being healthy, and that says something about the health of the supply chain.
+Q: That’s a little different than just the third-party data is wrong. Is it
+just really off? Otellini: The comments I made were on third-party data year
+on year. I think our experience is that on an annual basis our numbers are
+closer than theirs. They correct over the course of the year to be aligned.
+Smith: When I talk about Q1, you also can’t lose sight of the fact that Q1 was
+a 14-week quarter. 3:14 pm: Hans Mosesmann, Raymond James asks about the
+foundry strategy. What part of the incremental capex is part of that? Smith:
+It’s not a driver of our capex. We’re interested in talking to some very
+specialized companies. We’re not building a broad-based foundry business, and
+it’s not part of our capex number. Otellini again teases about a forthcoming
+announcement on process technology. 3:19 pm: Question from Credit Suisse:
+Asking about the weakness in consumer sales in the U.S. and Europe. Is it
+because of tablets? Otellini: It’s a little bit of everything. Add one more
+thing. In 2009 and in the first half of 2010, consumer market for notebooks
+was strong contrary to GDP at the time. I think people bought a lot of
+machines and we’re just early in the cycle. A consumer refresh isn’t what
+you’d expect in a mature market right now. Clearly some tablet cannabilization
+is impacting that. But the bigger impact is macroecononomc. Q: What inning are
+we in in the enterprise upgrade cycle? Otellini: Top of the fourth, three on,
+no outs. 3:22 pm: Question about notebook and desktop mix going into Q2.
+Smith: What we saw was an inventory burn in Q4 that led to units being
+slightly above seasonable. Q2 looks pretty seasonal. Q: What do you expect of
+total wafer production in 2011? Is it consistent with PCs? Smith: Wafers will
+grow faster than total available market as we move to the new process. Craig
+Ellis, Caris and Co. asks: Are you expecting any change in the mature markets
+for PCs? Otellini: I don’t think it has to happen. We don’t build it into our
+numbers. Now a question about design wins on the tablet front, and what OS
+Intel will be stronger on versus others. Otellini: I don’t have an update.
+We’ll do a number count on May 17. It’s 35 or so. The bulk of the units this
+year will be Android-based. 3:28 pm: That’s a wrap. We’ll see you back here
+for Q2 results on July 20. Tagged with: Arik Hesseldahl, cloud computing, data
+centers, earnings, Gartner, IDC, Intel, NewEnterprise, PC, personal computers,
+semiconductors, servers Apple Denies Working with NSA on iPhone Backdoor
+December 31, 2013 at 8:49 am PT You Won’t Believe All the Crazy Hardware the
+NSA Uses for Spying December 30, 2013 at 12:15 pm PT HP Is Negotiating to
+Settle Bribery Charges December 30, 2013 at 8:45 am PT CIOs Brand Enterprise
+Social Tools as Most Overhyped Technology of the Year December 30, 2013 at
+3:39 am PT Malware Attacks by Syrian Pro-Government Hackers Are on the Rise
+December 27, 2013 at 1:27 pm PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » There was a
+worry before I started this that I was going to burn every bridge I had. But I
+realize now that there are some bridges that are worth burning.— Valleywag
+editor Sam Biddle AllThingsD by Writer Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site
+devoted to news, analysis and opinion on technology, the Internet and media.
+But it is different from other sites in this space. It is a fusion of
+different media styles, different topics, different formats and different
+sources. Read more » About Us » Contact Us » Comments Policy » Cookies Policy
+» Privacy Policy » FAQ » Terms of Service » Your Ad Choices » Advertise With
+Us » Send a Tip » Daily Headlines Email » Follow AllThingsD Your Way »
+Featuring the most influential figures in technology, unscriptedand upfront.
+More » Conferences: D: All Things Digital. » D: Dive Into Media » D: Dive Into
+Mobile » Follow us on Twitter: Select Account @allthingsd (All Things Digital)
+@ATDapple (Apple) @ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile)
+@ATDreviews (Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara
+Swisher) @JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret)
+@pkafka (Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247
+(Arik Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac)
+@BonnieSCha (Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All
+Feeds News Reviews Mobile Media Social Enterprise Commerce Voices Personal
+Technology Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher
+John Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik
+Hesseldahl Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow
+Jones & Company Inc. All Rights Reserved. Mobile Version

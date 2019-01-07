@@ -1,0 +1,81 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello John Paczkowski ethics statement bio e-mail RSS Follow
+@JohnPaczkowski Recent Posts by John Paczkowski Google Street View Cars
+Collected Wi-Fi User Data for Three Years May 14, 2010 at 2:23 pm PT Tweet
+Share Print Responding to questions about its Street View data collection
+practices in an April 27 blog post, Google said that it captured only publicly
+broadcast Wi-Fi network names and their MAC addresses and nothing
+else–certainly not “payload data,” the personal information being sent over
+those networks. Well, guess what Google (GOOG) has unwittingly been collecting
+these past three years? That’s right, payload data. And it has been collecting
+them from Wi-Fi networks not protected by passwords–in the United States,
+Germany, France, Brazil, Hong Kong and elsewhere. “It’s now clear that we have
+been mistakenly collecting samples of payload data from open (i.e. non-
+password-protected) Wi-Fi networks,” Google Senior VP of Engineering and
+Research Alan Eustace said in a post on Google’s official blog Friday. “So how
+did this happen?” he asks, quickly supply the answer: “Quite simply, it was a
+mistake. In 2006 an engineer working on an experimental WiFi project wrote a
+piece of code that sampled all categories of publicly broadcast WiFi data. A
+year later, when our mobile team started a project to collect basic WiFi
+network data like SSID information and MAC addresses using Google’s Street
+View cars, they included that code in their software–although the project
+leaders did not want, and had no intention of using, payload data.” But they
+captured it just the same. And now Google is in the uniquely uncomfortable
+position of sitting on a pile of exactly the sort of customer data that
+privacy advocates worried that it was collecting. Until the company figures
+out what to do with the information, Google has temporarily grounded its
+Street View cars and promised to stop collecting Wi-Fi network data entirely.
+“The engineering team at Google works hard to earn your trust–and we are
+acutely aware that we failed badly here,” Eustace concluded. “We are
+profoundly sorry for this error and are determined to learn all the lessons we
+can from our mistake.” I’m sure the European privacy commission and regulators
+in the United States will make quite sure of that. Tagged with: Alan Eustace,
+blog post, Brazil, broadcast, code, customer, data, data collection, digital,
+engineering, European, France, Germany, Google, Hong Kong, Internet, John
+Paczkowski, MAC addresses, mistake, network, password, payload data, privacy,
+protected, regulators, search, software, SSID, Street View, Tech Policy
+Feature, United States, Wi-Fi Late Start May Be Tempering China Mobile’s
+iPhone Preorders December 30, 2013 at 10:17 am PT Twitter’s Tanking December
+30, 2013 at 6:49 am PT 2013 Was a Good Year for Chromebooks December 29, 2013
+at 2:12 pm PT BlackBerry Pulls Latest Twitter for BB10 Update December 29,
+2013 at 5:58 am PT Apple CEO Tim Cook Made $4.25 Million This Year December
+28, 2013 at 12:05 pm PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » I’m a giant vat
+of creative juices.— David Pogue on why he’s joining Yahoo AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

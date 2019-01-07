@@ -1,0 +1,1006 @@
+AllThingsD » Myspace http://allthingsd.com Wed, 19 Feb 2014 15:45:11 +0000 en-
+US hourly 1 https://wordpress.org/?v=4.3.16
+http://allthingsd.com/theme/images/logo-rss.jpg All Things Digital
+http://allthingsd.com/ 144 22 Happy Holidays! Facebook Stuffs More Ads in Its
+Stockings. http://allthingsd.com/20131223/happy-holidays-facebook-stuffs-more-
+ads-in-its-stockings/ http://allthingsd.com/20131223/happy-holidays-facebook-
+stuffs-more-ads-in-its-stockings/#comments Mon, 23 Dec 2013 14:00:58 +0000
+http://allthingsd.com/?p=380520 Remember a couple months ago, when Facebook
+said it wasn’t going to jam itself full of ads, and Wall Street freaked out?
+That was silly. Of course Facebook isn’t going to jam itself full of ads —
+everyone there still remembers Myspace. That said, Facebook is not averse to
+stocking up on ads — at certain times. Like the last few weeks, when many of
+its 1.1 billion users are in shopping mode. Cantor Fitzgerald analyst Youssef
+Squali thinks Facebook’s ad load — the percentage of ads in the average
+Facebook user’s News Feed — has jumped from five percent in the last quarter
+to 10 percent in Q4. It’s not unusual for Facebook to load up on ads during
+the end of the year — ad spending jumps everywhere in Q4 — but Squali thinks
+this year’s jump is qualitatively different: It “seems more amplified with
+bigger brands and a greater mix of higher-priced click-to-play video ads.”
+(Remember: Facebook has had video ads for a long time — the new ones it showed
+off last week, which you’ll see a lot of next year, are auto-playing ads.)
+That has convinced Squali to bump up his ad estimates for the quarter, and to
+push his price target for the stock to $65, up from $63. Right now, Facebook
+is trading at $55 — right where it was before Friday morning, when the company
+announced a big stock sale. ]]> http://allthingsd.com/20131223/happy-holidays-
+facebook-stuffs-more-ads-in-its-stockings/feed/ 0 The Buzziest Social Network,
+According to Hip-Hop http://allthingsd.com/20131203/the-buzziest-social-
+network-according-to-hip-hop/ http://allthingsd.com/20131203/the-buzziest-
+social-network-according-to-hip-hop/#comments Tue, 03 Dec 2013 18:02:53 +0000
+http://allthingsd.com/?p=376246 In business and in hip-hop, your reputation is
+all you have. And, right now, Twitter’s rep is booming (in the rap world, at
+least). This according to RapStats, the latest little experiment to come out
+of the gang over at RapGenius, a lyrics-deconstruction startup backed by
+Andreessen Horowitz. The new tool is clever — something of an Excel
+spreadsheet graph function for the hip-hop lyrics corpus. Punch in a few
+terms, and RapStats will spit back a graph comparing the frequency of those
+words appearing in hip-hop songs from as far back as 1988 and up to the
+present day. According to RapStats, Twitter is in the lead at the moment, with
+the most mentions compared to other social networks — with not Facebook, but
+Instagram, trailing in second place. Facebook instead comes in at third, with
+Tumblr, Myspace and the relatively recent Snapchat rounding out fourth, fifth
+and sixth places. It’s a cute idea, and perhaps even helpful for linguists or
+scholars studying the rise of certain words or phrases through the hip-hop
+lens. One caveat: While RapStats reports frequency, the new tool doesn’t come
+with an understanding of sentiment. So keep that in mind when judging
+Twitter’s true rep. (Props to Michael S. Galpert for the idea!) ]]>
+http://allthingsd.com/20131203/the-buzziest-social-network-according-to-hip-
+hop/feed/ 0 Digital-Ad Vet Mike Barrett on Facebook, Ad-Tech IPOs and a
+Cookie-Free Web (Q&A;) http://allthingsd.com/20131014/digital-ad-vet-mike-
+barrett-on-facebook-ad-tech-ipos-and-a-cookie-free-web-qa/
+http://allthingsd.com/20131014/digital-ad-vet-mike-barrett-on-facebook-ad-
+tech-ipos-and-a-cookie-free-web-qa/#comments Mon, 14 Oct 2013 15:34:43 +0000
+http://allthingsd.com/?p=365277 Mike Barrett hasn’t had a job since December.
+But, before that, he had a lot of jobs in a fairly short time, with top ad-
+sales gigs at AOL, Myspace and Yahoo. There was also a stop along the way to
+run AdMeld, the ad-tech startup Google bought for $400 million in 2011.
+Barrett said he’ll be taking a full-time position soon. But, in the meantime,
+he’s keeping busy by investing in ad startups, and occasionally joining their
+boards. Last month, Barrett added two more board positions to his resume:
+Tremor Video, the video ad network that went public this summer, and
+MediaMath, the ad-tech startup many expect will go public soon. So, while
+Barrett has a last remaining bit of downtime, we figured it would be a good
+chance to pick his brain about the state of digital ads. Here’s an edited
+version of our conversation: Peter Kafka: Six years ago, you were talking
+about targeted ads at Myspace, where you could help marketers find Web users
+with very specific attributes. That never took off at Myspace, but it’s now
+commonplace on the Web, via behavioral targeting. Why didn’t it work when you
+tried it? Michael Barrett: It was a strong idea, but the reason it wasn’t
+executed at the time was that the plumbing wasn’t in place. In order to trade
+on that data, it has to be in real time, and you have to be able to make
+millisecond decisions about who to show an ad to. The whole ecosystem of the
+industry wasn’t there. So building out a proprietary platform that couldn’t
+even do real-time targeting … that was a great idea, ahead of its time. There
+are sort of two flavors of this happening right now: One kind happens all over
+the Web, with information people gather from lots of different websites. And
+one kind is supposed to be unique to Facebook, using Facebook’s own data about
+its users. Can Facebook succeed where Myspace failed? I think Facebook’s
+really interesting, because of scale and the amount of information it has,
+most of it volunteered by real people. So they may be able to run the table in
+terms of using their own ecosystem that has their own ways of doing things.
+But I think, by and large, it’s going to be third-party data that’s being
+brought to the party, where it’s information from the advertiser, or reputable
+third-party sources. People are going to be using that data as part of a big
+piece of the puzzle. Targeting on the Web depends on Web browsers with
+cookies, and there are lots of people — most recently Google — talking about
+doing away with cookies. What happens if they really go away? If that really
+were to move forward the way it’s being proposed, it would have a fundamental
+impact on advertising and the economics of sites. You don’t mean a good
+impact, right? No, it would be fundamentally negative. But aren’t cookies
+going away anyway, because they don’t exist in mobile, and everything’s moving
+to mobile? Yeah, but if you look at the rates people are monetizing mobile
+right now … most publishers, if they suddenly had rates plummet on the display
+side, it would be crushing. But aren’t many of the companies you’re working
+with trying to lower ad rates, with technology like programmatic buying? There
+have been winners in the programmatic push. Just not premium publishers. There
+are publishers that couldn’t catch a cold, couldn’t get an advertiser or
+marketer, because they didn’t have the sales wherewithal to get in front of
+them — now their inventory is available on exchanges. As to whether they’re
+building a brand for themselves, probably not. But their fill is high. And,
+for premium publishers, what we’re seeing across the board is higher sell.
+Lower CPMs didn’t necessarily translate into less revenue — it did dictate
+into lower CPMs. With standard display units, it’s going to be tough to be
+rebound, it’s going to be tough to raise pricing. But that’s why you’re seeing
+a big push into nonstandard, unique, native formats for some publishers. And I
+think you can definitely recoup value on that side. For a long time, there was
+skepticism that all of the ad-tech companies that were raising lots of money
+could ever go public. Now we’re seeing a few. Are any of the private companies
+where you’re a board member [MediaMath, Tapad and Hook Logic] IPO candidates?
+There’s a lot of rumors about companies trying to rush out before the
+holidays, in light of Rocket Fuel’s success. None of the companies [I’m
+working with] are going to be in that list. But it’s certainly plausible in
+2014 that some of those companies would be mature enough to go to the public
+markets. ]]> http://allthingsd.com/20131014/digital-ad-vet-mike-barrett-on-
+facebook-ad-tech-ipos-and-a-cookie-free-web-qa/feed/ 0 MySpace Co-Founder's
+Games Company Acquires Former Zynga Partner
+http://allthingsd.com/20130613/myspace-co-founders-games-company-acquires-
+former-zynga-partner/ http://allthingsd.com/20130613/myspace-co-founders-
+games-company-acquires-former-zynga-partner/#comments Thu, 13 Jun 2013
+19:21:54 +0000 http://allthingsd.com/?p=330103 Mobile-social games company
+SGN, founded by MySpace cofounder Chris DeWolfe, has acquired another
+independent studio, Mob Science, the companies announced in a press release.
+Zynga had invested in Mob Science via its Partners program, and published its
+Facebook RPG Legends: Rise of a Hero. That game and the rest of Mob Science’s
+portfolio is included in the acquisition, but monetary terms of the deal were
+not disclosed. ]]> http://allthingsd.com/20130613/myspace-co-founders-games-
+company-acquires-former-zynga-partner/feed/ 0 Myspace Launches a New Mobile
+App http://allthingsd.com/20130612/myspace-launches-a-new-mobile-app/
+http://allthingsd.com/20130612/myspace-launches-a-new-mobile-app/#comments
+Wed, 12 Jun 2013 19:08:11 +0000 http://allthingsd.com/?p=331552 Myspace
+debuted a new version of its website and mobile iOS application on Wednesday,
+aiming to jumpstart the ailing social network back to life. Among the most
+noteworthy features: Users are able to create personalized radio stations
+inside the app, streaming music from Myspace’s catalog of 53 million songs.
+]]> http://allthingsd.com/20130612/myspace-launches-a-new-mobile-app/feed/ 0
+QOTD: And the Buyer's Remorse Lingers On http://allthingsd.com/20130517/qotd-
+and-the-buyers-remorse-lingers-on/ http://allthingsd.com/20130517/qotd-and-
+the-buyers-remorse-lingers-on/#comments Fri, 17 May 2013 14:10:05 +0000
+http://allthingsd.com/?p=322851 Look out Facebook! Hours spent participating
+per member dropping seriously. First really bad sign as seen by crappy MySpace
+years ago. — Rupert Murdoch, still steamed about that whole MySpace thing,
+tweets a warning to Facebook ]]> http://allthingsd.com/20130517/qotd-and-the-
+buyers-remorse-lingers-on/feed/ 0 Fetch! BarkBox Raises $5 Million for Doggy
+Treat Deliveries. http://allthingsd.com/20130409/fetch-barkbox-
+raises-5-million-for-doggy-treat-deliveries/
+http://allthingsd.com/20130409/fetch-barkbox-raises-5-million-for-doggy-treat-
+deliveries/#comments Tue, 09 Apr 2013 11:00:07 +0000
+http://allthingsd.com/?p=310180 Myspace for people who like dogs? Seen it.
+Airbnb for people who like dogs? Seen two of those. So, of course, there’s a
+Birchbox — the subscription service that delivers a monthly package of makeup
+samples — for people who like dogs, too. It’s called BarkBox, obviously. It’s
+a bit more than a year old and has 35,000 customers paying at least $19 a
+month. And now it has $5 million in venture money, via a round led by RRE
+Ventures. The new money comes on top of $1.7 million the startup raised last
+year, from all of the same investors in the new round, including Lerer
+Ventures, Polaris Ventures, 500 Startups and Bertelsmann. The New York-based
+company is using the money to build out other canine-related businesses,
+including BarkPost, which CEO Matt Meeker describes as a dog-specific version
+of BuzzFeed’s “animals” site, and BarkCare, a $199-a-year service that gives
+dog owners 24/7 access to vets for consultations online and over the phone.
+The company is also rebranding as Bark & Co. In the old days, it was easy to
+dismiss this kind of narrow, this-version-of-that-thing concept as a symptom
+of a bubble. But we’re (seemingly) past that now — if it works in one
+vertical, there’s no reason it can’t in another. And some dog-owners really,
+really like their dogs. “One thing that surprised us was that there’s just a
+ton of room for innovation in the space,” says Meeker, who created the company
+while he was running the New York location of startup incubator Dogpatch Labs
+for Polaris, and also co-founded community organizing site Meetup. One
+difference between BarkBox and Birchbox, Meeker says, is that BarkBox doesn’t
+give subscribers samples, but full-sized deliveries of stuff they’d like their
+dogs to have, like toys and treats. Okay. So why not at least broaden the
+business out to attract cat-lovers, too? Not happening, says Meeker. “We’re
+all-in on dogs, and dogs only.” ]]> http://allthingsd.com/20130409/fetch-
+barkbox-raises-5-million-for-doggy-treat-deliveries/feed/ 0 Myspace Hires Two
+VPs to Prep for Relaunch http://allthingsd.com/20130325/myspace-hires-two-vps-
+to-prep-for-relaunch/ http://allthingsd.com/20130325/myspace-hires-two-vps-to-
+prep-for-relaunch/#comments Mon, 25 Mar 2013 19:03:01 +0000
+http://allthingsd.com/?p=306461 Myspace, the struggling website that fueled
+the first major wave of the social Internet, announced Monday that it had
+hired two new vice presidents to prepare the company for its major relaunch
+this year. New VP of global marketing Christian Parkes comes most recently
+from Levi’s, and held a similar previous position at Nike. Joseph Patel will
+be Myspace’s VP of content and creative, and was most recently a senior
+producer at Vice Magazine. ]]> http://allthingsd.com/20130325/myspace-hires-
+two-vps-to-prep-for-relaunch/feed/ 5 The Science of Investing: Hearst's New
+Venture Arm in $30 Million Funding Deal With Los Angeles Tech Studio
+http://allthingsd.com/20130214/the-science-of-investing-hearsts-new-venture-
+arm-in-30-million-funding-deal-with-los-angeles-tech-studio/
+http://allthingsd.com/20130214/the-science-of-investing-hearsts-new-venture-
+arm-in-30-million-funding-deal-with-los-angeles-tech-studio/#comments Fri, 15
+Feb 2013 02:40:05 +0000 http://allthingsd.com/?p=295456 Hearst Ventures, the
+investment arm of media giant Hearst Corporation, said it was making a
+minority equity investment in Science, the Los Angeles area tech “studio.”
+Privately held Hearst is the sole investor in the new funding, although the
+company declined to reveal financial terms of the investment. But sources with
+awareness of the deal said it was close to $30 million for a stake above 20
+percent. Somewhat akin to a startup accelerator, Science is attempting to
+quickly create and scale a number of promising companies in a variety of
+areas, and has launched 13 so far. Among the Santa Monica, Calif., tech
+studio’s recent efforts: Dollar Shave Club, a subscription-based products
+company aimed at men; Ellie, which sells high-end activewear for women; and
+Wittlebee, a clothes club for kids. Hearst Ventures is operated by Hearst’s
+Entertainment and Syndication unit, which is run by Scott Sassa and George
+Kliavkoff. Kliavkoff will join Science’s board of directors. “It’s clear to us
+that, while we have these brands that resonate with consumers, we think there
+are some learnings we can get from these guys that are hard to get in a big
+company,” said Sassa. “Being able to be nimble with insight and guidance is
+important for us.” Kliavkoff also noted that this was a way to get immediate
+ownership in a range of promising companies. “We are writing one check and
+will have an immediate stake in more than a dozen great startups,” he said.
+“[Science] has been very thoughtful in starting companies in smart areas.” In
+a statement, Hearst CEO Frank Bennack said: “Hearst is continually looking for
+smart investments that bring value and intelligence to the company — our
+investment in Science does both. We’re excited to partner with Science to
+continue its trajectory of success, gain meaningful industry knowledge and
+utilize Science’s platforms for current and future Hearst investments.” Though
+quieter than most, Hearst Ventures have made many successful investments over
+15 years, including in Netscape and Broadcast.com. More recently, it has
+funded such companies as Brightcove and Pandora, as well as HootSuite and
+BuzzFeed. Science was founded in late 2011 — with $10 million funding from
+big-name investors including Google Chairman Eric Schmidt’s Tomorrow Ventures,
+Rustic Canyon Partners and White Star Capital. Its CEO is well-regarded
+entrepreneur Mike Jones, who was most recently CEO of Myspace. Prior to
+Myspace, he had started and sold Userplane to AOL in 2006. In addition, well-
+known entrepreneur Peter Pham is chief business officer at Science. “I am very
+proud of work that the Science team has accomplished since launching,” said
+Jones, in a quick interview tonight (short enough so that his wife would not
+get angry at me for ruining Valentine’s Day). “I am extremely excited about
+opportunities for Science companies going forward.” More to come, but here is
+the very clever viral video that Dollar Shave Club did on its launch: ]]>
+http://allthingsd.com/20130214/the-science-of-investing-hearsts-new-venture-
+arm-in-30-million-funding-deal-with-los-angeles-tech-studio/feed/ 0 Former
+Yahoo Boss Ross Levinsohn Has a New Gig, and a Digital M&A; War Chest
+http://allthingsd.com/20130115/former-yahoo-boss-ross-levinsohn-has-a-new-gig-
+and-a-digital-ma-warchest/ http://allthingsd.com/20130115/former-yahoo-boss-
+ross-levinsohn-has-a-new-gig-and-a-digital-ma-warchest/#comments Tue, 15 Jan
+2013 15:56:58 +0000 http://allthingsd.com/?p=285575 Ross Levinsohn, who wanted
+to run Yahoo but didn’t get the gig, has a new perch. He’s heading up a new
+digital media company backed by Guggenheim Partners. Guggenheim already
+controlled several media trade titles, including Billboard, Adweek and the
+Hollywood Reporter, so Guggenheim Digital Media will start out running those.
+But Levinsohn, who first made his reputation as an M&A; guy at News Corp.
+(which owns this website), will be writing checks for new stuff soon.
+Guggenheim says it will be giving him “significant capital to acquire and
+invest in new media companies.” Fair to assume that he has a target list
+drafted. Levinsohn was last seen at Yahoo, where he started out running the
+company’s U.S. operations, and ended up moving into the interim CEO job in the
+spring of 2012. He campaigned for the permanent job, but lost out to Marissa
+Mayer; in between, he tried positioning Yahoo as an entertainment hub.
+Guggenheim Partners started out as a management firm for the Guggenheim (the
+same folks behind the iconic museums in New York and Spain) family fortune; it
+now says it manages more than $160 billion in assets. This isn’t Levinsohn’s
+first interaction with the company; in the summer of 2011, it represented
+Hulu’s owners as they mulled a sale, and Levinsohn was keen on having Yahoo
+buy the video site. Along with Levinsohn’s new appointment, Guggenheim says it
+has bought out the remaining stake in the Hollywood Reporter and its other
+trades, which had been owned by Jimmy Finkelstein’s Pluribus Capital. ]]>
+http://allthingsd.com/20130115/former-yahoo-boss-ross-levinsohn-has-a-new-gig-
+and-a-digital-ma-warchest/feed/ 0 One Month On, Mark Cuban Is Doing Just Fine
+With Less Facebook in His Life http://allthingsd.com/20121224/one-month-on-
+mark-cuban-is-doing-just-fine-with-less-facebook-in-his-life/
+http://allthingsd.com/20121224/one-month-on-mark-cuban-is-doing-just-fine-
+with-less-facebook-in-his-life/#comments Mon, 24 Dec 2012 20:54:15 +0000
+http://allthingsd.com/?p=280473 While most families light Yule logs and sit
+around the hearth on Christmas Eve (at least, in the Norman Rockwell vision of
+it), billionaire Mark Cuban took to Reddit with an “AMA” — or “Ask Me
+Anything” — thread. He answered quite a few things (and as of noon PT on
+Monday, seems to still be going strong), but one topic in particular caught my
+eye: Cuban’s thoughts on Facebook. It’s pertinent, considering that just a
+month ago he was downplaying the importance of Facebook as a platform for
+marketing the Dallas Mavericks, the basketball team Cuban owns, as well as
+other businesses he is involved in. “Actually [drawing back from Facebook] has
+really helped,” Cuban wrote. “While we continue to use FB and even invested in
+a company, www.bad.gy, that works to optimize Facebook, we have taken the time
+to explore the new Myspace, work on Tumblr, Pinterest and other options.” To
+be clear, Cuban hasn’t moved the 70-plus companies he works with off of
+Facebook. But it’s certainly not the highest on his priority list. “I believe
+the aggregate value of the other options will offer more opportunity for
+brands than FB alone,” Cuban wrote. He cites one business of his in particular
+— AXS.TV, an online live video site — benefiting from this new strategy. My
+take: Looking at the growth rates alone, Pinterest and Tumblr seem to make at
+least some sense to focus on in terms of marketing efforts (though I can’t
+speak to their referral traffic numbers). I doubt you can seriously compare a
+foundering site like Myspace against Facebook, however, when simply looking at
+them in terms of scale. The real question for Cuban: Why do an AMA on
+Christmas Eve? “Because I can,” he wrote. ]]>
+http://allthingsd.com/20121224/one-month-on-mark-cuban-is-doing-just-fine-
+with-less-facebook-in-his-life/feed/ 4 Myspace Plans a Reboot -- Again
+http://allthingsd.com/20120924/myspace-plans-a-reboot-again/
+http://allthingsd.com/20120924/myspace-plans-a-reboot-again/#comments Mon, 24
+Sep 2012 22:09:02 +0000 http://allthingsd.com/?p=253603 Myspace, the long-
+beleaguered social network, announced plans Monday for a site-wide redesign
+that will include a complete visual refresh. Details of the new site were
+unveiled in a promotional video that previewed a drastically different,
+horizontally oriented user interface and a continued emphasis on music, one of
+the site’s strong points in its nearly 10-year existence. The brief unveiling
+comes more than a year after News Corp. (AllThingsD’s parent company) sold
+Myspace at a half-a-billion-dollar loss to Specific media for $35 million,
+after suffering through years of a flagging user base, in sharp contrast to
+the skyrocketing success of Facebook, the world’s largest social networking
+site. Redesigns are not new to Myspace’s efforts to kickstart its site’s
+activity. Last year, Specific media made the rounds to advertisers to make the
+case for Myspace, billing the site as the “#1 online community music
+destination,” relying heavily on the existing content rights agreements that
+it had with the four major record labels. Specific went so far as to call
+Myspace the “Hulu of music.” In 2010, there was another attempt to revive the
+site with then-CEO Mike Jones at the helm; back then, the aim was to create a
+“social entertainment site” aimed at Gen-Y, Web-savvy users. The redesign was
+largely ignored by the crowd the company was targeting; News Corp. sold less
+than a year after relaunch. We’ll see if the leadership of Justin Timberlake,
+one of the site’s major backers, can help with the renewed push into
+emphasizing music as the site’s platform. ]]>
+http://allthingsd.com/20120924/myspace-plans-a-reboot-again/feed/ 7 Exclusive:
+Digital Chief Jon Miller Leaving News Corp.
+http://allthingsd.com/20120823/exclusive-digital-chief-jon-miller-leaves-news-
+corp/ http://allthingsd.com/20120823/exclusive-digital-chief-jon-miller-
+leaves-news-corp/#comments Thu, 23 Aug 2012 19:00:00 +0000
+http://allthingsd.com/?p=244270 According to sources close to the situation,
+News Corp.’s Chief Digital Officer Jon Miller will soon be leaving the media
+giant. It seems to be a cordial, although perhaps inevitable, parting —
+sources said Miller will remain an adviser to chairman and CEO Rupert Murdoch,
+as well as COO Chase Carey and deputy COO James Murdoch, for a year after his
+departure in late September. Update: News Corp. confirmed the departure in a
+press release, which is embedded below. His leaving brings into focus the fate
+of News Corp.’s overall digital strategy in an upcoming new structure. Miller
+was hired in 2009 to turbocharge the company’s long-troubled digital assets.
+But I had noted in an article in July that the well-known Internet exec was
+not likely to continue at News Corp. in the wake of a complex transaction that
+will ultimately break the company apart into two separate entities — an
+entertainment company and a publishing one. That’s a very different situation
+from when Miller was hired by the media giant to lead its tech and online
+initiatives and make digital a priority across its many divisions. Not for
+lack of trying or access to powerful News Corp. head Rupert Murdoch — it has
+been a mixed bag for Miller in his tenure. That’s due in no small part to a
+problem faced by many execs like Miller: The difficulty of successfully
+pushing digital initiatives inside a large traditional media organization. His
+job has encompassed everything from a failed effort to revive its once mighty
+Myspace service to selling it and other properties off to working to improve
+its Hulu partnership, where he serves on the board. It is not clear who will
+replace Miller as one of the News Corp. directors at the complexly-owned
+premium video service, which had been for sale and then not recently. One of
+the brighter Miller accomplishments for News Corp. has been forging decidedly
+better relationships with key Internet companies, both large and small, as
+well as with venture investors in Silicon Valley and elsewhere. That was most
+pronounced and visible between Apple and News Corp., which struck a number of
+deals to work together, some of which worked and some that had much less
+success. Miller has also been active in China, working on several digital
+investment opportunities for News Corp. there. That included a recent $70
+million investment in Bona Film Group. He was key to a recent $45 million
+investment by the company and others in the company that sells the Roku video
+streaming device. He also worked on various New Corp. efforts on creating
+channels on Google’s YouTube, including WIGS, a drama series. The jury is
+still out on these kinds of creative endeavors, of course, especially to a
+company with much more lucrative traditional film and television assets. There
+was a possibility that, in his leaving, Miller might form a separate
+investment fund to focus on digital publishing and media, funded by News Corp.
+or even by the Murdoch family, who control the company. But that has appeared
+not to have worked out, said sources. Before he came to News Corp., Miller ran
+an investment fund with former Yahoo exec Ross Levinsohn called Fuse Capital.
+He also was chairman and CEO of AOL under its Time Warner ownership and was a
+top exec at IAC/InterActiveCorp. Miller has remained an active angel investor,
+funding a range of start-ups such as Maker Studios, Voxer, Science, Solavei,
+Personal.com, as well many as others. He is also chairman of OpenX and serves
+on the boards of Shutterstock and TripAdvisor. Clearly, this is a world Miller
+will return to easily and it’s likely he’ll be starting something sooner than
+later. (Maybe bringing the band back together with Levinsohn?)
+JonathanMillerAug23.2012 (Full disclosure: This Web site is owned by Dow
+Jones, which is owned — in turn — by News Corp.) ]]>
+http://allthingsd.com/20120823/exclusive-digital-chief-jon-miller-leaves-news-
+corp/feed/ 0 Exclusive: Ross Levinsohn Departs Yahoo
+http://allthingsd.com/20120730/as-expected-ross-levinsohn-departs-yahoo/
+http://allthingsd.com/20120730/as-expected-ross-levinsohn-departs-
+yahoo/#comments Mon, 30 Jul 2012 20:46:54 +0000
+http://allthingsd.com/?p=235164 As I previously reported he likely would, top
+Yahoo exec Ross Levinsohn — who lost the CEO race to former Google exec
+Marissa Mayer — is leaving the company, according to several sources. Mayer
+also just sent a note to the company about the departure, added a multitude of
+other sources across the company. (Update: Yahoo just filed regulatory
+documents about the separation, noting severance agreements that total many
+millions of dollars. And the company also released a statement confirming the
+departure: “Ross has done a terrific job during his time at Yahoo!. We wish
+him all the best.” Levinsohn also had a memo to staff, which is also below.)
+Levinsohn, who took over as interim CEO in the wake of the ouster of Scott
+Thompson earlier this year, had been running the Americas unit of the Silicon
+Valley Internet giant. That put him in charge of key Yahoo businesses,
+including its media and advertising sales divisions. Levinsohn and Mayer have
+been negotiating his exit for several days, sources said, which is not
+surprising given the awkward circumstance between them. While Mayer might have
+benefited from Levinsohn’s close ties with key marketing players and his
+content experience, her intense focus on products and not on media likely
+means that she will rely on a more tech-heavy leadership team going forward.
+It will be interesting to see who she picks going forward. As I previously
+reported, many think she will pull from the ranks of former and current Google
+execs, where she worked for her entire career before Yahoo. Levinsohn does not
+apparently have any current plans for another gig, but as an experienced and
+very well-liked online media exec, he will likely have many options. He came
+to Yahoo in late 2010, replacing Hilary Schneider, in the regime of Carol
+Bartz, who was later fired. Levinsohn arrived at Yahoo from Fuse Capital,
+where he worked with Jon Miller — now chief digital officer at News Corp. — in
+funding digital media and communications start-ups. But, until his Yahoo job,
+Levinsohn was probably best known for his stint running digital operations for
+News Corp.’s then Fox Interactive Media unit. It was at FIM that he rose to
+prominence after he bought Myspace, the social networking site that was once
+the hottest property on the Web. At the time, Levinsohn and other execs also
+struck a gigantically lucrative advertising search deal with Google that
+garnered Myspace huge revenues. After leaving News Corp. — after repeated
+clashes with Myspace co-founder and then CEO Chris DeWolfe — he partnered with
+Miller in another investment company, Velocity Capital. Ironically, both
+Miller and Levinsohn were the top choices of billionaire shareholder activist
+Carl Icahn as the execs he wanted to run Yahoo when he was agitating for
+change there a few years back in the midst of the failed takeover attempt by
+Microsoft. Fast forward several years, with Levinsohn losing his shot as CEO
+of Yahoo, after yet another hedge fund manager — Dan Loeb of Third Point, who
+waged a Yahoo proxy fight that ended in him getting seats on the board —
+strongly backed Mayer for the job instead of Levinsohn. Levinsohn never had a
+chance against the tech-star resume of Mayer, of course. But, for his time of
+taking over Yahoo after the crisis around the ouster of Thompson over a fake
+computer science degree on his bio alone — a rocky period for the company, to
+be sure — Levinsohn probably deserves a lot of kudos from Yahoo’s board. More
+to come, obviously. But here is the Mayer note about Levinsohn’s departure in
+full: Subject: Thank You to Ross Levinsohn Do Not Forward I am writing to let
+you know that Ross Levinsohn will be leaving the company at the end of July.
+Ross has been an important and powerful contributor at Yahoo since he joined
+in 2010. During May and June, Ross stepped into an incredibly tough role as
+interim CEO and did a terffic job — he really helped keep the company moving,
+closed important deals, and assembled a very talented team. I am very grateful
+to Ross for his leadership and work throughout his tenure at Yahoo. His
+contributions will be missed. Ross will be in Sunnyvale tomorrow (Tuesday,
+July 31). Please take the opportunity to drop by and thank him for all he has
+done for the company. I hope you can join me in wishing Ross well and letting
+him know how much you’ve appreciated him as a colleague. — Marissa I wanted to
+let you know that my time at Yahoo has come to an end. It has been an
+incredible journey for me and I could not be prouder of what we accomplished
+over the past few years helping define Yahoo as a leader in digital media and
+advertising. Yahoo is an amazing brand and company, and I leave knowing we did
+all we could to help inform and entertain more than 700 million users each
+month. Leading this company has been one of the best experiences of my career,
+but it is time for me to look for the next challenge. — Ross ]]>
+http://allthingsd.com/20120730/as-expected-ross-levinsohn-departs-yahoo/feed/
+0 Rafat Ali 2.0: Meet Skift, the Travel Industry's Version of PaidContent
+http://allthingsd.com/20120730/rafat-ali-2-0-meet-skift-the-travel-industrys-
+version-of-paidcontent/ http://allthingsd.com/20120730/rafat-ali-2-0-meet-
+skift-the-travel-industrys-version-of-paidcontent/#comments Mon, 30 Jul 2012
+12:50:28 +0000 http://allthingsd.com/?p=235285 What do you do after you build
+and sell a pioneering digital media start-up? Take two years off, and start
+building another media start-up. That’s the short version of Rafat Ali’s
+story. The slightly longer version: The guy who started paidContent in 2002,
+sold it to the Guardian in 2008 and took off in 2010, is back with Skift.
+PaidContent covered the business of digital media; Skift covers the travel
+business, with an emphasis on that industry’s digital transformation. Ali has
+raised a $500,000 round from mediacentric angels like former Wall Street
+Journal publisher Gordon Crovitz, former Thomson Reuters CEO Tom Glocer and
+former Myspace co-CEO Jason Hirschhorn. The pitch is pretty straightforward:
+No one does a very good job of covering the travel business, and there’s a
+wide range of people who want to read smart takes, from industry executives to
+start-up investors to savvy consumers who want to figure out what’s happening
+behind the scenes. And Ali has ambitions to build a stockpile of travel data
+that he figures will be at least as important as the stories he publishes and
+aggregates. I’ve admired Ali for a long time — and competed with him for a
+portion of it — so I’m not a neutral observer here: I hope Skift* kills it.
+I’m also interested in the notion of Skift as a second act, and in watching
+Ali try to apply hard-won lessons from his first go-round. Here’s a longish
+interview we conducted last week in the offices of his old company, now owned
+by GigaOM. *The name is Swedish for “shift,” and Ali picked up the domain
+during his paidContent days, but never figured out what to do with it. By the
+time he got around to putting his new business together, every derivation of
+“travel” had long been snapped up. ]]> http://allthingsd.com/20120730/rafat-
+ali-2-0-meet-skift-the-travel-industrys-version-of-paidcontent/feed/ 0
+Exclusive: Could Jon Miller's Digital Future at News Corp. Include a New
+Investment Fund? http://allthingsd.com/20120718/exclusive-could-jon-millers-
+digital-future-at-news-corp-include-a-new-investment-fund/
+http://allthingsd.com/20120718/exclusive-could-jon-millers-digital-future-at-
+news-corp-include-a-new-investment-fund/#comments Wed, 18 Jul 2012 22:10:15
++0000 http://allthingsd.com/?p=231306 One of the issues that seems to have
+gotten lost in the complex transaction that will ultimately break apart News
+Corp. into two separate entities — an entertainment company and a publishing
+one — is the fate of its overall digital strategy in the new paradigm. That
+arena for the media behemoth is now being headed by Jon Miller, the longtime
+Internet exec and investor, who was hired by the media giant in 2009 as chief
+digital officer to lead its tech and online initiatives. His job has
+encompassed everything from his failed effort to revive its once mighty
+Myspace property to selling it and other properties off to working on its Hulu
+partnership. Miller has also been active in China, looking for digital
+investment opportunities for News Corp. there. But now that the company is
+being cleaved in two, it’s hard to imagine where Miller would land in either
+new entity. And, according to numerous sources, he probably will not and is
+instead in discussions with CEO Rupert Murdoch and others at the company about
+forming a separate investment fund to focus on digital publishing and media.
+It will not be owned by either new News Corp. unit, said sources. While the
+possibility is in its early stages and might not happen, the fund could be
+seeded with money from News Corp. or, more interestingly, from the Murdoch
+family itself. Such a shift for Miller would not be a stretch, since he has
+run an investment fund with Yahoo exec Ross Levinsohn called Fuse Capital. He
+has worked previously running AOL and also did a stint at IAC. While Miller
+has made a number of different investments across the tech landscape, digital
+publishing has been a particular focus. Miller and News Corp. declined
+comment. (Full disclosure: This Web site is owned by Dow Jones, which is owned
+— in turn — by News Corp.) ]]> http://allthingsd.com/20120718/exclusive-could-
+jon-millers-digital-future-at-news-corp-include-a-new-investment-fund/feed/ 0
+The New New Web: Ask Not Who Needs It, Ask Who Wants It
+http://allthingsd.com/20120626/the-new-new-web-ask-not-who-needs-it-ask-who-
+wants-it/ http://allthingsd.com/20120626/the-new-new-web-ask-not-who-needs-it-
+ask-who-wants-it/#comments Tue, 26 Jun 2012 19:50:46 +0000
+http://allthingsd.com/?p=223968 How can we make sense of it all? A few weeks
+ago, I had dinner with Saumil and Sailesh, co-founders of LocBox.* Instagram
+had just been acquired by Facebook and there was speculation (later confirmed)
+about a big up round financing of Path. The recent large financing of
+Pinterest was still in the air, and the ongoing parlor game of when Facebook
+would go public and at what price was still being played. A couple of months
+prior, Zynga had acquired OMGPOP. Sailesh wondered aloud, “How much time do we
+have for any of these?” “How many of them can coexist?” and “Do we really need
+them?” My answers were, respectively: “A lot.” “Many of them.” and “No, but we
+want them.” That dinner discussion prompted some observations that I am
+outlining here, and I invite you to share your own observations in the
+comments below. In a nutshell, the Internet has evolved from being a need-
+driven utility medium with only a handful of winners to a discovery-driven
+entertainment medium with room for multiple winners. The necessary and
+sufficient conditions for this evolution are now in place — broadband, real
+names and tablets are the three horsemen of this New New Web. As consumers,
+entrepreneurs and investors, we should get used to the fact that the online
+economy is increasingly blurring with the offline economy, and in the limit,
+that distinction will disappear. As a result, just as in the real world, the
+Web of entertainment will be much bigger than the Web of utility. A Theory of
+Human Motivation One framework for understanding the consumer Internet is
+Maslow’s Hierarchy of Needs, which Abraham Maslow put forward as a way of
+explaining human behavior at large. The core premise is that once our basic
+needs of food, shelter, safety and belonging are satisfied, we tend to focus
+on things that are related to creativity, entertainment, education and self-
+improvement. A key aspect of this framework is that it’s sequential: Unless
+the basic needs are met, one cannot focus on other things. As an example, a
+study in 2011 showed that humans who are hungry will spend more on food and
+less on non-food items compared to those who are not hungry. Using this
+framework, we can see how consumer adoption of the Web has evolved over the
+last 20 years, and why all of the ingredients are only now in place for
+consumers to use the Web for what Maslow called “self-actualization” — a
+pursuit of one’s full potential, driven by desire, not by necessity.
+1992-2012: Web of Need Between the AOL IPO in 1992 and the Facebook IPO last
+month, the Internet has largely been in the business of satisfying basic
+consumer needs. In 1995, the year Netscape went public and made the internet
+accessible to the masses, I was a young product manager for a consumer
+Internet company called Global Village Communication. We were a newly minted
+public company and our hottest product was a “high speed” fax/modem with a
+speed of 33.6 kbps. Back then, using the Internet as a consumer or making a
+living off it as a business was rather difficult, and sometimes simply
+frustrating. In the subsequent years the basic needs of access, browser,
+email, search and identity were solved by companies such as AOL, Comcast,
+Netscape, Yahoo, Google, LinkedIn and Facebook. 2012-?: Web of Want Today, the
+billion users on Facebook have reached the apex of Maslow’s hierarchy on the
+web. All of our basic needs have been satisfied. Now we are in pursuit of
+self-actualization. It is no surprise that on the Web, we are now open to
+playing games (Zynga, Angry Birds), watching video (YouTube, Hulu), listening
+to music (Pandora, Spotify), expressing our creativity (Instagram, Twitter,
+Draw Something), window shopping (Pinterest, Gojee*) and pursuing education
+(Khan Academy, Empowered*). The Web Is Becoming Like TV How do we make sense
+out of a Web where multiple providers coexist, serving groups of people who
+share a similar desire? Turns out we already have a very good model for
+understanding how this can work: Television. Specifically, cable television.
+The Web is becoming like TV, with hundreds of networks or “channels” that are
+programmed to serve content to an audience with similar desires and
+demographics. Pinterest, ShoeDazzle, Joyous and Alt12* programmed for young,
+affluent women; Machinima, Kixeye and Kabam programmed for mostly male gamers;
+Gojee* for food enthusiasts; Triposo* for travellers; GAINFitness* for fitness
+fans and so on. In this new new Web, an important ingredient to success is a
+clear understanding of the identity of your users to ensure that you are
+programming to that user’s interests. The good news is that unlike TV, the Web
+has a feedback loop. Everything can be measured and as a result the path from
+concept to success can be more capital efficient by measuring what type of
+programming is working every step of the way — it’s unlikely that the new new
+Web will ever produce a Waterworld. Why Now? Broadband, Real Names & Tablets
+As my partner Doug Pepper recently wrote, a key question when evaluating a new
+opportunity is to ask “Why Now?” Certainly, companies like AOL, Yahoo and
+Myspace have tried before to program the Web to cater to interests of specific
+audiences. What’s different now? Three things: Broadband, real names and
+tablets. The impact of broadband is obvious; we don’t need or want anything on
+a slow Web. With broadband penetration at 26 percent in industrialized
+countries and 3G penetration at about 15 percent of the world’s population, we
+are just reaching critical mass of nearly 1B users on the fast Web. Real names
+are more interesting. In 1993, the New Yorker ran the now famous cartoon; “On
+the Internet, nobody knows you’re a dog.” This succinctly captured the state
+of the anonymous Web at the time. Reid Hoffman and Mark Zuckerberg changed
+that forever. Do we find Q&A; on Quora to be more credible than Yahoo!
+Answers, celebrity profiles on Twitter more engaging than Myspace and pins on
+Pinterest more relevant than recommendations on early AOL chatrooms? I
+certainly do, and that is largely because Quora, Twitter and Pinterest take
+advantage of real names. Real names are blurring the distinction between
+online and offline behavior. Finally, the tablet, the last necessary and
+sufficient piece that fuels the “Web of want.” The PC is perfect for the “Web
+of need” — when we need something, we can search for it, since we know what we
+are looking for. Searching is a “lean-forward” experience, typing into our PC,
+either at work or at the home office. The Web over the last decade has been
+optimized for this lean-forward search experience — everything from SEO to Web
+site design to keyword shortcuts in popular browsers makes that efficient.
+However, smartphones and tablets allow us to move to a “lean-back” experience,
+flipping through screens using our fingers, often in our living rooms and
+bedrooms, on the train or at the coffee shop. Tablets make discovery easy and
+fun, just like flipping channels on TV at leisure. These discoveries prompt us
+to want things we didn’t think we needed. Early Signs This thesis is easy to
+postulate, but is there any evidence that users are looking to the Web as
+anything more than a productivity platform? As has been reported, mobile
+devices now make up 20 percent of all U.S. Web traffic, and this usage peaks
+in the evening hours, presumably when people are away from their office.
+Analysis from Flurry* shows that cumulative time spent on mobile apps is
+closing in on TV. We certainly don’t seem to be using the Web only when we
+need something. Economy of Need Versus Want The economy of Want is different
+from the economy of Need. We humans tend to spend a lot more time and money on
+things we want compared to things we need. For example, Americans spend more
+than five hours a day on leisure and sports (including TV), compared to about
+three hours spent on eating, drinking and managing household activities.
+Another difference is that when it comes to satisfying our needs, we tend to
+settle on one provider and give that one all of our business. Think about how
+many companies provide us with electricity, water, milk, broadband access,
+search, email and identity. The Need economy is a winner-take-all market, with
+one or two companies dominating each need. However, when it comes to providing
+for our wants, we are open to being served by multiple providers. Think about
+how many different providers are behind the TV channels we watch, restaurants
+we visit, destinations we travel to and movies we watch. The Want economy can
+support multiple winners, each with a sizeable business. Instagram, Path,
+Pinterest, ShoeDazzle, BeachMint, Angry Birds, CityVille, Kixeye, Kabam,
+Machinima and Maker Studios can all coexist. Investing in the Web of Want The
+chart below shows that over a long term (including a global recession) an
+index of luxury stocks (companies such as LVMH, Burberry, BMW, Porsche,
+Nordstrom) outperforms an index of utility stocks (companies such as Con
+Edison and Pacific Gas & Electric that offer services we all need). The same
+applies to an index of media stocks (companies such as CBS, Comcast, News
+Corp., Time Warner, Viacom) which outperforms both the utilities and the
+broader stock market. Of course, higher returns come with higher volatility —
+Nordstrom’s beta is 1.6 and CBS’ beta is 2.2, compared to 0.29 for PG&E.; It
+is this volatility that has cast investing in the Want business as a career-
+ending move in Silicon Valley for the past 20-plus years. As the Web evolves
+from serving our needs to satisfying our wants and, in turn, becomes a much
+larger economy, sitting on the sidelines of the Web of Want may not be an
+option. Let’s Not Kill Hollywood With a billion users looking for self-
+actualization and with the widespread adoption of broadband, real names and
+tablets, the Web is poised to become the medium for creativity, education,
+entertainment, fashion and the pursuit of happiness. As the offline world
+shows, large, profitable companies can be built that cater to these desires.
+Entrepreneurs and investors looking to succeed in the new new Web can learn
+quite a few lessons from our friends in the luxury and entertainment
+businesses, which have been managing profitable “want” businesses for decades.
+The fusion of computer science, design, data, low friction and the massive
+scale of the Internet can result in something that is better than what either
+Silicon Valley or Hollywood can do alone. It is no wonder that the team that
+came to this conclusion before anyone else is now managing the most valuable
+company in the world. Epilogue When we go see a movie or splurge on a resort
+vacation, we don’t stop using electricity, brushing our teeth or checking our
+email. The Web of Want is not a replacement for the Web of Need, it is an
+addition. Many of the Internet companies that satisfied our needs in the last
+20 or more years of the Web are here to stay. In fact, they will become more
+entrenched and stable, with low beta, just like the utilities in the offline
+world. Microsoft has a beta of exactly 1.0 — it is no more volatile than the
+overall stock market. And for those longing for the days of “real computer
+science” on the Web, do not despair. Just keep an eye on Rocket Science and
+Google X Labs — there is plenty of hard-core engineering ahead. Disclosures: *
+indicates an InterWest portfolio company. Google Finance was used for all of
+the stock charts and beta references. Keval Desai is a Partner at InterWest,
+where he focuses on investments in early-stage companies that cater to the
+needs and wants of consumers. He started his career in Silicon Valley in 1991
+as a software engineer. He has been a mentor and investor in AngelPad since
+inception. You can follow him @kevaldesai. ]]>
+http://allthingsd.com/20120626/the-new-new-web-ask-not-who-needs-it-ask-who-
+wants-it/feed/ 13 It's Official: Michael Barrett Named to New Job as Yahoo Ad
+Czar http://allthingsd.com/20120618/its-official-michael-barrett-talks-about-
+new-job-as-yahoo-ad-czar/ http://allthingsd.com/20120618/its-official-michael-
+barrett-talks-about-new-job-as-yahoo-ad-czar/#comments Mon, 18 Jun 2012
+12:45:43 +0000 http://allthingsd.com/?p=221059 Yahoo has confirmed that it
+hired Google ad exec Michael Barrett as its new chief of revenue. As I
+reported earlier, Barrett will be in charge of advertising revenue and
+operations worldwide at the Silicon Valley Internet giant, including units in
+the U.S., Europe and Asia reporting in to him. Barrett will report directly to
+interim CEO Ross Levinsohn. The move to hire the high-profile exec — who has
+been working at Google since it bought an ad tech company he ran a year ago —
+gives Yahoo a boost in its most critical area of business. The search giant
+acquired supply-side advertising technology start-up AdMeld for $400 million a
+year ago. Before that, Barrett had previously worked at a range of digital and
+traditional media companies. His hiring is also a clear signal that Yahoo is
+about to make major changes to its ad business going forward. According to
+numerous sources, Yahoo is again mulling a plan to abandon or sell large parts
+of its ad tech business and rely on third-party vendors, including Google.
+Sources said Barrett was interested in the big opportunity Yahoo possessed and
+felt the ad market was still interested in helping it maintain its online ad
+business. Here’s the official Yahoo press release on the Barrett appointment:
+Yahoo! Appoints Michael Barrett as Executive Vice President and Chief Revenue
+Officer SUNNYVALE, Calif., June 18, 2012 — Yahoo! Inc. (NASDAQ: YHOO)
+announced today that it has appointed Michael Barrett as Executive Vice
+President and Chief Revenue Officer. Barrett will be responsible for Yahoo’s
+advertising revenue and operations globally for the company, with Americas,
+EMEA and APAC regional leads reporting to him. “Michael Barrett is regarded as
+one of the most successful and influential executives in media and technology,
+and I am thrilled to have him join Yahoo! in this critical role,” said Ross
+Levinsohn, Interim Chief Executive Officer. “I am confident that his deep
+industry experience and relationships will help us drive our strategic vision,
+taking Yahoo!’s industry-leading position to the next level.” Barrett joins
+Yahoo! from Google where he led the integration efforts following Google’s
+acquisition of Admeld, Inc. in December 2011. Barrett joined Admeld as CEO in
+2008, and under his leadership the company became the leading global supply
+side platform solution for premium publishers. Prior to Admeld, Barrett worked
+at Fox Interactive Media as Executive Vice President and Chief Revenue
+Officer, where he oversaw worldwide revenue for all properties including
+MySpace and FoxSports.com and worked closely with Levinsohn. Before that,
+Barrett served as Executive Vice President of Sales and Partnerships at AOL
+Media Networks and held senior sales positions at interactive leaders Yahoo!,
+GeoCities and Disney Online. “Yahoo! is one of the largest and most iconic
+Internet companies in the world,” said Barrett. “I am grateful for this
+opportunity to work with Ross and a group of immensely talented and energized
+people, all focused on driving Yahoo’s leadership and strategic position on a
+global basis. I am looking forward to contributing everything I can to that
+effort.” In his new role at Yahoo!, which he will assume in early July,
+Barrett will be part of the senior executive team, reporting directly to
+Levinsohn. ]]> http://allthingsd.com/20120618/its-official-michael-barrett-
+talks-about-new-job-as-yahoo-ad-czar/feed/ 0 Facebook Casino Game Launches,
+Backed by Myspace's Tom Anderson and Reality-TV Star Brody Jenner
+http://allthingsd.com/20120522/facebook-casino-game-launches-backed-by-
+myspaces-tom-and-tv-star-brody-jenner/
+http://allthingsd.com/20120522/facebook-casino-game-launches-backed-by-
+myspaces-tom-and-tv-star-brody-jenner/#comments Tue, 22 May 2012 19:05:58
++0000 http://allthingsd.com/?p=211071 RocketFrog is the latest company to bet
+on casino-style games on Facebook as online gambling becomes more of a
+reality. The Los Angeles-based company has not raised institutional funding
+yet, but is backed by its founders along with Brody Jenner, stepbrother to Kim
+Kardashian and son of Olympic decathlete Bruce Jenner (see right). Jenner has
+already been busy hyping RocketFrog on his official Facebook fan page, which
+has more than 58,000 likes, by asking fans to join him in poker tournaments
+for the chance to win $5 Amazon gift cards. Additionally, the company said
+that Myspace founder Tom Anderson will join RocketFrog’s advisory board.
+Besides its star-studded alliances, the company’s free-to-play Facebook game
+stands apart from other casino-based games because it allows players to win a
+variety of prizes, ranging from movie tickets to music, food and more. Games
+include blackjack, slots, roulette, deuces wild and video poker, and prizes
+during the game’s first month include brands such as Creative Recreation,
+Steve Angello of Swedish House Mafia, Young and Reckless, World of Dance,
+Abbey Dawn by Avril Lavigne and Paul Oakenfold. Many companies are scrambling
+to gain large casino audiences on Facebook now that it appears that online
+gambling will become legal in the U.S. Late last year, the Department of
+Justice issued a new interpretation of the Wire Act of 1961. Under the new
+ruling, it interprets the act as only outlawing betting on sporting events —
+not all events and contests. With that clarification in place, it will now be
+up to each state to pass legislation outlining operating procedures. A few
+companies, such as IGT, Zynga and Caesars Interactive, have already started to
+get ready and a few states have already passed laws. RocketFrog’s founder
+Brett Calapp was previously the CEO and co-founder of Centaurus Games, a
+subscription-based gaming network that sold to PartyGaming in 2010. He was
+also the president of the Ultimate Blackjack Tour, an international gambling
+tour, online game network and hit television show on CBS. ]]>
+http://allthingsd.com/20120522/facebook-casino-game-launches-backed-by-
+myspaces-tom-and-tv-star-brody-jenner/feed/ 0 Ross Levinsohn's Yahoo Plan:
+Back to the Future http://allthingsd.com/20120513/ross-levinsohns-yahoo-plan-
+back-to-the-future/ http://allthingsd.com/20120513/ross-levinsohns-yahoo-plan-
+back-to-the-future/#comments Sun, 13 May 2012 23:08:16 +0000
+http://allthingsd.com/?p=207377 Ross Levinsohn wants to be known as more than
+a deal guy. Now he gets his chance. Assuming Yahoo gives its interim CEO real
+power — either by making him its actual CEO, or at least letting him behave as
+if he has the job — then he’ll finally have full control of a giant media
+company. That’s something he’s been working toward for a long time, despite
+his rep as a guy who enjoys buying companies more than running them. Just like
+his predecessors, Levinsohn will have to untie Yahoo’s knotty Asian problem.
+He’ll also have to spend time repairing relationships with Facebook and
+figuring out what to do with a Microsoft search deal that hasn’t been a huge
+success. But if Levinsohn gets to run Yahoo the way he wants to run Yahoo,
+he’ll focus on getting the most out of its media business, because that’s his
+strength. Bear in mind that this is still a huge business — the portal
+attracts some 700 million visitors a month, which helped it generate nearly $1
+billion in ad sales last quarter. But that business is listing and under
+attack from Google, Facebook, and a swarm of nimble start-ups pulling eyeballs
+and dollars away. If you want to get a sense of what Levinsohn may try to do
+next, it’s good to review what he did last year, when he had control of the
+company’s U.S. operations — and what he tried to do but couldn’t get done.
+Ads: Yahoo used to have one of the Web’s best sales operations, but those days
+are long gone. Levisonsohn spent much of 2011 trying to fix that. Part of that
+involved restaffing his team, and part of it was a strategy that was supposed
+to cut out some of the ad tech middlemen and allow the company to increase its
+yield on the ads it sold. Those moves, which included a would-be alliance
+between Yahoo, AOL and Microsoft, all went into a holding pattern when Scott
+Thompson took over in January. Levinsohn will try restarting that again now.
+M&A;: Levinsohn has a reputation as a dealmaker because he’s made some pretty
+big deals. Most notably, he brought Myspace to News Corp. in 2005, then helped
+the company secure a $900 million ad deal with Google (News Corp. also owns
+this Web site). Last year, he tried to land another big fish, when he pushed
+to pursue Hulu. But Levinsohn couldn’t get buy-in from then-CEO Carol Bartz,
+and Hulu’s owners decided not to sell after all. I think Levinsohn would still
+be interested in the site under certain conditions, but he’d need more cash
+than he has on hand to do it. Selling off his Asian assets might make that
+possible. If he can’t land Hulu, I don’t see him chasing after Instagram-like
+companies with big price tags and no near-term revenue plans. I do see him
+making some plays on cheaper start-ups, as well as some technology plays, to
+shore up/replace the company’s very old infrastructure/platforms. ]]>
+http://allthingsd.com/20120513/ross-levinsohns-yahoo-plan-back-to-the-
+future/feed/ 0 Meet the Man I Call "The Hair": The Video Stylings of Yahoo's
+Newest CEO Ross Levinsohn http://allthingsd.com/20120513/meet-the-man-i-call-
+the-hair-the-video-stylings-of-yahoos-newest-ceo-ross-levinsohn/
+http://allthingsd.com/20120513/meet-the-man-i-call-the-hair-the-video-
+stylings-of-yahoos-newest-ceo-ross-levinsohn/#comments Sun, 13 May 2012
+19:03:01 +0000 http://allthingsd.com/?p=207366 Over the many years I have
+covered Yahoo’s expected new interim CEO Ross Levinsohn, I have done several
+video interviews with him. And, for my own amusement, I also have nicknamed
+him “The Hair,” due to his very impressive mane. We’ll see how impressive the
+longtime digital media exec will be now that Levinsohn has become the latest
+head of the Silicon Valley Internet giant. His job is only interim for now,
+but in selecting him, the Yahoo board is opting for a more media-centric
+approach. Among his claims to fame: He was president of News Corp.’s Fox
+Interactive Media, where he bought the then-soaring Myspace social networking
+site. Levinsohn managed to get Google to fork over more than double its price
+in advertising guarantees and luckily left the company before it went off the
+rails. He was also an exec at AltaVista, an early search pioneer, and was head
+of content and development at CBS Sportsline. Levinsohn also dabbled in
+investing at Fuse Capital, with current News Corp. digital head Jon Miller
+focused on digital media and communications companies. When he was at Fuse,
+ironically, Levinsohn and Miller were also raised as possible board members by
+Carl Icahn, who has conducting a different proxy fight against Yahoo. In the
+latest fighting, at least, Levinsohn appears the victor. To assess him, here
+are two videos I did with him — one in 2007 when he was at Fuse and one from
+last year at our D: All Things Digital conference (I ask about his hair-care
+product at the very end). I also added a recent mockumentary video that
+Levinsohn for Yahoo’s recent Newfront media presentations in New York, which
+is pretty funny (and, in Carol Bartz channeling, Levinson curses at the end!):
+RELATED POSTS: Yahoo’s Parting With Thompson Will Be for “Cause” (a.k.a.
+CSLie) Ross Levinsohn’s Yahoo Plan: Back to the Future Here’s New Yahoo CEO’s
+First Note to Troops! (The Leaking-Internal-Memos-to-ATD Policy Remains in
+Effect As Usual) Yahoo Officially Confirms ATD Report on CEO Changes and Proxy
+Settlement Meet the Man I Call “The Hair”: The Video Stylings of Yahoo’s
+Newest CEO Ross Levinsohn Will Thompson’s Ouster Mean a Yahoo-Facebook Patent
+Settlement Too? Exclusive: Yahoo’s Thompson Out; Levinsohn In; Board
+Settlement With Loeb Nears Completion Heidrick & Struggles Slaps Back at
+Thompson’s Yahoo in Blame Game Over ResuMess Is He In or Is He Out? Crunchtime
+for Scott Thompson at Yahoo. Not So Scott Free? Yahoo’s Other Big Shareholder
+— Cap Re — Leaning Toward Supporting Loeb Over Thompson ResuMess. Tech
+Nation’s Gunn Says She and Yahoo CEO Discussed Their CS Degrees Before 2009
+Show (Video and Audio) Loeb Calls Again for Thompson Firing From Yahoo, as
+Former eBay Boss Supports Him Place Your Bets: Will Loeb Drop Another Bomb on
+Yahoo at Vegas Confab Later Today? Exclusive: Yahoo Director in Charge of
+Botched CEO Vetting to Step Down From Board CEO Says Sorry to Yahoos for
+Borked Bio “Distraction” — But Will Mea Culpa Work Without an Apology for
+Error? (Memo) Buffett Comments on Trust Issue in Yahoo CEO BioGate: “You’ve
+Got a Problem” Loeb Lobs Lawsuit, as Expected, at Yahoo’s Borked Bio Mess As
+Yahoo CEO Reaches Out to Top Staff, Board Meets to Weigh “Options” (I.E.,
+Deciding Who Gets to Take the Borked Bio Blame) Yahoo Should Expect Incoming
+Lawsuit Lobbed by Loeb Tomorrow on CEO Hiring They Shoot Yahoo CEOs, Don’t
+They? But Not Without a Really Smoking Gun and a Much Stronger Board. Yahoo’s
+Thompson Asks Employees to “Stay Focused” — Except Not on Him In 2009
+Interview, Yahoo CEO Does Not Deny He Has a CS Degree, and Calls Himself an
+“Engineer” (Audio) Yahoo’s Board Will “Review” Resume Discrepancy of CEO How
+Did a Phantom CS Degree Get on CEO’s Bio in SEC Filings? Yahoo’s Not Saying.
+Yahoo’s Response on CEO’s Computer Science ResumeGate: “Inadvertent Error” Dan
+Loeb Alleges “Discrepancies” on Yahoo CEO Scott Thompson’s Resume Related to
+Computer Science Degree ]]> http://allthingsd.com/20120513/meet-the-man-i-
+call-the-hair-the-video-stylings-of-yahoos-newest-ceo-ross-levinsohn/feed/ 0
+Myspace in Privacy-Policy Settlement With FTC
+http://allthingsd.com/20120508/myspace-in-privacy-policy-settlement-with-ftc/
+http://allthingsd.com/20120508/myspace-in-privacy-policy-settlement-with-
+ftc/#comments Tue, 08 May 2012 19:45:33 +0000 http://allthingsd.com/?p=205459
+Social-networking service Myspace settled allegations by the Federal Trade
+Commission that it misled millions of users about its sharing of personal
+information with advertisers, the FTC said. The settlement, which comes amid
+social-networking heavyweight Facebook Inc.’s plans to go public, requires
+Myspace to implement a comprehensive privacy program, calls for regular and
+independent privacy assessments for the next 20 years, and bars the company
+from future privacy misrepresentations. Read the rest of this post on the
+original site » ]]> http://allthingsd.com/20120508/myspace-in-privacy-policy-
+settlement-with-ftc/feed/ 0 There’s a Robot in Your Pocket
+http://allthingsd.com/20120502/theres-a-robot-in-your-pocket/
+http://allthingsd.com/20120502/theres-a-robot-in-your-pocket/#comments Wed, 02
+May 2012 21:38:23 +0000 http://allthingsd.com/?p=202678 When I was a kid, I
+dreamed of someday having my own robot. From HAL to R2D2 to KITT, robots were
+the ultimate technology in my eyes. They could do your chores, order you a
+pizza, finish your homework, and even warn you when danger was approaching.
+Today, I’m very excited to see my dream come true because, in fact, there is a
+robot in each of our pockets. Let’s begin by drawing the distinction between a
+tool and a robot. Tools enable us to work more efficiently. Robots do the work
+for us (in fact, the original word robata means “hard work” in Czech). The
+vast majority of the Web sites and apps we use today are tools that enable us
+to work, play and share more efficiently. Over the last few years, through
+advances in artificial intelligence and data science, Web sites and apps are
+evolving. There is a new breed of applications focused entirely on working on
+our behalf. As humans, we constantly seek means to reduce the amount of work
+needed to reap rewards from a system. While the tools of today allow us to
+work less, the robots of the future will eliminate much of the work in the
+first place. This incredible transformation is happening right before our
+eyes. Your Search Robot A long time ago, we would search for information by
+painstakingly looking up sources in a card catalog and reading a book. As much
+of that knowledge moved online, the directory (like Yahoo!) enabled us to
+browse and find content of interest. In time, the amount of information
+flowing online overwhelmed the directory — it would simply require too much
+work to browse the entire Web. Fortunately, a revolutionary tool, search —
+Google, really — made it very easy to find the documents that contain the
+answers we’re looking for. But while search presents us with a huge set of
+choices, it still takes a lot of work to find the answers. Today, a new
+technology is eliminating that work by acting on our behalf to find the
+answers and even solve our problems. Siri is an artificial intelligence client
+that turns our devices into a virtual assistant. It removes the steps between
+searching for answers and finding them. Have a question about converting
+metric units? Ask Siri. Need to order your mother flowers? Let Siri handle
+that. Need to make dinner reservations for your date Friday? Let Siri do the
+work for you. And we’re just scratching the surface. We possess the vastness
+of all human knowledge in our pockets, yet much of our usage is limited to
+Angry Birds. This transformation to intelligent machines means we no longer
+have to work as hard to apply the knowledge locked in our devices; they’ll do
+the work for us. Your Location Robot In the 20th century, an enormous yellow
+book was delivered to our doorstep every year. We would heft this behemoth and
+flip through hundreds of pages to find a local business or restaurant of
+interest. Eventually, that process gave way to more efficient tools as local
+information moved online through apps like CitySearch and Yelp. Recently, via
+the mobile check-in, we can be presented places of interest and people near
+our current location. This new layer of geographical context is great, but
+checking in is still work. Today, ambient location apps like Foursquare, Radar
+and Highlight are beginning to do that work for us. By passively monitoring
+our locations, they alert us to interesting people and places around us. Over
+time, as they learn our preferences, they’ll be able to filter these places
+and help us discover the best restaurants and people wherever we are. At last,
+we are within reach of the “Danger, your ex-girlfriend is in the area!” robot.
+Your Personal Robot Not that long ago, the primary way we would discover new
+media was through browsing a printed newspaper, magazine rack or record store.
+As this content moved online, it became much more accessible and real-time. As
+the option pool grows, we have to put in more and more work to find the
+content that’s interesting to each of us. There are more and better options
+than we could ever imagine. But it would take an incredible human effort to
+find all the needles in the growing haystack. To address this, many Web sites
+have offered customization tools for users to focus their experience. But
+manual customization also requires a lot of work, and it usually fails to
+paint the rich, dynamic picture of who we are and what we like. Fortunately, a
+solution is emerging from companies like Pandora (and, full disclosure, my own
+company, Gravity). Using machine learning, these platforms get to know you
+based on the things you read about, listen to, or share. They can then move
+way beyond customization by generating adaptive, personalized experiences that
+bring the best content on any website or app right to the top. It completely
+shifts the paradigm from you having to search for information to information
+searching for you. It’s like having a personal robot who thinks just like you
+do reach across the Web and return the best music, stories, videos, even daily
+deals everywhere you go. “Welcome back to ESPN, Amit. The surf report in
+Venice tomorrow is 3-4 feet, and the Lakers are leading by 10 points at the
+half.” All of this paints just a small picture of what’s to come. Imagine the
+applications in fields like education, health care, or personal finance
+(wouldn’t you love a robot that does your taxes?). As the Internet starts to
+work for us, it will enrich our lives in ways we can’t even imagine. I, for
+one, am very excited that my childhood dream of owning my own robot is finally
+coming true. Amit Kapur is the CEO and co-founder of Gravity, a company that
+makes the Internet adaptive and personalized. He was formerly the COO of
+Myspace. As an early Myspace employee, he led the development and growth of
+Myspace Music and Myspace Mobile. ]]> http://allthingsd.com/20120502/theres-a-
+robot-in-your-pocket/feed/ 0 L.A. Stories: Scarfing Up Big Media at Gobbler
+(Video) http://allthingsd.com/20120411/l-a-stories-scarfing-up-big-media-at-
+gobbler-video/ http://allthingsd.com/20120411/l-a-stories-scarfing-up-big-
+media-at-gobbler-video/#comments Wed, 11 Apr 2012 19:31:58 +0000
+http://allthingsd.com/?p=195374 Another very interesting company I stumbled
+across in a funky building in Hollywood on my recent trip to Los Angeles is
+Gobbler, which bills itself as a “high-speed file transfer & backup for pro
+audio.” In other words, a hopped-up version of Dropbox’s media-in-the-cloud
+efforts for cool music folks. Armed with just over $3 million from angel
+investors like Sky Dayton, David Goldberg and others, the start-up is aiming
+to help media creators who need a lot more firepower, including backing up,
+transferring and organizing hefty music, video and photo files. CEO Chris
+Kantrowitz knows whereof he speaks, as a designer of big music shows,
+including Coachella, the annual festival which takes place this weekend and
+next. He co-founded Gobbler with his sister, former Myspace exec Jamie
+Kantrowitz. Here he is in a video interview with me talking about the future
+focus of the company, as well as where cloud storage is headed — Kantrowitz is
+one hep dude, so listen up: ]]> http://allthingsd.com/20120411/l-a-stories-
+scarfing-up-big-media-at-gobbler-video/feed/ 0 Caterina Fake: Fast Growth for
+a New Social App Is a Very Bad Thing http://allthingsd.com/20120224/caterina-
+fake-fast-growth-for-a-social-app-is-a-very-bad-thing/
+http://allthingsd.com/20120224/caterina-fake-fast-growth-for-a-social-app-is-
+a-very-bad-thing/#comments Fri, 24 Feb 2012 19:00:12 +0000
+http://allthingsd.com/?p=177742 Social Web entrepreneurs with successful
+careers just can’t seem to find their way to a happy and boring retirement.
+Flickr co-founder Caterina Fake just announced Pinwheel, joining Ev Williams
+and Biz Stone of Twitter and now Obvious, Joshua Schachter of Delicious and
+now Jig, Chad Hurley and Steve Chen of YouTube and now Delicious, Sean Parker
+and Shawn Fanning of Napster and now Airtime, among others, back at the
+drawing board. Sure, the new start-ups from these people have a long way to go
+before achieving the impact of their predecessors, and fresh new innovators
+like Pinterest and Voxer are popping up all the time. But the good thing is
+that the repeat entrepreneurs keep evolving their ideas about how people
+interact, share and express themselves online. Photo courtesy of Robert Scoble
+If you get her started, as I did yesterday, in a conversation at Pinwheel’s
+office in the Hayes Valley neighborhood of San Francisco, Caterina Fake sounds
+almost like a professor of social networking philosophy. One particularly
+interesting theory of Fake’s is about how an online community should grow in
+its early days. She thinks the answer is very clear: Slowly. That’s why
+Pinwheel, a tiny service that helps users create and find geotagged notes,
+already raised $9.5 million in funding from investors including Redpoint
+Ventures, True Ventures, Betaworks and others. The funding is a way for Fake
+to beat back elevated expectations of how fast Pinwheel should grow, given her
+prior success, she said. “My perspective is it takes a while to grow this
+stuff,” she said. “It takes time for the culture to grow. You need time to
+develop antibodies to spammers and trolls.” The worst thing a social network
+can do is force growth, she said, pointing to Google’s work on Google+. She
+pulled up a growth chart depicting the time it took for various services to
+reach 50 million users. Google+ took a stunning 88 days, versus 1,046 days for
+MySpace, for instance (shown here, chart credit goes to Leon Håland). Adding
+user registrations at such a fast pace doesn’t leave enough time for a
+dedicated, engaged user community to organically create itself and establish
+norms, Fake argued. “Being an incumbent, you can get seduced on this,” she
+said, pointing at the steep line for Google+. “It’s like getting high on your
+own supply.” Fake added emphatically that the worst thing a start-up social
+network can do is to buy advertising to attract users. Growth should happen
+because users find value in a site, and then get their friends to join, she
+said. And if users don’t come? Start-ups should try harder to make a better
+product. That’s why Pinwheel plans to only slowly let in the tens of thousands
+of people on its email list, Fake said. And it’s why Pinwheel will ask users
+to write original notes, rather than filling the many empty places on its map
+with existing location-based content from around the Web. “We’re not going to
+suddenly metastasize by adding Wikipedia content,” Fake said. Of course, 10
+million dollars only gives Fake a window of time; there’s no guarantee that
+location-based storytelling will be a hit, or that Pinwheel will be the one to
+do it right. If Pinwheel does end up working out, what it does may well change
+significantly, Fake admitted. Her advice to herself, and others: “You
+shouldn’t get attached to a feature set. You should get attached to a problem
+you’re solving.” ]]> http://allthingsd.com/20120224/caterina-fake-fast-growth-
+for-a-social-app-is-a-very-bad-thing/feed/ 0

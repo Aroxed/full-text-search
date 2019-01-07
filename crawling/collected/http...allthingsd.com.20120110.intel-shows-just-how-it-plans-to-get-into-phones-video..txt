@@ -1,0 +1,127 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Ina Fried ethics statement bio e-mail RSS Follow @inafried Recent
+Posts by Ina Fried Intel Shows Just How It Plans to Get Into Phones (Video)
+January 10, 2012 at 5:00 pm PT Tweet Share Print For years, Intel has talked
+about using its chips to power smartphones. Now it actually has something in
+its hands. At the Consumer Electronics Show in Las Vegas, Intel is showing a
+working reference design that it is offering to any phone maker that wants to
+use its chips. The phone itself packs a 1.6GHz single-core Atom chip along
+with an array of sensors and radios. “The sample platform we have is fully
+buzzword compliant,” General Manager Mike Bell said in an interview. The
+company has been testing thousands of phones internally and says the
+performance is top of class, with battery life at least as good as most
+Android devices. “We are not the best at power, but we are definitely very,
+very competitive,” Bell said. Compatibility is another issue that Bell said he
+is asked about a lot. Nearly all Java-based Android apps should run, as well
+as a good number of those designed specifically for chips based on cores from
+rival ARM. “We think that gets rid of the last argument people have,” Bell
+said. Of course, Intel faces plenty of competition in the phone chip space,
+including existing Android chip providers Qualcomm, Nvidia, Texas Instruments
+and other challengers, such as Broadcom. Intel is announcing two phone
+customers running its chips — a Lenovo phone for China slated to be released
+in the first half of the year and a multi-year, multi-device alliance with
+Motorola Mobility that will begin with a phone in the second half of the year.
+Although Intel announced only the two customers, Bell indicated more names
+will be coming soon. (Think next month’s Mobile World Congress for an update.)
+“You can imagine our business is all about scale,” he said, declining to say
+how many phone designs are being built around its chips, or how many customers
+it has. In a roundtable with reporters, Motorola CEO Sanjay Jha said he was
+attracted to the chipmaker by both its roadmap and its approach, which focuses
+as much on running multiple instructions on a single chip core as it does on
+packing in as many cores as possible. “What they have done is multithreading
+vs. multicore,” Jha said, noting there is a big debate in computer science as
+to which is better. Jha said that, along with other innovations like three-
+dimensional transistors, this will be important as the laws of physics prevent
+rapid performance gains just by shrinking the size of transistors. Intel has
+focused its phone efforts entirely on Android for now, noting that it believes
+it has more people working on Android than Google does. MORE CES NEWS:
+Complete coverage HP’s Former CTO: Ultrabooks Are Nothing New, webOS Still Has
+Life Yet Walt Shows Off CES Gadgets for Fox Business News (Video) What Kind of
+Web Video Plans Does Sony Have? (Video) Fujitsu Seeking Way Into Crowded U.S.
+Smartphone Market Why Rhapsody Is (Probably) Bigger Than Spotify — In the U.S.
+Microsoft Beefing Up CeBit Presence Even as It Pulls Back on CES Inside the
+CES Lost & Found FCC Chairman Has New Tablet, but Same Script: More Spectrum!
+Verizon Wireless: We Want to Connect Five Devices for Every Subscriber
+Ultrabooks From HP and Lenovo That Are (Kinda, Sorta) Different Walt and Katie
+Take a Tour of CES (Video) Schmidt-Storm Alert: The Google Chairman Didn’t
+Like Your Question T-Mobile Expands Bobsled Messaging Service Intel Shows Just
+How It Plans to Get Into Phones (Video) Motorola CEO: We’re Going to Release
+Fewer Phones This Year Kinect Helps Keep Aging Xbox at the Top of Its Game
+More From T-Mobile CEO: On Pricing, LTE and That Ever-Elusive iPhone
+Exclusive: New Boss Acknowledges Windows Phone Still Has “Awareness Problem”
+And You Thought Jawbone UP Was Going to Miss the CES Party! Interview:
+T-Mobile CEO Says No Second AT&T; Deal Out There Grover Is at CES and I Am
+Missing It BlueStacks Bringing Android Apps to Windows 8 Why the Future of TV
+Won’t Be Here Soon Nvidia’s Tegra 3 Tries to Save Battery in All Sorts of
+Different Ways Dynamic Dual Coverage: Ballmer’s Last Act in Vegas and the BCS
+Championship in 3-D Microsoft Phoning In Its Last CES Keynote Myspace — Yes,
+Myspace — Says It’s Going to Sell You Web TV Samsung Unveils “Super” 55-Inch
+OLED TV Nokia Unveils That LTE Windows Phone It’s Been Dying to Share Steve
+Ballmer Gives Ralph De La Vega a Very … Vigorous Greeting (Video) Interview:
+AT&T;’s De La Vega on LTE, Tablets and Life After T-Mobile AT&T;’s De La Vega:
+Shared Data Plans Still in the Works LG: 55-Inch Glasses-Free 3-D Screen Is on
+the Way LG Pushes 4G Smartphone Through Verizon: The LG Spectrum Live: AT&T;’s
+Vegas Act Stars LTE and, Making Her Return to the Stage, Nokia CES Notebook:
+The Constant Search for Power and Vegas’ Worst-kept Secret Belkin Bringing
+Mobile TV to Lots of Cellphones, Will Anyone Tune In? Acer Introduces “World’s
+Thinnest” Ultrabook and a “Me-Too” Cloud Service There Better Be Some Cool
+Stuff at CES, Because CE Holiday Sales Data Bytes! CES 2012: Snooki and Bieber
+Are In, Gaga Is Out! Coming to a Smartphone Near You: Gorilla Glass 2 RIM
+Hopes Next PlayBook OS Will Impress at CES Ultrabooks, the Ultra-Fancy New
+Name for Laptops At CES, Expect More Gadgets Telling You to Get Off the Couch
+Intel to Detail Its Phone Plans at CES Next Month Microsoft Pulling Out of CES
+After Upcoming Show Intel to Detail Its Phone Plans at CES Next Month Dell
+Will Drop the Flashy Vegas Act for CES This Year Ultrabook Conga Line Preps
+for CES 2012 Tagged with: Android, Atom, Broadcom, CES, CES2012, Google,
+Intel, Mike Bell, Motorola, Motorola Mobility, Nvidia, phones, Qualcomm,
+Sanjay Jha, smartphone, Texas Instruments Another Longtime Windows Exec Heads
+for the Exit as 2013 Draws to a Close December 31, 2013 at 1:03 pm PT Veteran
+Microsoft Engineer Jon DeVaan Leaving After Almost 30 Years December 30, 2013
+at 1:32 pm PT BlackBerry’s John Chen on What He Is Doing to Shake Up the Phone
+Maker December 30, 2013 at 10:40 am PT Bringing Inexpensive Mobile Access to
+Researchers in Antarctica December 30, 2013 at 5:30 am PT Investors Flock to
+Twitter, Like Facebook, as Year Draws to a Close December 24, 2013 at 12:29 pm
+PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Mobilized Search » Featured Posts Featured Reviews You Say
+Goodbye and We Say Hello Walt Mossberg and Kara Swisher in Media The NSA and
+the Corrosion of Silicon Valley Michael Dearing in Voices You Won’t Believe
+All the Crazy Hardware the NSA Uses for Spying Arik Hesseldahl in News View
+all today’s news » Uncovering a More Useful Android Lock Screen Bonnie Cha in
+Product Reviews Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren
+Goode in Product Reviews Space Monkey Peer-to-Peer Digital Storage System
+Offers Better Backup Katherine Boehret in The Digital Solution Diabetes Data
+Beamed to Your Phone Walt Mossberg in Personal Technology Nokia Lumia 2520: A
+Solid Windows Tablet in Need of Apps Bonnie Cha in Product Reviews View all
+reviews » I think the NSA has a job to do and we need the NSA. But as
+(physicist) Robert Oppenheimer said, “When you see something that is
+technically sweet, you go ahead and do it and argue about what to do about it
+only after you’ve had your technical success. That is the way it was with the
+atomic bomb.”— Phil Zimmerman, PGP inventor and Silent Circle co-founder, in
+an interview with Om Malik AllThingsD by Writer Walt Mossberg Kara Swisher
+John Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik
+Hesseldahl Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey AllThingsD.com is
+a Web site devoted to news, analysis and opinion on technology, the Internet
+and media. But it is different from other sites in this space. It is a fusion
+of different media styles, different topics, different formats and different
+sources. Read more » About Us » Contact Us » Comments Policy » Cookies Policy
+» Privacy Policy » FAQ » Terms of Service » Your Ad Choices » Advertise With
+Us » Send a Tip » Daily Headlines Email » Follow AllThingsD Your Way »
+Featuring the most influential figures in technology, unscriptedand upfront.
+More » Conferences: D: All Things Digital. » D: Dive Into Media » D: Dive Into
+Mobile » Follow us on Twitter: Select Account @allthingsd (All Things Digital)
+@ATDapple (Apple) @ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile)
+@ATDreviews (Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara
+Swisher) @JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret)
+@pkafka (Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247
+(Arik Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac)
+@BonnieSCha (Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All
+Feeds News Reviews Mobile Media Social Enterprise Commerce Voices Personal
+Technology Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher
+John Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik
+Hesseldahl Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow
+Jones & Company Inc. All Rights Reserved. Mobile Version

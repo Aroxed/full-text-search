@@ -1,0 +1,2473 @@
+AllThingsD » Cathie Lesjak http://allthingsd.com Wed, 19 Feb 2014 15:45:11
++0000 en-US hourly 1 https://wordpress.org/?v=4.3.16
+http://allthingsd.com/theme/images/logo-rss.jpg All Things Digital
+http://allthingsd.com/ 144 22 HP Says 2014 Will Be Good, Maybe Not Awesome, as
+Turnaround Is on Track http://allthingsd.com/20131009/hp-says-2014-will-be-
+good-maybe-not-awesome-as-turnaround-is-on-track/
+http://allthingsd.com/20131009/hp-says-2014-will-be-good-maybe-not-awesome-as-
+turnaround-is-on-track/#comments Wed, 09 Oct 2013 17:52:40 +0000
+http://allthingsd.com/?p=364251 After its CEO Meg Whitman sounded a relatively
+positive note in a speech to financial analysts Wednesday morning, computing
+giant Hewlett-Packard said it expects the coming fiscal year to be
+better/worse than it expected. The company just issued guidance saying that it
+expects to earn between $3.55 and $3.75 a share in 2014, which straddles the
+consensus expectation of analysts, who are forecasting $3.63 a share. HP said
+it expects sales to grow in line with the gross domestic product in the U.S.
+It also said it expects to return at least 50 percent of the $6 billion to
+$6.5 billion free cash flow it plans to generate in 2014 to shareholders, via
+dividends and share buybacks. Expect more details on revenue expectations from
+CFO Cathie Lesjak when she makes her formal remarks at a meeting with
+financial analysts in San Jose, Calif., later today. HP shares, which rallied
+by more than six percent after Whitman’s remarks, maintained most of that
+momentum. Its shares were trading at $21.91, up $1.16 as of 1:40 pm ET. The
+original announcement is below: HP Provides Update on Turnaround Progress,
+Provides Fiscal 2014 Outlook SAN JOSE, CA — Estimates non-GAAP diluted EPS for
+fiscal 2014 of $3.55 to $3.75 and GAAP diluted EPS for fiscal 2014 of $2.85 to
+$3.05 Models free cash flow of $6 billion to $6.5 billion in fiscal 2014
+Expects to return at least 50% of fiscal 2014 free cash flow to shareholders
+through dividends and share repurchases Today at HP’s 2013 Securities Analyst
+Meeting, the company’s leadership team provided an update on HP’s progress
+executing against its turnaround plan and future strategy. HP’s president and
+chief executive officer Meg Whitman reviewed the accomplishments of the past
+year — a “fix and rebuild” year — noting that the multi-year turnaround
+remains broadly on track. In particular, the company: Has met or exceeded
+quarterly non-GAAP diluted earnings per share (EPS) outlook since the
+turnaround plan began through Q3 of fiscal 2013. Provided outlook in August
+that HP expects free cash flow to approach $8 billion by the end of FY13.
+Reduced operating company net debt by almost $8 billion over the past 12
+months, approaching a goal of zero. Recommitted to smarter innovation, with
+research and development (R&D;) spending expected to be in excess of $3
+billion in fiscal 2013. “While there is a lot more work to be done, I am
+confident about the progress we are making,” said Whitman. “We’re producing
+tangible results, strengthening our balance sheet and delivering innovative
+products across all our key segments. We are implementing the changes needed
+to support our multi-year turnaround journey, reaffirm HP’s leadership
+position, and create enduring value for customers as well as for our
+shareholders.” The core of HP’s strategy is focused on providing unique
+technology solutions for the “New Style of IT.” HP has the combination of
+hardware, software, scale and innovation to provide the integrated solutions
+that help customers realize the full benefits of cloud, security, big data and
+mobility. While the company faces a challenging macro environment, shifting
+market forces and a rapidly changing competitive landscape, Whitman emphasized
+that the company has the right leadership team in place to advance its
+strategy, drive innovation across the business and improve its go-to-market
+execution. Whitman reiterated that she expects HP’s revenues to grow in line
+with gross domestic product (GDP) over the long term. 2014 outlook Cathie
+Lesjak, HP’s executive vice president and chief financial officer, provided a
+financial outlook for fiscal 2014. With pockets of growth helping to offset
+continuing challenges in the macro environment and weak public sector
+spending, HP expects the year-over-year revenue decline in fiscal 2014 will
+moderate from fiscal 2013. HP anticipates operating profit dollars to be flat
+to up year-over-year in fiscal 2014, due to its continued focus on cost
+savings and operational efficiency. The company estimates non-GAAP diluted EPS
+for fiscal 2014 to be in the range of $3.55 to $3.75. HP estimates GAAP
+diluted EPS to be in the range of $2.85 to $3.05 for fiscal 2014. Fiscal 2014
+non-GAAP diluted EPS estimates exclude after-tax costs related primarily to
+the amortization of purchased intangible assets and a restructuring charge of
+approximately $0.8 billion. HP expects to generate approximately $9 billion to
+$9.5 billion in cash flow from operations in fiscal 2014. After deducting
+estimated fiscal 2014 capital expenditures, the company anticipates free cash
+flow of $6 billion to $6.5 billion in fiscal 2014. Lesjak articulated the
+company’s long-term commitment to financial discipline and a returns-based
+capital allocation strategy. In fiscal 2014, the company is expecting to
+return at least 50% of free cash flow to shareholders through dividends and
+share repurchases. In addition, HP will invest in its product portfolio to
+accelerate high-growth areas in the New Style of IT. HP plans to reinvest
+approximately $0.12 per share of savings from its restructuring program into
+the business in fiscal 2014, including products and solutions such as 3PAR,
+networking, Vertica and cloud solutions. A copy of Lesjak’s presentation
+materials accompanies this release. Business segment strategies Over the
+course of the day, HP’s management team also laid out updated strategies for
+the company’s business segments, including: Printing and Personal Systems Dion
+Weisler, executive vice president of the Printing and Personal Systems (PPS)
+business, and Steve Nigro, senior vice president of the Inkjet and Web
+Solutions Business, part of the Printing business, gave an update on PPS.
+Personal Systems continues to see traction in commercial, where it outgrew the
+market in the most recent calendar quarter over the same period last year.
+Printing continues to build on its long-standing market leadership across both
+ink and laser and introduced a number of new breakthrough products in both
+categories during fiscal 2013. In fiscal 2014, PPS will focus on continuing to
+deliver on its leadership in traditional markets as well as driving product
+innovation and developing print solutions that address the New Style of IT.
+PPS’ priorities include profitable growth through greater segmentation,
+continued product innovation and using its leadership position in commercial
+to address opportunities in mobility, cloud and security. Enterprise Group
+Bill Veghte, executive vice president and general manager of HP’s Enterprise
+Group (EG), discussed the company’s opportunities in the $221 billion
+enterprise infrastructure market. As enterprise customers move to a New Style
+of IT, requiring more compute, more storage and more bandwidth, they will need
+solutions built on modern architectures and innovations designed for the
+future. Veghte acknowledged executional challenges facing the HP EG business
+and provided a detailed plan to accelerate execution against great business
+opportunity — highlighting adjustments to leadership, operating model, route-
+to-market, and product and solution portfolio. Veghte also gave a strategic
+overview of HP Converged Cloud and pointed to significant momentum in the past
+year as enterprises are rapidly adopting HP’s hybrid cloud strategy. More than
+1,900 enterprise customers have turned to HP for their hybrid cloud solution
+in the past year, representing approximately 60% year-over-year customer
+growth. Enterprise Services Mike Nefkens, executive vice president and general
+manager of Enterprise Services (ES), and JJ Charhon, senior vice president and
+chief operating officer of ES, provided an update on how ES has made progress
+on improving operations and better aligning costs with business objectives
+during the first three quarters in fiscal 2013. Key priorities for fiscal 2014
+include a focus on the buildup of advisory and transformation offerings,
+world-class service delivery, revitalization of the sales engine, and ongoing
+cultural transformation across the organization. ES revenue is expected to
+decline 4% to 6% year-over-year in fiscal 2014. However, a sharp focus on
+operational improvements is expected to drive an improved operating margin of
+3.5% to 4.5%. ES maintains its long-term financial model of 3% to 5% revenue
+growth, an operating margin rate of 7% to 9% and return on invested capital of
+15% to 25%. Software George Kadifa, executive vice president of Software,
+spoke about how Software is enabling the New Style of IT and accelerating HP’s
+ability to capture attractive market opportunities. The business is driving
+profit expansion, while disrupting markets with the breadth and depth of its
+technology offerings. Looking forward, Software will focus on its
+differentiated strategy and strong product portfolio as well as continued
+operational improvements. HP estimates the total addressable enterprise
+software market is growing at a compound annual growth rate of 8% and by 2016,
+expects that market to be $69 billion. ]]> http://allthingsd.com/20131009/hp-
+says-2014-will-be-good-maybe-not-awesome-as-turnaround-is-on-track/feed/ 0
+HP's Whitman Sees 2014 as a "Pivotal Year" in Turnaround Effort
+http://allthingsd.com/20131009/liveblogging-hps-2013-securities-analyst-
+meeting/ http://allthingsd.com/20131009/liveblogging-hps-2013-securities-
+analyst-meeting/#comments Wed, 09 Oct 2013 14:37:15 +0000
+http://allthingsd.com/?p=364170 Hewlett-Packard CEO Meg Whitman sounded a
+cautiously optimistic note in a speech before financial analysts in San Jose,
+Calif., today. Calling the forthcoming 2014 fiscal year “pivotal,” Whitman
+steered away from providing much in the way of specific financial guidance.
+That’s coming later from CFO Cathie Lesjak. But Whitman did say she expects
+that revenue will stabilize in the coming year. Previously, she had said that
+2014 would be the first year of meaningful growth. She also specifically
+called out Microsoft and Intel — longtime partners supplying chips and
+operating systems for PCs and servers — as partners who are becoming
+competitors. It’s worth noting that earlier this week HP announced a notebook
+running Google’s Android operating system. HP shares rallied by $1.32, or more
+than six percent, on Whitman’s comments, to $22.05 a share as of 12:15 pm ET.
+Below is AllThingsD’s liveblog coverage of Whitman’s remarks: 8:43 am: And
+we’re live. With about 15 minutes to go before the proceedings begin, we’re
+being treated to some peppy instrumental music. 8:03 am: Okay, the program is
+getting under way. First up is Rob Binns, who is taking care of housekeeping.
+Agendas and such. CEO Meg Whitman will speak first. Cathie Lesjak will speak
+at the end of the day, which means the guidance will come later in the day.
+Wonder if that means bad news? 8:07 am: Whitman is now speaking. Whitman: I
+want to talk about fiscal 2013, and about how we’ve done year to date versus
+our outlook given last year. I want to talk about where we’re headed, and how
+each of the businesses fit together. Whitman: The turnaround plan is “broadly
+on track.” Whitman: Last year, I mapped out a five-year journey for turning
+HP. Now I can confidently say that we’re making real progress. Whitman: In
+short, last year at this time, I felt that HP was falling dangerously behind.
+Whitman: We generated about $7 billion in free cash flow in the first three
+quarters, well ahead of forecast. We’ve lowered our operating company net debt
+by nearly $8 billion. Whitman: While I would love for us to be at the end of
+this journey, I am comfortable with the efforts we are making. We stabilized
+our enterprise services businesses. We had very serious execution challenges.
+Under Mike Nefkens and JJ Charhone, we have stabilized that business. Whitman:
+After 2014, we are not going to do another big restructuring. In Q3 we lowered
+our cash-conversion cycle to just 18 days. We thought it would be 24 to 26
+days, so we’ve done better. By the end of 1H-2013, we had already met our
+full-year cash flow projection. Whitman: We’ve made critical moves to bolster
+the senior leadership team, including the promotions of Bill Veghte to head of
+Enterprise Group, Dion Weisler at Printing and Personal Systems, and Martin
+Fink as CTO and head of HP Labs. Whitman is now running through a bunch of
+recent hires to different business units. Whitman: Operating company net debt
+is now below pre-Autonomy levels. We can now make investments to grow our
+business. 8:17 am: When I arrived as CEO, basic instrumentation and operating
+cadence did not exist, for a company of HP’s size and complexity. We’ve had to
+build a lot of it. Whitman: This year alone, I’ve personally met with more
+than 1,000 customers and partners. Whitman: R&D; spending is expected to be $3
+billion. Now she’s showing a video about what’s happening on the innovation
+front. It’s the Nascar video that HP showed at HP Discover. Actually it only
+started with the Nascar bit. Whitman is now back onstage. She’s revisiting her
+whole argument that there’s a big, fundamental shift taking place in the IT
+market — the “new style of IT,” that she talks about often. From the beginning
+of time, all of humanity created five exabytes of information. Now we create
+that amount of information in five hours. Whitman: Only HP has the ability to
+deliver across the full spectrum of IT solutions the market is going to
+demand. Whitman: I want to talk about our growth. She’s going to hit some
+highlights. In the Enterprise Group, it’s all about “converged
+infrastructure.” It’s our phrase, and it combines servers, storage and
+networking. We’re excited about our next generation of blade servers and
+Moonshot. Now she’s talking about 3Par, the storage product. In networking,
+we’re the No. 2 player, and we do it at a lower cost. (A little shot at Cisco
+there.) Now it’s on to software, including mentions of Vertica and Autonomy.
+And now something new, called Haven, a big-data analytics platform. 8:32 am:
+Whitman: This group of products and services is how I see HP moving to growth.
+The reality is that today we have a lot of declining businesses. So we have to
+manage that transition from the declining business to the growing businesses.
+… In time, the new businesses will overtake the declining businesses. Whitman:
+We have to aggressively invest in the new businesses. We’ve got to continue to
+nurture them with the appropriate investments. And we also have to work to
+maintain our flat businesses. (Like printing.) Then we have to manage the
+decline of the businesses profitably, and optimize their profitability.
+Whitman: We have much more work to do. We have to overcome some challenges,
+and we have to take advantage of some opportunities. Whitman: HP’s
+traditional, highly profitable markets face significant disruption. Wintel
+devices are being challenged by ARM-based devices. Printing remains flat
+despite the growth of devices in use. Whitman: The disruptive forces are very
+tough and very real, and they are accelerating. Whitman: We are seeing
+profound changes in the competitive landscape. Our competitors are expanding
+across the IT stack. Current partners like Intel and Microsoft are turning
+from partners to outright competitors. (Interesting name-checking there.) Now
+she’s talking about customers. United Airlines. Its infrastructure needs to be
+running 24 hours. We run and operate all these mission-critical systems for
+United. We treat United like it is our only customer, and that is what we must
+do with every customer. I am still not pleased that we missed too many
+opportunities. We are doing a much better job of connecting to our customers
+and listening to what they need. I don’t think we have always done a good job
+on this. Whitman: We have to up our game substantially. We have been too
+insular for too long. This has cost us with our customers, and it has cost us
+with our partners. Example: Recently, a CIO of a major corporation told me
+when we show up, we show up late with solutions. He already has three emails
+from three competitors who have already scheduled meetings. We’re often late
+to the game. We have to fix that. Whitman: We’re going to make real progress
+on this in 2014. We have worked through a process to identify where we’re
+going to place. We’ve identified the most profitable 40 country-category
+pairs. We’ve identified the top 30 innovations that hold the most promise for
+2014 and beyond. And 15 of the most promising growth markets. Whitman: We
+expect to see better, faster commercialization of innovation in 2014. We
+expect total revenue to stabilize and drive real pockets of growth. She’s
+winding up and getting ready to close. Fiscal 2014 will be a pivotal year. I
+feel confident that we have the right strategy and the right set of assets. I
+see a new sense of spirit and determination. A will to win. Our customers want
+us to win. In fiscal 2015, you can still expect to see acceleration, and in
+fiscal 2016, an industry-leading company. We expect the results of our efforts
+will create enduring value for our shareholders. Whitman is through speaking
+now. Not a lot in the way of specifics. The guidance, which last year came
+from Cathie Lesjak right after Whitman’s remarks, is coming after lunch. 8:53
+am: My guess — and I should emphasize that it’s only a guess — is that,
+despite Whitman’s optimistic long-term outlook, that the in-the-trenches
+guidance for 2014 isn’t going to be good. They don’t want Lesjak’s remarks and
+the guidance to be a distraction from the rest of the day’s presentations.
+With that, I’ll wrap this liveblog and return with another one when Lesjak
+comes to the stage. Thanks for tuning in. ]]>
+http://allthingsd.com/20131009/liveblogging-hps-2013-securities-analyst-
+meeting/feed/ 0 Whitman's Turnaround Plans at HP Under Scrutiny This Week
+http://allthingsd.com/20131007/whitmans-turnaround-plans-at-hp-under-scrutiny-
+this-week/ http://allthingsd.com/20131007/whitmans-turnaround-plans-at-hp-
+under-scrutiny-this-week/#comments Mon, 07 Oct 2013 15:06:04 +0000
+http://allthingsd.com/?p=363522 Later this week, Hewlett-Packard CEO Meg
+Whitman will give Wall Street analysts and the rest of the world the latest
+view on the state of her efforts to turn the massive computing and services
+giant around. The company will be hosting a meeting with analysts in San Jose
+on Wednesday. Judging by HP’s share performance this year, it is likely to be
+a happier gathering than last year, when the company drastically cut its
+outlook for 2013. But, on the “bad news” scale, it would be hard to surpass
+last year’s analyst meeting. Since that time, HP shares had been one of the
+Dow’s leading performers — that is, until HP was cut from the Dow Jones
+Industrial Average last month. As of this morning, HP shares had risen by 48
+percent since the end of 2012. But HP has been seen to be swimming upstream on
+many fronts. When the company last reported its quarterly earnings in August,
+Whitman admitted that a key plank of her strategic plan for pushing HP toward
+recovery appeared unlikely. Whereas 2012 and 2013 were to be the years of
+stabilizing and repairing HP, 2014 was to be the first year of meaningful
+growth. On a conference call with analysts on Aug. 21, she said that now
+appears “unlikely.” There are many reasons for this, many of which are not
+Whitman’s fault. One big one is the decline of the personal computer industry.
+On one hand, there’s the fact that PC sales have contracted at a rate never
+seen before in the history of the industry. Amid that decline, China’s Lenovo
+has overtaken HP as the world’s leading vendor. With HP’s personal-systems
+group still amounting to the biggest chunk of its overall business by revenue
+— $7.7 billion, or nearly 28 percent of sales in the most recent quarter —
+it’s hard to see a path to easy growth. In the latest quarter, sales in the
+segment fell by 11 percent, and profits fell by nearly 44 percent. Things look
+no easier in the Enterprise group, the sprawling $30 billion business unit
+(2012 sales) that was to represent its future hopes for a recovery, which, as
+of last quarter, accounted for more than 24 percent of total revenue. In the
+most recent quarter, sales fell by more than nine percent, and profits by 20
+percent. Whitman conceded that she was so disappointed by the results in that
+business unit that she reassigned its head, Dave Donatelli in a significant
+executive shake-up. And, before that, she reassigned Todd Bradley, the former
+head of the PC and printing unit. Add to the declines a newly aggressive set
+of competitors, not the least of which is a soon-to-be-private Dell, a
+printing business that has sort of flattened out, and an Enterprise Services
+business that is still in the process of being repaired, and it’s difficult to
+see how Whitman and CFO Cathie Lesjak, who will likely provide the company’s
+latest financial outlook, will be able to spin a positive outlook for 2014 or
+beyond. Analysts are already forecasting declines in both revenue and profits.
+The average estimate of the 31 analysts surveyed by Thomson Financial calls
+for HP to report sales of $107.7 billion in 2014, which would amount to a
+decline of nearly 11 percent from 2012. Put another way: If those forecasts
+turn out to be accurate, the biggest technology company in the world will have
+seen its sales decline by more than $12 billion in two years. If HP’s formal
+guidance is significantly worse than what the Street already expects, it will
+amount to the first meaningful indications that Whitman may not be on track to
+do what she set out to do when she took over as CEO in 2011. Her stated plan
+to reinvigorate HP and put it on a path to sustained growth could morph into
+one marked instead by managing its long-term decline as best she can. ]]>
+http://allthingsd.com/20131007/whitmans-turnaround-plans-at-hp-under-scrutiny-
+this-week/feed/ 0 HP Says It May Not Grow Sales in 2014 After All
+http://allthingsd.com/20130821/liveblogging-hewlett-packards-q3-earnings-
+conference-call/ http://allthingsd.com/20130821/liveblogging-hewlett-
+packards-q3-earnings-conference-call/#comments Wed, 21 Aug 2013 21:02:00 +0000
+http://allthingsd.com/?p=352777 On Hewlett-Packard’s third quarter conference
+call today, CEO Meg Whitman explained her rationale behind the recent
+management shake-ups and many other things. She also revealed that the company
+no longer expects to grow revenue in 2014 as has been expected. This is the
+first major step back from the five-year turnaround plan outlined at last
+year’s meeting with securities analysts. The results were close to what Wall
+Street expected, but ultimately fell short. As I’m typing these words, HP
+shares are down about 1.5 percent in after-hours trading, mainly in response
+to the lighter-than-expected guidance for the remainder of the year. Earlier:
+2:03 pm: The hold music has just ended and the call is about to get under way
+in earnest. Boilerplate on “forward-looking statements.” Meg is now speaking.
+Some sectors are showing progress. Overall our turnaround continues. I remain
+comfortable with where we’re heading. 2:07 pm: Meg is basically saying that
+the company is executing against the long-term turnaround plan. And also
+talking about some of the new product offerings. From a macroeconomic
+standpoint, we continue to see a weak enterprise spending environment.
+Sentiment is better in the U.S. China and Europe continue to be weak. Cash
+flow from operations was $2.7 billion. Operating company net debt is now
+approaching “pre-Autonomy levels.” Here comes the talk about management
+changes. Dion Weisler is shifting the PC business to a multi-OS multi-form
+factor strategy. And now on to the Donatelli-Veghte change. Donatelli is
+taking on a “special assignment,” she says. Bill Veghte will retain
+responsibility for the pan-HP cloud product. Henry Gomez will assume marketing
+in addition to communications. Marty Homlish will be “chief customer service
+officer.” Now it’s on to business unit performance. First what went well.
+Printing did well. We’re seeing strength in ink-in-the-office program.
+Hardware sales are up. Revenue is down, profitability is up. In Enterprise
+Services, business is stabilizing. We saw add-on business offset the runoff
+from four accounts that chose to leave HP services. Improvements in signings,
+but they were mostly renewals. This will be a multi-year journey. One big win
+was with the U.S. Navy worth $3.4 billion over five years. Enterprise Group:
+We see near-term revenue pressure in ISS and storage. Interest in Project
+Moonshot has been strong. We are in testing and development with many key
+customers. Converged storage was up 37 percent, but was offset by weakness in
+traditional storage. Networking revenue was flat, but “we must grow this
+business faster.” 2:15 pm: Software was up one percent. We saw continued
+improvement in operating leverage. Operating margin was 20.5 percent. Let me
+turn to where performance needs to improve. Enterprise Group was pressured by
+lower revenue especially in ISS, which continues to suffer from business model
+problems. The net impact is five points of market share. (Now we see what’s up
+with the management change.) Here’s future outlook: “We now expect that
+revenue growth in fiscal 2014 is unlikely.” That’s a big walk-back from the
+analyst meeting last year. If I’m not mistaken, that’s the first admission
+that the overall turnaround strategy isn’t taking hold as expected. Aaaand …
+HP shares are falling in after-hours trading again. They had recovered a bit
+after falling nearly four percent, but are now down by more than three percent
+again. As of 2:19 pm PT, HP shares are trading at $24.57, down 81 cents. And
+falling further. Okay back to the call. CFO Cathie Lesjak is speaking. Lesjak:
+Operating profit of $908 million in printing. Commercial hardware sales up 12
+percent. Lesjak: Personal systems continues to change a challenging
+environment. Consumer weakness led the problem. Broad-based regional softness
+led by Europe. Personal systems contributed just nine percent of
+profitability. (So while it continues to account for a lot of sales, the
+exposure to profitability isn’t all that much.) Lesjak: Storage revenue down
+10 percent. We remain excited about converged storage, up 37 percent. Business
+Critical Systems — the Itanium server line that was the subject of the lawsuit
+with Oracle last year — fell 26 percent, but that’s consistent with
+expectations. Lesjak: Signings up double digits in Enterprise Services. Our
+ability to sign deals outside our traditional focus needs to improve. Sales of
+security products grew double digits and Vertica was up triple digits. 2:28
+pm: Lesjak: We saw better execution in software sales this quarter, but we
+still have work to do. Lesjak: We continue to drive free cash flow and improve
+the balance sheet. Free cash flow was $2 billion. Lesjak: We spent just $3
+million on share repurchases. During the quarter we had material non-public
+information that prevented us from buying back shares. The average for share
+buybacks was way off the historical average. Gross cash was $13.7. Operating
+net debt was $1.2 billion. Lesjak: I am pleased with reducing net debt. We
+paid off a $1.1 billion maturity on Aug. 1. Lesjak: She’s restating the non-
+GAAP EPS expectation of $3.52 to $3.57 which is on the low end of the
+consensus. Full-year free-cash flow will be $8 billion. “We expect some
+pullback in Q4.” More details about FY14 to come at the analyst meeting in
+October. 2:33 pm: Now time for Q&A.; First is J.P. Morgan, asking Meg about
+commentary on execution. How much was driven by tech deficiencies versus go-
+to-market problems, or both? Whitman: We were disappointed in EG’s
+performance. This is less technology than it is a number of other areas. We
+have to have the right products in the right market segments in the right cost
+structure. We have some work to do around supply chain and manufacturing
+strategy. We also have to simplify the sales motion. There are some bright
+spots. My view is that we have some operational excellence work that has to be
+done. I’m confident in the technology but we have more work to do. Lesjak:
+Commenting on service. We have been working with four big accounts. One is
+done, we’re working with three others on the transition. Next question, from
+Toni Sacconaghi: He’s asking about the management changes. Perhaps you can
+comment about what are the specific marching orders to the new executives? Why
+not look to attract talent from the outside? You say you want fresh ideas, and
+all management changes have included promotions solely from within. Whitman:
+This is a five-year turnaround. We’re entering the next phase. We need to
+accelerate into the next turn. We need the right job at the right time with
+the right experience and domain expertise. I have to match the right
+executive. I have a preference for promoting from within. In the case of Dion
+Weisler, the results in Asia were good for PPG. In the case of Bill Veghte,
+his software and selling expertise from his days at Microsoft are helpful.
+Yes, I want to go with people who have fresh ideas and who don’t have to start
+at the beginning of the learning curve. Katy Huberty of Morgan Stanley asks
+about the cash flow improvement: Printer hardware unit sales were the
+strongest in a while, so why are supplies sales down so much? Lesjak: We’re
+happy with the cash conversion cycle. What’s showing up in the numbers is
+educating everyone in the company on how they can help improve cash flow, and
+that is embedded into their bonuses. We think the cash conversion cycle in the
+low 20 days is more realistic. On printers, we used the “Yen tailwind”
+(currency stuff pitting U.S. dollar against Japanese Yen) to place more units.
+We expect supplies will be volatile quarter to quarter. Our strategy is to
+drive unit sales of printers that will consume more HP ink. Those are all
+really designed to drive more sales per unit. Early indications are those
+strategies are going to bear out. Question from Citi for Meg: It used to be
+you had a lot of confidence in the five-year plan. It seems the confidence is
+down going into 2014. Is the five-year program changing? Whitman: Our
+turnaround is working. Some businesses are performing as expecting, some not.
+Enterprise Group’s weak execution has amplified challenges we know exist. PC
+market has not yet stabilized. Enterprise Services has some growth challenges
+next year. I am confident that we can address the challenges. But I think it
+is unlikely given the changes that we will see revenue growth in 2014. 2:46
+pm: A question about Technology Services. Also a question about industry
+standard services. Why didn’t we hear about the problems earlier? Lesjak: One
+of the things we are seeing in TS is the need to improve attach rates on newer
+products. As older products like BCS services that have a long tail, they are
+coming down and impacting TS results. We are trying improve attach on new
+products. Whitman: The server business has been under pressure for a long
+time. The revenue loss has been stronger than expected. We have to move
+faster. Moonshot will deliver, but it hasn’t yet. I’m telling managers to set
+realistic targets and then deliver on them. This isn’t all about revenue
+growth. This is something that HP has done well historically. Question from
+Raymond James: Do you expect trends in the enterprise business to deteriorate
+further? What do you think about M&A; activity? Whitman: We are in the happy
+position of being able to reevaluate our capital allocations. We will be “back
+in the market” on acquisitions. Wow. Whitman: We will be very focused and
+disciplined. Acquisitions are going to have to be a part of how we turn
+around. There you have it. HP will be back in the M&A; marketplace next year
+or even sooner. 2:53 pm: Incidentally, I just checked the latest price on HP
+shares in after-hours trading. As of 2:53 pm PT, it’s down more than five
+percent to $24 even. Shannon Cross of Cross Research. She’s asking about
+strategy. Some competitors (Dell) are being very aggressive on pricing and
+winning share. Lesjak: Whether on servers or PCs, we’re focused on long-term
+profitability. We believe the way we’re going to get there is investing in our
+own IP. The decision is what is the best thing for the business to drive long
+term profitability. Cross is asking about demand in China. Whitman: China is
+softer that we’d anticipated. We are seeing more growth in tier 4-6 cities.
+But it’s reasonably soft across the board. Lesjak: Networking in China was
+very strong. We are the leading market share holder in China for networking.
+(ATD readers already knew that.) 2:56 pm: Keith Bachman of BMO: He’s asking
+for an update on restructuring. It’s not apparent that HP is getting the cost
+benefit from the restructuring. (He’s referring to the layoff of about 29,000
+people.) Lesjak: There’s labor and on-labor. We had 3,800 people leave in Q3.
+To date, that’s 22,500 who have left the company. We’re on track to hit 26,000
+by the end of fiscal 2013 on the non-labor portion of the restructuring. This
+is enabling us to compete on price and other things. The savings that are
+getting generated is cushioning the bottom line. Without the savings, the
+results on the EPS line would be materially lower. Bachman: Once the savings
+from cuts runs out, what happens to plans to grow revenue? Lesjak: These
+savings are giving us cover to make the changes we need to grow revenue and
+fix our execution issues. Whitman: We are making changes that we think will
+grow over time. The mix is currently weighted toward declining businesses. Our
+mix of business is not helping. Take storage. New products growing fast, older
+ones declining. “That is a metaphor for the whole company.” Whitman is
+wrapping the call: “I feel very confident in our turnaround. I’m really
+excited about our new management team. We are on track and things are headed
+in the right direction.” The call is now concluded. Thanks for tuning in. ]]>
+http://allthingsd.com/20130821/liveblogging-hewlett-packards-q3-earnings-
+conference-call/feed/ 0 Is HP's Turnaround Strategy Sustainable?
+http://allthingsd.com/20130523/is-hps-turnaround-strategy-sustainable/
+http://allthingsd.com/20130523/is-hps-turnaround-strategy-
+sustainable/#comments Thu, 23 May 2013 14:40:46 +0000
+http://allthingsd.com/?p=324674 The fundamental problem facing the technology
+giant Hewlett-Packard is that some of the products that make up its biggest
+lines of business are in a long-term decline, and that new products aren’t yet
+generating enough revenue to make up for them. That makes the multiyear
+restructuring and turnaround plan put in place last year by CEO Meg Whitman
+essentially a fight against time. Shares of HP rose by more than 13 percent to
+$24.09 as of 10:15 am ET. The catalyst was yesterday’s quarterly earnings
+report that contained better-than-expected profits amid sales that fell short
+of consensus forecasts by more than half a billion dollars. Analysts this
+morning are questioning whether or not the company can maintain the veneer of
+progress toward a turnaround in the quarters ahead. “Shrinking your way to
+profitability buys time but doesn’t equal a turnaround,” was the headline on a
+research note from Chris Whitmore of Deutsche Bank Securities this morning.
+With revenue down by 10 percent year on year, and sales in major business
+segments declining between 1 percent (printing) and 20 percent (personal
+computers), HP’s success this quarter and last appears to have been more about
+minding its cash flow and costs carefully, and less about selling more of the
+goods and services that make it money. “HP is sacrificing market share,
+delaying research and development investment and the financial benefit of past
+restructuring actions to support near-term profitability which in our view is
+not sustainable,” Whitmore wrote. Whitman explained yesterday, both in a
+conference call with analysts and in an interview with AllThingsD, that HP
+walked away from deals to sell PCs and servers that didn’t contain enough
+profit. It had the result of yielding some of its market share ground — HP
+leads the world in both PC and server sales — to Dell. “Unsustainable,”
+appeared to be the word of the day among analysts covering HP. It also
+appeared in a note from Goldman Sachs analyst Bill Shope, who reiterated his
+“sell” rating on HP shares. HP’s exposure to “distressed end markets” will
+eventually overwhelm whatever actions it may take in the short- to medium
+term. Brian White of Topeka Capital Markets also maintained a “sell,” advising
+shareholders that yesterday’s 13 percent after-hours surge on HP’s share price
+represented an opportunity to do just that. Hoped-for growth from sales of new
+products like Project Moonshot and new networking products are good, but even
+that success may not be enough replace the revenue that’s being lost, worries
+Evercore analyst Rob Cihra. “Low-power Moonshot servers, higher-end printing
+and software-defined networking all help but much more seems needed to move
+such a massive needle,” he wrote in a note to clients today. “Hopes for FY13
+stability otherwise just appear to flow from deep restructuring cuts.” Brian
+Marshall of ISI presented a similar view in a note to clients: “As global
+economic growth softens and PCs and printers face secular decline, it will be
+challenging for large technology vendors such as HP to find significant
+sources of new growth that can move the needle on approximately $110 billion
+of annual revenue.” When surveying analysts on the subject of HP, it doesn’t
+take long to return to the notion of a breakup. HP is worth more in pieces,
+the argument goes, than as a unified company. That’s what will happen if HP
+isn’t able to turn the corner soon enough, argues Toni Sacconaghi of Sanford
+Bernstein, in a note today. While Sacconaghi has an “outperform” rating on HP
+shares, based on its prospects for improvement over the next six to nine
+months — an opinion he explained in detail on CNBC yesterday — he remains
+convinced that, after that, HP will either fix what’s broken or break itself
+up. ]]> http://allthingsd.com/20130523/is-hps-turnaround-strategy-
+sustainable/feed/ 0 Q&A; With HP CEO Meg Whitman and CFO Cathie Lesjak: The
+Turnaround Is on Schedule http://allthingsd.com/20130522/qa-with-hp-ceo-meg-
+whitman-and-cfo-cathie-lesjak-the-turnaround-is-on-schedule/
+http://allthingsd.com/20130522/qa-with-hp-ceo-meg-whitman-and-cfo-cathie-
+lesjak-the-turnaround-is-on-schedule/#comments Thu, 23 May 2013 00:41:09 +0000
+http://allthingsd.com/?p=324537 If shareholders were eager for evidence that
+the turnaround plan at troubled technology giant Hewlett-Packard was still in
+place, they got it but good from the company today. After rivals like Dell and
+IBM turned in earnings reports that came up short, owing to the tough state of
+IT spending, it says a lot about how far HP has come in the last year that it
+is the one reporting results that handily beat the forecasts of analysts. HP
+shares rose more than 13 percent to $24.05 in after-hours trading. But in a
+short phone interview with AllThingsD, CEO Meg Whitman and CFO Cathie Lesjak
+reiterated what they said on a conference call with analysts: Progress has
+been made, but there’s still a lot of work to be done. AllThingsD: Meg, let’s
+talk about the state of the competitive environment. We heard some pretty
+tough results from Dell last week, and you said on the call that HP was
+choosing to pass on some deals in order to protect profit margins. Tell me a
+little more about that. Whitman: For the long term, profitability remains a
+focus for us because we can’t afford to let our profitability crater the way
+Dell did. We have to have the ability to invest in the next generation of PCs
+and servers and software. It was a tough quarter. We walked away from several
+deals and lost some share. But it felt like we did the right thing in going
+after the deals that were the right deals for us. There were also some
+execution issues. We have to make sure we have the right product for the right
+customers at the right price point. And particularly at the low end, I think
+we could do a better job there. But overall I’m reasonably pleased that we
+made the right decisions in the PC business. Dell was also making a lot of
+noise about industry standard servers and how it took some share away from HP.
+Was it a similar dynamic in servers as it was in PCs? Whitman: Yeah. We saw
+what happened to Dell’s earnings. They were down 75 percent. If they were a
+publicly held company that was trading freely in absence of a buyout number,
+the stock would be down by 50 percent. It would be ridiculous. We are a
+publicly held company and we have to invest in the long haul. So we had to
+choose to walk away from some deals in hyperscale and industry standard
+servers and PCs that didn’t make sense for the company. I feel like we did the
+right thing, but there’s always something you can learn from these things. How
+do you feel about competing against a privately held Dell versus a publicly
+held Dell? We saw some indication of how it might behave in the marketplace
+this quarter. Do you think you’re going to have more of this aggressive
+pricing behavior and so on? Whitman: I don’t know exactly how their behavior
+is going to change. But remember, they’re loading a lot of debt onto the
+company. And remember how LBOs work. The key is to pay off the debt quickly so
+you can take the company public again and make a lot of money. We’ll see if
+they remain as aggressive as they have been. But frankly, this is just a
+competitive business. We have a lot of competition. We have shown that we can
+win over time whether it’s against Acer or other manufacturers that we beat
+out. So if it’s Dell or anyone else, we have to have continuous improvement.
+We have to invest in the right products. We have to streamline our go-to-
+market strategy, we have to constantly refine our supply chain and we have to
+be more agile. And that is just part of being in the business. Lesjak: And
+we’ve shown that by being No. 1 in the market for industry standard servers
+for many, many years now, and we’ve been competing against Dell that entire
+time. Cathie, there was a lot of talk on the call about reducing HP’s debt.
+Give me a look ahead as to what changes when that debt comes down to
+approaching zero, then what happens? Lesjak: It frees us up to step back and
+look at what we want to do with the cash we’re generating, and we want to make
+sure we’re making the right kind of investments. Those investments may be in
+buying back shares, or capital expenditures, or research and development to
+get us on track for the future, or to make small M&A; deals. And we want to
+evaluate these all on a returns basis, both in the near term and in the long
+term. Because you really need to do both. Some decisions will be based on the
+near term and with some we’ll be willing to wait a long time for the returns
+because they’ll be worth it. This is actually one of those moments when we’re
+going through a lot of product transitions, where the new style of IT products
+are coming in and the older style products are going away. And what we really
+want to be able to do, instead of having to manage big transitions, we want to
+get through them more quickly and that means that you have to invest for the
+short term and long term. Whitman: I’ve been saying this a lot lately: You
+have to plant acorns before you have oak trees. And I think with a lot of the
+CEO transitions, we didn’t plant enough acorns. And now we’re paying that
+price. So part of the impression I got from this quarter and last is that
+you’re able to beat the Street expectations in part because you’re able to
+manage your cash flow very tactically. You did well with cash flow for the
+first half of the year and you said on the call that you don’t expect it to
+remain as strong in the second half. With the macro environment remaining so
+weak, I come away thinking that your success is really less about products and
+lines of business and right now more about managing and taking out costs. Is
+that fair? Lesjak: I’d sum it all up to operational excellence. You have to do
+this all the time. I mean, we’re in a competitive industry. Margins are tight
+and you have to be maniacally focused on managing your costs every minute, and
+making sure you’ve got the right product in the right place at the right time.
+I think this has to be part of the DNA of the company. There’s no moment when
+you exhale and then you get to spend more. This is about being focused all the
+time and bringing that discipline to the company. Now in the second half we
+have some extraordinary cash payments to make around taxes and restructuring
+payments. As well as some cap-ex that we think will be good investments for
+the future. Is there any indication that the macro environment is going to
+improve? We’re seeing the worst environment for PCs pretty much ever, and IT
+spending generally isn’t looking so good. Do you sense any improvement in
+either? Whitman: From a macroeconomic perspective, which is what drives IT
+spending across small businesses, medium ones and big enterprises, I think the
+environment remains about the same. I could be wrong here. We don’t see any
+improvement coming in Europe and we don’t see an improvement in the U.S. So
+we’re not counting on those as tailwinds or headwinds, but really more of the
+same. PCs are a little different. PCs are a subset of personal systems, and as
+you know that business is growing generally with all the tablets and mobile
+devices. It’s possible the PC growth rate doesn’t decline as much. It may
+continue or it may flatten. The objective is that when it starts to flatten
+out, whose is the company with the best products and the company best-
+positioned to gain share. We want it to be us. Lesjak: Taking advantage of the
+fact that tablets are a growing segment, you really look at HP’s position in
+tablets, and that will improve significantly in the second half of this year.
+We’ve got the Slate 7 Android consumer tablet and the Elitepad commercial
+tablet. Those ramp in the second half, so we’ll have some help on the top
+line. Not so much in the PC business but personal systems. Project Moonshot
+launched during the quarter and there’s a sense that there’s a lot of hope
+riding on that product. When does it start shipping in earnest for revenue? Is
+that a 2014 story? Lesjak: It really ramps in the second half of this year but
+it’s more of a 2014 story. The real material benefit is 2014 and 2015. IDC has
+done some projections that the Web and cloud services business will grow about
+19 percent in 2016. So that works out to about 8-10 million servers between
+now and then. So that’s the market that Moonshot is going after. Whitman: You
+also have to remember that the ramp is slower with these enterprise products
+than with the consumer products. Big enterprises need to bring them in and do
+a proof of concept and see what workloads they want to run on them. And then
+they have to prove it out. Enterprises move more slowly, but when they move,
+they move big. But the ramp is slower than the the consumer product. What’s
+your biggest priority for the rest of the year now, Meg? Whitman: We continue
+with our restructuring program. We said it was going to be a three-year
+program, and we’re about halfway through that timeline. So there’s more work
+to do there. And to Cathie’s point, it becomes part of the DNA. This is what
+we do in the normal course of business. We also have to manage the transition
+between the new products and the older products. We’d like to accelerate the
+growth of the new products if we can. And you said on the call, despite all
+these market headwinds, you think you can grow next year. Whitman: We do. We
+continue to believe that growth is possible next year. You’ve got to remember,
+we’re doing this amid some of the biggest transitions that have hit the IT
+industry in a generation. The macro environment is not going to help. The
+delayed runoff in enterprise services helps this year but hurts next year. But
+we think we can grow. It depends on a lot of different factors. To be clear,
+we expect EPS growth in 2014 regardless. What’s your latest thinking on
+Autonomy? Is that part of the operation where it should be? Whitman: I think
+Robert Youngjohns and his team have done a great job of stabilizing Autonomy.
+We’ve put in some systems that were lacking and we’ve changed our go-to-
+market. We’ve invested in R&D; jobs there. We had 50 openings for research
+jobs there recently and I suspect that most of them have been filled by now.
+So I’m pleased with the progress. That team went through a lot, so I have to
+give them a shout-out. They had some difficult circumstances. And I’m pleased
+with what they’re doing. I think you’re going to see Autonomy grow in the next
+few quarters. You still having fun, Meg? It is fun. The senior team feels like
+they’re making a difference. The turnaround is on schedule. Obviously there
+are lessons learned every quarter, but we feel good about where we are. ]]>
+http://allthingsd.com/20130522/qa-with-hp-ceo-meg-whitman-and-cfo-cathie-
+lesjak-the-turnaround-is-on-schedule/feed/ 0 HP's Turnaround Progress Slow but
+Sure, Says CEO Whitman http://allthingsd.com/20130522/hewlett-
+packards-q2-earnings-conference-call/ http://allthingsd.com/20130522/hewlett-
+packards-q2-earnings-conference-call/#comments Wed, 22 May 2013 20:49:42 +0000
+http://allthingsd.com/?p=324440 Hewlett-Packard, the troubled computing giant
+that has been trying to turn itself around, reported its second quarter
+earnings a few minutes ago, and they’re a mixed bag: Better than expected on
+the bottom line, but weaker on the top. HP shares were rising by nearly 13
+percent in early after-hours trading. A conference call with analysts
+concluded just a little while ago. On it, CEO Meg Whitman and CFO Cathie
+Lesjak reiterated that the turnaround roadmap they outlined at a meeting last
+year is still going about as expected, and that it is and will remain a multi-
+year plan. They’ve focused a lot of energy on paying down HP’s debt and
+improving its operations while making the investments to inject new life into
+its products lines. There were also questions about HP’s decision to avoid
+fighting Dell in the PC business over pricing. Dell has recently said it was
+getting aggressive in order to take share, while HP has apparently decided to
+hold on to its profit margins at the expense of sales volume. It will also be
+worth listening for hints of and adjustments in the strategy and timing of the
+turnaround plan put in place by CEO Meg Whitman and outlined at last year’s
+analyst’s meeting. Also, HP earlier today released a video with Whitman
+summarizing the highlights of the quarter’s results. Here’s a partial
+transcript of the conference call. 2:06 pm: Joining the conference call in
+progress. Meg Whitman is speaking. She just said that Europe will continue to
+be challenging and that China is starting to slow down. Meg says revenue run-
+off in Enterprise Services will be slower than expected and will affect
+overall revenue in 2014. In the Enterprise Group: Converged infrastructure is
+the future. Also, the two server groups are being merged into one. Project
+Moonshot lost during the quarter, but it will “take time to ramp.” But she’s
+confident that it will work to HP’s advantage without cannibalizing the
+existing server business. In networking, HP is a strong number two after Cisco
+Systems, and its switching revenue is as much as the next five competitors
+combined, she says. In software, Autonomy is stabilizing, and Vertica is
+looking good. The business is “well positioned.” Autonomy landed All Nippon
+Airways as a customer. Now she’s speaking about areas where HP’s performance
+needs to improve. PCs is an area where it needs to fight harder. In mainstream
+servers, HP suffered from the conditions of the market and was tripped up “by
+our own execution.” In PCs, “We stepped away from many deals to protect our
+bottom line.” One key difference between the first half of this year and the
+first half of last year was that the PC industry roared back to life after
+hard drive supplies were disrupted by the flooding in Thailand. 2:16 pm:
+Whitman: “Overall our turnaround made progress in the second quarter.” Now CFO
+Cathie Lesjak is speaking, and she’s running through the numbers again. “IT
+spending softened and the macro-environment clearly did not improve.” Revenue
+in most geographic regions was all down. Software was down some as the
+industry is shifting to SAAS, Lesjak says. 2:29 pm: Revenue was down in
+financial services. Lesjak is now talking about capital allocation and the
+balance sheet: We delivered more than $5 billion in the first half of the
+year, which is ahead of our previous guidance. But we do not expect this pace
+to continue. Outlook: We remain confident in our ability to manage our cost
+structure. We are still on track to achieve the savings we’ve planned, but
+some business units are using these savings. Moonshot launch was very
+successful, but we are not pleased with performance of x86 server sales.
+Printing continues to perform well. Generally Lesjak expects lower
+restructuring expenses. “We now expect 2013 free cash flow to be about $7.5
+billion.” 2:35 pm: Now time for Q&A.; First question is from Katy Huberty of
+Morgan Stanley. Do you still think you can get to revenue neutral in services?
+Whitman: We are rebuilding ourselves amid some of the most profound changes to
+hit the technology industry in a generation. The slower run-off in revenue
+will hurt us, but if 3Par and other business units perform as we expect, we
+expect to grow in 2014, but there will still be headwinds. Whitman talked
+about some options for capital allocations. She says it’s mostly going to be
+“returns based,” meaning a bias toward share buybacks and dividends, and not
+M&A; activity. Question from J.P. Morgan. Again about services. What is your
+confidence in the planned services leakage events happening in 2014? Can you
+still unwind these planned attrition events? Basically he’s asking if some
+ineffective service contracts will get fixed. Whitman: There is some
+predictability coming that was not there in 2012. “The control of this
+business is feeling better than it did before.” Whitman: “We are fixing a lot
+of the problems that are keeping HP from being great. … This takes time. This
+is an enormous organization.” Question from Sanford Bernstein: Could you
+clarify your plan for balancing profitability vs. growth? What is the near to
+medium term focus on share or profitability? Whitman: We’re here to set this
+company up for the long term. In ISS (industry standard servers) we did walk
+away from some deals that weren’t profitable. In terms of Technology Services,
+one big headwind was the attach rate of support to sales of Business Critical
+Services (BCS, a.k.a. the Itanium server business). Lesjak: We may well be
+more aggressive in pricing on an industry standard server if we’re getting
+attached to TS. We’ll take a lower margin based on the complete picture, and
+the long-term outlook on the account. Question from Shannon Cross. More color
+on currency effects. Also pricing on the printer front from the Japanese
+companies. Lesjak: Currency is about a point to revenue. It had been two
+points. “HP is exposed to a whole basket of currencies, and we have different
+hedging strategies.” 2:49 pm: Lesjak: We think our cost savings in the second
+half are creating a war chest for our Japanese competitors. Whitman: We’re
+going to use that opportunity to fight back. Our competitors are more cost
+competitive because of what has happened to the yen. Whitman: “The days of
+ever-escalating IT budgets in government are over.” 3:03 pm: That’s it. Thanks
+for tuning in. ]]> http://allthingsd.com/20130522/hewlett-
+packards-q2-earnings-conference-call/feed/ 0 HP's Q2 Earnings Beat
+Expectations on Weak Sales http://allthingsd.com/20130522/hps-q2-earnings-
+beat-expectations-on-weak-sales/
+http://allthingsd.com/20130522/hps-q2-earnings-beat-expectations-on-weak-
+sales/#comments Wed, 22 May 2013 20:16:07 +0000
+http://allthingsd.com/?p=324429 Quarterly results from Hewlett-Packard just
+crossed the wires and they’re better than expected on the bottom line, but
+weaker on the top. Per-share earnings were 87 cents, down 4.4 percent from a
+year ago on sales of $27.6 billion, which amounts to a decline of 11 percent
+from last year. The results are better than the consensus view of analysts,
+which had called for EPS of 81 cents on revenue of $28.12 billion. The company
+said it expects to earn between 84 cents and 87 cents per share in the current
+quarter and to earn between $3.50 and $3.60 per share for the full year. As
+expected, PC sales were pretty bad, with sales down 20 percent and a decrease
+in volume of 21 percent, which was much worse than Dell’s results reported
+last week. The PC unit generated a 3.2 percent operating margin. Printing
+revenue declined by 1 percent, though operating margins were up to nearly 16
+percent. Sales of commercial units fell 5 percent year over year (I think
+that’s unit sales basis) and consumer units fell 13 percent. Revenue in the
+enterprise group declined 10 percent. Networking grew 1 percent. Server sales
+were down 12 percent in the industry standard group, while business critical
+servers — the ones using Intel Itanium chips once so crucial to HP’s profit
+profile — were down 37 percent. Storage revenue fell 13 percent. Enterprise
+Services fell 8 percent. Software sales were down 3 percent. HP said it
+finished the quarter with $13.6 billion in cash, and had $3.6 billion in
+operating cash flow. It paid a dividend of 14.52 cents per share, up 10
+percent from a year ago. HP shares are rising in after-hours trading. As of
+4:17 pm ET, they were at $23.78, up 12 percent from the close of today’s
+regular trading session. Here’s HP’s original announcement. PALO ALTO,
+CA–(Marketwired – May 22, 2013) – HP (NYSE: HPQ) Second quarter non-GAAP
+diluted earnings per share of $0.87, down 11% from the prior year, above
+previously provided outlook of $0.80 to $0.82 per share Second quarter GAAP
+diluted earnings per share of $0.55, down 31% from the prior year, above
+previously provided outlook of $0.38 to $0.40 per share Second quarter net
+revenue of $27.6 billion, down 10% from the prior year and down 9% when
+adjusted for the effects of currency Cash flow from operations of $3.6
+billion, up 44% from the prior year Returned $1.1 billion in cash to
+shareholders in the form of dividends and share repurchases Improved operating
+company net debt position by $1.8 billion, the fifth consecutive quarterly
+reduction of over $1 billion Declared a regular quarterly cash dividend of
+14.52 cents per share on the company’s common stock Information about HP’s use
+of non-GAAP financial information is provided under “Use of non-GAAP financial
+information” below. HP today announced financial results for its second fiscal
+quarter ended April 30, 2013. Second quarter GAAP diluted earnings per share
+(EPS) was $0.55, down from $0.80 in the prior-year period and above its
+previously provided outlook of $0.38 to $0.40 per share. Second quarter non-
+GAAP diluted EPS was $0.87, down from $0.98 in the prior-year period and above
+its previously provided outlook of $0.80 to $0.82 per share. Second quarter
+non-GAAP earnings information excludes after-tax costs of $621 million, or
+$0.32 per diluted share, related to restructuring charges, amortization of
+purchased intangible assets and acquisition-related charges. For the second
+quarter, net revenue of $27.6 billion was down 10% year over year and down 9%
+when adjusted for the effects of currency. “We beat the upper end of our non-
+GAAP diluted EPS outlook for the quarter by $0.05 per share, driven by better
+than expected performance in Enterprise Services and Printing, coupled with
+the accelerated capture of restructuring savings and improvement in our
+operations,” said Meg Whitman, HP president and chief executive officer.
+Outlook For the third quarter of fiscal 2013, HP estimates non-GAAP diluted
+EPS to be in the range of $0.84 to $0.87 and GAAP diluted EPS to be in the
+range of $0.56 to $0.59. Third quarter fiscal 2013 non-GAAP diluted EPS
+estimates exclude after-tax costs of approximately $0.28 per share, related
+primarily to the amortization of purchased intangible assets, restructuring
+charges and acquisition-related charges. For the full year fiscal 2013, HP
+estimates non-GAAP diluted EPS to be in the range of $3.50 to $3.60 and GAAP
+diluted EPS to be in the range of $2.50 to $2.60, in line with HP’s previously
+communicated outlook. Full year fiscal 2013 non-GAAP diluted EPS estimates
+exclude after-tax costs of approximately $1.00 per share, related primarily to
+the amortization of purchased intangible assets, restructuring charges and
+acquisition-related charges. “I am encouraged by our performance in the second
+quarter, and I feel good about the rest of the year,” added Whitman. “As I
+have said many times before, this is a multi-year journey. We have a long way
+to go, but we are on track to deliver on our fiscal 2013 non-GAAP diluted
+earnings per share outlook.” Asset Management HP generated $3.6 billion in
+cash flow from operations in the second quarter, up 44% from the prior-year
+period. Inventory ended the quarter at $6.0 billion, down 2 days year over
+year to 26 days. Accounts receivable of $14.6 billion, down 1 day year over
+year to 48 days. Accounts payable ended the quarter at $12.3 billion, up 4
+days year over year to 53 days. HP’s dividend payment of $0.132 per share in
+the second quarter resulted in cash usage of $283 million. HP also utilized
+$797 million of cash during the quarter to repurchase approximately 36.3
+million shares of common stock in the open market. HP exited the quarter with
+$13.6 billion in gross cash. “After returning more than a billion dollars to
+shareholders through share repurchases and dividends in the quarter, we
+improved our operating company net debt position for the fifth successive
+quarter,” said Whitman. “By the end of fiscal 2013, we expect our operating
+company net debt to be below pre-Autonomy levels and approaching our goal of
+approximately zero.” Declaration of Dividend HP also today announced that the
+HP board of directors has declared a regular cash dividend of 14.52 cents per
+share on the company’s common stock, which, as previously announced, reflects
+a 10% increase in amount compared to the previous quarterly dividend amount.
+The dividend, the third in HP’s fiscal year 2013, is payable on July 3, 2013,
+to stockholders of record as of the close of business on June 12, 2013. Second
+Quarter Fiscal 2013 Segment Results Personal Systems revenue was down 20% year
+over year with a 3.2% operating margin. Commercial revenue decreased 14%, and
+Consumer revenue declined 29%. Total units were down 21% with Desktops units
+down 18% and Notebooks units down 24%. Printing revenue declined 1% year over
+year with a strong operating margin of 15.8%. Total hardware units were down
+11% year over year. Commercial hardware units were down 5% year over year, and
+Consumer hardware units were down 13% year over year. Enterprise Group revenue
+declined 10% year over year with a 15.9% operating margin. Networking revenue
+was up 1%, Industry Standard Servers revenue was down 12%, Business Critical
+Systems revenue was down 37%, Storage revenue was down 13% and Technology
+Services revenue was down 3% year over year. Enterprise Services revenue
+declined 8% year over year with a 2.6% operating margin. Application and
+Business Services revenue was down 10% year over year, and IT Outsourcing
+revenue declined 6% year over year. Software revenue was down 3% year over
+year with a 19.1% operating margin. Support revenue was up 12% while license
+revenue was down 23% and services revenue was down 5% year over year. HP
+Financial Services revenue was down 9% year over year with a 3% decrease in
+net portfolio assets and a 24% decrease in financing volume. The business
+delivered an operating margin of 11.0%. More information on HP’s earnings,
+including additional financial analysis and an earnings overview presentation,
+is available on HP’s Investor Relations website at www.hp.com/investor/home.
+HP’s Q2 FY13 earnings conference call is accessible via an audio webcast at
+www.hp.com/investor/2013Q2webcast. ]]>
+http://allthingsd.com/20130522/hps-q2-earnings-beat-expectations-on-weak-
+sales/feed/ 0 Amid Tech Slowdown, HP CEO Whitman Under Pressure to Show
+Progress http://allthingsd.com/20130522/amid-tech-slowdown-hp-ceo-whitman-
+under-pressure-to-show-progress/ http://allthingsd.com/20130522/amid-tech-
+slowdown-hp-ceo-whitman-under-pressure-to-show-progress/#comments Wed, 22 May
+2013 13:45:33 +0000 http://allthingsd.com/?p=324339 Hewlett-Packard will
+report second-quarter results today after the markets close for trading in New
+York, and the pressure is on CEO Meg Whitman to show that she can keep the
+floundering tech giant on track toward a promised turnaround next year. At the
+outset, it seems a tall order. Name a significant line of HP’s business and
+it’s probably in the middle of one sort of fundamental slowdown or another.
+Whether it’s the historical decline in PC sales, a weak environment for server
+sales, a lousy market for printers or ongoing difficulties with its enterprise
+services business, HP has troubles in all four. Together, these troubled units
+accounted for about 92 percent of HP’s sales last quarter. Add to the mix a
+significant exposure to Europe, where the economy remains weak, and it becomes
+incredibly difficult to feel hopeful for a pleasant surprise in HP’s results
+today. Whitman and CFO Cathie Lesjak have been clear in past public statements
+that there are no quick fixes for HP. And its rivals are taking advantage.
+Dell unleashed a bit of a price war on the PC front, cutting prices
+aggressively in order to take some market share ahead of its anticipated $24.4
+billion go-private transaction. While Dell is willing to sacrifice
+profitability, HP doesn’t seem to have responded, and so may have missed some
+sales. As Chris Whitmore of Deutsche Bank Securities wrote in a note to
+clients yesterday, “It appears HP is sacrificing share to protect near-term
+margins.” Dell has also been bragging about its ability to take market share
+away from HP on the server front. What HP has got going for it: Aggressive
+cost management. Remember that HP surprised the Street with better-than-
+expected cash flow in the first quarter of the year, giving the appearance
+that the promised turnaround had begun in earnest. But much of that surprise
+came from a one-time tax benefit that added a half-billion dollars to
+operating cash flow. That is unlikely this quarter, so Whitmore is worried
+that cash flow may come up short: “The combination of cash restructuring
+payments, headwinds from revenue declines in PCs impacting working capital and
+cash cycle and the absence of favorable factors in Q1 (tax deferrals, bonus
+payments, etc) may result in worse than expected cash flow,” he wrote.
+Analysts expect HP to report 81 cents per share on sales of $28.12 billion. A
+miss on either the top or bottom line will probably freak out shareholders
+impatient to see some tangible sign that, despite having survived the worst
+year in its history, HP can yet be salvaged, and that Whitman is the one to
+get the job done. HP shares opened up slightly this morning at $21.21 a share.
+I talked about all this a little this morning on CNBC. The video is below: ]]>
+http://allthingsd.com/20130522/amid-tech-slowdown-hp-ceo-whitman-under-
+pressure-to-show-progress/feed/ 0 HP Board Members Survive Shareholder
+Challenge http://allthingsd.com/20130320/liveblog-hp-faces-its-restive-
+shareholders/ http://allthingsd.com/20130320/liveblog-hp-faces-its-restive-
+shareholders/#comments Wed, 20 Mar 2013 20:54:54 +0000
+http://allthingsd.com/?p=305432 Hewlett-Packard’s shareholder meeting at the
+Computer History Museum in Mountain View, Calif., is now over. All the
+directors have been reelected, though a few by very thin margins. Director
+Marc Andreessen got a 69.77 percent yes vote. John Hammergren had the smallest
+margin, receiving a vote of 53.91 percent in favor of his remaining on the
+board. Chairman Ray Lane got 58.88 percent of yes votes. G. Kennedy Thompson
+received a 55.15 percent vote in favor of his remaining on the board. As proxy
+votes go this is about as close as you can come without actually removing a
+director. If nothing else, it’s hard for HP’s board not to have received the
+message loud and clear that shareholders were sending about the Autonomy deal
+and other difficulties the company has faced. Here are some highlights from
+the day’s events. 1:59 pm: So it’s nearly 2 pm here in Mountain View, Calif.,
+and we’re waiting for HP’s shareholder meeting to get under way. Still
+waiting. The light FM jazz just stopped playing and now the audience is quiet.
+Aaaand just like that, onstage there’s Meg Whitman, Ray Lane, CFO Cathie
+Lesjak, chief legal counsel John Schultz and I think Rajiv Gupta from the
+board of directors. Actually it’s not Rajiv Gupta, but a deputy general
+counsel whose name I don’t know. John Schultz is speaking and is asking
+shareholders to observe meeting rules. He’s talking about the three
+shareholder proposals. Those who wish to speak in support or against the
+proposals can do so for only about five minutes. More formalities to get the
+meeting going. A quorum is declared present. And the meeting can officially
+get started. Now the slate of directors is up. All 11 directors are up for
+reelection to the board. The second order of business is to re-appoint Ernst
+and Young as HP’s auditor. There are some proxy firms and other shareholder
+groups that are advising against that, in part because they blame Ernst and
+Young for failing to foresee some of the mess that was the Autonomy
+acquisition. Other items of business is the say on pay proposal, a stock
+compensation plan and the formation of a human rights committee. A shareholder
+is now speaking in favor of the human rights proposal. It deals with how HP
+does business in China and other countries with oppressive political regimes.
+Schultz is speaking, and says that the creation of another committee to
+oversee human rights issues isn’t in the business of shareholders. Another
+human rights proposal is up, submitted by a set of religious groups. A
+reverence whose name I didn’t quite catch is now speaking about it. “We have
+noted HP’s policies to human rights and related to supply chain and equal
+opportunity.” 2:20 pm: I’m paraphrasing what he says: He’s speaking on behalf
+of a proposal that would require HP to report in more detail on supply chain
+issues, making sure that workers employed by suppliers are protected. HP
+reports on a lot of this stuff already, but he’s pushing for a lot more
+detail. Often, he says, confidentiality rules prevent HP from disclosing
+exactly how it evaluates its human rights policies with suppliers. Schultz is
+speaking again and says the company opposes the proposal. Now another
+shareholder proposal, this one about retirement plans. Schultz is speaking
+again, opposing the latest proposal. And getting the voting under way. 2:32
+pm: Okay, CEO Meg Whitman is speaking. Her remarks are starting with a video.
+Meg again: “Most of you know that I’ve been CEO for 18 months. I’ve come to
+love this company.” “I’ve now met with 300 or 400 customers around the globe,
+and they tell me they want HP to win.” “Some of our customers have operations
+in 150 or 160 countries, and they want a partner that can match them every
+step of the way.” Now on to innovation. “Did you know that HP was the top of
+the list for patents obtained in 2012 in Silicon Valley, and No. 50
+worldwide.” “But we have to do more, better, faster.” “Third, I’ve found that
+HP has tremendous foundational assets, and talented and committed employees.
+And lastly despite what you may have read, we’re on a solid financial
+footing.” “The biggest thing I’ve learned in the last year, is that together
+we truly make it matter.” “There is still room for improvement. Fiscal 2012
+results were not where they needed to be.” Whitman: Partners are crucial to
+our future and we need to embrace them like never before. Whitman is now
+revisiting the plan she laid out at the analysts meeting last year. Whitman:
+The good news is, we said what we said we would do in 2012. We took action,
+and took our medicine, and met our guidance. 2:40 pm: Whitman: We expect 2014
+will be characterized by recovery and expansion. 2:41 pm: In 2015 we expect
+you’ll see a rapid acceleration of growth and innovation. Whitman is now
+reiterating the financial results. Whitman: Net debt position has improved to
+$4.7 billion. But we’re not done. We have a long way to go. First is creating
+solid product roadmaps that change how IT is designed and built. We are
+reigniting the powerhouse of HP, which is the channel. Whitman: Why I’m so
+confident about our strategy: We are living in a period of enormous change.
+Big shifts in how technology is consumed, used and paid for. Whitman: It feels
+like a bigger change than what I saw at eBay. Whitman: We will succeed because
+only HP can provide the solutions for the new style of IT. We are the only
+company that can bring our customers devices, services, software all at once.
+2:48 pm: Whitman is closing her remarks. It has essentially been a repeat of
+the same speech she’s been giving since HP reported its most recent quarter.
+Whitman is closing with some nice praise of HP employees, who “continue to
+innovate through thick and thin.” She’s now wrapped up. Time for a Q and A
+with the shareholders. I see about seven people queuing up to the mics from
+where I’m sitting. A question about the data center business. Now about 15
+people lining up for questions. The questioner opines: Over the last two or
+three years I’ve lost lost half the value of my HP shares. Whitman: One of the
+question you’re asking is if you’re better off with a vertical stack versus a
+commitment to open standards. One of the strengths of this company is the
+hardware business and the commitment to open standards and open architecture.
+Whitman: Now she’s talking about Moonshot, the tiny servers using Atom or ARM
+chips and which use less power, and take up a lot less space. It’s disruptive
+innovation, she says. Whitman is now talking about the 3Par storage business,
+which tends to simplify enterprise storage. Whitman: We are actually sold out
+of our mid-tier storage product. We haven’t been sold out of a product in
+quite a long time. Whitman: We are also the leader in software defined
+networking. Question: What is the board’s thinking with regard to nominating
+an independent chairman? Whitman: I came to HP at a difficult time. My view
+about the board is that they are helping to turn HP around. Whitman: This
+group is helping me lead the transition. Once you decide how you’re going to
+run your company, you have to get everyone marching in the same direction.
+Another question: Change to Win is up. Bill Patterson is speaking. “A strong
+opposition vote will be delivered to several directors who were involved in
+overseeing the Autonomy acquisition. In the event that some directors don’t
+receive a majority vote, the board should comment on that and what it intends
+to do going forward.” 3:02 pm: Patterson is still speaking. These shareholder
+rights are of limited value that the company can demonstrate that it has
+active independent directors. Will the board comment in the event of a strong
+opposition vote? Meg just called on director Ralph Whitworth, the activist
+investor, who owns a lot of shares. He says that he bought the shares and
+approached the company. He offered himself as a director and Meg and Chairman
+Ray Lane were up for it. “You can expect some evolution of the board in the
+coming weeks or months.” 3:06 pm: Whitworth: I hope you will respect the
+results today and work with us to make this company stronger and more
+valuable. More questions. SEIU union trust, a pension fund. Can you confirm
+that Whitworth has been appointed to a special committee to investigate the
+Autonomy acquisition. There’s a concern that directors who were involved with
+that deal not be on that committee. John Schultz confirms a special committee
+has been formed. Whitworth, Gary Reiner and G. Kennedy Thompson are on it.
+Schultz: The independence of this committee is passed on by a court of law. We
+believe the committee has the right scope of charter, and the members are the
+right ones in place consistent with the law. The questioner is expressing
+“grave concern” that Thompson should not be on the committee. A former HP
+employee, one who dates back to what he calls “the good old days,” would like
+HP to celebrate its 75 anniversary. Lots of applause. Whitman: We have an
+employee committee on that. Another question. Seven more people in the line.
+Latest questioner asking about human rights, surveillance in less developed
+countries. “Never ever admit that David Packard is most admired for cutting 10
+percent off expenses, and cutting his own compensation.” The questioner is
+suggesting the elimination of health insurance brokers somewhere in the
+employee benefit process. Now 10 more people waiting in line to ask questions.
+The “question” is more or less turning into a political diatribe about health
+care policy. Whitman is cutting her off and asking her to get to the point.
+3:15 pm: She’s basically trying to get Whitman to support a single payer
+health insurance scheme. Another question from a Presbyterian Minister.
+Something about never voting against the State of Israel. However, he says, HP
+is selling its products in a way that support the “occupation” of Palestine.
+He’s asking for transparency, which he says is lacking in the Proxy statement
+on how products are being used. Whitman is pointing out an HP exec who is
+responsible for responses to questions like this, to address his concerns.
+Another question from a shareholder and retiree. “My portfolio has taken a
+dramatic fall. Regardless of this, I marked a ballot to support everything the
+board recommends.” He’d now like to read something published in 1976. He’s
+asking Whitman to stand up for the old HP Way. “It turns out its really hard
+to kill founder DNA. … We are at our core an engineering company.” Question
+from a representative for the AFL-CIO fund. Can you address how the board
+expects the biggest vote against an S&P; auditor in a long time? It’s a
+question about the proposal to dump Ernst and Young as an auditor. Whitman:
+When we do an outside enterprise deal, we have to have someone certify the
+financials. To have someone other than our auditor do it, it’s not a good use
+of your money. It would be duplicative to have someone else do it. Question:
+What other boards does Whitman serve on? How do you justify the time spent on
+other boards. Whitman: After I lost the governor’s race [in California] I was
+asked to go on a lot of boards and I did. I have been reducing my committments
+to other boards. She used to be on the board of ZipCar and is now off that as
+the company has been sold. The remaining corporate board I sit on is Proctor
+and Gamble and that is good for HP. It’s good to see another big company
+struggling. The same questioner is a fan of his HP 20S calculator. “It’s an
+example of the HP Way. I’d like to see that return.” Whitman: I came to set
+this company up for the next 75 years. This company is an icon of American
+business. We are important around the globe. One last question and then it’s
+time to announce the results of the vote. Last question is from a guy who
+lived across the street from David Packard. Apparently,he’d like to sell a
+company to HP. Whitman is laughing. Whitman is referring him to CFO Cathie
+Lesjak. Proxy vote time. This is the moment of truth. A few stragglers are
+still voting. 3:29 pm: Polls are closed. Chairman Ray Lane is announcing the
+results based on the preliminary tally. Directors first. All have received at
+least 50 percent. All 11 directors have survived. 3:31 pm: And Ernst and Young
+has been renominated as HP’s auditor. The directors and Ernst and Young were
+the two big items. We don’t yet know what the percentages were on the various
+directors who had been targeted by ISS, Glass Lewis, Calpers and others.
+What’s left is the proposals on human rights committees. Less than 4 percent
+voted in favor. It’s pretty much going as the company recommended. Patterson
+from Change to Win is asking for the percentages on the director votes. Lane
+is declaring the business of the meeting concluded. That ends the meeting. And
+we’re done! ]]> http://allthingsd.com/20130320/liveblog-hp-faces-its-restive-
+shareholders/feed/ 0 HP May Be Debt-Free This Year, CFO Lesjak Says
+http://allthingsd.com/20130221/hp-may-be-debt-free-this-year-cfo-lesjak-says/
+http://allthingsd.com/20130221/hp-may-be-debt-free-this-year-cfo-lesjak-
+says/#comments Fri, 22 Feb 2013 01:33:14 +0000 http://allthingsd.com/?p=297135
+I just had a quick chat with Hewlett-Packard CFO Cathie Lesjak, and we ran
+through a couple of the key points from the earnings announcement HP released
+a few hours ago. Here are a few highlights from our conversation: Earnings: At
+82 cents a share, HP pretty much blew out its earnings versus the consensus of
+Wall Street analysts, which was 71 cents. But that also amounts to a 15
+percent beat on the high end of HP’s own guidance for the quarter. “That is
+one of the biggest beats I’ve seen at HP,” Lesjak said. Cash flow: Cash flow
+from operations improved to $2.6 billion. That’s especially good news, Lesjak
+said, because the first quarter of the year tends to be seasonally weaker than
+others on the cash flow front. Net debt: There’s been a lot of worry of late
+about HP’s debt situation. Debt investors over the summer started paying ever-
+higher prices to insure against the possibility, however remote, of a default.
+On paper, HP’s long-term debt is still rather high: $21.8 billion, or about 65
+percent of market cap as of Thursday’s close. But out of that, only $4.7
+billion is debt derived from the operating company, the portion of HP that
+makes stuff and sells it. The rest is incurred for the purpose of HP Finance,
+the unit that lends money to help customers pay for HP products and services.
+Lesjak said there’s a pretty good chance that, on that basis, HP will be debt-
+free by the end of 2013. “Our goal is roughly zero,” she said. And, as Lesjak
+said on the conference call, when that happens, there’s a new round of
+decisions to be made, such as, what to do with the cash from operations that’s
+flowing in. HP will have to start thinking about other ways to use that cash,
+such as increasing the dividend payments, buying back more shares, or maybe
+thinking about buying another company. That’s a good problem to have. ]]>
+http://allthingsd.com/20130221/hp-may-be-debt-free-this-year-cfo-lesjak-
+says/feed/ 0 HP Did "Better Than We Expected We Would," Whitman Says
+http://allthingsd.com/20130221/liveblogging-hps-q1-2013-earnings-call/
+http://allthingsd.com/20130221/liveblogging-hps-q1-2013-earnings-
+call/#comments Thu, 21 Feb 2013 21:59:12 +0000 http://allthingsd.com/?p=297153
+As noted earlier, Hewlett-Packard released its earnings results for the first
+quarter of its fiscal year a little while ago, and they’re surprisingly good.
+HP shares are rising after hours on word that the company rather handily beat
+its own expectations and those of the Street. The consensus view called for it
+to report 71 cents a share in per-share earnings. HP came in at 82 cents.
+Sales were also ahead of the consensus, despite the fact that revenue fell in
+nearly every significant business segment. Still, don’t harsh HP’s buzz with
+too many details. There’s more to crow about: Net debt of the operating
+company came down by $1 billion to $4.7 billion, and it’s looking like HP will
+be close to zero debt for the operating company this year. The results if
+nothing else buy Meg Whitman and her team some time to quiet the critics who
+say HP should be split into two or more companies in order to unlock value.
+That buzz was prominent late in the trading session as rumors flew that a
+breakup announcement might accompany earnings. As careful AllThingsD readers
+might have already guessed, a breakup isn’t in the cards, at least not for the
+time being. The conference call with analysts is about to get under way
+momentarily and I’m listening in. Expect lots of questions about the balance
+sheet, and probably more chatter about the breakup idea. One bit of
+housekeeping: Since I’m in New York, the time stamps are set to Eastern
+Standard Time. Earlier: 5:05 pm: Joining the call in progress. CEO Meg Whitman
+is speaking. She says the restructuring program put in place last year is
+having the desired effect. Whitman: We improved operating company net debt
+position for the fourth consecutive quarter. Whitman: Revenue from converged
+storage products was up 18 percent. Whitman: In servers, business stabilized.
+We expect to grow market share by 1 percentage point this year. Whitman:
+Networking showed continued growth, up 6 percent. I was also pleased with
+performance improvements in printing. New business models and new printers
+helped boost operating margins. One thing that changed in developing markets
+is that the price of hardware has increased while the price of ink has
+dropped. That’s the Ink Advantage program she’s talking about. Whitman: PCs
+gained 1.4 percentage points of share world wide, and 4 points in the U.S.
+Whitman: Total enterprise services exceeded expectations. There is still a
+long way to go, but I believe that ES (the former EDS) will deliver on the
+recovery plan put in place last year. Whitman: We are making significant
+investments to improve our channel partner programs. Whitman: If we can
+mobilize HPs 300,000+ employees there is nothing we can’t do. Whitman:
+Turnarounds happen when old and new customers believe. In HP’s case customers
+are really starting to believe. We saw a number of big wins including one with
+the U.S. Department of Veterans Affairs. Another is eyewear company Luxottica
+(sorry if I misspelled that), which hired HP to run its data centers. Whitman:
+We clearly still face a long road ahead. I don’t like that we saw revenue
+declines in all our business lines. Restoring growth is a priority and we’re
+on it. Whitman: It will be toward the end of the year before the recovery plan
+starts showing up on the top line. 5:14 pm: Whitman: There are a lot of
+reasons we are in the PC market. She’s addressing again why there won’t be a
+spinoff of the PC business. Whitman: Pricing continues to be very competitive.
+In Enterprise Group, we are seeing a tepid market in Europe for servers.
+Whitman: We will now be breaking out converged storage from traditional
+storage to better show the growth there. 5:17 pm: Now Whitman is talking about
+the hiring of Larry Stack to reignite sales in the Enterprise Services group.
+(Wonder where you read about that first? You got it: AllThingsD.) Whitman: Now
+talking about HP Labs under its new head Martin Fink. Whitman: Talking about
+Project Moonshot. We expect this to truly revolutionize the economics of the
+data center. Whitman: If just 10 large web services switched to Moonshot
+servers, they could save $120 million a year, and 100 million (?) metric tons
+of CO2 released into the atmosphere, because it consumes so much less power
+than prior models. Whitman: I’m pleased about Q1 and feel good about the rest
+of the year. Now CFO Cathie Lesjak is speaking. Lesjak: At the highest level,
+I would characterize this quarter as one more data point in our consistent,
+but not linear, recovery plan. Lesjak: Now she’s talking about some new
+reporting information disclosures. Lesjak: (Going through the numbers again.)
+From a global economic perspective, we are still seeing headwinds, but some
+healthier pockets. 5:23 pm: R&D; spending declined, though it was because of
+some tax credits and some contract accelerations in Q4. Lesjak: Europe was a
+challenge, but we continue to see good signs in Asia-Pacific and Japan.
+Lesjak: Decline in printer revenue is partially due to a shift toward higher-
+end printers and away from lower-priced ones. Lesjak: Again, solid growth in
+server sales in Asia, especially in China. Lesjak: Talking more about the
+storage business. Q1 was the fourth consecutive quarter where margins
+expanded. Now Business Critical Servers. Phase two of the trial with Oracle is
+expected in Q2, which will address Oracle’s breach of contract and damages.
+(Though Oracle lost the first phase of the trial, it has promised to appeal
+the decision.) Lesjak: In services, we have moved away from unprofitable
+contracts. Lesjak: We saw strong growth in security and big data software
+offerings. Now talking about cash and capital allocation. $253 million went
+back to shareholders through share repurchases, and $258 million via the
+dividend. Net debt is now $4.7 billion at the operating company level. Lesjak:
+As we’ve said, 2013 is a fix-and-rebuild year. There are market and macro
+pressure and some of the ES changes are being delayed. And now we’re heading
+into Q&A.; Question from Bill Shope of Goldman Sachs; he’s asking about the
+breakup idea. Whitman: We have no plans to break up the company. (Heard
+that??) HP is better and stronger together. Whitman: We have a terrific set of
+assets. When you think about our brand, our scale, our distribution, and
+importantly the customers want this company to be together. We feel strongly
+it’s better together. Katy Huberty of Morgan Stanley: Earnings on the back
+half of the year look like they may come down. What else makes you cautious
+about the back half of the year? Lesjak: It’s really about Enterprise Services
+not having the runoff in Q1 that we expected. There’s also some challenges
+about the timing of signings. Lesjak: There’s some cautious optimism there.
+5:44 pm: Toni Sacconaghi of Bernstein: Where are you in your cost savings?
+Lesjak: The non-labor savings are coming in later this year. Question from Ben
+Reitzes of Barclays: I understand why you want to keep guidance in place, but
+why not raise the free cash flow target above $5 billion? Lesjak: Glad you
+pointed out the operating cash flow. We’re happy with it, up 115 percent.
+We’ve really gotten a lot of discipline. We don’t typically update our cash
+flow mid year. Best way to think about it is that it was a very big deposit on
+the year. Question from Shannon Cross: How will you judge the success of the
+OfficeJet ProX printer platform? How do you think about this versus your laser
+platform? Whitman: This is an exciting opportunity because it prints at the
+speed and quality of a laster. We’re going to drive it as hard as we can.
+We’re going to measure the units installed. With regard to laser we have a
+great laser lineup, but if there is cannibalization; that’s the way business
+goes. If there’s going to be cannibalization, better we do it to ourselves
+than someone do it to us. Missed a question there. Sorry about that. 5:53 pm:
+Question about Enterprise systems sales. Whitman reminds us that BCS sales got
+whacked again. But there’s a good product lineup coming. Waiting for another
+mention of Moonshot. Whitman: We have to make the right investments because
+it’s a big piece of HP’s profitability. (Lesjak just mentioned in the answer
+to the previous question that PSG accounts for only 10 percent of HP’s
+operating profitability.) Another question, this one from Mark Moskowitz of
+J.P. Morgan. Clearly your net debt position is improving nicely. How are you
+thinking about investment internally from R&D; and acquisitions? Whitman: For
+2013, we’re still focused on rebuilding the balance sheet and offsetting
+dilution. We’re going to stay focused on fixing what we have. You never say
+never, maybe there’s a tuck-in acquisition we have to have, but there’s
+nothing in the plan. Also, one thing we have to stop doing at HP is increase
+R&D; and then pulling it back, and then repeating that. We’re going to stay on
+the plan that we have. Question from Brian Marshall at ISI about the software
+business, where he’s seeing some deceleration of growth. Whitman: The bright
+spots in software are Vertica and security. Apps and ops are not where we want
+them to be. We need to make some changes that will kick in by 2014. We have
+some basic blocking and tackling there. Steve Milunovich asking about PC
+supplies and inventory. Lesjak: Channel inventory on PCs, overall it’s good.
+On the consumer side, despite the fact we gained share in consumer we ended a
+bit higher than we would like. The real star is the channel inventory in
+printing. We have been dogged by ink supplies inventory being too high for
+several quarters. Now its down 27 percent since the peak. We’ve had dollar
+declines over the last six quarters. Whitman: One of the things we’ve asked
+the business groups to do is limit discounting to get products out the door.
+It’s healthier for us and better for the channel. It also allows us to
+differentiate our ink and toner product and get away from the commoditization
+we were expecting about 18 months ago. Final question from Credit Suisse:
+About free cash flow. Given the improvement, it looks like you will pay down
+most of your debt. If you are generating $6 billion to $7 billion in free cash
+flow each year, how dedicated are you to increasing dividends and buybacks?
+Lesjak: At the end of the year we’ll be thinking about how we allocate capital
+around the time of the next analyst meeting. We are committed to returning
+cash to shareholders. Our view around dividends is that over the long term,
+our payout ratio should improve as well. We are aligned and working with the
+board to determine the mix. 6:05 pm: Closing remarks from Whitman: The
+turnaround is on track and we did better than we expected we would. We have to
+deliver and continue to execute as an organization. And we’re done. See you
+next quarter! ]]> http://allthingsd.com/20130221/liveblogging-
+hps-q1-2013-earnings-call/feed/ 0 "The Narrative Lags the Reality" in HP
+Turnaround Effort, CEO Whitman Says (Video)
+http://allthingsd.com/20130116/the-narrative-lags-the-reality-in-hp-
+turnaround-effort-ceo-whitman-says/ http://allthingsd.com/20130116/the-
+narrative-lags-the-reality-in-hp-turnaround-effort-ceo-whitman-says/#comments
+Wed, 16 Jan 2013 17:04:25 +0000 http://allthingsd.com/?p=286050 Hewlett-
+Packard CEO Meg Whitman argued once again for patience in her effort to get
+her troubled company back on its feet, saying that what people say and think
+about the company now is several steps behind the company’s actual condition.
+“The narrative lags the reality,” Whitman said in an interview at The Wall
+Street Journal’s CIO Network conference in San Diego. But the narrative will
+only change as the company delivers on results that she has promised. Having
+taken more than $17 billion in combined write-downs for the acquisitions of
+EDS and Autonomy, 2012 has been portrayed by Whitman and HP CFO Cathie Lesjak
+as the year during which all the bad news was tackled, and 2013 is to be the
+year when the arduous work of repairing the company begins in earnest. Whitman
+sounded a note of confidence: “We’ve got the right people in the right jobs at
+the right time, and you can feel it. … But we have to be patient.” Whitman
+also said that HP “paid too much” for Autonomy, the British software company
+for which it spent north of $11 billion in 2011. About $5.5 billion of HP’s
+$8.8 billion write-down announced in November was attributed to that
+acquisition. Whitman reiterated HP’s argument that Autonomy misrepresented
+itself, making it appear to be more valuable than it was, and fooled auditors
+at Deloitte who were vetting Autonomy’s books. “The auditor wasn’t exactly a
+Brand X auditor, and did you ever dream that the financials would have
+represented the true financial state of the company?” Below are some video
+highlights: ]]> http://allthingsd.com/20130116/the-narrative-lags-the-reality-
+in-hp-turnaround-effort-ceo-whitman-says/feed/ 0 HP CEO Whitman Earned $15
+Million in 2012, Filing Shows http://allthingsd.com/20130111/hp-ceo-whitman-
+earned-15-million-in-2012-filing-shows/ http://allthingsd.com/20130111/hp-ceo-
+whitman-earned-15-million-in-2012-filing-shows/#comments Sat, 12 Jan 2013
+02:43:17 +0000 http://allthingsd.com/?p=284748 Hewlett-Packard’s preliminary
+proxy form was filed today with the U.S. Securities and Exchange Commission
+and there’s a few interesting highlights. The filing shows that CEO Meg
+Whitman earned more than $15.3 million during 2012, even though her base
+salary was only $1. The majority of her pay came in the form of share and
+options grants worth more than $13 million, almost none of which are yet
+vested. She also earned a $1.7 million bonus under HP’s PfR or “Pay for
+Results” bonus plan. Under that plan, bonuses are awarded based on performance
+metrics including revenue, free-cash flow and achievement of management by
+objective (MBO) goals. There was also $220,000 in miscellaneous income, most
+of which had to do with her use of HP’s aircraft. CFO Cathie Lesjak earned
+$6.7 million, which included her base salary of $825,011 per year plus
+$978,000 worth of stock options that vested during the year, plus $519,000
+under the PfR bonus plan. She received another $4.8 million in combined share
+grants and options. The combined package is smaller than the $10 million she
+earned in salary, bonuses and options awards in 2010. Enterprise business head
+Dave Donatelli earned the same base salary as Lesjak, but also received $1.15
+million worth of stock options that vested during the year, plus another
+$519,000 under the PfR bonus plan and nearly $6 million worth of share grants
+and options. John Hinshaw, the EVP who joined HP from Boeing in 2011, earned a
+combined $8.2 million in 2012, including $5.1 million in share grants and
+options. He has recently been tasked with cutting $3.5 billion out of HP’s
+annual operating budget by the end of 2014. Todd Bradley, head of the Printing
+and Personal Systems Group, earned $7.4 million including $2.7 million in
+share grants and options. His base salary was $850,000 and he earned a PfR
+bonus of $587,000. The filing also shows what two exiting execs were paid on
+their way out the door. Former head of the printing unit Vyomesh “VJ” Joshi,
+pushed out in a significant shakeup in March, collected $1.6 million in
+severance. He is also receiving about $3.3 million in four equal cash
+installment payments that end in October of 2013. He left HP owning 1.4
+million shares worth, more than $22 million as of Friday’s closing price.
+Another former executive collecting severance pay is John Visentin. He is the
+former head of Enterprise services, named by former CEO Léo Apotheker. He was
+fired after HP took an $8 billion charge to write down the value of EDS. That
+unit, acquired under former CEO Mark Hurd for $13.9 billion in 2008, has been
+a bit of an albatross around HP’s neck of late. Last year the unit was
+implicated in an embarrassing foul-up with an Australian bank that required
+Whitman to fly to Australia. Visentin was paid a combined $8.3 million,
+including a base salary of $800,000 and a $2 million bonus connected to his
+promotion to Executive Vice President. HP also reimbursed him $127,311 for the
+deposit he made on a house he sought to buy in California, but on which he
+never closed. He lost out on $3.8 million in combined share grants and
+options, which were canceled and did not vest when he left. He departed HP
+owning a little more than 20,000 shares, worth about $330,000. There are other
+interesting tidbits in the filing. For one thing, there’s a new policy
+proposal being put to shareholders that allows any person or group of up to 20
+people who own at least 3 percent of HP shares and who has owned them for at
+least three years to nominate a slate of directors of as much as 20 percent of
+the board. The proposal, which requires a vote of two-thirds of all
+shareholders, is a victory for activist investors over proxy access.
+Previously, HP shareholders could only vote on the slate of directors
+nominated by the company. Now if enough shareholders are unhappy, they can
+nominate their own group of new directors. It has been a long-simmering
+controversy in corporate governance circles. Proponents have argued proxy
+access improves returns to shareholders by forcing boards to be more
+responsive to them, lest they lose their seats. Without proxy access,
+investors who want to shake up a board’s membership have been forced to wage
+expensive public campaigns to sway the votes of shareholders and have had to
+pay for distributing their own ballots. As of now, there are only three
+investors who own enough to meet the 3 percent standard, and they’re all
+institutional shareholders: Investment firm Dodge and Cox owns 6 percent of
+HP’s outstanding shares, State Street Corp. owns 5.4 percent and investment
+firm Blackrock owns 5.2 percent. HP’s fourth-largest investor, who owns 1.8
+percent, already has a seat on the board. Ralph Whitworth, the activist
+investor with a history of agitating for breaking up the companies he invests
+in, joined HP’s board in November of 2011. And all indications are that he’s
+supportive of Whitman and her plans to turn HP around over the next few years.
+Besides, any board shakeups he may wish to carry out will have to wait for
+awhile: He doesn’t yet own 3 percent. ]]> http://allthingsd.com/20130111/hp-
+ceo-whitman-earned-15-million-in-2012-filing-shows/feed/ 0 The Pressure Is on
+HP to Stand and Deliver in 2013 http://allthingsd.com/20121231/the-pressure-
+is-on-hp-to-stand-and-deliver-in-2013/ http://allthingsd.com/20121231/the-
+pressure-is-on-hp-to-stand-and-deliver-in-2013/#comments Mon, 31 Dec 2012
+16:20:21 +0000 http://allthingsd.com/?p=281475 Today marks the end of what has
+been without a doubt the worst year in Hewlett-Packard’s corporate history.
+You could argue that 2011, marked by the brief period that Léo Apotheker was
+CEO, was worse in many ways, and that the difficulties the company struggled
+to correct in 2012 were created in the prior year. But by all the metrics that
+count, the year now ending was a whopper: Sales on an annual basis fell by
+more than 5 percent to $120.4 billion, and on a GAAP basis it swung from a $7
+billion profit to a $12.6 billion loss. Much of those losses can be attributed
+to a combined $17 billion in write-downs taken during the second half of the
+year. The biggest was the $8.8 billion write-down announced on Nov. 20, of
+which $5.7 billion was attributed to Autonomy, the British software firm HP
+acquired for north of $11 billion in 2011. Another $8 billion was the result
+of an impairment charge related to EDS, the IT services concern HP acquired in
+2008 for $14 billion. If 2012 was the year that HP sought to package up all
+the toxic accounting and financial disclosures it could find, then 2013 either
+will or won’t be the year where it starts down the path toward recovery and
+turnaround. While HP is technically shut down now for the holidays, people
+I’ve talked to there in recent days tell me that the internal message being
+broadcast to employees at all levels is consistent: This year, everyone has to
+deliver. Investors frustrated by the decline in value in HP’s shares in 2012 —
+at $13.68, as of Friday’s close, the shares are down nearly 49 percent this
+year — have largely come to terms with the notion that HP had to suffer
+through a horrible year in order to begin the arduous process of rebuilding
+its business and balance sheet, though the company and its CEO, Meg Whitman,
+have essentially exhausted their indulgences. At a meeting of financial
+analysts in October, Whitman portrayed 2013 as a “fix and rebuild” year, and
+so the fixing and rebuilding will, a year from now, have to be apparent. The
+problem with that is that in the very same speech, Whitman projected profit
+declines in 2013. The difficulty is clear in nearly every single line of HP’s
+business. While each line of business remains profitable — take out the
+combined $20.3 billion in impairment and restructuring charges on HP’s
+financial statements, and you see a $7.7 billion operating profit — sales in
+practically all of them declined by a range of 2 percent (services) to 10
+percent (PCs). That’s unlikely to change in the face of an uncertain global
+economy. HP makes about 65 percent of its sales outside the U.S., and has
+historically had the widest exposure to Europe of all the major tech
+companies. So, if 2013 goes according to Whitman’s recovery plan, what does it
+look like? For one thing, expect a boost in research-and-development spending.
+Whitman has made it clear that she thinks that R&D; spending as a percentage
+of sales has been trimmed further in recent years than it should have been. In
+2004, R&D; spending at HP amounted 4.5 percent of sales. By fiscal 2010, it
+was 2.3 percent. In 2012, it was 2.8 percent. CFO Cathie Lesjak has said
+spending will be boosted in 2013, along with increased spending on internal IT
+infrastructure. Also, expect more restructuring. The bulk of the 29,000 jobs
+cut at HP will take place during 2013, which will incur about $1.5 billion
+worth of restructuring charges. All in all, it’s going to make 2013 a tough
+year for HP, though if it has any good luck at all, it will be less difficult
+and drama-filled than 2012. Analysts expect HP’s sales in its 2013 fiscal year
+(ending in October) to decline again to just north of $112 billion and, on
+average, they expect per-share profits on a non-GAAP basis to be $3.31. By
+October it should be clear if the repair work undertaken is having any effect.
+Costs will be decreased. Most of the restructuring will be complete and, with
+luck, the global economic picture will have improved, if only slightly. If
+HP’s official guidance for fiscal 2014 doesn’t begin to look optimistic,
+that’s when talk of an endgame — really only speculative now — will begin in
+earnest. So far, Whitman’s argument has been that HP is stronger as a combined
+unit than it could ever be if split into two or more pieces. If results and
+guidance aren’t looking up by late 2013, shareholders will start looking for
+alternatives, and a breakup will be at the top of their list. One person who
+might lead that discussion is director Ralph Whitworth. An activist investor
+with a history of pushing companies into breakup strategies, Whitworth’s
+Relational Investors LLC owns about 34.5 million HP shares. That investment is
+about $318 million under water as of Friday’s closing price. Late in 2013, a
+two-year agreement he has with HP not to seek a breakup or sale of any
+significant assets will expire. If his patience with HP’s management and
+strategy wavers at all, expect the breakup conversation to get serious
+quickly, and to dominate media coverage about it into 2014. ]]>
+http://allthingsd.com/20121231/the-pressure-is-on-hp-to-stand-and-deliver-
+in-2013/feed/ 0 Mike Lynch Punches Back at Today's HP Filing: Whither $5B
+Writedown? http://allthingsd.com/20121227/mike-lynch-punches-back-at-todays-
+hps-filing-whither-5b-writedown/ http://allthingsd.com/20121227/mike-lynch-
+punches-back-at-todays-hps-filing-whither-5b-writedown/#comments Fri, 28 Dec
+2012 01:32:29 +0000 http://allthingsd.com/?p=281075 Autonomy founder Mike
+Lynch is still not backing down in his ongoing battle with Hewlett-Packard.
+“Simply put, these allegations are false, and in the absence of further detail
+we cannot understand what HP believes to be the basis for them,” he said in a
+statement, as well as aiming at $5 billion in writedowns the company has taken
+related to the controversial deal. “We continue to reject these allegations in
+the strongest possible terms.” Lynch’s latest volley was prompted by a
+regulatory filing HP made earlier today, noting that the U.S. Department of
+Justice was indeed investigating its acquisition of British software company,
+for which it is trying to write down about $5 billion in expenses due to
+alleged “serious accounting improprieties.” HP had taken the case to U.S.
+federal authorities in the first place, but now it’s official. This caused
+Lynch, who has been vociferously battling the Silicon Valley tech giant over
+the allegations and rejecting HP’s claims of fraud in the $12 billion
+acquisition, to respond again. In his statement, he presented a laundry list
+of arguments about how HP is trying to fool investors by pointing the finger
+at him. Here’s his whole thing, so you can read for yourself: It is extremely
+disappointing that HP has again failed to provide a detailed calculation of
+its $5 billion write-down of Autonomy, or publish any explanation of the
+serious allegations it has made against the former management team, in its
+annual report filing today. Furthermore, it is now less clear how much of the
+$5 billion write-down is in fact being attributed to the alleged accounting
+issues, and how much to other changes in business performance and earnings
+projections. This appears to be a material change in HP’s allegations. Simply
+put, these allegations are false, and in the absence of further detail we
+cannot understand what HP believes to be the basis for them. We also do not
+understand why HP is raising these issues now given that Autonomy reported
+into the HP Finance team from the day the acquisition completed in October
+2011, there was an extensive due diligence process and Autonomy was audited as
+a public company for many years. We would particularly make the following
+points: * HP’s CFO Cathie Lesjak and her team, plus a number of outside
+advisors, had access to all Autonomy accounts and documents from October 2011
+onwards, and raised no issues. * Beginning in November 2011, HP and KPMG
+reviewed Autonomy’s closing balance sheet in detail, and Ernst & Young
+reviewed Deloitte’s audit work papers. * Beginning in October 2011, HP studied
+in detail Autonomy’s tax structure and transfer pricing as well as its revenue
+recognition practices (led by Paul Curtis, HP’s worldwide head of revenue
+recognition). * An independent, third-party valuation of Autonomy’s assets was
+carried out in January 2012. * Quarterly business reviews were held with
+Autonomy management, Meg Whitman and Cathie Lesjak to discuss Autonomy’s
+financial performance. * HP has continued to sell and account for hardware
+alongside Autonomy software in the same way that Autonomy did for the year
+since the acquisition completed. * Regarding differences between IFRS and US
+GAAP accounting standards, which appear to have a role in some of the
+allegations HP has made, Autonomy’s accounting policies were made clear in
+Autonomy’s 2010 annual report. We also note the statement in HP’s annual
+report that it received confirmation from the US Department of Justice on 21
+November 2012 (the day after HP’s first public statement), that the Department
+had opened an investigation. We can confirm that we have as yet had no contact
+from any regulatory authority. We will co-operate with any investigation and
+look forward to the opportunity to explain our position. We continue to reject
+these allegations in the strongest possible terms. Autonomy’s financial
+accounts were properly maintained in accordance with applicable regulations,
+fully audited by Deloitte, and available to HP during the due diligence
+process. We remain deeply concerned about how this process has been conducted,
+and believe it is in everyone’s interest for it to be resolved as soon as
+possible. RELATED POSTS: More From Mike Lynch: HP’s Autonomy Accusations Are
+Getting Weaker Mike Lynch Punches Back at Today’s HP Filing: Whither $5B
+Writedown? HP Confirms DOJ Is Investigating Alleged Fraud in Autonomy Deal
+Yes, There Are Layoffs Pending at HP’s Autonomy Unit in the U.K. Former HP CEO
+Shifts Blame for Autonomy Deal to Chairman Dell Passed on Autonomy Before HP
+Bought It Why Mike Lynch Is Playing PR Hardball With HP Autonomy Founder Lynch
+Asks Board to Explain HP Allegations Autonomy Founder Lynch Blames Accounting
+Standards in HP Flap The Red Flags That Were Obvious — To Some — In the HP-
+Autonomy Deal Oracle’s Ellison Vindicated in Autonomy PR Flap by HP’s $8.8
+Billion Writedown Autonomy Founder Mike Lynch Rejects HP Charges, Alleges
+Mismanagement What Exactly Happened at Autonomy? HP Explains Its $8.8 Billion
+“Oops” HP Beats Street Amid Sales Declines, Takes $8.8 Billion Charge HP Names
+Microsoft Exec Robert Youngjohns to Run Autonomy Search Under Way at HP for
+Autonomy’s Next Chief Autonomy’s Mike Lynch Talks About Being HP’s Speedy
+Tiger Cub (Video) Britain’s First Software Billionaire Now Reports to HP CEO
+Meg Whitman Oracle Launches Exalytics Machine, Probably Ending Spat With
+Autonomy Autonomy: When All Else Fails, Blame the Bankers Mike Lynch to
+Oracle: Oh, You Mean Those Slides Oracle: You Have a Very Bad Memory, Mr.
+Lynch HP Reportedly Close to $10 Billion Buyout of Autonomy, PC Unit Spinoff
+Will Oracle and Microsoft Bid on Autonomy? ]]>
+http://allthingsd.com/20121227/mike-lynch-punches-back-at-todays-hps-filing-
+whither-5b-writedown/feed/ 0 HP Credit Rating Cut by Moody's, Put on Negative
+Watch http://allthingsd.com/20121128/hp-credit-rating-cut-by-moodys-put-on-
+negative-watch/ http://allthingsd.com/20121128/hp-credit-rating-cut-by-moodys-
+put-on-negative-watch/#comments Wed, 28 Nov 2012 20:54:42 +0000
+http://allthingsd.com/?p=273529 Hewlett-Packard’s credit rating has just been
+lowered by the rating’s service Moody’s. The new rating is Baa1 with a
+negative outlook, and is a reduction from A3. Moody’s said that while HP will
+remain the leader in several market segments for the time being, its “credit
+profile will remain weaker than previously expected over the intermediate
+term.” HP’s debt load, and the expenses it incurs to borrow, have become an
+ongoing concern; over the summer, credit default swaps on its bonds —
+essentially the insurance that debt investors buy to protect against the
+possibility of a default — were “blowing out,” as the term of art goes. The
+end result of downgrades like this is that when HP next goes to the debt
+markets to borrow money to finance some aspect of its operations, it will
+probably have to incur higher costs to do it. It was the second downgrade on
+HP’s credit rating by Moody’s this year. The last one was in January.
+Previously, both Fitch and Standard and Poors cut their ratings on HP late
+last year. Fitch has had a negative outlook on HP since then. One thing HP
+doesn’t have is downgrade triggers on any of its debt. Sometimes companies
+have triggers written into their debt agreements that have the effect of
+accelerating the maturity dates by which the debt has to be repaid. But, as HP
+conceded in its most recent 10Q filing with the U.S. Securities and Exchange
+Commission, the downgrades already incurred have increased the cost of
+borrowing and overall reduced its capacity to borrow. HP does have pretty
+ample cash reserves, and Moody’s even says as much in its announcement: $11.3
+billion in cash and equivalents as of the end of the most recent quarter, and
+it said it expects that level to remain north of $8 billion for the forseeable
+future. Add to that an expected $4 billion in free cash flow in 2013, and it
+makes it unlikely that HP will need to borrow anytime soon. Another bit of
+good news for 2013 is that HP has about $5.5 billion in debt maturities due,
+starting with a $1.5 billion payment in March and additional payments due in
+May, August and September. But there’s another $8 billion and change due in
+the following two years. Some will be repaid, some refinanced. Whatever the
+outcome, today’s downgrade is a step in the wrong direction from what CFO
+Cathie Lesjak talked about at HP’s analyst’s meeting in San Francisco last
+month. At the time, she said getting HP back to what she called a “Mid
+Single-A” credit rating is “a top priority for us.” The only way to do that,
+she said, was to reduce the net debt load of the operating company — the
+portion of the debt not held by the finance division that is there to help
+customers buy HP gear — to “roughly zero.” That will take time. Here’s the
+full announcement, courtesy of Moody’s: Rating Action: Moody’s lowers Hewlett-
+Packard’s senior unsecured rating to Baa1, outlook negative Global Credit
+Research – 28 Nov 2012 Approximately $25 billion of debt securities affected
+New York, November 28, 2012 — Moody’s Investors Service lowered the long term
+credit ratings of Hewlett-Packard (HP), including the senior unsecured rating
+to Baa1 from A3. The Prime-2 short term rating is affirmed. This concludes a
+review initiated October 4, 2012. The outlook is negative. RATINGS RATIONALE
+The new rating reflect our expectations that “although HP will maintain strong
+to leading positions in a number of product areas, the company’s credit
+profile will remain weaker than previously expected over the intermediate
+term,” said Moody’s senior vice president, Richard Lane. The negative rating
+outlook reflects our concerns about HP’s ability to contend with the
+significant competitive, secular and execution challenges facing the company.
+A “broad portion of HP’s portfolio, including PC’s, some enterprise servers,
+printers, and services, representing over 75% of revenue, will face slow to no
+growth prospects over the coming years,” said Lane. The ability to restore
+growth and profitability has sufficient uncertainty that we believe event risk
+in the form of more shareholder friendly actions or portfolio repositioning
+could develop, which would pressure the company’s credit ratings. Key drivers
+to the projected credit profile include “company-specific execution challenges
+in services and software, secular shifts in PCs and printing, competitive
+pressures throughout its broad portfolio, as well as a cautious demand
+environment,” said Lane. As a result, we expect HP’s revenue will decline 5%
+next year while operating margins approximate 7% as compared to a nearly 9.8%
+historical average prior to 2012 (using Moody’s standard adjustments). We also
+anticipate free cash flow (post dividends) of approximately $4 billion next
+year, down from our prior expectations of $6 billion to $7 billion, driven by
+restructuring related cash outflows and overall weaker operating performance.
+We believe HP will remain committed to reducing gross debt over the
+intermediate term after having reduced debt by $2.2 billion in 2012. We
+anticipate HP will repay at least half of its debt maturities over the next
+few years. In fiscal 2013, debt maturities total $5.5 billion with $1.5
+billion due in March, $1.75 billion in May and $1.1 billion in each of August
+and September. HP has $4.9 billion and $3.2 billion of debt maturities in 2014
+and 2015. Assuming HP repays approximately half of its debt maturities and
+refinances the rest, we project HP’s adjusted debt to EBITDA, estimated at
+2.0x at October 2012, will approximate 1.9x at the end of 2013 and potentially
+1.6x by 2015. Ratings lowered include: senior unsecured rating to Baa1 from A3
+subordinated rating to (P)Baa2 from (P)Baa1 preferred rating to (P)Baa3 from
+(P)Baa2 Rating outlook negative We expect HP’s acquisition activity will be
+minimal over the next few years as management focuses more on internal
+research and development over acquisitions, where HP has demonstrated a poor
+track record. While the less acquisitive posture reduces event risk, this
+approach also raises the potential that HP could lose some competitive ground
+against peers who have more flexibility to get to market faster with products
+and technology offerings via acquisition. HP maintains a solid liquidity
+profile. At the end of October 2012, HP had $11.3 billion of cash and
+equivalents and we expect HP will maintain cash balances in excess of $8
+billion. While a significant portion of this cash is held offshore, the
+company has tax efficient access to material amounts of this cash. We project
+about $4 billion of free cash flow in 2013, with the first half being weaker
+than the second half due to some seasonality and heavier restructuring cash
+outflows (primarily headcount). The company maintains solid alternate
+liquidity to support outstanding commercial paper ($574 million at July 2012)
+in the form of a $4.5 billion bank facility maturing February 2015 and a $3.0
+billion bank facility maturing March 2017. Both have one financial covenant
+under which HP has ample room, and no need to represent as to no material
+adverse change. HP’s ratings are unlikely to be raised over the next year. The
+rating could be stabilized over the 12 to 18 months if the company
+demonstrates consistent execution and progress in restoring sustainable
+profitability throughout its portfolio. Longer term, the ratings could be
+raised if the company: (1) demonstrates steady organic revenue growth; (2) is
+likely to sustain EBIT margins above 9%; and (3) adheres to its conservative
+financial practices which include maintaining significant liquidity and a
+modestly leveraged balance sheet such that adjusted debt to EBITDA were below
+1.5x on a sustained basis. HP’s ratings could be lowered if the company (1)
+maintains adjusted debt to EBITDA above 2.0x; (2) EBIT margins fall below 6%
+for an extended period of time; or (3) deviates from our expectations of
+conservative financial practices. For further information, please see
+www.moodys.com. Hewlett-Packard, headquartered in Palo Alto, California, with
+$120 billion in revenue for the twelve months ended October 2012, is the
+world’s largest technology firm by revenue that designs, manufactures, and
+services computing and imaging systems and provides information technology and
+consulting services. The principal methodology used in rating Hewlett Packard
+was the Global Technology Hardware Industry Methodology published in September
+2010. Please see the Credit Policy page on www.moodys.com for a copy of this
+methodology. REGULATORY DISCLOSURES The Global Scale Credit Ratings on this
+press release that are issued by one of Moody’s affiliates outside the EU are
+endorsed by Moody’s Investors Service Ltd., One Canada Square, Canary Wharf,
+London E 14 5FA, UK, in accordance with Art.4 paragraph 3 of the Regulation
+(EC) No 1060/2009 on Credit Rating Agencies. Further information on the EU
+endorsement status and on the Moody’s office that has issued a particular
+Credit Rating is available on www.moodys.com. For ratings issued on a program,
+series or category/class of debt, this announcement provides relevant
+regulatory disclosures in relation to each rating of a subsequently issued
+bond or note of the same series or category/class of debt or pursuant to a
+program for which the ratings are derived exclusively from existing ratings in
+accordance with Moody’s rating practices. For ratings issued on a support
+provider, this announcement provides relevant regulatory disclosures in
+relation to the rating action on the support provider and in relation to each
+particular rating action for securities that derive their credit ratings from
+the support provider’s credit rating. For provisional ratings, this
+announcement provides relevant regulatory disclosures in relation to the
+provisional rating assigned, and in relation to a definitive rating that may
+be assigned subsequent to the final issuance of the debt, in each case where
+the transaction structure and terms have not changed prior to the assignment
+of the definitive rating in a manner that would have affected the rating. For
+further information please see the ratings tab on the issuer/entity page for
+the respective issuer on www.moodys.com. Information sources used to prepare
+the rating are the following: parties involved in the ratings, parties not
+involved in the ratings, public information, and confidential and proprietary
+Moody’s Investors Service information. Moody’s considers the quality of
+information available on the rated entity, obligation or credit satisfactory
+for the purposes of issuing a rating. Moody’s adopts all necessary measures so
+that the information it uses in assigning a rating is of sufficient quality
+and from sources Moody’s considers to be reliable including, when appropriate,
+independent third-party sources. However, Moody’s is not an auditor and cannot
+in every instance independently verify or validate information received in the
+rating process. Please see the ratings disclosure page on www.moodys.com for
+general disclosure on potential conflicts of interests. Please see the ratings
+disclosure page on www.moodys.com for information on (A) MCO’s major
+shareholders (above 5%) and for (B) further information regarding certain
+affiliations that may exist between directors of MCO and rated entities as
+well as (C) the names of entities that hold ratings from MIS that have also
+publicly reported to the SEC an ownership interest in MCO of more than 5%. A
+member of the board of directors of this rated entity may also be a member of
+the board of directors of a shareholder of Moody’s Corporation; however,
+Moody’s has not independently verified this matter. Please see Moody’s Rating
+Symbols and Definitions on the Rating Process page on www.moodys.com for
+further information on the meaning of each rating category and the definition
+of default and recovery. Please see ratings tab on the issuer/entity page on
+www.moodys.com for the last rating action and the rating history. The date on
+which some ratings were first released goes back to a time before Moody’s
+ratings were fully digitized and accurate data may not be available.
+Consequently, Moody’s provides a date that it believes is the most reliable
+and accurate based on the information that is available to it. Please see the
+ratings disclosure page on our website www.moodys.com for further information.
+Please see www.moodys.com for any updates on changes to the lead rating
+analyst and to the Moody’s legal entity that has issued the rating. ]]>
+http://allthingsd.com/20121128/hp-credit-rating-cut-by-moodys-put-on-negative-
+watch/feed/ 0 What Exactly Happened at Autonomy?
+http://allthingsd.com/20121120/what-exactly-happened-at-autonomy/
+http://allthingsd.com/20121120/what-exactly-happened-at-autonomy/#comments
+Tue, 20 Nov 2012 16:11:09 +0000 http://allthingsd.com/?p=271264 Today’s
+bombshell from Hewlett-Packard concerning an $8.8 billion write-down related
+to Autonomy, the British software firm it acquired in 2011 for $11.7 billion
+in combined cash and assumed debt, is a little hard to understand. Here’s how
+it breaks down: First, HP’s total $8.8 billion write-down isn’t all Autonomy-
+related. Of that total amount, about $5 billion relates specifically to
+Autonomy. Moments ago, on a conference call with reporters, HP CFO Cathie
+Lesjak said that the rest stems from the drop in HP’s share price. The core
+allegation is that people at Autonomy took certain accounting actions while
+still running Autonomy as a publicly held company in the U.K., which had the
+end effect of making Autonomy seem more valuable than it was. As CEO Meg
+Whitman put it on a conference call a few minutes ago: “There appears to have
+been a wilfull effort on the part of certain former Autonomy employees to
+inflate the underlying financials of the company in order to mislead investors
+and potential buyers.” It’s important to note that Autonomy’s founder and
+former CEO Mike Lynch has just issued a statement, essentially denying HP’s
+claims. I heard portions of the statement read on CNBC. In a statement being
+reported by Reuters, he has “flatly rejected” HP’s allegations. Also: “HP’s
+due diligence review was intensive, overseen on behalf of HP by KPMG, Barclays
+and Perella Weinberg. HP’s senior management has also been closely involved
+with running Autonomy for the past year.” So what is alleged to have happened?
+For one thing, Autonomy, as HP tells it, was selling some hardware at a loss.
+During a period of about eight quarters prior to HP’s acquisition, Autonomy
+sold some hardware products that had a very low margin or on which it may have
+even taken a loss. It then allegedly turned around and booked those hardware
+sales as high-margin software sales. At least some portion of the cost on
+these products, Whitman said, was booked as a marketing expense, not as cost
+of goods sold. There’s a second piece of the puzzle, where HP says that
+Autonomy was selling software to value-added resellers — the middlemen in so
+many technology transactions — in which there are ultimately no end users.
+That, too, inflated apparent revenue. Third, there were some long-term hosting
+deals — essentially, Autonomy hosting applications for its customers on a
+subscription basis — that were converted to short-term licensing deals. Future
+revenue for software subscriptions — that should have been deferred or
+recorded as coming in the future but not yet booked — were stripped out and
+booked all at once. John Schultz, HP’s general counsel, said there appeared to
+be what he called “a conscious effort by some former Autonomy employees to
+portray it as a pure software company.” The low-margin or loss-making hardware
+sales in particular, he said on the conference call, amounted to as much as 10
+percent to 15 percent of Autonomy’s revenue during the eight-quarter period in
+question. It had the effect, Schultz said, of not only closing the gap between
+actual financial growth and the consensus expectation of analysts — meeting
+the consensus is always a concern at a publicly held company — but also
+inflated the “growth metrics” of the company. “From an accounting perspective,
+there were improprieties, but also there were severe disclosure failures,” he
+said. Lesjak said the problems are not only with the fact that revenue was
+inflated by itself, but the kinds of revenue. “These hardware sales were
+frequently reported as licenses. The VAR sales were reported as licenses, and
+they weren’t, in some sense, real sales, because there was no end user.” The
+result, Lesjak said, was that Autonomy was able to boost its gross margins, a
+key measurement of profitability. Where Autonomy had been reporting gross
+margins in the neighborhood of 40 percent to 45 percent, Lesjak said a more
+realistic gross margin at Autonomy going forward is in the 28 percent to 30
+percent range. So what is HP going to do about it? First, it has reported the
+matter to the enforcement division of the U.S. Securities and Exchange
+Commission, and to the Serious Fraud Office in the U.K. Once those authorities
+have their say, HP will likely sue someone. Whitman conceded that it will
+likely take years before it’s all done. It’s going to get ugly before it’s
+over. The Wall Street Journal just got a statement from former HP CEO Léo
+Apotheker, who did the Autonomy deal during his 11-month tenure as CEO. In a
+word, he says he’s “stunned.” He will also make himself available to help HP
+get to the bottom of it all. Whitman was just on CNBC for several minutes,
+going through the particulars and reiterating much of what she said on the
+conference call with reporters. Here’s the video: RELATED POSTS: More From
+Mike Lynch: HP’s Autonomy Accusations Are Getting Weaker Mike Lynch Punches
+Back at Today’s HP Filing: Whither $5B Writedown? HP Confirms DOJ Is
+Investigating Alleged Fraud in Autonomy Deal Yes, There Are Layoffs Pending at
+HP’s Autonomy Unit in the U.K. Former HP CEO Shifts Blame for Autonomy Deal to
+Chairman Dell Passed on Autonomy Before HP Bought It Why Mike Lynch Is Playing
+PR Hardball With HP Autonomy Founder Lynch Asks Board to Explain HP
+Allegations Autonomy Founder Lynch Blames Accounting Standards in HP Flap The
+Red Flags That Were Obvious — To Some — In the HP-Autonomy Deal Oracle’s
+Ellison Vindicated in Autonomy PR Flap by HP’s $8.8 Billion Writedown Autonomy
+Founder Mike Lynch Rejects HP Charges, Alleges Mismanagement What Exactly
+Happened at Autonomy? HP Explains Its $8.8 Billion “Oops” HP Beats Street Amid
+Sales Declines, Takes $8.8 Billion Charge HP Names Microsoft Exec Robert
+Youngjohns to Run Autonomy Search Under Way at HP for Autonomy’s Next Chief
+Autonomy’s Mike Lynch Talks About Being HP’s Speedy Tiger Cub (Video)
+Britain’s First Software Billionaire Now Reports to HP CEO Meg Whitman Oracle
+Launches Exalytics Machine, Probably Ending Spat With Autonomy Autonomy: When
+All Else Fails, Blame the Bankers Mike Lynch to Oracle: Oh, You Mean Those
+Slides Oracle: You Have a Very Bad Memory, Mr. Lynch HP Reportedly Close to
+$10 Billion Buyout of Autonomy, PC Unit Spinoff Will Oracle and Microsoft Bid
+on Autonomy? ]]> http://allthingsd.com/20121120/what-exactly-happened-at-
+autonomy/feed/ 0 HP Explains Its $8.8 Billion "Oops"
+http://allthingsd.com/20121120/liveblogging-hps-q4-earnings-call/
+http://allthingsd.com/20121120/liveblogging-hps-q4-earnings-call/#comments
+Tue, 20 Nov 2012 13:12:36 +0000 http://allthingsd.com/?p=271183 Just joining
+the HP conference call in progress. Already the news is amazingly bad, and the
+shares are hitting lows not seen since 2002. If they go much lower, we’ll be
+looking at levels not seen since 1994. 5:13 am: Meg Whitman is speaking about
+Autonomy. She just said there’s a lot of work to do with Autonomy. The
+majority of the accounting charge is related to improprieties, disclosure
+failures and impact from those failures. These improprieties were brought to
+light after an intensive investigation. The SEC criminal enforcement division
+has been contacted, and HP will seek “redress” from certain parties in the
+appropriate courts. Now to guidance. 2013 will be a fix-and-rebuild year. We
+expect the underlying macro headwinds to continue. Finally, the turnaround
+plan we laid out at the analysts meeting. New products and services will kick
+in. R&D; will kick in, and another year of cost managements will result. We
+expect to grow as we reach FY15 and beyond. Our 68 cents to 71 cents EPS non-
+GAAP in Q113. 8:17 am: And here’s Cathie Lesjak: We continue to see
+macroeconomic challenges in all our regions. Lesjak is speaking. I paused
+there to read a statement from HP on the Autonomy charge. I’m going to grab
+some text from that. 8:20 am: “HP is extremely disappointed to find that some
+former members of Autonomy’s management team used accounting improprieties,
+misrepresentations and disclosure failures to inflate the underlying financial
+metrics of the company, prior to Autonomy’s acquisition by HP. These efforts
+appear to have been a willful effort to mislead investors and potential
+buyers, and severely impacted HP management’s ability to fairly value Autonomy
+at the time of the deal. We remain 100 percent committed to Autonomy and its
+industry-leading technology.” Now Lesjak is speaking about this. Of the $8.8
+billion write-down, more than $5 billion comes from Autonomy, and it is linked
+somehow to the trading of HP stock. Expect more revelations on this soon, I
+guess. 8:23 am: Another couple paragraphs from the explanation on the Autonomy
+write-down: “As a result of that investigation, HP now believes that Autonomy
+was substantially overvalued at the time of its acquisition due to the
+misstatement of Autonomy’s financial performance, including its revenue, core
+growth rate and gross margins, and the misrepresentation of its business mix.
+“This appears to have been a willful effort on behalf of certain former
+Autonomy employees to inflate the underlying financial metrics of the company
+in order to mislead investors and potential buyers. These misrepresentations
+and lack of disclosure severely impacted HP management’s ability to fairly
+value Autonomy at the time of the deal.” What it comes down to is this:
+Someone in Autonomy management sought to make that company look like it was
+more valuable than it actually was. Now back to Lesjak’s remarks: She’s
+speaking about the enterprise, servers, storage and networking. Business
+Critical Servers weak again. Persistent revenue declines as a result of the
+Itanium litigation. Mission critical x86 sales were up 25 percent. 8:28 am:
+Here’s the GM news. GM, remember, decided to insource the majority of its IT
+operations. A lot of HP services employees moved to GM. A side benefit was a
+huge software deal, the largest-ever HP software deployment. 8:36 am: Q&A; is
+underway. Whitman just answered a question about Autonomy, and said that
+“basically, the two people who should have been responsible for the problems
+are gone.” Question from Sanford Bernstein: If I look at your guidance, you’re
+guiding for a 40 percent drop in EPS. Historically, you’ve only been down more
+than 10 percent once. I’m wondering, given that your savings should be ramping
+from restructuring. But it’s really hard to get the math. Why the dramatic
+erosion in profitability in Q1? Whitman: The way I look at 2013, we have
+weaker than normal seasonality in the first half. In terms of new products,
+many of those are being introduced now, and you’ll see them start to hit in Q3
+and Q4 of 2013. We’ve looked into this very carefully. We have some headwinds
+coming at us, some of which are out of our control. Lesjak is speaking. We had
+a very significant software deal from GM that is not going to repeat. We have
+to reset our incentive compensation plans. Question about 8,000 people leaving
+in Q4, and why there’s not more savings showing up in the EPS. Lesjak: Yes, we
+got the headcount reductions we expected. Still expecting 29,000, and by end
+of fiscal 2013 we’ll be down 26,000. When we execute reductions outside the
+U.S., they take a lot longer to complete, so the savings are back-end-loaded.
+Also, there’s a lot of new investments in the front of 2013 that start to pay
+off in the end of 2013. Question from Morgan Stanley: A question about the
+trends in the PC and printing market. Whitman: The good news about the PC
+business is that 80 percent is variable-cost. We’re conscious of the pressure
+on the PC business, we’re optimistic about our new products and Windows 8, but
+we have to manage the business as a whole to deliver the operating profits
+that we expect. Lesjak: We have some additional levers with which to manage
+our cost. In printing and PCs, it’s about managing your costs day in and day
+out. 8:47 am: Q: What drove the 25 percent decline in enterprise profits? Why
+wouldn’t your enterprise assumptions for 2013 be at risk? They came from low
+top-line growth, and an aggressive pricing environment, especially in Europe.
+Itanium hurt us and our Hyperscale business, and our margins there are
+materially different than the industry standard. We’re really investing in the
+large and growing and profitable market segment, and over time, that will
+offset Itanium. Also Hyperscale and Moonshot are disruptive products. Over the
+long term, we do expect these dynamics to bring margins back up. Whitman: One
+of the main things we have to focus on is the mainstream server business. We
+have to better manage the supply chain and reconfigure some of the products.
+Dave Donatelli and his team will execute against that in the first half of
+2013. Lesjak: This is one of the key areas where we are putting R&D.; This is
+not necessarily going to be a linear year. 8:50 am: Question about guidance.
+With Q1 guidance down, why aren’t you lowering your guidance for the full
+year? (70 cents implies a full-year EPS of $2.80, which is a lot lower than
+the guidance of $3.40 to $3.60.) Lesjak: It’s basically that there’s a lot of
+confidence in the second half of 2013. New PCs and printers, new OfficeJet.
+That’s a product that doesn’t ship until February. Whitman: When we gave
+guidance for Q1, we knew this would be a question. We went through it
+thoroughly, customer by customer, and we understand what your concern is, but
+we feel good about the guidance for the year. Question about savings and cash
+flow. Lesjak: What is important to take away from the Q4 results: When we
+focus, we achieve results. We’re not updating our guidance cash flow for FY13.
+Whitman: With regard to cost savings. They focus in two areas, labor and non-
+labor. Making changes to your labor force in Western Europe is a big
+challenge, it can take as much as 12 months to 18 months to get it done. 8:59
+am: Final question. Back on Autonomy. Can you provide steps and timing on
+remedies? Whitman: Our internal investigation is ongoing. We have turned over
+the investigation to the SEC in the U.S., and the Serious Fraud Office in the
+U.K. That process is under way. It will take some time. It will take a long
+way to work through, but we will seek redress for our shareholders. Q: And you
+will wait until the criminal investigation is over with, and then you seek a
+civil case? Whitman: Basically, yes. (She previously said she expects a
+multiyear process.) And that’s the end of the call. RELATED POSTS: More From
+Mike Lynch: HP’s Autonomy Accusations Are Getting Weaker Mike Lynch Punches
+Back at Today’s HP Filing: Whither $5B Writedown? HP Confirms DOJ Is
+Investigating Alleged Fraud in Autonomy Deal Yes, There Are Layoffs Pending at
+HP’s Autonomy Unit in the U.K. Former HP CEO Shifts Blame for Autonomy Deal to
+Chairman Dell Passed on Autonomy Before HP Bought It Why Mike Lynch Is Playing
+PR Hardball With HP Autonomy Founder Lynch Asks Board to Explain HP
+Allegations Autonomy Founder Lynch Blames Accounting Standards in HP Flap The
+Red Flags That Were Obvious — To Some — In the HP-Autonomy Deal Oracle’s
+Ellison Vindicated in Autonomy PR Flap by HP’s $8.8 Billion Writedown Autonomy
+Founder Mike Lynch Rejects HP Charges, Alleges Mismanagement What Exactly
+Happened at Autonomy? HP Explains Its $8.8 Billion “Oops” HP Beats Street Amid
+Sales Declines, Takes $8.8 Billion Charge HP Names Microsoft Exec Robert
+Youngjohns to Run Autonomy Search Under Way at HP for Autonomy’s Next Chief
+Autonomy’s Mike Lynch Talks About Being HP’s Speedy Tiger Cub (Video)
+Britain’s First Software Billionaire Now Reports to HP CEO Meg Whitman Oracle
+Launches Exalytics Machine, Probably Ending Spat With Autonomy Autonomy: When
+All Else Fails, Blame the Bankers Mike Lynch to Oracle: Oh, You Mean Those
+Slides Oracle: You Have a Very Bad Memory, Mr. Lynch HP Reportedly Close to
+$10 Billion Buyout of Autonomy, PC Unit Spinoff Will Oracle and Microsoft Bid
+on Autonomy? ]]> http://allthingsd.com/20121120/liveblogging-hps-q4-earnings-
+call/feed/ 0 HP Shares Tumble on Dismal 2013 Outlook
+http://allthingsd.com/20121003/hp-shares-tumble-on-dismal-2013-outlook/
+http://allthingsd.com/20121003/hp-shares-tumble-on-
+dismal-2013-outlook/#comments Wed, 03 Oct 2012 18:47:03 +0000
+http://allthingsd.com/?p=256860 The turnaround at computing and IT giant
+Hewlett-Packard is going to take quite a bit longer, and investors don’t like
+it one bit. HP shares are setting new 52-week and 10-year lows after CFO
+Cathie Lesjak issued new guidance for fiscal 2013, saying the company now
+expects to earn between $3.40 and $3.60 on a non-GAAP basis, significantly
+lower than the $4.18 analysts had been expecting. In afternoon trading, HP’s
+shares were down about 11 percent, in the neighborhood of $15.25. Lesjak said
+HP continues to expect a difficult environment in Europe and a weak consumer
+market, and that every HP business segment except for software is bracing for
+a year-on-year decline in sales. She said she expects a 2 percent headwind
+from currency effects as the U.S. dollar remains strong against the euro.
+Operating margins are also expected to decline year on year, but the amount
+was not specified. In remarks before Lesjak’s, CEO Meg Whitman painted a
+picture of a turnaround that at best wouldn’t be complete before 2016, with
+2013 another year for declines in sales and profit. Whitman said she sees 2014
+as the year when the first signs of a turnaround would be apparent. “I believe
+that 2014 will be the year you see real recovery and expansion at HP,” she
+said. “You should see every business unit recover and grow. Our investments in
+R&D; and IT will begin to kick in. And we will have demonstrated an ability to
+manage costs in line with revenue.” Also, more debt will have been paid down
+by then, she said. HP indicated that much of the drag on its performance was
+in its Enterprise Services unit, the company formerly known as EDS. That unit
+is expected to see its sales drop by 11 percent to 13 percent, with operating
+margins expected to be flat to down 3 percent. In another presentation, Mike
+Nefkens, the acting head of Global Services, and J.J. Chabon, senior VP and
+COO of the services unit, blamed the problems on “poor execution.” Operating
+margins in the services unit declined from north of 10 percent in 2010 to
+about 3 percent as of this year. They said that poor contracting practices led
+to pricing concessions to customers that turned out unfavorable to HP. Worse,
+HP Services saw revenue declines amounting to about 5 percent in relation to
+four major accounts, while an additional 2 percent was the result of currency
+effects. It looks more or less like another example of HP taking its bitter
+medicine as it seeks to get things going in the right direction. You certainly
+can’t say that Whitman and Lesjak sugar-coated any aspect of the situation HP
+finds itself in. “HP did a good job self-diagnosing its many challenges and
+talking about optimizing near-term business, but they need to do more
+highlighting growth areas, analyst Patrick Moorhead, head of Moor Insights &
+Strategy told me. “HP must describe how it intends to win in a PC-plus, public
+cloud future before it will be seen as a growth company.” ]]>
+http://allthingsd.com/20121003/hp-shares-tumble-on-dismal-2013-outlook/feed/ 0
+HP's Whitman Sees a Tough 2013 as Company Turnaround Effort Continues
+http://allthingsd.com/20121003/liveblogging-meg-whitmans-remarks-from-the-hp-
+analysts-meeting/ http://allthingsd.com/20121003/liveblogging-meg-whitmans-
+remarks-from-the-hp-analysts-meeting/#comments Wed, 03 Oct 2012 15:15:51 +0000
+http://allthingsd.com/?p=256759 Hewlett-Packard has convened a meeting of
+securities analysts in San Francisco at which CEO Meg Whitman is expected to
+give the latest look ahead at how she plans to turn the company around. As
+shareholders, employees and customers know all too well, there are many things
+that need fixing, and the fact that the share price has recently been trading
+no higher than where it was in 2002 is about as strong an indication of that
+as you can get. Whitman has several items on the agenda about which analysts
+will be expecting to hear: Rationalizing her decision to keep the PC business,
+entering the mobile device business again after bailing out of the webOS
+hardware business, fixing the IT services unit on which the company took an
+enormous write-down recently, and growing the software business are but a few.
+But the big item will be financial guidance for the coming year. The
+proceedings are about to begin. Earlier: 8:16 am: The program is getting under
+way with introductions. It will be Cathie Lesjak who gives the much-
+anticipated financial guidance, and she will speak after Meg. Right now, Rob
+Binns is giving an introduction and reading the safe-harbor statement.
+Riveting. And here’s Meg. Whitman: Our goal today is to be pretty
+straightforward. We want you to understand the journey that we’re on to turn
+around one of the world’s great technology franchises. Whitman: When I became
+CEO, it was a turbulent time for HP. Since then, I’ve seen the company’s
+strengths. Customers and partners want HP to win. One important strength is
+global reach. We can reach any corner of the globe. One of the things I heard
+we were short of on HP is innovation. My conclusion is not that we don’t have
+enough ideas and innovation. It’s that we don’t work hard enough to get those
+ideas into the marketplace. Whitman: In the last decade, HP has made a
+remarkable transformation from a printing company to a diversified IT company.
+Whitman: The good news is that we are No. 1 or 2 in each of the major markets,
+and we can leverage that position in areas like supply chain and distribution.
+Whitman: HP has a well-known and trusted brand. We also have a talented,
+committed and, I would say, resilient workforce. We will do anything for
+customers. They are at the heart of the company and have been for 75 years. In
+2002, HP was a printing company with 95 percent of profits coming from
+printing. Carly Fiorina and Mark Hurd assembled a powerful set of businesses.
+From 2010, HP has seen a multi-quarter decline in revenue and margins.
+Whitman: My belief is that the single biggest challenge at HP is the changes
+in the CEOs. There have been multiple inconsistent plans and executional
+miscues limiting the speed of recovery. 8:27 am: EDS has had four different
+leaders in only a few years. All of this is fixable, and it is going to take
+some time. In basic execution, HP has challenges. We don’t have the sharp
+competitive focus we’re going to use. HP also has too many areas of focus,
+whether it’s products or geographies. 8:28 am: Whitman: Expect the number of
+printer SKUs to be cut by 50 percent next year. Todd Bradley, the EVP who runs
+PCs and printers, was surprised to learn that HP makes 2,100 different
+printers. Whitman: Marketing hasn’t been centralized; different units have
+been spending money inconsistently. Now she’s talking about compensation. I’ve
+learned, at HP, you don’t get what you expect, you get what you inspect.
+Whitman: It has been over seven years since we’ve had a new lineup of
+multifunction printers, but we have a much smaller share than we should in
+this market. We are not as competitive as we need to be in how we go to
+market. Whitman: We haven’t been using a compelling CRM system. We decided to
+move to Salesforce.com, which we think will yield real tangible results. (I’ll
+bet this was the “biggest deal ever” rumor that has been murmured about
+concerning Salesforce for awhile.) Also good news for Workday — HP is a
+customer. Whitman: HP faces dynamic market trends that we must confront.
+Mobility, software as a service, the cloud, hyperscaling. Whitman: We also
+face very aggressive competitors. We have to demonstrate a will to win. We
+face some real macroeconomic headwinds. SMB and enterprise demand in Europe is
+very weak. Consumers are spending less, and there’s no question that China is
+slowing down. Whitman: I will characterize fiscal year 2012 as diagnosing the
+problem and laying foundations for the turnaround. In 2012, the priority was
+to stabilize the company. 8:34 am: We have more work to do, but I think we
+have made good progress. Whitman: Peeling the onion has taken some time. I’ve
+made several organizational and leadership changes that will help HP navigate
+the trends better. Whitman: We now have crisp, agreed-upon strategies across
+the business units. Whitman: We’ve also renewed HP’s focus on products and
+services. Meg is about to run down the next four fiscal years. We’ve just
+completed Year One. 2013 will be a fix-and-rebuild year, and we’ll be doing it
+in a worse macroeconomic environment. Whitman: We made significant changes to
+the salesforce to improve selling but reduce costs. When you disrupt the
+salesforce configuration, it takes time to settle in. Expect a broad-based
+profit decline in 2013. (Ouch.) The good news in 2013 is that the bulk of the
+profit decline will be in enterprise services. Whitman: I believe that 2014
+will be the year you see real recovery and expansion at HP. You should see
+every business unit recover and grow. Our investments in R&D; and IT will
+begin to kick in. And we will have demonstrated an ability to manage costs in
+line with revenue. More debt will be paid down. Whitman: 2015 will accelerate.
+We should see a vastly reduced number of SKUs and platforms, and this should
+reduce costs. Whitman: Compensation will be aligned to business outcomes and
+metrics. By 2016, we should have achieved market leadership in many areas.
+Financial metric should be growing about as fast as GDP, and profit should be
+growing faster than revenue. 8:40 am: Whitman: I now see, up close and
+personal, the challenges we face. There are no silver bullets. We will solve
+our problems through consistent leadership. Whitman: Now she’s going to run
+down what role each business unit is going to play, going forward. Whitman:
+The core of the company is infrastructure and hardware. They represent 70
+percent of revenue, and it’s something we do better than anyone else, and it’s
+the DNA of the company. We need to stand up and be proud of it. People say it
+will be a commodity business. I say, not if we can help it. 8:44 am: Three big
+themes going forward: Cloud, Security, Information. Whitman: Now she’s diving
+into the enterprise services business. She expects a decline in services
+revenue, with slowly improving margins. Whitman: Now to PCs and printing: $65
+billion, which would make it a Fortune 50 in its own right. PPS will be a low-
+growth business. She’s praising Todd Bradley, who took PCs from a money-losing
+business to being the biggest PC maker in the world. Whitman: The enterprise
+group is a moderate growth business with the potential for faster growth over
+time. This business has an excellent set of assets. Whitman: 2013 will be the
+year that Technology Services gets integrated into the Enterprise group.
+Whitman: Now she’s describing the software unit. 8:50 am: Whitman: For
+services, you’ll see we have an entirely different operating model for 2013.
+The revenue has been disconnected from the people who own them. For 2013, we
+are restoring revenue and profit responsibility to the managers of our top 200
+accounts. Whitman: For PPS, we’re closing the product gaps that have hurt PCs
+and printers. We’re innovating and betting big on the ink business. Whitman:
+In enterprise, it’s all about innovation and the journey to the cloud. For
+software, it’s about getting all the consumption models brought about by the
+shift to the cloud. Whitman: Today, the architectural advances in enterprise
+hardware make it hard to justify the premiums in products from the likes of
+EMC and Cisco. Whitman: 3Par and StorOnce are big offerings in data storage.
+Whitman: Now she’s talking about the current buzzwords in networking:
+Software-defined networking. She said HP has the most comprehensive offering
+in the SDN marketplace. (I didn’t know that.) Whitman is running down several
+products that she says are showing promise in the marketplace. Storage,
+networking, multifunction printers, ArcSight, Autonomy, Vertica. Just looked
+at HP shares: They’re down more than 5 percent while Meg has been speaking.
+Now at $16.18, down 95 cents. Whitman is pretty close to wrapping up, which
+means that CFO Cathie Lesjak will be up with the guidance momentarily.
+Whitman: I believe, with every single bone in my body, if we do this right, we
+can set HP up to be an unrivaled leader for the next 75 years. 9:02 am: And
+here’s Cathie Lesjak. Lesjak: Fiscal 2013 is going to be another challenging
+year for HP. Lesjak: We have seen deteriorating market conditions and
+execution that is not up to our standards. Lesjak: In the first quarter, we
+saw a dip in cash flow, quarter on quarter. We have begun to address these
+with leadership changes, but there’s a lot more work to do. We’ve had
+discipline in the capital allocation progress. Lesjak: Technology services
+will become part of ESSN in fiscal 2013. We are doing this to more
+appropriately align how we manage them. Lesjak: We have generated $4 billion
+in free cash flow. At an operating company level, our net debt has improved by
+$2.5 billion this year. We increased dividend by 10 percent, and bought back
+$1.3 billion worth of shares. Lesjak: I know capital allocation is top of mind
+for all of you, so I want to walk you through how we invest your money.
+Lesjak: Every business unit has differing levels of variable costs. PSG has
+sort of a sliding cost structure, but still manages to maintain its operating
+margins. Lesjak: In May of this year, we adopted a multiyear restructuring
+plan. We are increasing R&D; costs in FY 2013. Lesjak: We expect $1.5 billion
+in restructuring in FY 2013. We expect 26,000 people to leave the company as
+part of the restructuring. Expect $2.7 billion more in restructuring costs.
+Lesjak: Must of the operational savings will be needed to offset the economic
+headwinds. 9:09 am: Lesjak: Our main priority is to deploy the appropriate mix
+of capital to the most productive uses. Lesjak: Getting back to a mid-single-A
+credit rating is a top priority. Lesjak: We need to reduce our net debt
+position on the operating company to near-zero. Meanwhile, HP shares are down
+6 percent. Looks like it has touched a new 52-week low of $15.93 today. 9:13
+am: Lesjak: Now looking at the progress in rebuilding the balance sheet. Our
+net debt position is below where a mid-single-A company should be. It will be
+a couple years before we are where we need to be. 9:15 am: Here comes the
+outlook. Lesjak: We expect continued weakness in the macroeconomic
+environment. We expect year-on-year revenue declines in all segments except
+software. Lesjak: FY 2013 outlook: Non-GAAP EPS $3.40-$3.60. There goes the $4
+that analysts had been looking for. This is based on an assumption that
+Enterprise Services Business Revenue will decline 11 percent to 13 percent
+across the company. With operating margins of zero to 3 percent. That’s pretty
+huge. And now HP shares are nearing a 7 percent drop. Lesjak: We continue to
+expect continued weakness in Business Critical Systems. Lesjak just ran
+through a slide showing where HP expects different business units to
+contribute to the declines. Enterprise Services will see declines of 29 cents
+to 35 cents a share, the Enterprise Group will see declines of five cents to
+12 cents. Software will contribute one cent to three cents per share in
+growth. PSG, the PC group, will be flat to slightly down by one cent. IPG,
+a.k.a. Printers, will grow by five cents to eight cents. Lesjak: Let’s look
+beyond fiscal 2013. We expect to be a GDP growth company with key segments
+that grow faster than that. That, combined with growth in software, will grow
+our top line. 9:27 am: And Lesjak is done speaking. I’m going to close out the
+liveblog here. ]]> http://allthingsd.com/20121003/liveblogging-meg-whitmans-
+remarks-from-the-hp-analysts-meeting/feed/ 0 Bears Stalk HP Shares Ahead of
+Analyst's Meeting http://allthingsd.com/20120926/bears-stalk-hp-shares-ahead-
+of-analysts-meeting/ http://allthingsd.com/20120926/bears-stalk-hp-shares-
+ahead-of-analysts-meeting/#comments Wed, 26 Sep 2012 12:57:38 +0000
+http://allthingsd.com/?p=254445 Next week, Hewlett-Packard will hold an
+analysts meeting in San Francisco, the main purpose of which will be to offer
+its forward-looking guidance for the coming fiscal year. Also, CEO Meg
+Whitman, CFO Cathie Lesjak and other senior executives will probably open the
+corporate kimono a bit and give a peek inside the financial situation,
+providing more detail than HP usually does. The big looming question is
+whether HP can legitimately turn itself around. Having already set plans to
+reduce its headcount by 29,000, its restructuring is still getting under way.
+There are many betting that Whitman may be in over her head. In a research
+note issued to clients today, ISI’s Brian Marshall considered — and then
+rejected — the bearish case against HP. Short interest in HP — a key indicator
+of market sentiment that a stock’s price is going to fall — has increased
+substantially in the last year: About 3.7 percent of HP shares were short, as
+of Sept. 14, up from less than 1.5 percent a year ago. And the short bets have
+paid off: HP shares closed Tuesday at $16.71, a level they haven’t seen since
+about 2002. Marshall summarizes the bearish case thusly: HP is a broken
+company, and will experience annual revenue declines of about 5 percent
+forever. With the enterprise value amounting to about 8 times free cash flow,
+the company is not generatng enough free cash flow to be an attractive
+investment. Add to that about $20 billion in net debt, and you get a company
+that has little flexibility to make big acquisitions or invest in new
+initiatives. Conclusion: HP’s hopes for delivering $4 a share in annual per-
+share earnings just aren’t tenable. But Marshall is not a bear himself. In his
+view, HP should saw itself in half — one part that generates cash, and one
+that requires cash investments in order to grow. The “growth group,” as
+Marshall sees it, would combine the Enterprise Servers, Storage and Networking
+business unit and HP’s IT Services group. The “cash group” is the new Printing
+and Personal Systems Group, which amounts to about 51 percent of overall
+sales. Marshall argues that HP Executive Vice President Todd Bradley, who runs
+the PC and printer group, will be an effective steward of that unit’s
+contribution to HP’s overall cash flow, allowing the excess to be reinvested
+in the “growth group,” and to rebuild the balance sheet. “While we expect HP
+to continue to post revenue declines of about 5 percent year-on-year for the
+next 18 months before the company becomes a GDP-like grower, we believe annual
+earnings power can be maintained at about $4 per share during this
+transformation period,” Marshall writes. How will HP maintain its earnings
+while revenues slide? Reducing headcount further — Marshall sees another
+15,000 jobs on top of the 29,000 already announced — plus further reductions
+in the overall share count. Add to that a further tightening of operating
+expenses, and HP, he argues, can maintain profits at or near $4 a share
+through 2017. ]]> http://allthingsd.com/20120926/bears-stalk-hp-shares-ahead-
+of-analysts-meeting/feed/ 0 Eight Questions for Hewlett-Packard Software Head
+George Kadifa http://allthingsd.com/20120925/eight-questions-for-hewlett-
+packard-software-head-george-kadifa/ http://allthingsd.com/20120925/eight-
+questions-for-hewlett-packard-software-head-george-kadifa/#comments Tue, 25
+Sep 2012 14:48:17 +0000 http://allthingsd.com/?p=253890 It wasn’t so long ago
+that Hewlett-Packard looked like a hardware company transforming itself into a
+software company. Until former CEO Léo Apotheker was fired by the company’s
+board of directors and replaced with current CEO Meg Whitman, the official
+line at HP was that the way out of its troubles was to divest itself of things
+like PCs and invest heavily in software. One expression of that strategy — and
+a controversial one at that — was the nearly $12 billion acquisition of the
+British software firm Autonomy, announced 13 months ago. HP ultimately didn’t
+spin off its PC business, but its acquisition of Autonomy stuck. Now it is
+firmly part of HP’s software business. As CEO Meg Whitman struggles to turn HP
+around, software is still a key part of her plans. While Whitman has made no
+secret of her opinion that Autonomy needs attention, there are some solid bits
+of HP’s software business — like Vertica and ArcSight — that are showing
+significant promise, if only they could grow. Finding a way to get them
+growing is the job of George Kadifa. In June, HP named him as executive vice
+president, head of the company’s software business and a member of its
+executive council. Kadifa knows a bit about the software business. He spent
+seven years as a senior vice president at Oracle, and then ran his own
+company, Corio, for six years, until it was acquired by IBM for $182 million
+in 2005. From there, he went to investment firm Silver Lake, where, as
+partner, he pushed portfolio companies to improve their operations. Kadifa sat
+down with AllThingsD last week at the software unit’s new headquarters in
+Sunnyvale, Calif., for his first interview since joining HP. We talked about
+how he plans to fix its weaknesses, improve its strengths and make software a
+more sizable piece of HP’s overall business. AllThingsD: George, you joined HP
+to head up its software business unit in June. You’ve reached the 100-day
+mark, so give us your assessment of where you see things now and where they’re
+going. Kadifa: A lot of good things are happening. We’re at about $4 billion
+in revenue, so if you look at HP Software as its own business, we’re about the
+fifth- or sixth-largest software business in the world. We have a great
+customer base; having worked at IBM and Oracle and now HP, customers really
+like us, versus previous experience. And we have a lot of products. A lot of
+them we acquired rather than built in-house. Among the recent acquisitions,
+Vertica is one where the consensus seems to be that it was a pretty good deal.
+Where do you see Vertica going in particular, and what sets it apart? One is
+the technology, which we think is second to none. When you think about it, the
+idea of taking data in columns and then arranging it in a row fashion, it
+seems like sort of a trivial difference. But it’s really unbelievable what it
+gives you in terms of capabilities. Say you’re storing a thousand names,
+you’ve got first names and last names. Let’s say five of those guys are named
+Arik. Normally you’d store five Ariks in a column. But here, instead of
+listing the name five times, you make a note above it with a five, so you know
+the name occurs five times. Now when you search through that list it’s so much
+more efficient, it’s two or three orders of magnitude faster, which means it’s
+100 to 1,000 times faster than classic relationional technology. It has turned
+out to be a real diamond for us. Yet it’s a small diamond. Yes, it’s growing,
+but how do you get it to grow fast enough that it becomes a more meaningful
+part of HP? It’s a fair question. What we started with was a business with
+revenue in the low millions. It wasn’t in the $100 million range in revenue.
+It was really a project with some customers. We took it, and now it’s in the
+middle-double-digit millions. I can see us getting to $100 million with
+Vertica in a very short period of time. And there’s no reason it can’t be a
+billion-dollar business. Let’s wrestle with the situation at Autonomy a
+little. You just named Robert Youngjohns to run it. Unlike Vertica, the
+consensus here is that Autonomy was an expensive deal that hasn’t come close
+to meeting expectations yet. What do you see happening there? We just had a
+two-day planning meeting with everyone from Autonomy, where we went through
+the current status and looked at where we’re heading. The key for us right now
+is to get fiscal year 2013 on track, and that starts Nov. 1, so we’re working
+on that right now. Basically, when you look at Autonomy, the core unit is the
+IDOL Engine, which is the unique capability of meaning-based computing. We’re
+going to double down on that. In our labs in Cambridge, England, we have 40 or
+50 mathematicians writing algorithms. And we’re going to build a team here in
+the U.S. to productize it and create a platform around it, because it has that
+potential. Frankly, the way Autonomy was managed previously, they put a lot
+more emphasis into enabling applications, which was fine, but our belief is
+that there’s a broad agenda, which is creating a platform around meaning-based
+computing. So we will maintain those apps, but at the same time we’ll open up
+the capabilities to a broader set of players outside HP. It sounds like what
+Autonomy was doing was growing by acquisitions and then creating a more
+vertical stack of applications prior to HP’s ownership, rather than taking a
+broader, more horizontal approach. It sounds to me like HP wants to make
+Autonomy more horizontal. Is the potential there? You’re correct. And, yes,
+the potential is there. I asked Autonomy that very question about why they
+went vertical instead of horizontal, and the answer that I got was that it
+came down to a difference of culture between the U.S. and Europe. In Europe,
+they tend to make things complex in order to create more value. For example,
+they saw the IDOL engine as too complex to just give it to people. Instead
+they thought they should acquire vendors and then create value by enabling
+applications. Here we take something that’s complex and we ask how we might
+simplify it in order to give it more scale for a bigger market. So, some of
+that difference was cultural, and some of it was that I think they fell in
+love with these acquisitions. … We think Autonomy’s technology has broader
+implications. And to reach that potential, we have to open it up as much as
+possible. And we’re also working with other organizations inside HP — PCs,
+printers, servers — to basically produce additional synergies. Are the teams
+ready and primed? Meg Whitman, your CEO, and CFO Cathie Lesjak have made no
+secret that, so far, they have seen Autonomy’s ability to respond to deals
+that had been teed up by HP as lacking. Is the structure in place to address
+that problem? It’s not in place yet, but the situation has settled down
+somewhat. The processes are working. The reason is that initially we kind of
+left Autonomy alone, and then we tossed a bunch of deals at Autonomy. The
+initial plan was to keep it intact, have the HP salesforce bring in deals, and
+everyone would be happy. One problem is that there were too many deals, and
+second is that the deals weren’t well-qualified. So what we did next was put
+in place a management process around sales cycles at Autonomy. There’s been a
+lot of turnover there. Obviously, the former CEO, Mike Lynch, left, but so did
+a lot of the people who worked with him. Does that hurt the institutional
+memory at all? No. Basically we lost the top half-dozen people. And you always
+expect that with an acquisition, especially with people who have grown up as
+entrepreneurs and will always be entrepreneurs. The remaining people running
+the products lines are still around, and so is the salesforce. The development
+guys in Cambridge and Chicago are still there. Michael Dell has basically said
+he intends to keep growing his company by acquisition. Your boss, Meg, has
+said that we can expect no major acquisitions for the forseeable future — at
+least until the balance sheet is in better shape. If there were going to be
+acquisitions, even small ones, I would imagine they’d more likely be in
+software. Is that a fair statement? I don’t want to say anything on Meg’s
+behalf. From a software point of view, if there are tuck-in acquisitions that
+can help us develop our technology, I’ll go and request to do it. The cash we
+generate from software would cover us. So that’s the thinking right now. We
+need to learn as a business how to grow organically because that’s where all
+the value is. At Silver Lake we did analysis on companies that grew by
+acquisition: Oracle, SAP, Microsoft, IBM, EMC and others. You find that their
+revenues grow and their profits grow. But what doesn’t grow, and what actually
+shrank from 2006 to 2011, is their multiples. Their valuations multiples
+shrank. What the market is saying is that just making acquisitions doesn’t add
+any value unless they create organic growth. That is how we look at it here.
+We’ve done a ton of acquisitions, so the task now is to create more organic
+growth because that is what the market will value. ]]>
+http://allthingsd.com/20120925/eight-questions-for-hewlett-packard-software-
+head-george-kadifa/feed/ 0 HP Shares Tank on Outlook and Analyst Downgrades
+http://allthingsd.com/20120823/hp-shares-tank-on-outlook-and-analyst-
+downgrades/ http://allthingsd.com/20120823/hp-shares-tank-on-outlook-and-
+analyst-downgrades/#comments Thu, 23 Aug 2012 15:02:18 +0000
+http://allthingsd.com/?p=244334 Shares of Hewlett-Packard have fallen by more
+than 6 percent this morning, as the markets have taken their time to think
+over the implications of the company’s third-quarter earnings report
+yesterday. While HP had more or less teed up the expectations for the nearly
+$10 billion in one-time charges that led in turn to the largest single-quarter
+loss in its history, it was the outlook and description of a long, arduous and
+painful turnaround process that is giving investors fits. Meanwhile, analysts
+have piled on with a batch of downgrades: Kulbinder Garcha at Credit Suisse
+cut his price target to $25 from $30 a share, which, when compared to the
+estimate of other equities research outfits, looks downright sunny. Brent
+Bracelin at Pacific Crest Securities slashed his estimate of HP’s fiscal 2013
+revenue by more than $2 billion, and said he sees a possibility for the shares
+to hit $16, which would be lower than the $16.50 price it hit in 2004. “HP
+could remain challenged on multiple fronts as it attempts to transform an
+increasingly challenged business model and exposure profile,” he wrote. Chris
+Whitmore of Deutsche Bank Securities, already an HP bear with a “sell” rating,
+lowered his price target even further, to $15 a share. Whitmore, in a note to
+clients today, was having none of the reassuring message coming from HP CEO
+Meg Whitman and CFO Cathie Lesjak on yesterday’s conference call. “Barring a
+significant change in strategic direction, we anticipate protracted declines
+in HP’s three major businesses to continue, making sustained growth in cash
+flow and EPS challenging,” he wrote. “That said, management is likely to
+reinvest headcount reduction and related cost savings to improve HP’s
+competitive position over the long haul. However, these investments will take
+time and it is unclear when these investments will translate into better
+product positioning. We estimate 24-plus months.” As of 11 am ET, HP shares
+are trading at $17.94, down $1.26, or more than 6.5 percent. ]]>
+http://allthingsd.com/20120823/hp-shares-tank-on-outlook-and-analyst-
+downgrades/feed/ 0 HP's Q3 Conference Call: Lots of Problems, a Few Bright
+Spots http://allthingsd.com/20120822/liveblogging-hps-q3-earnings-conference-
+call/ http://allthingsd.com/20120822/liveblogging-hps-q3-earnings-conference-
+call/#comments Wed, 22 Aug 2012 20:58:50 +0000 http://allthingsd.com/?p=244119
+The aircraft carrier Hewlett-Packard is still trying to turn the corner, but
+man is it going to take awhile and a lot of patience from investors,
+shareholders and, frankly, its employees, too. That’s the message coming from
+CEO Meg Whitman on the occasion of its third quarter earnings report, which
+just crossed the wires about an hour ago. Expect more explanations about the
+state of the turnaround from Whitman and CFO Cathie Lesjak on the conference
+call with analysts which is set to get under way any minute. 2:03 pm: We’re
+live and waiting for the peppy hold music to come to an end. And the call is
+starting with a word from the operator. Starting with the preliminaries.
+Forward looking statements, blah blah blah…. CEO Meg Whitman is speaking. “We
+have made progress on our turnaround.” Whitman: We have a lot of challenges,
+some are macroeconomic, some are about the business and frankly some of these
+are about HP’s execution. Whitman: While revenue declined, the trajectory of
+the decline improved. Whitman: When you look at our performance during the
+quarter, there were things we did well and things we could have done better.
+Storage, networking, printing did well. Whitman: Good news from 3Par.
+Networking sales up 10 percent when normalized for a divestiture. (What did HP
+divest in this area again?) Whitman: On a less positive note, the mainstream
+server business declined. Hyperscaling is looking good for the future. She’s
+also talking about some ink and paper changes in some countries. Also a
+technology that allows phones to connect to HP printers via Cloudprint.
+Whitman: HP has 750 unique cloud systems customers. Also a version of the
+cloud for airlines. Also we released our first public cloud services. Whitman:
+We continue to leverage the IP of our acquisitions: Autonomy, Vertica and
+others. Whitman: Now customer wins: Russian Railways engaged HP Software. The
+U.S. Air Force selected HP to provide PCs and servers. Nascar is a new
+customer. Consolidated Graphics, a big printing services provider, bought 10
+Indigo printers. These are big printers. Whitman: There’s nowhere we are not
+where we need to be. Enterprise Services: She’s going over the personnel
+changes running Services. “ES is in a multi-year turnaround. Progress will not
+be linear. We will turn ES around, but it will take some time.” PCs. The
+reality is, we’re locked in serious competitive battles, and we intend to win.
+(She’s looking at you, Lenovo!) Whitman: Autonomy still needs a lot of
+attention. HP has instituted a global dashboard to monitor engagements. We
+crossed a big milestone for Autonomy Vault. I missed the number but I think
+she said 10,000 customers. Sorry if I got that one wrong. Whitman: The
+integration of PSG and IPC (PCs and printers) is under way. We streamlined
+Enterprise Group sales and management. Whitman: 11,500 employees will leave
+the company in fiscal 2012, which is above the 9,000 expected. Now she’s
+talking about headwinds. Whitman: I’ve talked before about the tectonic plates
+that are moving the industry. HP needs to shift its portfolio, and will
+require some trade-offs and time. Whitman: Macro headwinds will continue and
+keep revenue under pressure. The near-term outlook will be challenged.
+Execution: We’ve made some changes that will be a distraction in the short
+term, but good in the long term. Whitman is wrapping up her prepared remarks.
+$2.1 billion in free cash flow and reduction of net debt by $1.5 billion. 2:18
+pm: And now CFO Cathie Lesjak is speaking. Lesjak is running through the
+numbers, most of which were already in the press release. Lesjak: PSG Revenue
+of $8.6 billion, down 10 percent. Total units shipped down 10 percent year on
+year. Soft in Asia and Americas. Consumer down 12 percent and commercial down
+9 percent. Lesjak: In printers, demand environment remains a headwind. We need
+to reduce channel inventory through close inspection … Lesjak: Total printer
+unit shipments down 17 percent year on year. Services: We are recording a non-
+cash pre-tax charge of $8 billion for the impairment of goodwill related to
+EDS. We do not expect this to incur any future cash expenditures. Lesjak: We
+saw strong sequential growth in contract signings for strategic customers.
+2:24 pm: ESSN: $5.1 billion in revenue, down 4 percent. 3Par grew 60 percent.
+There’s a bright spot. BCS still in trouble. Non-stop server revenue grew
+double digits, but that didn’t help BCS revenue to grow. Lesjak: We signed 46
+new logos in the quarter. Lesjak: We have a lot of work to do to improve
+Autonomy performance. Lesjak: Capital allocation. We remain committed to
+rebuilding the balance sheet. Total growth $9.9 billion. Increased the
+dividend by 10 percent. We have been working to improve our cash conversion
+cycle, but at 27 days it’s still one day higher than before. Lesjak: We are in
+the early stages of our turnaround and restructuring. In services, our
+diligence around account profitability is impacting our ability to sign new
+accounts. Some benefits will offset some of the headwinds. Demand continues to
+be an issue in PSG and IPG. The pricing environment in the hardware business
+remains competitive. Environment is more challenging than we thought even as
+recently as two months ago. Currency headwind is up 3 percent year on year.
+Lesjak: EPS outlook $4.05 to $4.07 non-GAAP. GAAP will be a loss north of $2.
+Lesjak: We expect to provide outlook at the analyst meeting on Oct. 3. Q&A;
+begins. First question comes from Barclays: Printing. With channel inventory
+high, the Street was looking for 13.7 percent operating margin, and it was
+higher at 15.8 percent. What will the earnings hit be in the future when you
+pull back inventory? Lesjak: We continue to face headwinds of lower volumes,
+and the year-on-year increase in margins was impacted by three things. Last
+year there was impact from the tsunami. We also had improved hardware margins
+because of a higher mix of higher-profit printers, and a higher mix of laser
+to inkjet. Lesjak: The yen will remain strong year on year. That’s not going
+to help HP in the current FX. Lesjak: The printer sellout in July left us with
+more inventory that we expected. Question from Goldman Sachs: Given comments
+you made about being aggressive in PCs, who should we think about ASPs and
+gross margins in PSG? Lesjak: The opex for PSG was 4.7 percent, which is down
+year over year, but it’s in the range we’ve been targeting for some time.
+Lesjak: Commodity parts prices were unfavorable, LCD and DRAM prices are going
+up slightly. We do expect the demand environment to remain challenging.
+Whitman is speaking: We are under attack by very strong competitive pressures.
+We’re responding with product lineup, thin and light notebooks, Windows 8
+tablet for the enterprise, tablets combined with laptops for consumers. And
+also streamlining. Putting PSG and IPG [together] has helped control costs and
+things like freight and logistics. We’re going to defend our No. 1 position in
+the marketplace. (Hear that, Lenovo?!?) Question from Toni Sacconaghi: Missed
+the first part of it. Given launch of Win 8 at the very end of FY12, how do
+you expect inventory of PCs to change? Lesjak: Channel inventory at IPG is
+down on a dollar basis. Sell-through drove weeks of inventory higher than we
+think acceptable. Toni is now trying to drill down on printer supplies
+inventory. Lesjak: We are not expecting anything cataclysmic in Q4. We will
+continue to work on bringing down channel inventory. Question from Morgan
+Stanley: Can you comment on linearity in other business? Can you comment on
+signs of stability that Cisco saw? Lesjak: We don’t have a significant
+linearity difference. The entire quarter was fairly weak. 2:41 pm: Question
+from BMO: Revenue trends in IPG and PC division, but talk about HP in total
+relative to normal seasonal expectations. Lesjak: Several key considerations
+in Q4 guidance are related to revenue. The macro is softer than expected in Q3
+and we don’t expect it to get better in Q4. We expect to see well below normal
+seasonality. Challenges persist in legal situation with Oracle and getting
+software licenses up. The realignment of the sales force, while creating
+problems in the short term, will pay back longer term. Lesjak: We are
+maniacally focused on cost reduction. We’re going to get the benefits from the
+charges we’ve taken. 2:44 pm: Question from Stifel Nicolaus about servers: You
+talked about broad weakness. What are you seeing competitively in light of the
+product transitions to eighth-gen servers? Whitman: We have some business
+model innovation that is required to compete in that business. Right now the
+hyperscale business is dilutive to ISS margins. We are still seeing weaknesses
+in mainstream ISS (ISS = industry standard servers). It’s an important
+business for HP and we have some action items to address problems in that
+business. Question from Raymond James: Should we think about the $8 billion
+writedown based on past problems or future deterioration? Lesjak: There’s a
+number of different factors, the trading value of HP shares are a factor. It
+doesn’t result in any future cash expenditures. Whitman: I think I’ve said
+from the beginning, this was a business in need of a turnaround, I decided to
+make a leadership change. This is what we need to do to get the business on a
+better track. The account basis of accountabiilty got diffused across the
+organization. The person in charge needs to be in charge. Whitman: I feel
+better about that business now than I have at any time in the last 12 months.
+Q: I see a three-cent benefit to EPS. Lesjak: Some of the benefit will
+counteract the headwinds, but that is the guidance. Question about 2013 and
+the pace of reinvestment. Will that require EPS to decline? Whitman: We’ll
+give guidance in early October. But here’s the situation as I see it. First we
+are facing macro economic trends. Western Europe and China for one. There are
+challenges for PCs and printers, and price pressures across the board. The
+competitor (Lenovo) is not losing money. Also, we have some execution
+challenges. There are still some very serious execution issues in this
+business. Whitman: We set up a very crisp strategy in printers, we are the
+acknowledged market segment and we have some weakened competitors and we need
+to go after them. When we look at 2013 we’re going to tumble all the pluses
+and minuses. There are going to be puts and takes. Question from Wells Fargo:
+Talk about whether you can really focus on the long term while you’re working
+so hard on the near term. Whitman: We have to focus on the short and the long
+term. If we don’t fix long-term problems we won’t have money to invest in
+longer-term problems. Our product portfolio is vast. My deeply held belief is
+that focus is going to be important. Behind the curtain there are smaller
+initiatives where we could get bigger bangs for the buck. I feel like we’re
+much farther along than we were nine months ago. Whitman: We have lots of
+little initiatives within the company, some of which we may shut down. They’re
+not big dollar programs. Lesjak: This is more focused attention. We need to
+focus more, not less. Question from Credit Suisse about free cash flow, which
+looks to be $5 billion this year. If this is the rate of cash you can
+generate, it may take two more years from where we are now to give more cash
+back. Lesjak: We generated $2.1 billion this quarter. At the same time, we
+reduced shares outstanding by 17 million shares and increased the dividend. We
+are making progress. 2:57 pm: Question from Shannon Cross (always
+interesting). What are you seeing in China? Whitman: Let me elevate to BRIC:
+Russia and India were good, Brazil was mid to mixed, China was not so good. We
+are rebuilding the business in China with a new team there. We are also
+rebuilding our channel in China. This is also where we’re rebulding our
+channel with the enterprise business. But we are seeing a slowdown in China.
+At the same time, we can still improve our execution in China. There’s a
+regime change coming there, and we’ll see what the stimulus and public sector
+spending will look like. And we’re done with the call. ]]>
+http://allthingsd.com/20120822/liveblogging-hps-q3-earnings-conference-
+call/feed/ 0

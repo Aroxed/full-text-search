@@ -1,0 +1,126 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Drake Martinet, Associate Editor, All Things Digital Early Adopter:
+Connect Your Personal Data Pipes Together With Ifttt’s Digital Duct Tape
+February 11, 2011 at 9:00 am PT Tweet Share Print Early Adopter is all about
+emerging trends and the chewy little companies that creep in to define
+emerging spaces. For a couple of years, I’ve been watching companies expand
+the conception of what APIs can be used for. As the complexity and utility of
+those data pipes grow, companies have been adopting another trend: One that
+places graphic and interface design at the center of a new product, as much as
+the engineering and programming that makes it function. This is a trend that
+ifttt founder Linden Tibbets has been thinking about as well. Ifttt,
+(pronounced “ift”) stands for “if this, then that,” which über-geeks will
+recognize as a foundational logic and programming action. The concept is
+simple. When one state is reached, an action will automatically be triggered.
+For example, there is an “if” function inside the computer that controls the
+automatic wipers on a car. If rain is sensed, then the wipers turn on. Ifttt
+pulls a user’s Web services out of their silos and allows those automatic if
+functions to take place across several services at once–essentially allowing
+users to easily connect several APIs end-to-end. In the case of Tibbets’s
+ifttt Web app, the user chooses from channels to create the if situation, and
+then from other channels to have the output, or the then-that action. All of
+the ifs and thens are gathered from the growing API-driven Web. Got it?
+Although bootstrapped and still in private beta, ifttt is already building up
+an impressive set of services that can help users connect to and semi-
+automate. As of today, ifttt already connects to and enables actions between
+several Web clipping services, Facebook, Twitter, Vimeo, Evernote, Flickr,
+phone–both voice and text–and even craigslist. Each channel has its own set of
+action choices, depending both on what the service is used for and what
+actions are acessable via that service’s API. Actions can be as simple as
+automatically sending the user a text message when the weather changes to
+rainy (not a new trick), or as complex as automatically uploading an image to
+Facebook whenever the user uploads that photo to flicker with the tag
+“Facebook.” “Right now we are focused on adding more channels and listening to
+what users want to use the service for,” said Tibbets. He explained that he
+and co-founder Jesse Tane are working on integration with cloud file service
+dropbox, as well as on Google Chat integration. Tibbets comes to ifttt after a
+few years situated right between the design and tech spaces. After attending
+Santa Clara College on a basketball scholarship (he’s around 6′ 6″) and
+graduating with a computer engineering degree, he spent time working on games
+at Elecronic Arts before moving to Palo Alto, Calif.-based design darling
+IDEO. Tibbets spent the last three years working on internal social-sharing
+projects at IDEO, before founding ifttt and launching the Web app of the same
+name in early November of 2010. Ifttt is useful for sending yourself
+notifications, but Tibbets believes the real value is in creating connections
+between the Web services available in ifttt. The zeitgeist for APIs use is to
+channel info out of one Web service and into another, as defined by a single
+site or app maker. Tibbets’s efforts put individuals more at the center of how
+their information flows around them. This concept can get complicated in a
+hurry, and that’s where others have failed, at least according to Tibbets. He
+explained: “It’s about usability, and being simple enough to understand and
+implement in your own life. Ifttt began more complex, but we cut a lot out of
+it, to make it simple enough to understand quickly.” Indeed, lack of
+simplicity may be what keeps services like Yahoo’s Pipes, which can do many of
+the same things ifttt can, from becoming popular with a broader consumer
+group. Ifttt is also developing native mobile apps that will focus on ultra-
+simple activation of an ifttt task. He said that a major barrier to him doing
+certain things on a mobile device is that he feels it is just anti-social to
+have his phone out for more than 20 seconds. To alleviate the anti-social
+dilemma, ifttt’s mobile apps will focus on quickly activating preprogrammed
+tasks. Ifttt co-founder Tane is working full time on the apps, although there
+is no release date set. Tibbets admits that ifttt is still little more of an
+idea and a high-resolution prototype than it is a full-fledged product. But
+his hopes hang on his philosophy about how to build value, which is either a
+little counter to, or ahead of, the current trend in Web apps. “Our value
+won’t be built on adding your friends or sharing functionality to some other
+service,” he said. “Ours will be about creating something that would still be
+a valuable if there were only 20 people left on earth and none of them were
+your friends.” We sat Tibbets down (literally, we had to make him sit or we
+wouldn’t have been able to reach to get good video) near ifttt’s San Francisco
+headquarters to get the quick rundown on ifttt’s present and future. Enjoy the
+video. (Early Adopter is a new column on early-stage start-ups and ideas
+written weekly by Drake Martinet.) Tagged with: API, APIs, del.icio.us,
+digital, Evernote, Facebook, fffound, Flickr, frontpage, Google Reader, if
+this, ifttt, innovation, Internet, iPhone, Jesse Tane, Linden Tibbets,
+Smallbiz Feature, software, then that, Twitter, Vimeo, Yahoo Pipes Must-Reads
+from other Websites Why Apple Should Buy China’s Xiaomi Panos Mourdoukoutas,
+Contributor, Forbes What I Didn’t Say Paul Graham, Founder, ViaWeb We Need to
+Talk About TED Benjamin Bratton, Journalist, The Guardian I, Glasshole: My
+Year With Google Glass Mat Honan, Senior Writer, Wired All Together Now Chris
+Ware, Writer, The New Yorker The Sculpture on the Moon Corey S. Powell and
+Laurie Gwen Shapiro, Contributors, Slate About Must-Reads » More Inside »
+About Voices Along with original content and posts from across the Dow Jones
+network, this section of AllThingsD includes Must-Reads From Other Websites —
+pieces we’ve read, discussions we’ve followed, stuff we like. Six posts from
+external sites are included here each weekday, but we only run the headlines.
+We link to the original sites for the rest. These posts are explicitly
+labeled, so it’s clear that the content comes from other websites, and for
+clarity’s sake, all outside posts run against a pink background. We also
+solicit original full-length posts and accept some unsolicited submissions.
+Read more » Featured Posts Featured Reviews You Say Goodbye and We Say Hello
+Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon
+Valley Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the
+NSA Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering
+a More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

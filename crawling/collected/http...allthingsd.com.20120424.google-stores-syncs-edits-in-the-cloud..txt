@@ -1,0 +1,135 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Personal Technology > Software Google Stores, Syncs, Edits in the Cloud April
+24, 2012 at 9:37 am PT Tweet Share Print See More Reviews » For years, some
+people who wanted to store files on remote servers in the cloud have been
+emailing the files to their Gmail accounts, or uploading them to Google’s
+lightly used Google Docs online productivity suite, even if they had no
+intention of editing them there. Now, Google is formally jumping into the
+cloud-based file storage and syncing business, offering a service called
+Google Drive, which will compete with products like Dropbox and others by
+offering lower prices and different features. It works on multiple operating
+systems, browsers and mobile devices, including those of Google’s competitors
+Apple and Microsoft. There are apps for Windows, Mac and mobile devices that
+automatically sync files with Google Drive. I’ve been testing Google Drive,
+which launches today, and I like it. It subsumes the editing and file-creation
+features of Google Docs, and replaces Google Docs (though any documents you
+have stored there carry over). In my tests — on a Mac, a Lenovo PC, a new iPad
+and the latest Samsung Android tablet — Google Drive worked quickly and well,
+and most of its features operated as promised. At launch, it’s available for
+Windows PCs, Macs and Android devices. The version for the iPhone and iPad is
+planned for release soon. Google Drive, which can be found at
+drive.google.com, offers users 5 gigabytes of free storage, compared with 2
+gigabytes free for the popular Dropbox, and equal to the free offering from
+another cloud storage and syncing service I like, SugarSync. That’s enough for
+thousands of typical documents, photos and songs. Prices for additional
+storage drastically undercut Dropbox and SugarSync. For instance, 100 GB on
+Google Drive costs $4.99 a month. By contrast, 100 GB costs $14.99 monthly on
+SugarSync and $19.99 on Dropbox. Google Drive will offer huge capacities, in
+tiers, all the way up to 16 terabytes. (A terabyte is roughly 1,000
+gigabytes.) And if you buy extra storage for Google Drive, your Gmail quota
+rises to 25 GB. But one of Google’s biggest rivals isn’t standing still.
+Microsoft is expanding both the features and capacity of its little-known
+SkyDrive cloud storage service as well. That product started out as a free,
+fixed-capacity (25 gigabytes) online locker mostly for users of the stripped-
+down, cloud-based version of Microsoft Office, though it also has been
+available as an app for Windows Phone smartphones and for iPhones. It’s giving
+away even more free storage than Google — 7 GB, though that is a cut from what
+it used to offer free. It also is charging less than Google. For instance, you
+can add 100 gigabytes for $50 a year. And users of the old version get to keep
+their 25-gigabyte free allotment. I wasn’t able to test this new version of
+SkyDrive for this column. It also is offering syncing apps for Windows and
+Mac. Google Drive is meant as an evolution of Google Docs. While you could
+previously upload a file to Google Docs using your Web browser, for Google
+Drive, the company is providing free apps for Mac and Windows that, like
+Dropbox, do this for you. They create special folders that sync with your
+cloud-based repository and with the Web version of the product. So, you can
+drag a file into these local folders on your computer and that file will be
+uploaded to your cloud account and will rapidly appear in the Web version of
+Google Drive, in the Google Drive folders on your other computers, and in the
+Google Drive apps on Android, iPhone and iPad devices. These local apps also
+sync any changes to the files you make. One big difference between Dropbox and
+Google Drive is you can edit or create files in the latter, rather than merely
+storing or viewing them. This is because Google Drive includes the rudimentary
+word processor, spreadsheet, presentation and other apps that make up Google
+Docs. But there is a catch. If your stored document is in a Microsoft Office
+format, you can only view it. To edit it, you have to click a command to
+convert the file to Google’s own formats, or choose a setting that converts
+Microsoft Office files when uploaded. But this latter feature only works when
+uploading from the website. Google Drive also is missing some features of
+SugarSync I like. The latter doesn’t require you to place files in a special
+folder; it syncs the folders you already use on your PC and Mac. Also, unlike
+SugarSync, Google Drive doesn’t let you email files directly into your cloud
+locker. Google Drive allows you to share files and folders, and collaborate
+with others. You can also email files as attachments. People with whom you
+share files can be allowed different rights: To view, comment, or edit them.
+You can also keep the files private. Because Google has run into hot water
+over keeping users’ information private, some people may be reluctant to trust
+their files to Google Drive. But the company insists that, while it does
+process and store your files, no human can see them and, at least today, the
+files aren’t used to target advertising at users. The company notes no file
+can be placed in Google Drive unless the user wants it there. The service does
+a very good job of searching files, even finding words inside PDF or scanned
+documents. The company claims it can find images when you type in words
+describing them, like “bridge” or “mountain”—even if those words don’t appear
+in the image’s file name. But I found this mostly worked with photos of famous
+places or people Google has collected via its Google Goggles product. Google
+Drive failed to find images with generic file names on almost all of my own
+pictures, even when they included things like mountains or other common
+objects. Google Drive did a good job in my tests with videos. It converts
+nearly every common video format into a format it can play, right inside its
+website. This process can take some time. While Google Drive can store music,
+it can’t play it directly via its website. Google’s new service also works
+with third-party document creation and editing apps that are built to work
+with it. I used one, called Balsamiq Mockups, to create a quick wire-frame
+diagram. I can recommend Google Drive to consumers looking for cloud-based
+storage, with the added bonus of integrated editing, at lower prices. But the
+new Microsoft SkyDrive also seems worth a try. Email Walt at mossberg@wsj.com.
+Tagged with cloud computing, Dropbox, Google, Google Docs, Google Drive,
+storage Top Products in Two Decades of Tech Reviews December 17, 2013 at 6:04
+pm PT Diabetes Data Beamed to Your Phone December 10, 2013 at 6:16 pm PT Two
+Houses, One Cable TV Bill December 10, 2013 at 6:14 pm PT Calling Overseas on
+Wi-Fi December 03, 2013 at 6:18 pm PT Dell Tablets at Bargain Prices December
+03, 2013 at 6:12 pm PT Search the Mossberg Archives AllThingsD contains an
+archive of columns by Walt Mossberg and Katherine Boehret from The Wall Street
+Journal dating back to 2005. Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

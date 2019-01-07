@@ -1,0 +1,83 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Stealth Networking Startup VIPtela Raises $33
+Million From Sequoia December 10, 2013 at 7:43 am PT Tweet Share Print There’s
+a new stealth mode company to start watching in the software-defined
+networking space, and it is already raising some significant money. Sources
+familiar with the matter tell AllThingsD that VIPtela, a networking startup
+based in San Jose, Calif., has secured a $33 million investment from Sequoia
+Capital in a deal led by the firm’s managing partner, Michael Goguen. A source
+at the company confirmed that Sequoia has made an investment (it even says so
+on its relatively bare website), but declined to confirm the amount. Sequoia
+declined to comment beyond also confirming that it had made an investment in
+VIPtela; it, too, declined to specify the amount. VIPtela’s founders come from
+some big names in the networking world. CEO Amir Khan spent three years as a
+product manager at Juniper Networks, and five years in a similar role at Cisco
+Systems. CTO Khalid Raza was a distinguished technologist at Hewlett-Packard
+for a year and change, following almost 18 years at Cisco. Other early
+employees hail from Alcatel-Lucent by way of a startup called TiMetra, which
+it acquired in 2003. The company is staying mum about what it’s working on.
+The aim appears to be helping large companies use software to build more agile
+and more secure wide-area networks. With all the new demands they’re facing —
+between access to cloud services, and scores of different mobile devices —
+they’re finding that their existing networks just aren’t quite as flexible as
+they’d like. One emphasis will be on reducing the operational costs of running
+these networks, sources familiar with the company’s plans tell me. A second
+emphasis will be put on enabling new methods to connect to cloud services. And
+a third is on security — specifically, reducing the complexity of adding
+strong encryption to the mix when connecting between different networks.
+VIPtela’s public statements have been few. On LinkedIn, it describes itself as
+“… working on innovative, customer endorsed solutions for the computer
+networking market. Our vision is to simplify and transform the networking
+industry.” It has a Twitter account, but hasn’t tweeted yet. Tagged with: Amir
+Khan, Cisco Systems, cloud computing, Hewlett-Packard, HP, Juniper Networks,
+Khalid Raza, Michael Goguen, networking, security, Sequoia Capital, software
+defined networking, software defined networks, stealth mode, vIPtela, wide-
+area networks Apple Denies Working with NSA on iPhone Backdoor December 31,
+2013 at 8:49 am PT You Won’t Believe All the Crazy Hardware the NSA Uses for
+Spying December 30, 2013 at 12:15 pm PT HP Is Negotiating to Settle Bribery
+Charges December 30, 2013 at 8:45 am PT CIOs Brand Enterprise Social Tools as
+Most Overhyped Technology of the Year December 30, 2013 at 3:39 am PT Malware
+Attacks by Syrian Pro-Government Hackers Are on the Rise December 27, 2013 at
+1:27 pm PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » When AllThingsD
+began, we told readers we were aiming to present a fusion of new-media
+timeliness and energy with old-media standards for quality and ethics. And we
+hope you agree that we’ve done that.— Kara Swisher and Walt Mossberg, in their
+farewell D post AllThingsD by Writer Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site
+devoted to news, analysis and opinion on technology, the Internet and media.
+But it is different from other sites in this space. It is a fusion of
+different media styles, different topics, different formats and different
+sources. Read more » About Us » Contact Us » Comments Policy » Cookies Policy
+» Privacy Policy » FAQ » Terms of Service » Your Ad Choices » Advertise With
+Us » Send a Tip » Daily Headlines Email » Follow AllThingsD Your Way »
+Featuring the most influential figures in technology, unscriptedand upfront.
+More » Conferences: D: All Things Digital. » D: Dive Into Media » D: Dive Into
+Mobile » Follow us on Twitter: Select Account @allthingsd (All Things Digital)
+@ATDapple (Apple) @ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile)
+@ATDreviews (Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara
+Swisher) @JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret)
+@pkafka (Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247
+(Arik Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac)
+@BonnieSCha (Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All
+Feeds News Reviews Mobile Media Social Enterprise Commerce Voices Personal
+Technology Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher
+John Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik
+Hesseldahl Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow
+Jones & Company Inc. All Rights Reserved. Mobile Version

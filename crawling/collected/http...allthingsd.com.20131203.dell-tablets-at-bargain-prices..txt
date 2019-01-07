@@ -1,0 +1,113 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Personal Technology Dell Tablets at Bargain Prices December 3, 2013 at 6:12 pm
+PT Tweet Share Print See More Reviews » If you’re thinking of getting someone
+a new, name-brand tablet for the holidays, but blanch at spending base prices
+of $229, $399 or $499, Dell is hoping you’ll look its way. The computer giant,
+battling an industrywide slump in PC sales, is once again making a push into
+tablets and one of its weapons is low pricing. Dell has had little success in
+tablets. But it introduced this fall a family of four Android and Windows-
+based slates called Venue models. I took a close look at one model, the 7-inch
+Venue 7, which, at $150, is the least expensive new major-label tablet I’ve
+seen at the standard 16-gigabyte base memory level. (There are a few year-old
+models, or models with less memory that cost somewhat less.) To understand how
+low $150 is for a name-brand, 16-gigabyte tablet, consider that the market-
+leading Apple iPads start at $499 for the 9.7-inch iPad Air; and $399 for the
+iPad Mini with a 7.9-inch Retina display. Even the latest 7-inch models from
+Google and Amazon, known for aggressive pricing, start at $229. In fact,
+mostly because they adopted better screens, the 2013 models of the iPad Mini,
+Google Nexus 7 and top-of-the-line 7-inch Kindle Fire actually rose in price
+from the 2012 models. So, what exactly do you get from a $150 name-brand
+tablet? The answer: You get a lower-quality device with weak battery life,
+which might suffice for a first-time tablet buyer with a tight budget. The
+Venue 7 is a relatively chunky black plastic tablet running Google’s Android
+operating system, that’s available via Dell’s online store. It operates over
+Wi-Fi only, though a cellular version is planned for next year. It cannot be
+ordered with more internal memory than 16 gigabytes, but it has a slot for a
+memory expansion card. This tablet has a big brother, the Android-powered
+Venue 8, with similar specs, that starts at $180, still a good price. On the
+plus side, I found the Dell Venue 7 to be fast enough not to be annoying.
+Common apps like Gmail, the Chrome browser, the Kindle reading app, Google
+Maps, Twitter and Facebook all worked fine for me. Videos played smoothly. But
+buyers of this tablet aren’t getting the latest or best technology. The
+processor, an Intel Atom, and the version of Android used, Jelly Bean 4.2.2,
+are last-generation editions, though Dell says it hopes to offer an upgrade to
+the latest version of Android next year. Screen resolution, at 1280×800, is
+also more characteristic of prior models of competing tablets. It’s no match
+for the resolution on the latest small tablets from Apple, Google and Amazon.
+Also while the Venue 7’s screen was responsive, I was annoyed by a slight
+pebbly look, especially in white areas, at some angles. The Venue 7 is thicker
+and heavier than leading 7-inch competitors like the latest Google Nexus 7 or
+Amazon’s Kindle Fire HDX. And while it’s a bit lighter than the new iPad Mini,
+which has a much larger screen area, it’s about 30% thicker. The Dell’s rear
+camera, at just 3 megapixels, took truly mediocre, even fuzzy, pictures,
+indoors and out. In my tough battery test, where I play videos back to back at
+75% brightness, with power-saving features turned off and Wi-Fi on to collect
+email in the background, the Venue 7 lasted 5 hours and 29 minutes. That was
+less than half the battery life of the iPad Mini; two hours less than the last
+7-inch Kindle Fire; and half an hour less than the latest Nexus 7. Finally,
+there’s workmanship. This is an admittedly subjective area, but the Venue 7
+felt a bit flimsy to me, especially around the longer edges of the screen.
+There seemed too much “give” where these edges connected to the case, and in a
+few cases, I could even hear a popping sound when I pressed on the case near
+the screen edge. To be sure I wasn’t imagining things, I asked two other
+people who own tablets to check this out separately, and they agreed. I want
+to stress that no amount of pressing on the screen edge seemed to degrade
+either the performance or the appearance of the device, but neither did it
+leave me feeling that the Venue 7 was as solid as its competitors. And I
+wondered how it would hold up to a child’s care and handling. Dell says this
+is a deliberate design feature, created to make it easier for the back of the
+device to be removed for service or other purposes by qualified technicians.
+It stresses the “give” at the edge of the screen doesn’t affect functionality.
+Bottom line: If you can spare more money, you’ll get a better experience and
+more longevity in a competing small tablet. But if you can’t, the Dell Venue 7
+is a heck of a buy for an Android tablet from a brand-name company. Find all
+of Walt Mossberg’s columns and videos at the All Things Digital website,
+walt.allthingsd.com. Email him at mossberg@wsj.com. Tagged with Amazon, Dell,
+featured review, Google, Kindle, Kindle Fire, PC, tablet, Windows Top Products
+in Two Decades of Tech Reviews December 17, 2013 at 6:04 pm PT Diabetes Data
+Beamed to Your Phone December 10, 2013 at 6:16 pm PT Two Houses, One Cable TV
+Bill December 10, 2013 at 6:14 pm PT Calling Overseas on Wi-Fi December 03,
+2013 at 6:18 pm PT Search the Mossberg Archives AllThingsD contains an archive
+of columns by Walt Mossberg and Katherine Boehret from The Wall Street Journal
+dating back to 2005. Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

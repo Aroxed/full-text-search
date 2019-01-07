@@ -1,0 +1,173 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Seven Questions for Dell Enterprise Head
+Marius Haas and Software Head John Swainson October 19, 2012 at 11:06 am PT
+Tweet Share Print Though its share price doesn’t quite indicate it, Dell has
+been a company on the move lately. CEO Michael Dell has been leading a
+headlong charge to transform his company, long known primarily for its
+personal computer business, into the enterprise business. Years ago, Dell’s
+focus had been on selling as many PCs as possible, but with that business now
+generally in decline, the mission is now about taking that experience of
+selling PCs and servers and to build, in part via acquisitions but also
+organically, a sizable enterprise business that aims to compete with Hewlett-
+Packard and IBM in selling combinations of enterprise hardware, software and
+services to big corporations. The transformation is still getting under way,
+and last month Dell hired Marius Haas, the former head of Hewlett-Packard’s
+networking business to run its Enterprise division. Yesterday, at an event in
+San Francisco, Dell announced the latest step in its battle to win more of
+this business. Its Active Systems family of products is Dell’s answer to the
+converged infrastructure trend that’s hitting the IT industry. In recent weeks
+we’ve seen IBM talk about its Pure Systems line of products, while Oracle has
+talked about its Exa- line of Engineered Systems hardware. And Cisco Systems
+has its Unified Computing and Servers. The aim of all of them is pretty
+straightforward: Get all the needed parts of IT infrastructure together in one
+piece that’s easy to deploy and operate, and also easy to sell in one go. A
+few days ago, I caught up with Haas and also with John Swainson, the new-ish
+head of Dell’s Software division, to talk about their respective parts in the
+ongoing process of transforming Dell. AllThingsD: So, with Active Systems it
+sounds like you’re combining a lot of diverse pieces together into a single
+product. Swainson: Customers want all the pieces of hardware. This is a clear
+trend we’re seeing in the industry. They want not just the compute and
+networking parts. They want the storage in there, too. They want the ability
+to manage these things, and they want the ability to scale it up and down.
+Scalability is often a euphemism for ‘you can make it really big.’ But some of
+the benefits are being able to make them reasonably small, so that smaller
+users, who want smaller computing environments, get the same benefits. That
+seems to fit with a broader theme that I’m hearing from other companies.
+Customers want their IT simplified so they don’t have to deal with so many
+vendors and parts that don’t always work together well. Swainson: Simplicity
+is not having to do systems integration. But it’s also having a system that’s
+automated, that’s intuitive, and human beings can sit down and figure out how
+to set these things up, and how to provision your workloads. I think you’re
+going to continue to see us focus on the usability aspects of systems
+management. My thesis is that customers don’t want to buy hardware or software
+or servies. What they want to buy is a computing solution to a business
+problem. To the extent that you can make it easier to use, the better off
+you’ll be. The second thesis I have is that stuff that’s easier to use gets
+used more. So you’re targeting a wider range of users, you get to sell into a
+broader base of customers. A lot of our competitors have retrofitted their
+bespoke solutions into these packages, and if you scratch, say, one level
+down, you’re going to find the complexity is still there. Haas: Some of the
+key things in our strategy is the modular approach; what John was talking
+about is key. This whole notion of intelligent orchestration. It delivers
+unparalleled ease of use, and we’ve got it across the entire product family.
+We’ve taken an end-to-end soluttions approach which brings together the
+performance and the agility, so we can optimize both on price and performance,
+but also on operational efficiency. And we think we’re the only ones who can
+do it. And it’s all built on the open-innovation philosophy, so there’s no
+lock-in for customers. It’s easy to scale up, scale out and scale down. So,
+Marius, tell me how the enterprise business looks right now. I talked with
+your boss, Michael Dell, in July, about the plan to reengineer Dell as an
+enterprise-focused company, and your hiring last month seemed to be a big step
+in that direction. Understanding that you’re still pretty new on the job, what
+are you seeing as you look ahead? Haas: This is purely a look back, but the
+momentum we’re seeing is great. Last quarter, we outpaced the competitors
+we’re seeing in every area we compete in. Servers, storage, networking and
+services, and John now has a much bigger portfolio with the closing of the
+deal for Quest. Organic growth was 39 percent in networking, and 90 percent if
+you include the Force 10 acquisition, where others were in single digits. We
+had server growth of 8 percent. We were the only one that had both positive
+unit share and revenue growth in servers and share gain. Everyone else was
+negative. And in storage, if you look at the Dell-owned IP storage, we were up
+6 percent and the others were up less — EMC about 3 percent, and minus-7
+percent at NetApp. If you look at the core modular peices of the architecture,
+we’re doing extremely well. Add in support and the options business, it grew
+12 percent year over year. When you think the market is growing roughly flat
+to 1 or 2 percent. Now what we’re doing is saying to the marketplace that we
+know the trend is toward convergence. We know that the simplicity and ease of
+use in being able to deploy workloads without having to worry about how the
+infrastructure works together is very key. We estimate about 20 to 30 percent
+of all the IT spend will be on converged systems by 2015, so that’s just
+around the corner. So we’re making sure that we’re marching in that direction,
+and building off a core set of capabilities that are winning in the market.
+How big is the enterprise business by revenue? Haas: The part we break out is
+Enterprise Serviecs and Solutions, and it grew 6 percent, to $4.9 billion,
+last quarter, so it’s about a $20 billion business annually, or about 30
+percent of annual revenue. But it represents about 50 percent of gross margin.
+The part that I’ve got — the Enterprise part, the servers, storage networking
+and converged infrastructure — Steve Schuckenbrock has services, and John has
+software. We are embarking on what looks like the new Dell enterprise, and are
+charged with transforming the company. Marius, I recently noticed John setting
+some aggressive goals for himself in the software business. I’m curious if
+you’ve got goals of your own that you’d like to share? Swainson: I said two
+things: My short term goal is $2 billion in revenue by 2016. Today, we’re at
+about a billion and a half. That will be our run rate at year end. That’s not
+highly unrealistic. The longer-term goal, and I don’t have a time frame on it,
+is to reach the $5 billion range. If you calibrate the business versus the
+other pieces of Dell, to balance things out, it should be about a $4 billion
+or $5 billion business, something like that. Marius, let’s put you on the
+spot. Any goals like John’s? Haas: I think what I’ll tell you is that we’re
+extremely bullish on our position in the market. We certainly have goals to
+grow faster than the market, anywhere from two to five times as fast as the
+market, depending on the segment. And what we’re doing is positioning
+ourselves to take advantage of the some of the transitions that are happening,
+and we have a great value proposition to do so. You’re feeling bullish, when
+others — and of course I’m referring to Hewlett-Packard — are having
+difficulties right now. Is right now the time to maybe try to go and take some
+share from HP? Haas: Let me just tell you two data points. You can see it in
+our results. We are taking share from almost all our competitors that we
+compete with on the entperprise side. The other is — and this is a survey that
+just came from Morgan Stanley, it’s a forward-looking spend analysis, asking
+CIOs if they expect to spend more, the same or less with different IT vendors.
+And in servers and storage, they said they were willing to spend two to four
+times as much as they were with our competitors. So that’s a nice leading
+indicator of the mentality of the CIO about the value proposition that Dell as
+a whole is providing. We have an enormous loyalty base in our midmarket
+customer set. In many cases, we are their IT organization. They trust us to
+bring them the right solutions to help them grow their business and scale
+their business at the right performance and price points. That is a great
+platform for us to deliver solutions that scale up but come in at entry points
+they can absorb quickly. Tagged with: Cisco Systems, Dell, enterprise
+hardware, enterprise software, Hewlett-Packard, IBM, John Swainson, Marius
+Haas, Michael Dell, networking, Oracle, servers, services, Seven Questions,
+software, Steve Schuckenbrock, stroage Apple Denies Working with NSA on iPhone
+Backdoor December 31, 2013 at 8:49 am PT You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying December 30, 2013 at 12:15 pm PT HP Is
+Negotiating to Settle Bribery Charges December 30, 2013 at 8:45 am PT CIOs
+Brand Enterprise Social Tools as Most Overhyped Technology of the Year
+December 30, 2013 at 3:39 am PT Malware Attacks by Syrian Pro-Government
+Hackers Are on the Rise December 27, 2013 at 1:27 pm PT Latest Video View all
+videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » I think the NSA
+has a job to do and we need the NSA. But as (physicist) Robert Oppenheimer
+said, “When you see something that is technically sweet, you go ahead and do
+it and argue about what to do about it only after you’ve had your technical
+success. That is the way it was with the atomic bomb.”— Phil Zimmerman, PGP
+inventor and Silent Circle co-founder, in an interview with Om Malik
+AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

@@ -1,0 +1,125 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Walt Mossberg ethics statement bio e-mail RSS Follow @waltmossberg
+Personal Technology > Tablets Sizing Up the New iPad Mini October 30, 2012 at
+6:06 pm PT Tweet Share Print See More Reviews » The iPad has been a true tech
+phenomenon. Apple has sold 100 million of the tablets in just 2½ years, even
+though many people doubted they needed a $500 device that’s in between a
+smartphone and a laptop. No competing model has gained significant traction in
+the market. Still, there’s been a problem with the iPad. Though it’s much
+smaller than a laptop, at just 1.44 pounds, and 0.37 inch thick, it can be too
+heavy to hold for long periods of time, such as when you’re using it to read
+an e-book. It typically takes two hands to hold. Its 9.7-inch screen, while a
+pleasure to use, makes it too large to carry without a thought in many purses.
+So, on Friday, Apple is introducing a much smaller variant, the iPad Mini,
+which works exactly like the original and runs all the same apps — the 275,000
+tablet-optimized programs plus the rest of the over 700,000 apps available for
+the iOS operating system the iPad shares with Apple’s iPhone. The iPad mini
+weighs just less than 11 ounces, and is only 0.28 inch thick. That’s 53
+percent lighter and 23 percent thinner than the standard iPad. It’s 5.3 inches
+wide versus 7.3 inches for its larger sibling. In shrinking the iconic iPad,
+Apple has pulled off an impressive feat. It has managed to create a tablet
+that’s notably thinner and lighter than the leading small competitors with
+7-inch screens, while squeezing in a significantly roomier 7.9-inch display.
+And it has shunned the plastic construction used in its smaller rivals to
+retain the iPad’s sturdier aluminum and glass body. Unlike its two top small
+tablet competitors, the mini has a rear camera. And unlike the Kindle Fire HD,
+it offers optional cellular data connectivity to supplement Wi-Fi. It has very
+good battery life. However, there are two downsides compared with the leading
+7-inch competitors, the Google Nexus 7 and the Amazon Kindle Fire HD. First,
+the iPad mini starts at $329, versus $199 for its two main rivals (though the
+Fire HD costs $214 without annoying ads). Second, it has a lower screen
+resolution — 1024 by 768, versus 1280 by 800 for the other two. I’ve been
+testing the iPad mini for several days and found it does exactly what it
+promises: It brings the iPad experience to a smaller device. Every app that
+ran on my larger iPad ran perfectly on the mini. I was able to use it one-
+handed and hold it for long periods of time without tiring. My only complaints
+were that it’s a tad too wide to fit in most of my pockets, and the screen
+resolution is a big step backwards from the Retina display on the current
+large iPad. But it’s about 30 percent thinner than the leading 7-inch
+competitors, the Google Nexus 7 and the Amazon Kindle Fire 7. And it’s about 9
+percent lighter than the Nexus and about 22 percent lighter than the Fire HD.
+It’s very slightly narrower across than the Fire HD, but about 11 percent
+wider than the Nexus. I found it easy to hold with one hand, though the width
+might be a bit too much for some people with smaller hands. Even though the
+mini is thinner and lighter than the leading 7-inch tablets, its larger screen
+provides about 35 percent more room for viewing content like books and Web
+pages. I found it easy to see and read material on the screen and to tap and
+swipe. My only complaint was that the keyboard, in portrait mode, felt a bit
+cramped, though it was fine in landscape mode. (I found that, unlike with the
+big iPad, it was more common for me to hold the Mini in portrait mode.) In my
+harsh battery test, where I play videos back to back with the screen set at 75
+percent and the Wi-Fi on to collect email, the iPad mini exceeded Apple’s
+battery life claim of 10 hours and lasted 10 hours and 27 minutes. That was
+about an hour better than the Kindle Fire HD, but about 17 minutes less than
+the Nexus 7. I found the cameras did a very good job. I conducted several
+clear video chats using the 1.2 megapixel front camera, and the 5-megapixel
+rear camera produced very good photos and videos. The stereo speakers sounded
+good to my ears. So why did Apple, whose large iPad and new Macs boast
+extremely high screen resolution, choose a lower resolution for the mini? The
+company did so because it says there are only two resolutions that allow its
+tablet apps to run unmodified. One is the extremely high resolution on the
+current large iPad, which would have boosted the cost and lowered the battery
+life of the mini. The other, the one Apple chose for the mini, is the same
+resolution on iPad models consumers have snapped up: The original iPad and the
+iPad 2, which is still on the market at $399. This makes sense, but it means
+that, unlike its closest competitors, the mini can’t play video in high
+definition. Apple insists the device does better than standard definition, if
+you are obtaining the video from its iTunes service, since iTunes scales the
+video for the device, so it will render somewhere between standard definition
+and HD. It says some other services will do the same. But the lack of true HD
+gives the Nexus and Fire HD an advantage for video fans. In my tests, video
+looked just fine, but not as good as on the regular iPad. The cellular models,
+which will start at $459, will be available in a couple of weeks. The $329
+price may well tempt some budget-conscious buyers who have lusted for an iPad.
+But Apple believes the lower size and weight, not the price, are the key
+attractions. If you love the iPad, or want one but just found it too large or
+heavy, the iPad mini is the perfect solution. Write to Walt at
+mossberg@wsj.com. Tagged with Apple, battery, e-reader, HD, HD Video, iOS,
+iPad, iPad mini, iTunes, Siri, tablet, video, Wi-Fi Top Products in Two
+Decades of Tech Reviews December 17, 2013 at 6:04 pm PT Diabetes Data Beamed
+to Your Phone December 10, 2013 at 6:16 pm PT Two Houses, One Cable TV Bill
+December 10, 2013 at 6:14 pm PT Calling Overseas on Wi-Fi December 03, 2013 at
+6:18 pm PT Dell Tablets at Bargain Prices December 03, 2013 at 6:12 pm PT
+Search the Mossberg Archives AllThingsD contains an archive of columns by Walt
+Mossberg and Katherine Boehret from The Wall Street Journal dating back to
+2005. Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Walt+Mossberg Search » Walt Mossberg’s Product Guides Desktop
+PC’s and Laptops The Laptops to Buy Digital Cameras Digital Cameras Improve
+Zooms, HD Function Featured Posts Featured Reviews You Say Goodbye and We Say
+Hello Walt Mossberg and Kara Swisher in Media The NSA and the Corrosion of
+Silicon Valley Michael Dearing in Voices You Won’t Believe All the Crazy
+Hardware the NSA Uses for Spying Arik Hesseldahl in News View all today’s news
+» Uncovering a More Useful Android Lock Screen Bonnie Cha in Product Reviews
+Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product
+Reviews Space Monkey Peer-to-Peer Digital Storage System Offers Better Backup
+Katherine Boehret in The Digital Solution Diabetes Data Beamed to Your Phone
+Walt Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet
+in Need of Apps Bonnie Cha in Product Reviews View all reviews » AllThingsD by
+Writer Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey AllThingsD.com is a Web site devoted to news, analysis and
+opinion on technology, the Internet and media. But it is different from other
+sites in this space. It is a fusion of different media styles, different
+topics, different formats and different sources. Read more » About Us »
+Contact Us » Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms
+of Service » Your Ad Choices » Advertise With Us » Send a Tip » Daily
+Headlines Email » Follow AllThingsD Your Way » Featuring the most influential
+figures in technology, unscriptedand upfront. More » Conferences: D: All
+Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us on
+Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

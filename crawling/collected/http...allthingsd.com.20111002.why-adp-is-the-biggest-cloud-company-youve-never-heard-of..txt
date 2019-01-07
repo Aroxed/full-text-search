@@ -1,0 +1,133 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl Why ADP Is the Biggest Cloud Company You’ve
+Never Heard Of October 2, 2011 at 6:00 pm PT Tweet Share Print Take a look at
+your last paycheck. If you work in the U.S., there’s a one in six chance that
+somewhere on it, or on the stub, you’ll find the logo of a company you’ve
+probably never heard of, never given much thought to, but which plays a
+significant role in the day-to-day lives of many companies around the world.
+It’s called ADP, and it’s a $10 billion (fiscal 2011 sales) outfit that
+processes the paychecks received last year by some 33 million people around
+the world — and which processed some $1.2 trillion in payments to workers in
+the U.S. And it does almost all of it in the cloud. Long before companies like
+Salesforce.com and Amazon popularized “the cloud” as the important technology
+force shaping business, before we even had the phrase “software as a service,”
+ADP was selling its clients on a service that in hindsight sounds very
+“cloudy.” Rather than shoulder the cost associated with running a payroll on
+their own, companies large and small would hire ADP to take that business
+function on for them, on a contract basis. “If you go back enough years, we
+were known as a ‘service bureau,'” says ADP’s CIO Mike Capone. “It was all run
+off a mainframe. Payrolls would come in on a Monday or a Tuesday, and
+paychecks would go out on a Friday. That was the model.” And though for a time
+it sold some traditional software, by early last decade ADP starting pushing
+its customers toward the Internet, with no software to install or manage on-
+site. It was so logical that no one really gave it any thought, Capone says.
+In the same way it made sense to outsource payroll to a third party, it also
+made sense to do it without selling any software, but rather let customers run
+it via the Web. “Back then, it was just obvious that this was the way to do
+it,” Capone says. “And so we just did it this way.” And so it has been for
+years. About half of ADP’s revenue comes from payroll services; the other half
+from other things — benefits, human resources, time and attendance management,
+taxes — that any business with more than, say, two employees, needs to varying
+degrees. And ADP’s 570,000 clients run the gamut from tiny mom-and-pops to
+huge global companies, and more than 200,000 are cloud-based clients. Among
+ADP’s bigger customers are giants like Sodexo, Alcoa and Swiss Re. Its rivals
+run the gamut, too. There’s Paychex in the payroll business; SuccessFactors
+and Workday in various bits of the human capital management business. Lawson
+and SAP and even Oracle’s PeopleSoft unit overlap with other parts of its
+business. However, on Monday, ADP is doubling down on the cloud with what it’s
+describing as a “big bet” product that brings its entire stack of service
+offerings into one. The company has dubbed it “Vantage,” and it is essentially
+aimed at unifying payroll, recruiting, talent management, benefits and a batch
+of other things that businesses large and small need on a day-to-day basis,
+into a single cloud service. The company says it spent $600 million and 18
+months researching and building it, and will announce it at a conference in
+Las Vegas. I talked with Don Weinstein, a senior vice president at ADP’s
+headquarters in Roseland, N.J., recently. He told me that often companies get
+all these services from different vendors. The result is that data from one
+application ends up being trapped, because there’s no easy to way to move it
+into a related application from another vendor. The result is a messy kludge
+of in-house combinations that have been integrated, often badly. And all these
+processes have costs. A study by PricewaterhouseCoopers found that large
+companies spend an average $1,400 per employee per year on things like
+payroll, workforce administration, time and attendance, and health benefits,
+and at midsized companies of between 100 and 1,000 employees, the costs reach
+nearly $2,000 per employee per year. They’re also the kind of processes that
+any self-respecting CIO will want to make more efficient or less costly. The
+aim with Vantage, Weinstein says, is to give businesses a single vendor and a
+single stack of services they can use with all these processes, and with the
+data shared easily across applications. The result, he hopes, is that
+businesses will like what they see and start using more of ADP’s stuff, and
+add on other services over time. “We’re expecting to sell a broader array of
+product,” he says. “Half our business still comes just from payroll. But our
+intent is to offer this one integrated solution, and win a bigger share of
+their wallet.” I also saw a demo, and while it’s not exactly as exciting as
+seeing the demo of the latest iPhone, you can see how it might make the lives
+of people in the back office of many companies easier. As with any SaaS
+application, all the data is stored in a single database, and everything runs
+through a common browser. Years of analysis of business processes has given it
+some idea of how things tend to flow in companies, and so it suggests logical
+next steps in every process. It works along the same lines that Amazon does
+when it suggests books you might like based on the last one you bought or
+looked at. If you just added a new employee — say, in the job of a janitor —
+your next logical step may be to order him a uniform, so the system will
+suggest you do so, and take you to the process for doing that. Add a new sales
+exec, and you are guided to enable his or her access to company sales and
+performance tools. Not exactly riveting stuff, but if you run a company, it’s
+all very necessary. Necessary enough that analysts covering ADP’s stock say it
+will grow its annual sales to about $11.4 billion. That’s a serious cloud.
+Tagged with: ADP, benefits, benefits administration, cloud computing, cloud
+computing feature, compensation management, enterprise, enterprise software,
+human capital management, human resources, paychecks, paychex, payroll,
+performance management, recruitment, Salesforce.com, Sodexho Group, succession
+planning, talent-management, time and labor management Apple Denies Working
+with NSA on iPhone Backdoor December 31, 2013 at 8:49 am PT You Won’t Believe
+All the Crazy Hardware the NSA Uses for Spying December 30, 2013 at 12:15 pm
+PT HP Is Negotiating to Settle Bribery Charges December 30, 2013 at 8:45 am PT
+CIOs Brand Enterprise Social Tools as Most Overhyped Technology of the Year
+December 30, 2013 at 3:39 am PT Malware Attacks by Syrian Pro-Government
+Hackers Are on the Rise December 27, 2013 at 1:27 pm PT Latest Video View all
+videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » I think the NSA
+has a job to do and we need the NSA. But as (physicist) Robert Oppenheimer
+said, “When you see something that is technically sweet, you go ahead and do
+it and argue about what to do about it only after you’ve had your technical
+success. That is the way it was with the atomic bomb.”— Phil Zimmerman, PGP
+inventor and Silent Circle co-founder, in an interview with Om Malik
+AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski Katherine
+Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike
+Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted to news,
+analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

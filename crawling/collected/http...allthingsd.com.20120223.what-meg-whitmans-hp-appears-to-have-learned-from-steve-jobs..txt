@@ -1,0 +1,118 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Arik Hesseldahl ethics statement bio e-mail RSS Follow @ahess247
+Recent Posts by Arik Hesseldahl What HP’s Meg Whitman Appears to Have Learned
+From Steve Jobs February 23, 2012 at 2:39 pm PT Tweet Share Print Among the
+many comments that Hewlett-Packard CEO Meg Whitman made during yesterday’s
+conference call with analysts, one in particular stood out to me. Here it is,
+emphasis mine. First is fixing our execution, ensuring we have the right
+systems, processes and people. This includes things like optimizing our supply
+chain, including SKU reduction, to remove unnecessary complexity from the way
+we design, manufacture and deliver products; upgrading our sales tools and
+systems to respond more quickly to customers; and increasing the productivity
+of our sales force by rationalizing our go-to-market. For those who don’t
+know, a SKU — pronounced “skew” — refers to something called a stock-keeping
+unit. It’s business shorthand for a particular model or type of product. A PC
+with a certain processor, certain amount of memory and certain capacity hard
+drive, and in a particular color, is a SKU. The same goes for models of
+printers, smartphones, or different versions of products sold into different
+distribution channels or with different options inside the box. What Whitman
+is saying is that HP is producing too many different types and configurations
+of products, and this is injecting a lot of expensive operational complexity
+that might be getting in the way. My ears perked up at this during the
+conference call, and when she repeated the phrase on CNBC today (see video
+below). It took me back in time to — of all things — the very first Steve Jobs
+MacWorld keynote I ever attended. The year was 1998, the MacWorld Expo that
+year was in New York and I had begged my boss at the time to let me go. Apple
+was in those days a company that many media organizations could afford to
+ignore because its relevance was limited to people who used Macs, which
+included me. This was the year the first iMac was about to explode on the
+scene, and indeed, Jobs talked in great detail about it during this keynote.
+But not before he set about explaining the strategic problems at Apple he had
+sought to solve during the preceding several months. One of them was the fact
+that Apple made a comparatively dizzying array of computers, nearly all of
+them labeled with numbers that had no clear meaning to anyone. During his talk
+(part of which I’ve embedded in a grainy video below), Jobs wiped away the
+complex list in favor of a four-square grid with four kinds of products.
+Consumer desktops, consumer notebooks, pro desktops and notebooks. For a young
+business reporter just starting out, which I was, the clarity of Jobs’s
+argument was a revelation: A complex product offering can cause problems both
+for the customer and the company selling the goods. First, it muddies the
+waters for customers, especially when two or more versions of a product suit a
+particular need. Second, it adds operational cost and complexity. One product
+— say, a printer — may be manufactured in just one way, but then customized in
+a mind-numbing set of different variations for different lines of business.
+There may be different accessories in the box or different service options, or
+whatever. Each of these is a SKU all its own that has be tracked and marketed
+and sold and supported, adding costs along the way. Being the biggest tech
+company by revenue, working in five major business segments and operating in
+166 countries adds plenty of complexity by itself. Why make it more complex
+than it has to be? Clarity and simplicity work. Let’s compare Apple and HP on
+their choice of computers. Shop for a Mac today, and the four-square grid that
+Jobs showed in 1998 still stands, mostly: There are two kinds of notebooks,
+and they vary by screen size, and three kinds of desktop machine each aimed at
+unmistakably different needs, for a total of six. Of course there are
+variations within them for memory and hard drive and screen size, but you get
+my point. On HP.com I see six different notebooks for “everyday computing,”
+five ultra-mobile machines, six “high performance” notebooks and four machines
+sold under its “Envy” brand. I count 21 different notebook options, and I
+haven’t even looked at the desktop models yet. Does anyone really need that
+many choices? A sense of clarity is good for business, and it’s an important
+lesson that many companies of a certain size have to re-learn from time to
+time. When Jobs learned it at Apple in 1998, its product complexity was
+nowhere near the level that Whitman now faces at HP. But we all know how
+keeping it simple worked out for Apple. And while the problem is probably an
+order of magnitude more complicated at HP, the fundamental business lesson
+still stands: A stripped-down product portfolio could work for HP, too. Here’s
+part of the Steve Jobs keynote I mentioned above. This is Part 2, and he goes
+on to describe the simplified product strategy in the the first few minutes of
+part three here. And here’s Whitman’s appearance from CNBC earlier today.
+Tagged with: Apple, Hewlett-Packard, HP, iMac, Keynote, MacWorld, Meg Whitman,
+PowerMac G3, Steve Jobs Apple Denies Working with NSA on iPhone Backdoor
+December 31, 2013 at 8:49 am PT You Won’t Believe All the Crazy Hardware the
+NSA Uses for Spying December 30, 2013 at 12:15 pm PT HP Is Negotiating to
+Settle Bribery Charges December 30, 2013 at 8:45 am PT CIOs Brand Enterprise
+Social Tools as Most Overhyped Technology of the Year December 30, 2013 at
+3:39 am PT Malware Attacks by Syrian Pro-Government Hackers Are on the Rise
+December 27, 2013 at 1:27 pm PT Latest Video View all videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128
+Search » Featured Posts Featured Reviews You Say Goodbye and We Say Hello Walt
+Mossberg and Kara Swisher in Media The NSA and the Corrosion of Silicon Valley
+Michael Dearing in Voices You Won’t Believe All the Crazy Hardware the NSA
+Uses for Spying Arik Hesseldahl in News View all today’s news » Uncovering a
+More Useful Android Lock Screen Bonnie Cha in Product Reviews Lenovo’s Bendy
+Yoga 2 Laptop Makes All the Right Moves Lauren Goode in Product Reviews Space
+Monkey Peer-to-Peer Digital Storage System Offers Better Backup Katherine
+Boehret in The Digital Solution Diabetes Data Beamed to Your Phone Walt
+Mossberg in Personal Technology Nokia Lumia 2520: A Solid Windows Tablet in
+Need of Apps Bonnie Cha in Product Reviews View all reviews » The problem with
+the Billionaire Savior phase of the newspaper collapse has always been that
+billionaires don’t tend to like the kind of authority-questioning journalism
+that upsets the status quo.— Ryan Chittum, writing in the Columbia Journalism
+Review about the promise of Pierre Omidyar’s new media venture with Glenn
+Greenwald AllThingsD by Writer Walt Mossberg Kara Swisher John Paczkowski
+Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren
+Goode Mike Isaac Bonnie Cha Jason Del Rey AllThingsD.com is a Web site devoted
+to news, analysis and opinion on technology, the Internet and media. But it is
+different from other sites in this space. It is a fusion of different media
+styles, different topics, different formats and different sources. Read more »
+About Us » Contact Us » Comments Policy » Cookies Policy » Privacy Policy »
+FAQ » Terms of Service » Your Ad Choices » Advertise With Us » Send a Tip »
+Daily Headlines Email » Follow AllThingsD Your Way » Featuring the most
+influential figures in technology, unscriptedand upfront. More » Conferences:
+D: All Things Digital. » D: Dive Into Media » D: Dive Into Mobile » Follow us
+on Twitter: Select Account @allthingsd (All Things Digital) @ATDapple (Apple)
+@ATDgoogle (Google) @ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews
+(Reviews) @waltmossberg (Walt Mossberg) @karaswisher (Kara Swisher)
+@JohnPaczkowski (John Paczkowski) @kabster728 (Katherine Boehret) @pkafka
+(Peter Kafka) @inafried (Ina Fried) @LizGannes (Liz Gannes) @ahess247 (Arik
+Hesseldahl) @LaurenGoode (Lauren Goode) @MikeIsaac (Mike Isaac) @BonnieSCha
+(Bonnie Cha) @DelRey (Jason Del Rey) RSS Feeds Select Feed All Feeds News
+Reviews Mobile Media Social Enterprise Commerce Voices Personal Technology
+Mossberg’s Mailbox The Digital Solution Walt Mossberg Kara Swisher John
+Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes Arik Hesseldahl
+Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey © 2005-2019 Dow Jones &
+Company Inc. All Rights Reserved. Mobile Version

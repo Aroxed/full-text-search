@@ -1,0 +1,76 @@
+WSJ WSJ Live Live Realtor Realtor Mansion Global Mansion Global Barron's
+Barron's WSJ+ WSJ+ More BigCharts Financial News Professor Journal Student
+Journal Virtual Stock Exchange WSJ Classifieds WSJ Classroom WSJ Wine
+AllThingsD News Reviews Mobile Media Social Enterprise Commerce Voices
+Conferences Video Follow Us View by Writer Trending — You Say Goodbye and We
+Say Hello Ina Fried ethics statement bio e-mail RSS Follow @inafried Recent
+Posts by Ina Fried Bringing Inexpensive Mobile Access to Researchers in
+Antarctica December 30, 2013 at 5:30 am PT Tweet Share Print While cellphone
+networks have managed to cover large swaths of the six most-populated
+continents, making a call from Antarctica isn’t so easy. Now, though,
+researchers in parts of Antarctica have a mobile communication option that
+goes beyond pricey satellite phones. A new system from Range Networks allows
+researchers to use ordinary cellphones to connect with one another, and even
+to the rest of the world, thanks to a satellite connection located at the base
+station. The system replaces what essentially were walkie-talkies that were
+used by researchers when away from their desks. And, unlike a satellite-only
+approach, the Range Networks system keeps the researchers connected to one
+another, regardless of whether there is a satellite signal. “If there is any
+loss of connectivity to the outside world, the group can still talk to one
+another,” said Jacob Winkler, who heads sales and business development for
+Range Networks. The system, which can handle 400 mobile phones (along with 800
+desktop-based IP phones), is also designed to handle data traffic from various
+sensors. While Antarctica presents some unique challenges, Range Networks is
+using basically the same approach it has gone with to connect other remote
+corners of the globe, including Oaxaca, Mexico; Papua, Indonesia; and parts of
+southern Zambia. Among the hallmarks of the Range Networks approach is its use
+of off-the-shelf GSM cellphones and the open-source software known as OpenBTS
+that runs on its base stations. The Antarctic project began roughly a year ago
+on Macquarie Island, with plans now in place to expand to the Antarctic
+mainland as well as to those aboard a steel-hulled research vessel. Tagged
+with: Antarctic, Antarctica, ATD Facebook, cellphones, GSM, OpenBTS, PBX,
+Range Networks, VOIP Another Longtime Windows Exec Heads for the Exit as 2013
+Draws to a Close December 31, 2013 at 1:03 pm PT Veteran Microsoft Engineer
+Jon DeVaan Leaving After Almost 30 Years December 30, 2013 at 1:32 pm PT
+BlackBerry’s John Chen on What He Is Doing to Shake Up the Phone Maker
+December 30, 2013 at 10:40 am PT Investors Flock to Twitter, Like Facebook, as
+Year Draws to a Close December 24, 2013 at 12:29 pm PT Latest Video View all
+videos » api-
+video/find_all_videos.asp&fields;=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count;=4&doctype;=128&type;=allthingsd-
+section&query;=Mobilized Search » Featured Posts Featured Reviews You Say
+Goodbye and We Say Hello Walt Mossberg and Kara Swisher in Media The NSA and
+the Corrosion of Silicon Valley Michael Dearing in Voices You Won’t Believe
+All the Crazy Hardware the NSA Uses for Spying Arik Hesseldahl in News View
+all today’s news » Uncovering a More Useful Android Lock Screen Bonnie Cha in
+Product Reviews Lenovo’s Bendy Yoga 2 Laptop Makes All the Right Moves Lauren
+Goode in Product Reviews Space Monkey Peer-to-Peer Digital Storage System
+Offers Better Backup Katherine Boehret in The Digital Solution Diabetes Data
+Beamed to Your Phone Walt Mossberg in Personal Technology Nokia Lumia 2520: A
+Solid Windows Tablet in Need of Apps Bonnie Cha in Product Reviews View all
+reviews » When AllThingsD began, we told readers we were aiming to present a
+fusion of new-media timeliness and energy with old-media standards for quality
+and ethics. And we hope you agree that we’ve done that.— Kara Swisher and Walt
+Mossberg, in their farewell D post AllThingsD by Writer Walt Mossberg Kara
+Swisher John Paczkowski Katherine Boehret Peter Kafka Ina Fried Liz Gannes
+Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha Jason Del Rey
+AllThingsD.com is a Web site devoted to news, analysis and opinion on
+technology, the Internet and media. But it is different from other sites in
+this space. It is a fusion of different media styles, different topics,
+different formats and different sources. Read more » About Us » Contact Us »
+Comments Policy » Cookies Policy » Privacy Policy » FAQ » Terms of Service »
+Your Ad Choices » Advertise With Us » Send a Tip » Daily Headlines Email »
+Follow AllThingsD Your Way » Featuring the most influential figures in
+technology, unscriptedand upfront. More » Conferences: D: All Things Digital.
+» D: Dive Into Media » D: Dive Into Mobile » Follow us on Twitter: Select
+Account @allthingsd (All Things Digital) @ATDapple (Apple) @ATDgoogle (Google)
+@ATDmedia (Media) @ATDmobile (Mobile) @ATDreviews (Reviews) @waltmossberg
+(Walt Mossberg) @karaswisher (Kara Swisher) @JohnPaczkowski (John Paczkowski)
+@kabster728 (Katherine Boehret) @pkafka (Peter Kafka) @inafried (Ina Fried)
+@LizGannes (Liz Gannes) @ahess247 (Arik Hesseldahl) @LaurenGoode (Lauren
+Goode) @MikeIsaac (Mike Isaac) @BonnieSCha (Bonnie Cha) @DelRey (Jason Del
+Rey) RSS Feeds Select Feed All Feeds News Reviews Mobile Media Social
+Enterprise Commerce Voices Personal Technology Mossberg’s Mailbox The Digital
+Solution Walt Mossberg Kara Swisher John Paczkowski Katherine Boehret Peter
+Kafka Ina Fried Liz Gannes Arik Hesseldahl Lauren Goode Mike Isaac Bonnie Cha
+Jason Del Rey © 2005-2019 Dow Jones & Company Inc. All Rights Reserved. Mobile
+Version
