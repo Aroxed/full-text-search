@@ -64,9 +64,10 @@ NEWSPIDER_MODULE = 'crawling.spiders'
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'crawling.pipelines.CrawlingPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    'crawling.pipelines.CleaningHTMLPipeline': 100,
+    'crawling.pipelines.IndexingPipeline': 200,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -91,3 +92,8 @@ NEWSPIDER_MODULE = 'crawling.spiders'
 ROBOTSTXT_OBEY=False
 DEPTH_LIMIT = 50
 CONCURRENT_REQUESTS = 100
+EXTENSIONS = {
+    'scrapy.extensions.corestats.CoreStats': 500,
+    'scrapy.extensions.telnet.TelnetConsole': 500,
+}
+CLOSESPIDER_PAGECOUNT = 30
