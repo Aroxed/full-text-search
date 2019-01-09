@@ -5,8 +5,8 @@ import pandas as pd
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 
-from crawling.items import CrawlingItem
-from indexing import Indexer
+from search_engine.crawling.crawling.items import CrawlingItem
+from search_engine.indexing import Indexer
 
 
 class SitesSpider(CrawlSpider):

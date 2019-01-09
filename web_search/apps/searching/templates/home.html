@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Home.{% endblock %}
+
+{% block page_content %}
+<div class="jumbotron">
+  <h1 class="display-4">Welcome to the Full Text Search Project!</h1>
+  <p class="lead">Using this project you can crawl, index, rank and search internet sites as well as local texts.</p>
+  <hr class="my-4">
+  <p>It'll use some machine learning advance technologies coming soon...</p>
+</div>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Statistics</th>
+      <th scope="col">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Total document count</td>
+      <td>{{ total_doc_count }}</td>
+    </tr>
+    <tr>
+      <td>Fields in the index</td>
+      <td>{{ fields_in_index }}</td>
+    </tr>
+    <tr>
+      <td>Word count</td>
+      <td>{{ word_count }}</td>
+    </tr>
+  </tbody>
+</table>
+{% endblock %}

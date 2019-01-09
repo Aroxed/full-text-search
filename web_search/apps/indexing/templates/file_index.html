@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+{% block title %}Indexing.{% endblock %}
+
+{% block page_content %}
+<form method="post" enctype="multipart/form-data">{% csrf_token %}
+    <div class="form-row m-3">
+       {{ form|crispy }}
+        <div class="form-row m-3">
+            <button type="submit" id="start_indexing" class="btn btn-success">Start Indexing</button>
+        </div>
+    </div>
+</form>
+<div class="form-row m-3">
+    <button id="clean_indexing" onclick="document.location='{% url 'indexing:file_index_clean' %}'" class="btn btn-danger">Clean Index</button>
+</div>
+
+{% endblock %}

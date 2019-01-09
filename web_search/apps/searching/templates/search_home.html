@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Search Home.{% endblock %}
+
+{% block page_content %}
+
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Title</th>
+      <th scope="col">Url</th>
+      <th scope="col">Body</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for doc in docs %}
+    <tr>
+      <td>{{ forloop.counter }}</td>
+      <td>{{ doc.title }}</td>
+      <td>{{ doc.url }}</td>
+      <td>{{ doc.body }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
