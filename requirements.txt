@@ -7,6 +7,9 @@ chardet==3.0.4
 constantly==15.1.0
 cryptography==2.4.2
 cssselect==1.0.3
+Django==2.1.5
+django-crispy-forms==1.7.2
+django-npm==1.0.0
 html2text==2018.1.9
 hyperlink==18.0.0
 idna==2.8

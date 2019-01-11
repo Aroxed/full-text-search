@@ -14,16 +14,22 @@ class Indexer:
         self.source = source if source == 'file' else 'internet'
         self.index_dir = "%s/%s_%s" % (CURRENT_DIR, 'indexdir', self.source)
         self.schema = Schema(title=TEXT(phrase=True, sortable=True, stored=True,
-                                   field_boost=2.0, spelling=True, analyzer=StemmingAnalyzer()), url=ID(stored=True),
-                        body=TEXT(spelling=True, stored=True, analyzer=StemmingAnalyzer()))
+                                        field_boost=2.0, spelling=True, analyzer=StemmingAnalyzer()),
+                             url=ID(stored=True),
+                             body=TEXT(spelling=True, stored=True, analyzer=StemmingAnalyzer()))
         self.writer = None
         self.ix = None
         self.create_or_open_index()
 
-    def add_document(self, doc):
+    def add_document(self, doc, commit=True):
         writer = self.ix.writer()
         writer.add_document(title=doc['title'], url=doc['url'], body=doc['body'])
-        writer.commit(optimize=True)
+        if commit:
+            writer.commit()
+
+    def commit(self):
+        writer = self.ix.writer()
+        writer.commit()
 
     def get_document_count(self):
         return self.ix.searcher().doc_count_all()
@@ -34,17 +40,22 @@ class Indexer:
     def get_word_count(self):
         return len(list(self.ix.searcher().lexicon("body")))
 
+    def get_doc_list(self, page_number, pagelen=20):
+        result = []
+        for i, doc in enumerate(self.ix.searcher().documents()):
+            if i in range((page_number - 1) * pagelen, (page_number) * pagelen):
+                result.append({'title': doc['title'], 'url': doc['url'], 'body': doc['body'][:100]})
+        return result
+
     def search(self, query_str, page_number):
-        if not query_str:
-            return self.ix.searcher().documents()
         query = MultifieldParser(["body", "title"], self.ix.schema).parse(query_str)
         results = self.ix.searcher().search_page(query, page_number, pagelen=20)
         return results
-        #for result in results:
+        # for result in results:
         #    print(result['title'], str(result.score), result.highlights("body"))
 
     def clean_index(self):
-        #self.writer = self.ix.writer()
+        # self.writer = self.ix.writer()
         if index.exists_in(self.index_dir):
             self.ix = create_in(self.index_dir, self.schema)
 

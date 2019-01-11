@@ -20,11 +20,28 @@ class FileIndexView(FormView):
         return s[0].decode('utf-8')
 
     def form_valid(self, form):
-        the_file = self.request.FILES['text_file'] if self.request.FILES['text_file'] else None
-        if the_file:
-            file_as_string = self.file_to_string(the_file)
-            doc = {'body': file_as_string, 'url': '', 'title': ''}
-            Indexer('file').add_document(doc)
+        the_files = []
+        has_errors = False
+        indexer = Indexer('file')
+        if 'text_file' in self.request.FILES:
+            the_files = [self.request.FILES['text_file']]
+        if 'text_folder' in self.request.FILES:
+            the_files = self.request.FILES.getlist('text_folder')
+
+        for the_file in the_files:
+            try:
+                file_as_string = self.file_to_string(the_file)
+            except Exception:
+                has_errors = True
+                messages.error(self.request, "File '%s' is not valid text file" % the_file.name)
+                continue
+            doc = {'body': file_as_string, 'url': the_file.name, 'title': the_file.name}
+            indexer.add_document(doc, commit=False)
+
+        indexer.commit()
+
+
+        if not has_errors:
             messages.success(self.request, "Index was cleaned successfully")
         return super().form_valid(form)
 
