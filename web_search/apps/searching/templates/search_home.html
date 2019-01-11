@@ -1,28 +1,41 @@
 {% extends 'base.html' %}
 {% load static %}
+{% load crispy_forms_tags %}
 {% block title %}Search Home.{% endblock %}
 
 {% block page_content %}
 
+  <form>
+    <div class="row">
+      <div class="col-6 m-2 mx-auto">
+        {% crispy form %}
+      </div>
+    </div>
+  </form>
 
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">Title</th>
-      <th scope="col">Url</th>
-      <th scope="col">Body</th>
-    </tr>
-  </thead>
-  <tbody>
   {% for doc in docs %}
-    <tr>
-      <td>{{ forloop.counter }}</td>
-      <td>{{ doc.title }}</td>
-      <td>{{ doc.url }}</td>
-      <td>{{ doc.body }}</td>
-    </tr>
+  <div class="row w-100 m-2">
+      <div class="col w-100">
+        <h5><a target="_blank" href="{% url 'searching:detail_doc' doc.url %}">{{ doc.title }}</a></h5>
+        <p>{{ doc.body|safe }}</p>
+      </div>
+  </div>
   {% endfor %}
-  </tbody>
-</table>
+  {% if is_paginated %}
+          <div class="pagination m-3">
+              <span class="page-links">
+                  {% if page_obj.has_previous %}
+                      <a href="?{{ search_request }}&page={{ page_obj.previous_page_number }}">previous</a>
+                  {% endif %}
+                  <span class="page-current">
+                      Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}
+                  </span>
+                  {% if page_obj.has_next %}
+                      <a href="?{{ search_request }}&page={{ page_obj.next_page_number }}">next</a>
+                  {% endif %}
+              </span>
+          </div>
+      {% endif %}
+
+
 {% endblock %}

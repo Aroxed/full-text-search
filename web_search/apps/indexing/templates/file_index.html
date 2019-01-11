@@ -13,7 +13,7 @@
     </div>
 </form>
 <div class="form-row m-3">
-    <button id="clean_indexing" onclick="document.location='{% url 'indexing:file_index_clean' %}'" class="btn btn-danger">Clean Index</button>
+    <button id="clean_indexing" onclick="if (confirm('Are you sure to purge the index?')) document.location='{% url 'indexing:file_index_clean' %}'" class="btn btn-danger">Clean Index</button>
 </div>
 
 {% endblock %}

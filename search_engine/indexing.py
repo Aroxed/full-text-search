@@ -31,6 +31,10 @@ class Indexer:
         writer = self.ix.writer()
         writer.commit()
 
+    def get_doc(self, url):
+        query = MultifieldParser(["url"], self.ix.schema).parse(url)
+        return self.ix.searcher().search(query)
+
     def get_document_count(self):
         return self.ix.searcher().doc_count_all()
 
@@ -44,15 +48,16 @@ class Indexer:
         result = []
         for i, doc in enumerate(self.ix.searcher().documents()):
             if i in range((page_number - 1) * pagelen, (page_number) * pagelen):
-                result.append({'title': doc['title'], 'url': doc['url'], 'body': doc['body'][:100]})
+                result.append({'index': i, 'title': doc['title'], 'url': doc['url'], 'body': doc['body'][:100]})
         return result
 
     def search(self, query_str, page_number):
         query = MultifieldParser(["body", "title"], self.ix.schema).parse(query_str)
-        results = self.ix.searcher().search_page(query, page_number, pagelen=20)
-        return results
-        # for result in results:
-        #    print(result['title'], str(result.score), result.highlights("body"))
+        docs = self.ix.searcher().search_page(query, page_number, pagelen=20)
+        result = []
+        for doc in docs:
+            result.append({'title': doc['title'], 'url': doc['url'], 'body': doc.highlights("body")})
+        return result
 
     def clean_index(self):
         # self.writer = self.ix.writer()
