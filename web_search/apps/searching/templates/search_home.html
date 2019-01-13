@@ -16,7 +16,7 @@
   {% for doc in docs %}
   <div class="row w-100 m-2">
       <div class="col w-100">
-        <h5><a target="_blank" href="{% url 'searching:detail_doc' doc.url %}">{{ doc.title }}</a></h5>
+        <h5><a target="_blank" href="{% url 'searching:detail_doc' doc.url query %}">{{ doc.title }}</a></h5>
         <p>{{ doc.body|safe }}</p>
       </div>
   </div>

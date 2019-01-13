@@ -1,8 +1,9 @@
 import os
+
 from whoosh import index
+from whoosh.analysis import StemmingAnalyzer
 from whoosh.fields import Schema, TEXT, ID
 from whoosh.index import create_in
-from whoosh.analysis import StemmingAnalyzer
 from whoosh.qparser import MultifieldParser
 
 

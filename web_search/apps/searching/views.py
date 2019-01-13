@@ -4,7 +4,9 @@ from django.views.generic import ListView, DetailView
 from search_engine.indexing import Indexer
 from .forms import SearchForm
 from django.urls import reverse_lazy
-
+from whoosh.highlight import highlight
+from whoosh.analysis import StemmingAnalyzer, StandardAnalyzer
+from whoosh.highlight import Fragmenter, HtmlFormatter, WholeFragmenter
 
 class HomeView(TemplateView):
     template_name = "home.html"
@@ -29,6 +31,7 @@ class SearchHomeView(ListView):
         context['form'] = SearchForm(self.query)
         # this parameter goes for the right pagination
         context['search_request'] = ('query=' + self.query)
+        context['query'] = self.query or ' '
         return context
 
     def get(self, request, *args, **kwargs):
@@ -48,5 +51,10 @@ class DocDetailView(DetailView):
 
     def get_object(self):
         indexer = Indexer('file')
+        query = self.request.resolver_match.kwargs['query']
         docs = indexer.get_doc(url=self.request.resolver_match.kwargs['url'])
-        return docs[0] if len(docs) > 0 else {}
+        if not len(docs):
+            return {}
+        query_list = query.split(' ')
+        excerpts = highlight(docs[0]['body'], set(query_list), StandardAnalyzer(), WholeFragmenter(), HtmlFormatter())
+        return {'body': excerpts, 'title': docs[0]['title']}

@@ -5,10 +5,11 @@
 
 {% block page_content %}
 
-  <div class="row w-100 m-2">
+  <div class="row w-100 m-4">
       <div class="col w-100">
         <h5>{{ object.title }}</h5>
-        <p>{{ object.body|safe }}</p>
+          <hr/>
+        <pre>{{ object.body|safe }}</pre>
       </div>
   </div>
 
